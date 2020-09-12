@@ -1,0 +1,3698 @@
+ABO blood groups Blood group antibodies (A, B,
+AB, O) that may destroy red blood cells bearing the antigen
+to which they are directed; also called “agglutinins.”
+These red-cell antigens are the phenotypic expression of
+inherited genes, and the frequency of the four main
+groups varies in populations throughout the world.
+The antigens of the ABO system are an integral part of
+the red-cell membrane as well as all cells throughout the
+body and are the most important in transfusion practice.
+See also LANDSTEINER, KARL.
+abortion The termination of gestation before the
+fetus can survive on its own.
+abscisic acid (ABA) A plant hormone (C15H20O4)
+and weak acid that generally acts to inhibit growth,
+induces dormancy, and helps the plant tolerate stressful
+conditions by closing stomata. Abscisic acid was
+named based on a belief that the hormone caused the
+abscission (shedding) of leaves from deciduous trees
+during the fall.
+At times when a plant needs to slow down growth
+and assume a resting (dormant) stage, abscisic acid is
+produced in the terminal bud, which slows down
+growth and directs the leaf primordia to develop scales
+that protect the dormant bud during winter. Because
+the hormone also inhibits cell division in the vascular
+cambium, both primary and secondary growth are put
+on hold during winter.
+This hormone also acts as a stress agent that helps
+a plant deal with adverse conditions. For example,
+ABA accumulates on leaves and causes stomata to
+close, reducing the loss of water when a plant begins to
+wilt.
+In 1963, abscisic acid was first identified and characterized
+by Frederick Addicott and colleagues. In
+1965, the chemical structure of ABA was defined, and
+in 1967, it was formally called abscisic acid.
+absorption spectrum Different pigments absorb
+light of different wavelengths. For example, chlorophyll
+effectively absorbs blue and red. The absorption
+spectrum of a pigment is produced by examining,
+through the pigment and an instrument called a spectroscope,
+a continuous spectrum of radiation. The
+energies removed from the continuous spectrum by the
+absorbing pigment show up as black lines or bands and
+can be graphed.
+abyssal zone The portion of the ocean floor below
+1,000–2,000 m (3,281–6,561 ft.), where light does not
+penetrate and where temperatures are cold and pressures
+are intense. It lies seaward of the continental
+slope and covers approximately 75 percent of the
+ocean floor. The temperature does not rise above 4°C.
+Because oxygen is present, a diverse community of
+invertebrates and fishes do exist, and some have adapted
+to harsh environments such as hydrothermal vents
+1
+Aof volcanic creation. Food-producing organisms at this
+depth are chemoautotrophic prokaryotes and not photosynthetic
+producers.
+See also OCEANIC ZONE.
+acclimatization Acclimatization is the progressive
+physiological adjustment or adaptation by an organism
+to a change in an environmental factor, such as
+temperature, or in conditions that would reduce the
+amount of oxygen to its cells. This adjustment can
+take place immediately or over a period of days or
+weeks. For example, the human body produces more
+erythrocytes (red blood cells) in response to low partial
+pressures of oxygen at high altitudes; short-term
+responses include shivering or sweating in warmblooded
+animals.
+accommodation The automatic reflex adjustment
+that allows the focal length of the lens of an eye to
+change to focus on an object. The lens shape, more
+convex for near objects and less convex for distant
+objects, is caused by ciliary muscles acting on the elastic
+property of the lens.
+acetylcholine (ACh) One of the most common
+neurotransmitters of the vertebrate nervous system,
+ACh is a chemical (CH3COOCH2CH2N+(CH3)3) that
+transmits impulses between the ends of two adjacent
+nerves or neuromuscular junctions. Released by nerve
+stimulation (exciting or inhibiting), it is confined largely
+to the parasympathetic nervous system, where it diffuses
+across the gap of the synapse and stimulates the
+adjacent nerve or muscle fiber. It rapidly becomes inactive
+by the enzyme cholinesterase, allowing further
+impulses to occur.
+acetyl CoA A compound formed in the mitochondria
+when the thiol group (–SH) of coenzyme A combines
+with an acetyl group (CH3CO–). It is important
+in the Krebs cycle in cellular respiration and plays a
+role in the synthesis and oxidation of fatty acids.
+Fritz Albert Lipmann (1899–1986), a biochemist,
+is responsible for discovering coenzyme A and cofactor
+A, or CoA (A stands for acetylation), in 1947. He
+shared the 1953 Nobel Prize in physiology or medicine
+with HANS KREBS.
+See also KREBS CYCLE.
+achiral See CHIRALITY.
+acid A chemical capable of donating a HYDRON (proton,
+H+) or capable of forming a covalent bond with
+an electron pair. An acid increases the hydrogen ion
+concentration in a solution, and it can react with certain
+metals, such as zinc, to form hydrogen gas. A
+strong acid is a relatively good conductor of electricity.
+Examples of strong acids are hydrochloric (muriatic),
+nitric, sulfuric, while examples of mild acids are sulfurous
+and acetic (vinegar). The strength of an acidic
+solution is usually measured in terms of its pH (a logarithmic
+function of the H+ ion concentration). Strong
+acid solutions have low pHs (typically around 0–3),
+while weak acid solutions have pHs in the range 3–6.
+See also BASE; PH SCALE.
+acidity constant The equilibrium constant for splitting
+off a HYDRON from a BRØNSTED ACID.
+acid-labile sulfide Refers to sulfide LIGANDs, e.g.,
+the BRIDGING LIGANDs in IRON–SULFUR PROTEINS,
+which are released as H2S at acid pH.
+See also FERREDOXIN.
+acid precipitation Because pure precipitation (e.g.,
+rain) is slightly acidic (due to the reaction between
+water droplets and carbon dioxide, creating carbonic
+acid) with a potential pH of 5.6, acid precipitation
+refers to precipitation with a pH less than 5.6. Acid
+precipitation includes rain, fog, snow, and dry deposition.
+Anthropogenic (man-made) pollutants (carbon
+dioxide, carbon monoxide, ozone, nitrogen and sulfur
+oxides, and hydrocarbons) react with water vapor to
+produce acid precipitation. These pollutants come primarily
+from burning coal and other fossil fuels. Sulfur
+dioxide, which reacts readily with water vapor and
+droplets (i.e., has a short residence time in the atmosphere
+as a gas), has been linked to the weathering
+2 acclimatization(eating away) of marble structures and the acidification
+of freshwater lakes (consequently killing fish).
+Natural interactions within the biosphere can also lead
+to acid precipitation.
+acoelomate A solid-bodied animal lacking a body
+cavity, the space between the gut (digestive tract) and
+body wall. Simple animals do not have a body cavity
+as higher animals do; this body cavity is called a
+coelom in mammals and contains the gut (a cavity by
+itself), heart, and lungs, for example. Acoelomates are
+bilateral animals and are triploblastic (have three layers:
+ectoderm, endoderm, and mesoderm). They can
+move forward and have a degree of cephalization
+(centralization of neural and sensory organs in the
+head).
+Representative phyla of acoelomates are the Platyhelminthes:
+flatworms that include the Turbellaria
+(nonconfined flatworms such as planarians), Monogenea
+(monogeneans), Trematoda (trematodes, or flukes),
+and Cestoidea (tapeworms). There are more than
+20,000 species of flatworms living in wet environments
+such as marine or freshwater bodies and damp terrestrial
+areas.
+See also COELOM.
+aconitase A name for citrate (isocitrate) hydro-LYASE
+(aconitate hydratase), which catalyzes the interconversion
+of citrate, cis-aconitate ((Z)-prop-1-ene-1,2,3-tricarboxylate),
+and isocitrate. The active ENZYME
+contains a catalytic [4FE-4S] CLUSTER.
+acrosome The acrosome is a special area or compartment
+that is located at the tip of the head of a
+sperm cell. It contains special digestive enzymes that on
+contact with the egg help the sperm head penetrate the
+egg for fertilization. Directly behind the acrosome is the
+haploid nucleus (single set of unpaired chromosomes)
+that contains the genetic material.
+See also FERTILIZATION.
+actin A globular protein found in muscle tissue as
+thin filaments and in microfilaments that form portions
+of cell cytoskeletons. Actin links into chains, and
+paired chains twist helically around each other, forming
+microfilaments in muscle and other contractile elements
+in cells. Actin and myosin filaments interact to initiate
+muscle contraction.
+Tropomyosin and troponin are two protein
+molecules associated with actin filaments in muscle.
+Tropomyosin runs along the length of the actin filament
+and covers the area of the actin molecule that
+interacts with myosin when at rest. On the other hand,
+when a muscle is contracted, tropomyosin is replaced
+with troponin as it binds to calcium ions. Troponin is
+actin 3
+acrosome
+The acrosome is a special area or compartment that is located at
+the tip of the head of a sperm cell.
+Mariposa lily from California. An example of an actinomorphic,
+radially symmetrical flower. (Courtesy of Tim McCabe)located at regular intervals along the actin filament and
+allows actin to interact with myosin.
+See also CYTOSKELETON.
+actinomorphic Symmetrical over more than one vertical
+plane; e.g., flowers that can be separated into symmetrical
+halves along any plane.
+action potential A localized rapid change in voltage
+that occurs across the membrane of a muscle or nerve
+cell when a nerve impulse is initiated. It is caused by a
+physicochemical change in the membrane during the
+interaction of the flow and exchange of sodium and
+potassium ions.
+See also DEPOLARIZATION.
+active center The location in an ENZYME where the
+specific reaction takes place.
+active site The active site of an enzyme is the area—
+a depressed region comprising a few of the protein’s
+amino acids—on a portion of an enzyme that binds to
+its substrate. The enzyme’s specificity is based on the
+shape of the active area, which can alter itself to snugly
+fit the substrate to which it is binding by using weak
+chemical bonds.
+See ACTIVE CENTER.
+active transport The movement of a substance
+across a biological membrane, such as living cells,
+against a concentration (diffusion) gradient with the
+help of metabolic energy, usually provided by ATP
+(adenosine triphosphate). Active transport serves to
+maintain the normal balance of ions in cells, in particular
+ions of sodium and potassium, which play a vital
+role in nerve and muscle cells. Because a molecule is
+“pumped” across the membrane against its gradient
+with the help of metabolic energy, it is referred to as
+“active” transport.
+The sodium–potassium “pump” that exchanges
+sodium (Na+) for potassium (K+) across the plasma
+membrane of animal cells is an example of the active
+transport mechanism.
+It is the carriage of a solute across a biological
+membrane from low to high concentration that
+requires the expenditure of metabolic energy.
+adaptive radiation The process where a population
+of plants or animals evolves into a number of different
+ones over time, usually as a response to
+multiplying and living under different environmental
+conditions. Subpopulations from the common ancestor
+develop as a response to adapting to the new environmental
+conditions, and new species evolve from
+this original parent stock.
+Impressive rapid adaptive radiations have
+occurred over time after mass extinctions caused by
+cataclysmic episodes on the Earth. Plate tectonics, volcanism,
+and possible Earth-comet-asteroid collisions
+all have wiped the landscape clean, allowing survivors
+and new species to rapidly fill the voids of these new
+adaptive zones.
+address-message concept Refers to compounds
+in which part of the molecule is required for
+binding (address) and part for the biological action
+(message).
+adenosine 5’-triphosphate (ATP) Key NUCLEOTIDE
+in energy-dependent cellular reactions, in combination
+with Mg(II). The reaction: ATP + water Ô ADP +
+phosphate is used to supply the necessary energy.
+See also ATP.
+4 actinomorphic
+Solanum species as an example of an actinomorphic flower from
+Sierra Madre Oriental in Mexico. (Courtesy of Tim McCabe)adenylyl cyclase An enzyme, embedded in the
+plasma membrane, that converts ATP to cyclic adenosine
+monophosphate (cyclic AMP, or cAMP) in
+response to a chemical signal. It is activated when a
+signal molecule binds to a membrane receptor. Cyclic
+AMP acts as a second messenger, relaying the signal
+from the membrane to the metabolic machinery of
+the cytoplasm.
+adrenal glands A pair of small triangular
+endocrine glands (one above each kidney in animals)
+that are ductless and secrete hormones into
+the blood. The glands are composed of two portions.
+The adrenal cortex, which forms an outer shell on
+each and is controlled by the pituitary gland,
+responds to endocrine signals in reacting to stress and
+homeostatic conditions by (a) secreting steroid hormones
+(corticosteroid, cortisol, and aldosterone) that
+deal with carbohydrate metabolism and with salt and
+water balance (electrolyte metabolism), such as the
+reabsorption of water by the kidneys, and (b) releasing
+androgens (male sex hormone) and estrogens
+(female sex hormone).
+The adrenal cortex surrounds the central medulla,
+is controlled by the nervous system, and responds to
+nervous inputs resulting from stress and produces
+adrenaline and noradrenaline, hormones that increase
+blood sugar level and reduce body fat. The adrenal
+glands are also known as the suprarenal glands.
+See also GLAND.
+adrenodoxin A [2FE-2S] FERREDOXIN involved in
+electron transfer from NADPH+ (the reduced form of
+NADP [nicotinamide adenine dinucleotide phosphate,
+a coenzyme]), via a REDUCTASE, to CYTOCHROME P-450
+in the adrenal gland.
+Adrian, Edgar Douglas (1889–1977) British Physiologist
+Edgar Douglas Adrian was born on November
+30, 1889, in London to Alfred Douglas Adrian, a
+legal adviser to the British Local Government Board.
+He attended the Westminster School, London, and in
+1908 enrolled at Trinity College, Cambridge. At Cambridge
+University, he studied physiology, receiving a
+bachelor’s degree in 1911.
+In 1913 he entered Trinity College, studied
+medicine, did his clinical work at St. Bartholomew’s
+Hospital, London, and received his M.D. in 1915.
+In 1929 he was elected Foulerton professor of the
+Royal Society and in 1937 became professor of physiology
+at the University of Cambridge until 1951, when
+he was elected master of Trinity College, Cambridge.
+He was chancellor of the university from 1968 until
+two years before his death.
+He spent most of his research studying the physiology
+of the human nervous system, particularly
+the brain, and how neurons send messages. In
+1932 he shared the Nobel Prize in physiology
+or medicine for his work on the function of the neuron.
+He is considered one of the founders of modern
+neurophysiology.
+He wrote three books, The Basis of Sensation
+(1927), The Mechanism of Nervous Action (1932), and
+The Physical Basis of Perception (1947), and was
+knighted baron of Cambridge in 1955. He died on
+August 4, 1977, and is buried at Trinity College.
+Adrian, Edgar Douglas 5
+Adaptive radiation is the process where a population of plants or
+animals evolves into a number of different ones over time, usually
+as a response to multiplying and living under different environmental
+conditions.aerobic Any organism, environmental condition, or
+cellular process that requires atmospheric oxygen. Aerobic
+microorganisms, called aerobes, require the presence
+of oxygen for growth. An aerobe is capable of
+using oxygen as a terminal electron acceptor and can
+tolerate oxygen levels higher than that present in the
+air (21 percent oxygen). They have a respiratory type
+of metabolism, and some aerobes are also capable of
+growing anaerobically with electron accepters other
+than oxygen.
+See also ANAEROBIC.
+affinity The tendency of a molecule to associate with
+another. The affinity of a DRUG is its ability to bind to
+its biological target (RECEPTOR, ENZYME, transport system,
+etc.). For pharmacological receptors, it can be
+thought of as the frequency with which the drug, when
+brought into the proximity of a receptor by diffusion,
+will reside at a position of minimum free energy within
+the force field of that receptor.
+For an AGONIST (or for an ANTAGONIST), the
+numerical representation of affinity is the reciprocal of
+the equilibrium dissociation constant of the
+ligand–receptor complex, denoted KA, calculated as the
+rate constant for offset (k–1) divided by the rate constant
+for onset (k1).
+age structure The relative number of individuals of
+each age in a population, or the composition of a country
+by age groups. Since generations coexist over a time
+period, an age structure develops and is important in
+foreseeing the growth rate of an entire population.
+Except for the “baby boom” generation of the late
+1940s–50s, the United States has a pretty even age
+distribution.
+Agnatha A superclass family of jawless vertebrate
+fish that probably originated during the late Precambrian
+or early Cambrian. This superclass is the source of
+the oldest vertebrate fossils, dating some 465 million
+years ago during the Paleozoic era. Early agnathans,
+such as the now extinct ostracoderms, were encased in
+bony plates. While most were small, no larger than 20
+in., they lacked paired fins and had circular mouths or
+slits with no jaws, although there were exceptions that
+had paired fins. Agnathans were most likely bottomdwelling
+mud suckers or suspension feeders, taking in
+food through the mouth and then trapped in the gill,
+which also functioned as the area for gas exchange.
+Only about 60 species comprising two classes of
+agnathans exist today, while the rest declined and disappeared
+during the Devonian period. Two classes, the
+Myxini (hagfishes) and Cephalaspidormorphi (lampreys),
+are all that remain.
+Both hagfishes and lampreys lack paired
+appendages and lack body armor. Hagfishes are scavengers,
+living only in salt water and feeding on dead
+fish or marine worms, and lack a larval stage. Lampreys
+use their round mouth and a rasping tongue to
+latch on the side of a fish, penetrate the skin, and ingest
+its blood. As larvae, they live in freshwater streams, are
+suspension feeders, and migrate to the sea and lakes
+when they become adults. Some species only feed while
+in the larval stage, reproduce, and die. The agnathans
+are considered the most primitive living vertebrates
+known today.
+agonist An endogenous substance or a DRUG that
+can interact with a RECEPTOR and initiate a physiological
+or a pharmacological response characteristic of that
+RECEPTOR (contraction, relaxation, secretion, ENZYME
+activation, etc.).
+agonistic behavior This behavior usually involves
+two animals in a competitive contest, which can be in
+the form of combat, threat, or ritual, for food, a sexual
+partner, or other need. The end result is one becoming
+a victor while the other surrenders or becomes submissive,
+both exhibiting different traits. When one surrenders,
+it stops the combat because the continued battle
+could end up injuring both. Likewise, any future combat
+between the two individuals will likely end with the
+same result as the first and will not last as long.
+Many animal social groups are maintained by agonistic
+behavior where one individual becomes dominant,
+others become subdominant, and so on down the
+line, each controlling the others in a dominance hierarchy
+or “pecking order.” This dominant behavior can be
+used to control access to food or mates. Chickens,
+gorillas, and wolves are good examples of social groups
+maintained by dominance.
+6 aerobicAgonistic behavior is used to defend territories,
+areas that a dominant individual will defend for feeding,
+mating, rearing, or any combination of these activities.
+AIDS (acquired immunodeficiency syndrome) AIDS
+is the name given to the late stages of HIV infection,
+first discovered in 1981 in Los Angeles, California. By
+1983 the retrovirus responsible for it, the human
+immunodeficiency virus (HIV), was first described, and
+since then millions around the world have died from
+contracting the disease. It is thought to have originated
+in central Africa from monkeys or to have developed
+from contaminated vaccines used in the world’s first
+mass immunization for polio.
+AIDS is acquired mostly by sexual contact either
+through homo- or heterosexual practice by having
+unprotected sex via vaginal or anal intercourse. The
+routes of infection include infected blood, semen, and
+vaginal fluid. The virus can also be transmitted by
+blood by-products, through maternofetal infection
+(where the virus is transmitted by an infected mother to
+the unborn child in the uterus), or by maternal blood
+during parturition, or by breast milk consumption
+upon birth. Intravenous drug abuse also is a cause.
+The virus destroys a subgroup of lymphocytes,
+essential for combating infections, known as the helper
+T cells, or CD4 lymphocytes, and suppresses the body’s
+immune system, leaving it prone to infection.
+Infection by the virus produces antibodies, but not
+all those exposed develop chronic infection. For those
+that do, AIDS or AIDS-related complex (ARC) bring
+on a variety of ailments involving the lymph nodes,
+intermittent fever, loss of weight, diarrheas, fatigue,
+pneumonia, and tumors. A person infected, known as
+HIV-positive, can remain disease-free for up to 10
+years, as the virus can remain dormant before fullblown
+AIDS develops.
+While HIV has been isolated from bodily fluids
+such as semen to breast milk, the virus does not survive
+outside the body, and it is considered highly unlikely
+that ordinary social contact can spread the disease.
+However, the medical profession has developed high
+standards to deal with handling blood, blood products,
+and body fluids from HIV-infected people.
+In the early discovery stage of the disease, AIDS
+was almost certainly fatal, but the development of
+antiviral drugs, such as zidovudine (AZT), didanosine
+(ddl), zalcitabine (ddc), lamivudine (3TC), stavudine
+(DAT), and protease inhibitors used in combination
+with the others, has showed promise in slowing or
+eradicating the disease. Initial problems with finding a
+cure have to do with the fact that glycoproteins encasing
+the virus display a great deal of variability in their
+amino acid sequences, making it difficult to prepare a
+specific AIDS vaccine.
+During the 1980s and 1990s, an AIDS epidemic
+brought considerable media coverage to the disease,
+especially as well-known celebrities such as actors
+Rock Hudson and Anthony Perkins, Liberace, and
+others died from it. Hudson was the first to admit having
+the disease in 1985. During the 1980s and 1990s,
+the homosexual community became active in lobbying
+for funds to study the disease, as it early on was considered
+simply a “gay” disease. ACT UP, acronym for
+the AIDS Coalition to Unleash Power, began as a
+grassroots AIDS organization associated with nonviolent
+civil disobedience in 1987. ACT UP became the
+standard-bearer for protest against governmental and
+AIDS 7
+matrix capsid RNA viral proteins viral envelope enzymes
+AIDS was first reported in 1981 in the United States and has since
+become a major epidemic, killing nearly 12 million people and
+infecting more than 30 million others worldwide. The disease is
+caused by HIV, a virus that destroys the body’s ability to fight
+infections and certain cancers. (Courtesy of Darryl Leja, NHGRI,
+National Institutes of Health)societal indifference to the AIDS epidemic. Public attitude
+changed when heterosexuals became infected, and
+greater education on the causes of the disease became
+more widespread, initiated by celebrities such as Elizabeth
+Taylor and the American Foundation for AIDS
+Research, where fundraising activities made national
+news coverage.
+There have been significant advances in the treatment
+for HIV/AIDS by attacking the virus itself,
+strengthening the immune system, and controlling
+AIDS-related cancers and opportunistic infections. At
+present, there is still no cure or vaccine.
+albumin A type of protein, especially a protein of
+blood PLASMA, that transports various substances,
+including metal ions, drugs, and XENOBIOTICs.
+aldehydes Aldehydes are organic chemicals that contain
+the –CHO (aldehyde) group, a carbonyl group
+(C=O) that has the carbon and hydrogen atom bound.
+They are the result of the oxidation of alcohols and,
+when further oxidized, form carboxylic acids.
+Methanal (formaldehyde) and ethanal (acetaldehyde)
+are common examples.
+aldosterone An adrenal steroid hormone, derived
+from cholesterol, that is secreted by the adrenal cortex
+and acts on the distal tubules of the kidney to control
+the elimination of salts and water by the kidneys. The
+presence of the pituitary hormone ACTH, changing
+levels of sodium and potassium, and variations in
+blood volume stimulate the production of aldosterone
+by the cortex.
+Aldosterone is a component of the renninangiotensin-
+aldosterone system (RAAS) that is a complex
+feedback system that functions in homeostasis.
+See also GLAND.
+algae (singular, alga) A large and diverse group of
+photosynthetic organisms formerly called simple plants
+but now members of their own phyla, the Protoctista,
+that also includes the slime molds and protozoa. Algae,
+some 17,000 species or more, live in aquatic and moist
+inland regions. They do not have roots, stems, or leaves
+and have no vascular water-conducting systems. They
+reproduce by spores, and in some species the spores are
+mobile with the use of flagella. They range from simple
+single cells (e.g., Euglena) to “plants” many feet long
+(e.g., kelps such as Macrocytis) and make up marine
+seaweed and much of the plankton that provide food
+for other species.
+Unusual growth outbursts result in “algal blooms”
+or “red tides” and occur when there is an increase in
+nutrient levels in a body of water.
+Cyanophyta, or blue-green algae, are now classified
+as cyanobacteria. The phylum Cyanophyta also
+includes chloroxybacteria. Cyanophytes contain phycocyanin,
+a photosynthetic pigment giving them a blue
+color. The red pigment phycoerythrin is also almost
+always present. They are diverse and can live as single
+cells or as colonies or large filaments. Some are nitrogen
+fixers in soil and others, like lichens, display symbiosis
+with a fungus, usually with a member of
+Ascomycota. The fungus provides the host plant for the
+algae cells that are distributed throughout and provide
+food to the fungus while the fungus protects the algae
+8 albumin
+HIV-infected white blood cell. Scanning electron micrograph
+(SEM) of the abnormal surface of a white blood cell infected with
+HIV virus that causes AIDS. Glycosaminoglycan (GAG) gene
+expression for cell surface proteins is abnormal. The HIV virus’s
+genetic material controls the cell, forcing it to express abnormal
+structural proteins. Normally these surface GAG proteins are tiny
+spheres, but here the cell’s outer surface is formed from large
+irregular rods. HIV causes AIDS (acquired immunodeficiency
+syndrome). AIDS destroys white blood cells, leading to a weakened
+immune system. Magnification: × 6600 at 4.5 × 5.5 inch size.
+(Courtesy © NIBSC/Photo Researchers, Inc.)cells. While many lichen have a different fungi component,
+they often have the same algae species. Some
+common species of lichens are British soldiers (Cladonia
+cristatella), pixie cups (Cladonia grayi), cedar
+lichen (Vulpicidia viridis), wrinkled shield lichen
+(Flavoparmelia caperata), and reindeer lichen (Cladina
+subtenuis).
+The chloroxybacteria, or green-grass bacteria, contain
+both chlorophylls a and b but do not contain the
+red or blue pigments of the blue-green algae. They are
+nonmotile, aerobic organisms.
+Other phyla of algae include the Bacillariophyceae,
+comprising the diatoms; Charophyceae, fresh- or
+brackish- water algae that resemble bryophytes;
+Chlorophyceae, or green algae believed to be the progenitor
+of plants; Chrysophyceae, or yellow-green
+algae; Dinophyceae, unicellular algae with two flagella;
+Phaeophyceae, or brown algae; and Rhodophyceae, or
+red algae.
+The Bacillariophyceae or diatoms are unicellular
+algae that are found in single, colonial, or filamentous
+states. Under the microscope they often are beautifully
+symmetrical, as their cell walls, or frustules, are composed
+of silica and are bivalved, one of which overlaps
+the other, and the frustule is often punctated and
+ornamented. The two orders, Centrales and Pennales,
+occupy two different environments. The centric
+diatoms (Centrales) are circular in shape with radial
+symmetry and live mostly in marine environments.
+The pennate diatoms (Pennales) are elliptical in shape,
+have bilateral symmetry, and are found in freshwater
+environments.
+Deposits of fossil diatoms known as diatomaceous
+earth have been mined and used for years in paints,
+abrasives, and other products such as chalk. The
+famous White Cliffs of Dover in England (rising to 300
+feet) are composed of massive amounts of diatoms—
+coccoliths—that were laid down some 790 million
+years ago when Great Britain was submerged by a shallow
+sea.
+The Charophyceae, also known as stoneworts, and
+which resemble bryophytes, live in fresh and brackish
+water especially rich in calcium, where they become
+stiff and lime encrusted. The stoneworts consist of a
+complex branched thallus with an erect stemlike structure
+and many whorls of short branches.
+The Chlorophyceae (or green algae) are the closest
+to plants in pigment composition and structure and are
+related based on a common ancestor. More than 7,000
+species live in freshwater and marine environments as
+unicellular parts of plankton, in damp soil and even
+snow as colonies or filaments, symbiotically with other
+eukaryotes, or mutually with fungi as lichens.
+The Chrysophyceae or golden algae, named
+because of their yellow and brown carotene and xanthophyll
+pigments, are typically cells with two flagella
+at one end of the cell, and many live among freshwater
+and marine plankton. While most are unicellular, a few
+are colonial.
+The Dinophyceae or dinoflagellates are algae that
+are unicellular with two flagella of unequal length contained
+in channels on the cell surface. They can change
+shape with different water temperatures and are very
+tolerant of chemical and physical conditions.
+The Phaeophyceae or brown algae are the largest
+and most complex of the algae. All members are multicellular,
+and the majority live in marine environments,
+especially common in cool water along temperate coastlines.
+Many of the marine seaweeds are brown algae.
+The Rhodophyceae or red algae are more recent
+and have lost their flagellate stages in their life cycle.
+Some species are actually black and not red, as those
+that live deeper in waters, because of different levels of
+the pigment phycoerythrin. While most are found in
+warm coastal waters of the tropical oceans, some also
+live in freshwater and on land in the soil. Most
+rhodophytes are multicellular, sharing seaweed status
+with brown algae.
+algae 9
+Spirogyra is a filamentous algae that can be found in almost every
+pond or ditch. (Courtesy of Hideki Horikami)Because the various forms of algae are now
+assigned to different phyla, the words alga and algae
+are used informally and have no taxonomic status.
+allantois During the embryonic stage of mammals,
+birds, and reptiles, the allantois, a small sac, is one of
+four extra-embryonic membranes (along with amnion,
+yolk sac, chorion) and serves several functions, such as
+a repository for the embryo’s nitrogenous waste (chiefly
+uric acid) in reptiles and birds (in the egg). The allantois
+provides oxygen to mammals, birds, and reptiles,
+as well as food in mammals (via the placenta).
+The membrane of the allantois works with the
+chorion in respiratory functions, allowing the exchange
+of gases between the embryo and surrounding air. In
+humans, it is involved in the development of the urinary
+bladder.
+See also EMBRYO.
+allele An allele is one of two or more alternative forms
+of a gene that can exist at a single locus. Each allele
+therefore has a unique nucleotide sequence and may lead
+to different phenotypes for a given trait. If the alleles for
+a gene are identical, the organism is called homozygous.
+If the alleles are different, the organism is heterozygous.
+If two alleles are different, one becomes dominant
+and is fully expressed in appearance in the organism,
+while the other is recessive and has no noticeable effect
+on the appearance of the organism.
+This is shown in the color of your eyes, determined
+by the genes inherited from your parents. The gene for
+brown eyes is dominant and overrides genes for other
+eye colors. The gene for blue eyes is recessive and will
+appear when there are no genes for other eye colors. A
+person with brown eyes may have a recessive, or “hidden,”
+gene for blue eyes. Therefore, two brown-eyed
+parents may each give a recessive gene for blue eyes to
+their child, who would then have blue eyes. Gray,
+green, and other eye colors result from a complex mixing
+of different eye color genes.
+See also GENE.
+Allen’s Rule In warm-blooded animals, the warmer
+the climate, the longer the appendages (ears, legs, wings)
+as compared with closely related taxa from colder areas.
+10 allantois
+alleles alleles alleles
+black eyes black eyes white eyes black eyes
+X X
+Eb Eb
+X X
+Eb Ew
+X Y
+Ew
+X Y
+Eb
+An allele is one of the variant forms of a gene at a particular locus, or location, on a chromosome. Different alleles produce variation in
+inherited characteristics such as hair color or blood type. In an individual, one form of the allele (the dominant one) may be expressed
+more than another form (the recessive one). (Courtesy of Darryl Leja, NHGRI, National Institutes of Health)allochronic speciation Speciation that takes place
+related to time rather than space; populations that are
+reproductively isolated due to mating at different times.
+See also SPECIATION.
+allometric growth The variation in the relative rates
+of growth of various parts of the body, which helps
+shape the organism. In other words, it is the pattern of
+growth whereby different parts of the body grow at
+different rates with respect to each other. Allometry is
+the study of relative growth and of changes in proportion
+with increase in size. For example, human arms
+and legs grow at a faster rate than the body and head,
+making adult proportions strikingly different from
+those of infants. Another striking example is the male
+fiddler crab Uca pugnax. In small males, the two claws
+are of equal weight, each weighing about 8 percent of
+the total crab weight. However, as the crab enlarges, its
+large crushing claw grows more rapidly, eventually
+constituting about 38 percent of the crab’s weight.
+In 1932, Sir Julian Huxley described a simple
+mathematical method for the detection and measurement
+of the allometric growth. In order to compare the
+relative growth of two components (one of which may
+be the whole body), they are plotted logarithmically on
+x- and y-axes:
+log y = log b + k log x
+The slope of the resulting regression is called the
+allometric growth ratio, often designated as k.
+k = 1, both components are growing at the same
+rate.
+k < 1, the component represented on the y-axis is
+growing more slowly than the component on the xaxis.
+k > 1, the y-axis component is growing faster than
+the x-axis component.
+Another formula for measuring allometric growth is
+Y=bxa, where Y is equal to the mass of the organ, x =
+mass of the organism, a = growth coefficient of the
+organ, and b = a constant.
+Yet another formula for measuring allometric
+growth is Y = bxa/c, where a and c are the growth rates
+for two body parts.
+Allometric growth studies have also been applied
+to animal husbandry, archaeology, and urban systems
+studies.
+allometry The study of relative growth and of
+changes in proportion with increase in size.
+allopatric speciation One of two methods of speciation
+(the other is sympatric), allopatric speciation happens
+when the ancestral population becomes segregated
+by a geographical barrier. The Karner blue butterfly
+(Lycaeides melissa samualis) became allopatric from its
+parent the Melissa blue butterfly (Lycaeides melissa
+melissa) when the climate changed and restricted various
+populations along its range to northeastern pine
+barrens environments several thousand years ago. As
+populations become isolated, the isolated gene pools
+accumulate different genetic traits by microevolution.
+Small populations are more likely to evolve into separate
+species than larger isolated populations. Several
+populations of the Karner blue butterfly are now separated
+from each other by human-made development
+and may be evolving into separate subspecies or
+species, even though geographically they are isolated by
+only a few miles in some cases.
+Conditions that favor allopatric speciation are
+when one population becomes isolated at the fringe of
+the parent population’s range. This splinter population,
+called a peripheral isolate, is likely to become allopatric
+because the gene pool of the isolate may already be different,
+since living on the border of the range encourages
+the expression of the extremes of any genotypic
+CLINEs that existed in the original population. Furthermore,
+if the population is small enough, a FOUNDER
+EFFECT will occur, giving rise to a gene pool that is not
+that of the parent population.
+Genetic drift will also occur until the peripheral
+isolate becomes a larger population and will continue
+to change the gene pool at random until the population
+grows. New mutations or combinations of existing
+alleles that are neutral in adaptive value now may
+become fixed in the population by chance, causing
+genotypic or phenotypic divergence from the parent
+population. For example, the Karner blue butterfly has
+a row of orange spots on the top of the hindwing,
+whereas, the ancestral parent, the Melissa blue butterfly,
+has orange spots on the top of both front and hindwing,
+a phenotypic variation.
+Another factor in causing allopatric speciation is
+that evolution via natural selection may take a different
+road in the peripheral population. The isolate will
+allopatric speciation 11encounter selection factors that are different from and
+perhaps more severe than that experienced by the parent
+because the isolate is living in an environment
+slightly, or completely, different from that of the
+parent. These small isolated populations are not guaranteed
+to become new species, as they are more often
+likely to become extinct, yet it is clear in evolutionary
+history that allopatric speciation does occur.
+See also SPECIATION.
+allopolyploid A type of polyploid (having a nucleus
+that contains more than two sets of chromosomes)
+species, often a plant, resulting from two different
+species interbreeding and combining their chromosomes.
+Hybrids are often sterile because they do not
+have sets of homologous chromosomes, making pairing
+nonexistent unless two diploid hybrids double the
+chromosome numbers, resulting in a fertile allotetraploid
+that now contains two sets of homologous
+chromosomes. Plant breeders find that this is
+beneficial, since it is possible to breed the advantages
+of different species into one. Triticale (a “new” grain
+created by crossing rye and durum wheat) is an
+allopolyploid that was developed from wheat and rye.
+Some crops are naturally allopolyploid, such as cotton,
+oats, tall fescue, potatoes, wheat, and tobacco. It is
+estimated that half of all angiosperms (flowering
+plants) are polyploid.
+allosteric binding sites A type of binding site contained
+in many ENZYMEs and RECEPTORs. As a consequence
+of the binding to allosteric binding sites, the
+interaction with the normal ligand (ligands are
+molecules that bind to proteins) may be either
+enhanced or reduced. Ligand binding can change the
+shape of a protein.
+allosteric effector Specific small molecules that bind
+to a protein at a site other than a catalytic site and that
+modulate (by activation or INHIBITION) the biological
+activity.
+allosteric enzyme An ENZYME that contains a
+region, separate from the region that binds the SUBSTRATE
+for catalysis, where a small regulatory molecule
+binds and affects that catalytic activity. This effector
+molecule may be structurally unrelated to the substrate,
+or it may be a second molecule of substrate. If the catalytic
+activity is enhanced by binding, the effector is
+called an activator; if it is diminished, the effector is
+called an INHIBITOR.
+allosteric regulation The regulation of the activity
+of allosteric ENZYMEs.
+See also ALLOSTERIC BINDING SITES; ALLOSTERIC
+ENZYME.
+allosteric site A specific receptor site on an enzyme
+molecule not on the active site (the site on the surface
+of an enzyme molecule that binds the substrate
+molecule). Molecules bind to the allosteric site and
+change the shape of the active site, either enabling the
+substrate to bind to the active site or prevent the binding
+of the substrate.
+The molecule that binds to the allosteric site is an
+inhibitor because it causes a change in the three-dimensional
+structure of the enzyme that prevents the substrate
+from binding to the active site.
+allozyme An enzyme form, a variant of the same
+enzyme (protein) that is coded for by different alleles at
+a single locus.
+See also ENZYME.
+alpha helix Most proteins contain one or more
+stretches of amino acids that take on a particular shape
+in three-dimensional space. The most common forms
+are alpha helix and beta sheet.
+Alpha helix is spiral shaped, constituting one form
+of the secondary structure of proteins, arising from a
+specific hydrogen-bonding structure; the carbonyl
+group (–C=O) of each peptide bond extends parallel to
+the axis of the helix and points directly at the –N–H
+group of the peptide bond four amino acids below it in
+the helix. A hydrogen bond forms between them
+[–N–H . . . . . O=C–] and plays a role in stabilizing the
+helix conformation. The alpha helix is right-handed
+and twists clockwise, like a corkscrew, and makes a
+12 allopolyploidencounter selection factors that are different from and
+perhaps more severe than that experienced by the parent
+because the isolate is living in an environment
+slightly, or completely, different from that of the
+parent. These small isolated populations are not guaranteed
+to become new species, as they are more often
+likely to become extinct, yet it is clear in evolutionary
+history that allopatric speciation does occur.
+See also SPECIATION.
+allopolyploid A type of polyploid (having a nucleus
+that contains more than two sets of chromosomes)
+species, often a plant, resulting from two different
+species interbreeding and combining their chromosomes.
+Hybrids are often sterile because they do not
+have sets of homologous chromosomes, making pairing
+nonexistent unless two diploid hybrids double the
+chromosome numbers, resulting in a fertile allotetraploid
+that now contains two sets of homologous
+chromosomes. Plant breeders find that this is
+beneficial, since it is possible to breed the advantages
+of different species into one. Triticale (a “new” grain
+created by crossing rye and durum wheat) is an
+allopolyploid that was developed from wheat and rye.
+Some crops are naturally allopolyploid, such as cotton,
+oats, tall fescue, potatoes, wheat, and tobacco. It is
+estimated that half of all angiosperms (flowering
+plants) are polyploid.
+allosteric binding sites A type of binding site contained
+in many ENZYMEs and RECEPTORs. As a consequence
+of the binding to allosteric binding sites, the
+interaction with the normal ligand (ligands are
+molecules that bind to proteins) may be either
+enhanced or reduced. Ligand binding can change the
+shape of a protein.
+allosteric effector Specific small molecules that bind
+to a protein at a site other than a catalytic site and that
+modulate (by activation or INHIBITION) the biological
+activity.
+allosteric enzyme An ENZYME that contains a
+region, separate from the region that binds the SUBSTRATE
+for catalysis, where a small regulatory molecule
+binds and affects that catalytic activity. This effector
+molecule may be structurally unrelated to the substrate,
+or it may be a second molecule of substrate. If the catalytic
+activity is enhanced by binding, the effector is
+called an activator; if it is diminished, the effector is
+called an INHIBITOR.
+allosteric regulation The regulation of the activity
+of allosteric ENZYMEs.
+See also ALLOSTERIC BINDING SITES; ALLOSTERIC
+ENZYME.
+allosteric site A specific receptor site on an enzyme
+molecule not on the active site (the site on the surface
+of an enzyme molecule that binds the substrate
+molecule). Molecules bind to the allosteric site and
+change the shape of the active site, either enabling the
+substrate to bind to the active site or prevent the binding
+of the substrate.
+The molecule that binds to the allosteric site is an
+inhibitor because it causes a change in the three-dimensional
+structure of the enzyme that prevents the substrate
+from binding to the active site.
+allozyme An enzyme form, a variant of the same
+enzyme (protein) that is coded for by different alleles at
+a single locus.
+See also ENZYME.
+alpha helix Most proteins contain one or more
+stretches of amino acids that take on a particular shape
+in three-dimensional space. The most common forms
+are alpha helix and beta sheet.
+Alpha helix is spiral shaped, constituting one form
+of the secondary structure of proteins, arising from a
+specific hydrogen-bonding structure; the carbonyl
+group (–C=O) of each peptide bond extends parallel to
+the axis of the helix and points directly at the –N–H
+group of the peptide bond four amino acids below it in
+the helix. A hydrogen bond forms between them
+[–N–H . . . . . O=C–] and plays a role in stabilizing the
+helix conformation. The alpha helix is right-handed
+and twists clockwise, like a corkscrew, and makes a
+12 allopolyploidcomplete turn every 3.6 amino acids. The distance
+between two turns is 0.54 nm. However, an alpha helix
+can also be left-handed. Most enzymes contain sections
+of alpha helix.
+The alpha helix was discovered by Linus Pauling in
+1948.
+See also HELIX.
+alternation of generations A life cycle in plants
+where there is both a multicellular diploid form (the
+sporophyte generation) and a multicellular haploid
+form (the gametophyte generation).
+Gametophytes produce haploid gametes that fuse
+zygotes that are forming. These zygotes then develop
+into diploid sporophytes. Meiosis in the sporophytes
+produces haploid spores, with division by meiosis giving
+rise to the next generation of gametophytes.
+Alternation of generations occurs in plants and certain
+species of ALGAE. Ferns and fern allies (such as the
+club moss) are common examples that display alternation
+of generations. The above ground parent fern
+plant (the diploid sporophyte, or spore-bearing plant)
+has two full sets of chromosomes (two of each kind of
+chromosome). It sheds its single-celled haploid spores,
+having one set of chromosomes (one of each kind),
+which fall to the ground, and these in turn grow into a
+different plant, the gametophyte or prothallus, also
+haploid. The gametophyte has special bodies within the
+plant called archegonia (female cells) and antheridia
+(male cells). Here sexual fertilization takes place, and a
+new diploid sporophyte then grows.
+There are four main groups of plants considered to
+be “fern allies,” a diverse group of vascular plants that
+are neither flowering plants nor ferns and that reproduce
+by shedding spore to initiate an alternation of
+generations. These are the Lycophyta (Lycopsida, the
+club mosses; Selaginellopsida, the spike mosses; and
+Isoëtopsida, the quillworts); the Archeophyta
+(Sphenopsida, the horsetails and scouring-rushes;
+Psilopsida, the whiskbrooms; and Ophioglossopsida,
+the adder’s-tongues and grape-ferns); the Pteridophyta
+(ferns); and Spermatophyta (flowering plants).
+In some examples of alternation of generations—for
+example, in certain algae species such as in some green
+or brown forms—the alternation of generations takes
+on two different approaches. Where the sporophytes
+and gametophytes are structurally different, the two
+generations are heteromorphic. If the sporophytes and
+gametophytes look the same and have different chromosome
+pairs, the generations are said to be isomorphic.
+altruistic behavior The aiding of another individual
+at one’s own risk or expense. This can be in the form of
+one animal sending out a distress call to warn others of
+impending trouble, although putting itself in danger by
+giving out its location. Strangers coming to the rescue
+of other strangers, such as victims in an accident, hurricane,
+or earthquake, is another example of altruistic
+behavior.
+alveolus (plural, alveoli) Latin for “hollow cavity.”
+There are several definitions for alveolus. It is a thin,
+multilobed air sac that exchanges gases in the lungs of
+mammals and reptiles at the end of each bronchiole, a
+very fine respiratory tube in the lungs. An alveolus is
+lined with many blood capillaries where the exchange
+of carbon dioxide and oxygen takes place.
+It is also the name given to the socket in the jawbone
+in which a tooth is rooted by means of the periodontal
+membrane, the connective tissue that
+surrounds the root and anchors it.
+Furthermore, it is the term used to describe a single
+hexagonal beehive cell found in a honeycomb. It is also
+the term that refers to the milk-secreting sacs of the
+mammary gland.
+ambidentate LIGANDs, such as (NCS)–, that can
+bond to a CENTRAL ATOM through either of two or
+more donor atoms.
+amicyanin An ELECTRON TRANSFER PROTEIN containing
+a TYPE 1 COPPER site, isolated from certain bacteria.
+amino acid An organic molecule possessing both
+acidic carboxylic acid (–COOH) and basic amino
+(–NH2) groups attached to the same tetrahedral carbon
+atom.
+Amino acids are the principal building blocks of
+proteins and enzymes. They are incorporated into
+amino acid 13proteins by transfer RNA according to the genetic
+code while messenger RNA is being decoded by ribosomes.
+The amino acid content dictates the spatial
+and biochemical properties of the protein or enzyme
+during and after the final assembly of a protein.
+Amino acids have an average molecular weight of
+about 135 daltons. While more than 50 have been discovered,
+20 are essential for making proteins, long
+chains of bonded amino acids.
+Some naturally occurring amino acids are alanine,
+arginine, asparagine, aspartic acid, cysteine, glutamine,
+glutamic acid, glycine, histidine, isoleucine, leucine,
+lysine, methionine, phenylalanine, proline, serine, threonine,
+tryptophan, tyrosine, and valine.
+The two classes of amino acids that exist are based
+on whether the R-group is hydrophobic or hydrophilic.
+Hydrophobic or nonpolar amino acids tend to repel the
+aqueous environment and are located mostly in the
+interior of proteins. They do not ionize or participate
+in the formation of hydrogen bonds. On the other
+hand, the hydrophilic or polar amino acids tend to
+interact with the aqueous environment, are usually
+involved in the formation of hydrogen bonds, and are
+usually found on the exterior surfaces of proteins or in
+their reactive centers. It is for this reason that certain
+amino acid R-groups allow enzyme reactions to occur.
+The hydrophilic amino acids can be further subdivided
+into polar with no charge, polar with negatively
+charged side chains (acidic), and polar with positively
+charged side chains (basic).
+While all amino acids share some structural similarities,
+it is the side groups, or “R”-groups as they are
+called, that make the various amino acids chemically
+and physically different from each other so that they
+react differently with the environment. These groupings,
+found among the 20 naturally occurring amino acids,
+are ionic (aspartic acid, arginine, glutamic acid, lysine,
+and histidine), polar (asparagine, serine, threonine, cysteine,
+tyrosine, and glutamine), and nonpolar amino
+acids (alanine, glycine, valine, leucine, isoleucine,
+methionine, phenylalanine, tryptophan, and proline).
+Amino acids are also referred to as amphoteric,
+meaning they can react with both acids and alkali,
+which makes them effective buffers in biological systems.
+A buffer is a solution where the pH usually stays
+constant when an acid or base is added.
+In 1986 scientists found a 21st amino acid, selenocysteine.
+In 2002 two teams of researchers from Ohio
+State University identified the 22nd genetically encoded
+amino acid, called pyrrolysine, a discovery that is the
+biological equivalent of physicists finding a new fundamental
+particle or chemists discovering a new element.
+Amino acid supplements are widely used in exercise
+and dietary programs.
+See also PROTEIN.
+amino acid residue (in a polypeptide) When two
+or more amino acids combine to form a peptide, the
+elements of water are removed, and what remains of
+each amino acid is called amino acid residue. Amino
+acid residues are therefore structures that lack a hydrogen
+atom of the amino group (–NH–CHR–COOH),
+or the hydroxy moiety of the carboxy group
+(NH2–CHR–CO–), or both (–NH–CHR–CO–); all
+units of a peptide chain are therefore amino acid
+residues. (Residues of amino acids that contain two
+amino groups or two carboxy groups may be joined by
+isopeptide bonds, and so may not have the formulas
+14 amino acid residue
+Phe
+NH2
+H C COOH
+R
+amino group
+R group
+acidic
+carboxyl
+group
+Leu Ser Cys
+amino acids
+Amino acids comprise a group of 20 different kinds of small
+molecules that link together in long chains to form proteins. Often
+referred to as the “building blocks” of proteins. (Courtesy of
+Darryl Leja, NHGRI, National Institutes of Health)shown.) The residue in a peptide that has an amino
+group that is free, or at least not acylated by another
+amino acid residue (it may, for example, be acylated
+or formylated), is called N-terminal; it is the Nterminus.
+The residue that has a free carboxy group,
+or at least does not acylate another amino acid
+residue (it may, for example, acylate ammonia to give
+–NH–CHR–CO–NH2), is called C-terminal.
+The following is a list of symbols for amino acids
+(use of the one-letter symbols should be restricted to
+the comparison of long sequences):
+aminoacyl-tRNA synthetases (aaRSs) When ribosomes
+pair a tRNA (transfer ribonucleic acid) with a
+codon (three bases in a DNA or RNA sequence), an
+amino acid is expected to be carried by the tRNA.
+Since each tRNA is matched with its amino acid
+before it meets the ribosome, the ribosome has no
+way of knowing if the match was made. The match is
+made by a family of enzymes called aminoacyl-tRNA
+synthetases. These enzymes charge each tRNA with
+the proper amino acid via a covalent ester bond,
+allowing each tRNA to make the proper translation
+from the genetic code of DNA into the amino acid
+code of proteins. Cells make at least 20 different
+aminoacyl-tRNS synthetases, one for each of the
+amino acids.
+Aminoacyl-tRNA synthetases belong to two
+classes, depending on which amino acid they specify.
+Class I enzymes usually are monomeric and attach to
+the carobxyl of their specific amino acid to the 2’ OH
+of adenosine 76 in the tRNA molecule. Class II
+enzymes are either dimeric or tetrameric and attach
+to their amino acids at the 3’ OH. These enzymes
+catalyze first by activating the amino acid by forming
+an aminoacyl-adenylate. Here the carboxyl of the
+amino acid is linked to the alpha-phosphate of ATP,
+displacing pyrophosphate. After the corrected tRNA
+is bound, the aminoacyl group of the aminoacyladenylate
+is transferred to the 2’ or 3’ terminal OH
+of the tRNA.
+Recent studies have shown that aminoacyl-tRNA
+synthetases can tell the difference between the right and
+the wrong tRNA before they ever start catalysis, and if
+the enzyme binds aminoacyl-adenylate first, it is even
+more specific during tRNA binding. Previous studies
+have also proved that aminoacyl-tRNA synthetases
+reject wrong tRNAs during catalysis. Other research
+has shown that specific aaRSs play roles in cellular
+fidelity, tRNA processing, RNA splicing, RNA trafficking,
+apoptosis, and transcriptional and translational
+regulation. These new revelations may present new
+evolutionary models for the development of cells and
+perhaps opportunities for pharmaceutical advancements.
+amino group (–NH2) A functional group (group of
+atoms within a molecule that is responsible for certain
+properties of the molecule and reactions in which it
+takes part), common to all amino acids, that consists of
+a nitrogen atom bonded covalently to two hydrogen
+atoms, leaving a lone valence electron on the nitrogen
+atom capable of bonding to another atom. It can act as
+a base in solution by accepting a hydrogen ion and carrying
+a charge of +1. Any organic compound that has
+an amino group is called an amine and is a derivative
+of the inorganic compound ammonia, NH3. A primary
+amine has one hydrogen atom replaced, such as in the
+amino group. A secondary amine has two hydrogens
+replaced. A tertiary amine has all three hydrogens
+replaced. Amines are created by decomposing organic
+matter.
+amino group 15
+A Ala Alanine
+B Asx Asparagine or aspartic acid
+C Cys Cysteine
+D Asp Aspartic acid
+E Glu Glutamic acid
+F Phe Phenylalanine
+G Gly Glycine
+H His Histidine
+I Ile Isoleucine
+K Lys Lysine
+L Leu Leucine
+M Met Methionine
+N Asn Asparagine
+P Pro Proline
+Q Gln Glutamine
+R Arg Arginine
+S Ser Serine
+T Thr Threonine
+V Val Valine
+W Trp Tryptophan
+Y Tyr Tyrosine
+Z Glx Glutamine or glutamic acidamniocentesis Amniocentesis is the removal of
+about two tablespoons of amniotic fluid via a needle
+inserted through the maternal abdomen into the uterus
+and amniotic sac. This is done to gain information
+about the condition, and even the sex, of the fetus. The
+fluid contains cells from the fetus and placenta.
+Some women have a greater chance of giving birth
+to a baby with a chromosome problem, and amniocentesis
+can provide the answers if performed at about 16
+weeks gestation (second trimester) or later. Chromosome
+analysis and alpha-fetoprotein (AFP) tests are two such
+tests, and these check for chromosome abnormalities
+such as Down’s syndrome and whether there are any
+openings in the fetal skin, such as in the spine, that could
+lead to neural-tube defects like spina bifida or anencephaly,
+or inherited disorders such as cystic fibrosis.
+While the procedure is relatively safe, some problems
+that can occur are miscarriage (1 in 200, or 0.5
+percent chance), cramping, and infections (less than 1
+in 1,000).
+Amniocentesis can also be performed during the
+second and third trimesters to determine fetal lung
+maturity, to verify the health of the fetus in cases of Rh
+sensitivity, and to identify any infections.
+First used in 1882 to remove excess amniotic fluid,
+it is often used in late pregnancy to test for anemia in
+fetuses with Rh disease and to check if the fetal lungs
+are advanced enough for delivery to occur.
+amnion The amnion is a thin, but tough, transparent
+membranous sac and innermost of the four extra
+embryonic membranes (allantois, yolk sac, chorion)
+that encloses the embryo of reptiles, birds, and mammals.
+These membranes hold the amniotic fluid and
+form a protective layer for the fetus, insulating it from
+bacteria and infection.
+See also EMBRYO.
+amniotes Any of the vertebrates such as reptiles,
+birds, and mammals that have an amnion surrounding
+the embryo.
+amniotic egg A calcium based or leathery shelled
+water-retaining egg that enables reptiles, birds, and
+egg-laying mammals, such as the monotremes (duckbilled
+platypus and two species of echidna, spiny
+anteaters), to complete their life cycles on dry land.
+amoebic dysentery Dysentery caused by a protozoan
+parasite (Entamoeba histolytica), mostly caused
+by poor sanitary conditions and transmitted by contaminated
+food or water.
+amphibian Cold-blooded, or ectothermic, vertebrates
+in the class Amphibia. These include the frogs
+and toads (order Anura, or Salientia), salamanders and
+newts (order Urodela, or Caudata), and the caecilians,
+limbless amphibians (order Apoda, or Gymnophiona).
+There are more than 11,000 species of amphibians, and
+they are believed to be the first vertebrate species to live
+on land.
+Located between the fish and reptiles on the evolutionary
+scale, they are the most primitive of the terrestrial
+vertebrates and undergo a metamorphosis from
+water-breathing limbless larva (tadpole) to land-loving,
+or partly terrestrial, air-breathing four-legged adult.
+Eggs are typically deposited in water or a wet protected
+place, although some do lay eggs in dry places.
+The eggs are not shelled and do not possess the membranes
+that are common in reptiles or higher vertebrates.
+Adults have moist skins with no scales or small
+scales, and they are specialized in living habitats. Each
+has its own evolutionary adaptations from the jumping
+ability (over 17 feet in some cases) of frogs and toads,
+to the limbless caecilians, to the long tails of the salamanders
+and newts. For example, frogs can enter aestivation,
+a period of dormancy similar to hibernation,
+when experiencing long periods of heat or drought
+conditions, and they can breathe through their skin in a
+process called cutaneous gas exchange. The most poisonous
+frog known, Phyllobates terribilis, only needs
+0.00000007 ounce of skin secretion to kill a predator,
+while an antibiotic secreted from the African clawed
+frog (Xenopus laevis) may someday be used to treat
+burns and cystic fibrosis.
+Over the last 50 years, many species of amphibians
+around the world have declined markedly in numbers;
+some species have become extinct. In many instances,
+these declines are attributable to adverse human influences
+acting locally, such as deforestation, draining of
+wetlands, and pollution.
+16 amniocentesisHowever, in 1988, herpetologists (scientists who
+study amphibians) from many parts of the world
+reported declines in amphibian populations in protected,
+or pristine, habitats such as national parks and
+nature reserves, where such local effects could not be
+blamed. This suggested that there may be one or more
+global factors that are affecting climatic and atmospheric
+changes and adversely affecting amphibians,
+such as increased UV-B radiation, widespread pollution,
+acid rain, and disease. In effect, the decline could
+be the result of human-induced changes to the global
+ecosystem and could have far-reaching consequences
+for human survival.
+amphipathic molecule A molecule that has both a
+hydrophilic (water soluble, polar) region and a
+hydrophobic (water hating, nonpolar) region. The
+hydrophilic part is called the head, while the hydrophobic
+part is called the tail. Lipids (phospholipids, cholesterol
+and other sterols, glycolipids [lipids with sugars
+attached], and sphingolipids) are examples of amphipathic
+molecules.
+Amphipathic molecules act as surfactants, materials
+that can reduce the surface tension of a liquid at
+low concentrations, and are used in wetting agents,
+demisters, foaming agents, and emulsifiers.
+anabolism The processes of metabolism that result
+in the synthesis of cellular components from precursors
+of low molecular weight.
+See also METABOLISM.
+anaerobic Any organism or environmental or
+cellular process that does not require the use of free
+oxygen. Certain bacteria such as Actinomyces israeli,
+Bacteroides fragilis, Prevotella melaninogenica,
+Clostridium difficile, and Peptostreptococcus are
+anaerobes.
+In effect, an anaerobic organism does not need
+oxygen for growth. Many anaerobes are even sensitive
+to oxygen. Obligate (strict) anaerobes grow
+only in the absence of oxygen. Facultative anaerobes
+can grow either in the presence or in the absence of
+oxygen.
+See also AEROBIC.
+anagenesis A pattern of evolutionary change along a
+single, unbranching lineage involving the transformation
+of an entire population, sometimes so different from the
+ancestral population that it can be called a separate
+species. Examples would be one taxon replacing another
+or the transformation of a single ancestral species into a
+single descendant species. Anagenesis is also known as
+phyletic evolution and is the opposite of CLADOGENESIS.
+In medicine, it refers to the regeneration of tissue
+or structure.
+analog A DRUG whose structure is related to that of
+another drug but whose chemical and biological properties
+may be quite different.
+See also CONGENER.
+analogy The similarity of structure between two
+species that are not closely related; usually attributed to
+convergent evolution. Structures that resemble each
+other due to a similarity in function without any simianalogy
+17
+A photomicrograph of Clostridium botulinum, a strictly anaerobic
+bacterium, stained with Gentian violet. The bacterium C. botulinum
+produces a nerve toxin that causes the rare but serious paralytic
+illness botulism. (Courtesy of Centers for Disease Control and
+Prevention)larity in underlying structure (or origin) are called analogous
+structures. For example, birds and bats each
+have their forelimbs modified as wings. They are analogous
+because they evolved independently after the earliest
+birds and bats diverged from their common
+ancestor, who did not have wings. However, the details
+of their structures are quite different.
+anation Replacement of the LIGAND water by an
+anion in a COORDINATION entity.
+androgens Steroid sex hormones, such as testosterone
+secreted by the testes in males, and others secreted
+by the adrenal cortex in humans and higher animals,
+as well as by the adrenal glands and ovaries in mammals.
+Androgens stimulate the development and maintenance
+of the male reproductive system such as sperm
+production, sexual behavior, and muscle development.
+Secondary sex characteristics such as the growth of
+pubic hair in females is also a product of androgens, as
+is the deepening of the voice at puberty.
+Testosterone is present in a number of forms, such
+as free testosterone, as testosterone bound to a protein,
+sex hormone binding globulin (SHBG), and as dihydrotestosterone.
+Testosterone and synthetic androgens
+(anabolic steroids) have been used for infertility, athletic
+enhancement, erectile dysfunction, and libido problems,
+but their use can cause side effects such as muscle weakness,
+muscle atrophy, little facial and body hair, and even
+changes in the size of the genitalia. Prolonged use can
+damage the liver, and their use is banned in many sports.
+Other androgens are androsterone (excreted in
+urine), which reinforces masculine characteristics; dihydrotestosterone,
+which is a metabolite synthesized
+mainly in the liver from free testosterone by the enzyme
+5-alpha-reductase and which levels are proportionally
+correlated to sex drive as well as erectile capabilities;
+and dehydroepiandrosterone, which are adrenal androgens
+that have been linked to puberty and aging.
+See also HORMONE.
+androgynous Term applied to flowering plants that
+have both staminate and pistillate flowers, or to cryptograms
+(ferns, mosses, fungi, algae) where the
+antheridia and archegonia are together.
+anemia Condition in which there is a reduction in
+the number of red blood cells or amount of
+HEMOGLOBIN per unit volume of blood below the reference
+interval for a similar individual of the species
+under consideration, often causing pallor and fatigue.
+See also HEMOGLOBIN.
+aneuploidy Aneuploidy is the gain or loss of individual
+chromosomes from the normal diploid set of 46
+and is the most common cytogenetic abnormality
+caused when homologous chromosomes fail to separate
+during the first division of meiosis.
+When a loss of a chromosome occurs, it is called
+monosomy and is rarely seen in live births, since most
+monosomic embryos and fetuses are lost to spontaneous
+abortion at very early stages of pregnancy. One
+exception to this is the loss of an X chromosome,
+which produces Turner syndrome in about one out of
+every 5,000 female births.
+The more common gain of a single chromosome is
+called trisomy and has been associated with various
+cancers. A common autosomal trisomy is Down’s syndrome
+in humans.
+Another form of aneuploidy is called nullisomy,
+which is the loss of both pairs of homologous chromosomes
+and is almost always fatal to humans, since
+humans have no extra disposable chromosomes in the
+genome.
+Tetrasomy is the gain of an extra pair of homologous
+chromosomes and is a rare chromosomal aberration.
+It can cause metopic craniosynostosis, facial
+anomalies, cranial asymmetry, atrioseptal defects,
+hydronephrosis, flexion contractures of the lower limbs,
+sensorineural hearing loss, and mental retardation.
+angiosperm A flowering plant. There are close to
+250,000 species of flowering plants, second in abundance
+only to insects. All have three basic organs
+(roots, stems, and leaves) and represent the most abundant
+and advanced terrestrial plants, which include
+trees, herbaceous plants, herbs, shrubs, all grasses, and
+some aquatic plants. Angiosperms are the source of
+most of the food on which human beings and other
+mammals rely and of many raw materials and natural
+products that provide the infrastructure for modern
+civilizations.
+18 anationAngiosperms are divided into two large groups.
+The dicotyledonea, or dicotyledons (also called magnoliopsida),
+the larger of the two groups, includes trees
+and shrubs and herbaceous plants. Dicots have two
+seed leaves (cotyledons) in the embryo. The smaller of
+the two groups is the monocotyledoneae, or monocotyledons
+(also called liliopsida), that include rice,
+corn, palms, bananas, coconuts, grasses, lilies, orchids,
+and garden plants. Monocots have a single seed leaf in
+the embryo.
+The life cycles of the angiosperms have several
+advantages over those of conifers, or gymnosperms,
+the only other group of seed-bearing plants, and from
+which scientists believe the angiosperms evolved
+during the Cretaceous era some 145 million years
+ago. They reproduce via flowers instead of cones;
+their ovules are embedded in female sporophylls
+instead of being exposed on a bare ground surface
+(e.g., apple); the gametophyte is reduced; and seeds
+are enclosed in fruits that develop from the ovary or
+related structures.
+Angiosperms have a true flower that is either a
+highly modified shoot with modified stem and leaves or
+a condensed and reduced compound strobilus (conelike
+structure) or inflorescence (flower cluster). Floral parts
+are in the form of sepals, petals, stamens, and carpels,
+while the ovules—the structure that develops in the
+plant ovary and contains the female gametophyte—are
+contained within the megasporophylls that are sealed
+in most angiosperm families. Pollination is facilitated
+by wind, water, or many animals. Self-pollination as
+well as parthenogenesis, a process by which embryonic
+development is initiated directly from an unfertilized
+cell, are common. Double fertilization occurs in all
+members of the phylum to produce the unusual stored
+food tissue called endosperm. Sexual reproduction
+in flowering plants occurs by this process of double
+fertilization in which one fertilization event forms an
+angiosperm 19
+An example of aneuploidy for an individual possessing three copies of a particular chromosome instead of the normal two copies.
+(Courtesy of Darryl Leja, NHGRI, National Institutes of Health)embryo, and a second fertilization event produces
+endosperm, a polyploid embryo-nourishing tissue
+found only in the angiosperms. Seeds are dispersed
+through a variety of forms such as fruits, follicles, capsules,
+berries, drupes, samaras, nuts, and achenes.
+Angiosperm is a combination of the Latin word angi-
+(enclosed) and the Greek word sperma (seed).
+anion An atom or molecule that has a negative
+charge; a negatively charged ion.
+See also ION.
+anisotropy The property of molecules and materials
+to exhibit variations in physical properties along different
+molecular axes of the substance.
+annual A plant that completes its entire life cycle—
+germinates, grows, flowers, and seeds—in a single year
+or growing season.
+See also BIENNIAL; PERENNIAL.
+antagonist A DRUG or a compound that opposes
+the physiological effects of another. At the RECEPTOR
+level, it is a chemical entity that opposes the RECEPTORassociated
+responses normally induced by another
+bioactive agent.
+anterior Referring to the head end of a bilaterally
+symmetrical animal; the front of an animal.
+anther In angiosperms, it is the terminal pollen sac of
+the stamen. The pollen grains with male gametes form
+inside the anther. It is the pollen that fertilizes the
+ovules. The anther is the primary male reproductive
+structure at the apex of the flower’s stamen, the male
+sexual organ.
+See also STAMEN.
+antheridium The multicellular male sex organ or
+gametangium where motile male gametes (sperm) are
+formed and protected in algae, fungi, bryophytes
+(mosses, liverworts, etc.), and pteridophytes (ferns).
+anthrax Bacterial disease of animals and humans
+caused by contamination with spores from Bacillus
+anthracis through inhalation or skin entry (cutaneous);
+can be used as an agent of bioterrorism.
+See also BACTERIA.
+anti In the representation of STEREOCHEMICAL relationships,
+anti means “on opposite sides” of a reference
+plane, in contrast to syn, which means “on the
+same side.”
+antibiotic A chemical agent that is produced synthetically
+or by an organism that is harmful to another
+organism. It is used to combat disease, either topically
+or by ingestion, in humans, animals, and plants. It can
+be made from a mold or bacterium and kills or slows
+the growth of other microbes, in particular bacteria.
+Penicillin, one of the most famous antibiotics, was accidentally
+discovered by the British bacteriologist SIR
+ALEXANDER FLEMING in 1928.
+Antibiotic resistance can occur when antibiotics are
+used repetitively. While most of the targeted bacteria
+are killed by a dose of antibiotics, some escape death,
+and these remaining bacteria have or develop a genetic
+resistance to the antibiotic. Unfortunately, this resistance
+trait can be passed on to their offspring.
+See also DRUG.
+antibody A soluble immunoglobulin blood protein
+produced by the B cells, white blood cells, that develop
+20 anion
+stigma
+style
+ovary
+ovule
+receptacle
+petal
+anther
+filament
+sepal
+pedicel
+A schematic of a typical angiosperm flower.in the bone marrow (also known as B lymphocytes,
+plasma cells) in response to an antigen (a foreign substance).
+Antibodies are produced in response to disease
+and help the body fight against a particular disease by
+binding to the antigen and killing it, or making it more
+vulnerable to action by white blood cells. They help the
+body develop an immunity to diseases.
+Each antibody has two light (L) and two heavy (H)
+immunoglobulin polypeptide chains linked together by
+disulfide bonds, with two antigen-binding sites. There
+are more than 1,000 possible variations, yet each antibody
+recognizes only one specific antigen. Antibodies
+are normally bound to a B cell, but when an antibody
+encounters an antigen, the B cell produces copies of the
+antibody with the assistance of helper T cells (a lymphocyte
+that undergoes a developmental stage in the
+thymus). The released antibodies then go after and
+bind to the antigen, either killing it or marking it for
+destruction by phagocytes.
+There are five immunoglobulins: IgC, IgA, IgM,
+IgD, and IgE.
+IgA, or immunoglobulin A, comprises about 10–15
+percent of the body’s total immunoglobulins and is
+found in external secretions such as saliva, tears, breast
+milk, and mucous, both intestinal and bronchial. They
+are secreted on the surface of the body as a first defense
+against bacteria and viral antigens in an attempt to prevent
+them from entering the body.
+IgM or immunoglobulin M antibodies are produced
+in response to new or repeat infections and stay
+in the body for a short time after infection. They make
+up from 5 to 10 percent of the total immunoglobulins
+and are the first to show up in the serum after an antigen
+enters. IgM is produced during the primary
+immune response. It is the IgMs that capture and bind
+antigens to form large insoluble complexes that are
+cleared from the blood.
+IgG or immunoglobulin G (gamma globulin) antibodies
+remain in the body for long periods of time after
+infection and are the most common type, comprising
+about 80 percent of the body’s total immunoglobulins.
+They are in the serum and are produced in substantial
+quantities during the secondary immune response, and
+along with IgM activate the complement system, which
+results in the destruction of the membrane of
+pathogens. The IgGs act by agglutinating, by opsonising,
+by activating complement-mediated reactions
+against cellular pathogens, and by neutralizing toxins.
+IgE or immunoglobulin E is associated with mast
+cells, which are basophils, a type of granular white
+blood cell that has left the bloodstream and entered a
+tissue. Mast cells release histamine and heparin, chemicals
+that mediate allergic reactions. Not surprisingly,
+IgE is responsible for immediate hypersensitivity (allergic)
+reactions and immune defense against parasites.
+IgD or immunoglobulin D is a specialized immunoglobulin,
+but its function is currently unknown. It is
+found in small amounts in the serum.
+antibody 21
+antigens
+antigen
+antigen binding fragment
+antibody
+An antibody is a blood protein that is produced in response to and
+that counteracts an antigen. Antibodies are produced in response
+to disease and help the body fight against particular diseases. In
+this way, antibodies help the body develop an immunity to disease.
+(Courtesy of Darryl Leja, NHGRI, National Institutes of Health)anticodon A specialized sequence of three nucleotides
+on a tRNA (transfer ribonucleic acid) molecule. The
+anticodon associates with a complementary triplet of
+bases—the codon—on an mRNA (messenger RNA)
+molecule during protein synthesis.
+The tRNA molecule acts like a “ferry” whose job
+is to “pick up a passenger” (read the code from the
+mRNA) and then “shuttle it” (dock to the corresponding
+amino acid) into place. The other end of the tRNA
+molecule has an acceptor site where the tRNA’s specific
+amino acid will bind.
+The 20 amino acids in the table below can create
+64 different tRNA molecules, 61 for tRNA coding
+and three codes for chain termination (pairing up with
+“stop codons” that end the mRNA message), and
+each amino acid can create more than one set of
+codons.
+See also CODON.
+antidiuretic hormone (ADH) Also known as vasopressin,
+ADH is a nine–amino acid peptide secreted from
+the posterior pituitary gland. The hormone is packaged
+in secretory vesicles with a carrier protein called neurophysin
+within hypothalamic neurons, and both are
+released upon hormone secretion. The single most important
+effect of antidiuretic hormone is to conserve body
+water by reducing the output of urine. It binds to receptors
+in the distal or collecting tubules of the kidney and
+promotes reabsorption of water back into the circulation.
+The release of ADH is based on plasma osmolarity,
+the concentration of solutes in the blood. For example,
+loss of water (e.g., sweating) results in a concentration
+of blood solutes, so plasma osmolarity increases.
+Osmoreceptors, neurons in the hypothalamus, stimulate
+secretion from the neurons that produce ADH. If
+the plasma osmolarity falls below a certain threshold,
+the osmoreceptors do nothing and no ADH is released.
+However, when osmolarity increases above the threshold,
+the osmoreceptors stimulate the neurons and ADH
+is released.
+antiferromagnetic See FERROMAGNETIC.
+antigen A foreign substance, a macromolecule, that
+is not indigenous to the host organism and therefore
+elicits an immune response.
+antimetabolite A structural ANALOG of an intermediate
+(substrate or COENZYME) in a physiologically
+occurring metabolic pathway that acts by replacing the
+natural substrate, thus blocking or diverting the
+biosynthesis of physiologically important substances.
+antisense molecule An OLIGONUCLEOTIDE or ANALOG
+thereof that is complementary to a segment of RNA
+(ribonucleic acid) or DNA (deoxyribonucleic acid)
+and that binds to it and inhibits its normal function.
+aphotic zone The deeper part of the ocean beneath
+the photic zone, where light does not penetrate sufficiently
+for photosynthesis to occur.
+See also OCEANIC ZONE.
+22 anticodon
+Amino Acid:
+A = Adeninez
+C = Cytosine
+G = Guanine
+U = Uracil
+Alanine GCC, GCA, GCG, GCU
+Arginine AGA, AGG, CGU, CGA, CGC, CGG
+Asparagine AAC, AAU
+Aspartic Acid GAC, GAU
+Cysteine UGC, UGU
+Glutamic Acid GAA, GAG
+Glutamine CAA, CAG
+Glycine GGA, GGC, GGG, GGU
+Histidine CAC, CAU
+Isoleucine AUA, AUC, AUU
+Leucine UUA, UUG, CUA, CUC, CUG, CUU
+Lycine AAA, AAG
+Methionine (initiation) AUG
+Phenylalanine UUC, UUU
+Proline CCA, CCC, CCG, CCU
+Serine UCA, UCC, UCG, UCU, AGC, AGU
+Threonine ACA, ACC, ACG, ACU
+Tryptophan UGG
+Tyrosine UAC, UAU
+Valine GUA, GUC, GUG, GUU
+“Stop” UAA, UAG, UGAapical dominance Concentration of growth at the
+tip of a plant shoot, where a terminal bud partially
+inhibits axillary bud growth. It is thought to be caused
+by the apical bud producing a great deal of IAA (auxin),
+which is transported from the apical bud to the surrounding
+area and causes lateral buds to stay dormant.
+apical meristem Embryonic plant tissue (meristematic
+cells) in the tips of roots and in the buds of shoots
+that supplies cells via mitosis for the plant to grow in
+length.
+apomixis The ability of certain plants to reproduce
+clones of themselves, i.e., the scaly male fern group,
+Dryopteris affinis (Lowe) Fraser-Jenkins.
+apomorphic character A phenotypic character, or
+homology, in which the similarity of characters found
+in different species is the result of common descent,
+i.e., the species evolved after a branch diverged from a
+phylogenetic tree.
+Two characters in two taxa are homologues if they
+are the same as the character that is found in the ancestry
+of the two taxa or they are different characters that
+have an ancestor/descendant relationship described as
+preexisting or novel. The ancestral character is termed
+the plesiomorphic character, and the descendant character
+is termed the apomorphic character. Examples are
+the flippers of whales and human arms.
+See also PHENOTYPE.
+apoplast The cell-wall continuum of an organ or a
+plant; in a plant it includes the xylem. The movement
+of substances via cell walls is called apoplastic transport.
+apoprotein A protein without its characteristic PROSTHETIC
+GROUP or metal.
+apoptosis Cells die by injury or commit “suicide.”
+Apoptosis is a programmed cell death (PCD) brought
+about by signals that trigger the activation of a flood
+apoptosis 23
+RNA polymerase
+T
+T G
+G
+C
+C
+C
+C G
+A
+A
+A
+A A
+A
+A
+A
+A
+A
+A
+A
+T T
+T
+T
+T
+T
+T
+T
+C
+A C
+C C
+C
+C G
+G
+G G
+G G
+G
+G
+A U U C C C C C
+C
+A U C
+G C
+G G
+T
+A
+C
+G
+C
+U
+sense strand
+(coding strand)
+RNA
+DNA
+antisense strand
+(non-coding DNA)
+An antisense molecule is the noncoding strand in double-stranded DNA. The antisense strand serves as the template for mRNA
+synthesis. (Courtesy of Darryl Leja, NHGRI, National Institutes of Health)of “suicide” proteins in the cells destined to die. The
+destined cells then go through a number of molecular
+and morphological changes until they finally die. PCD
+is important in proper development in mitosis and cells
+that may be threatening to the host organism. It can be
+induced by a variety of stimuli, such as ligation of cell
+surface receptors, starvation, growth factor/survival
+factor deprivation, heat shock, hypoxia, DNA damage,
+viral infection, and cytotoxic/chemotherapeutical
+agents. Apoptosis is a word of Greek origin meaning
+“falling off or dropping off.” There is a Web site
+devoted to the topic at http://www.celldeath.de/mainfram.
+htm.
+aposematic coloration The bright coloration of animals
+with effective physical or chemical defenses that
+24 aposematic coloration
+Scanning Electron Micrograph (SEM) of human white blood cells (leucocytes) showing one cell undergoing apoptosis. Apoptosis is
+the process of “genetically programmed cell death.” At upper right, an apoptotic white blood cell has shrunk and its cytoplasm has
+developed blebs (grapelike clusters). Normal white blood cells are seen beside it. These white blood cells are myeloid leucocytes,
+originating from bone marrow. The human myeloid cell line depends on growth factors to survive, and cells undergo apoptosis when
+deprived of growth factors. Research on apoptosis may provide genetic treatments for diseases such as cancer. Magnification: ×7,500
+at 8×10-in. size. (Courtesy © Dr. Gopal Murti/Photo Researchers, Inc.)
+A New York tiger moth (Grammia virginiensis) exuding a toxic
+yellow froth from prothoracic glands. This is an example of lepidoptera
+showing chemical defense and aposematic coloration.
+(Courtesy of Tim McCabe)acts as a warning to experienced predators. The larvae
+of the monarch butterfly and Phymateus morbillosus, a
+foaming grasshopper from South Africa, are two examples.
+The warning coloration alerts the predator, who
+may have eaten a similar-looking animal and was sickened
+by it, to avoid it. This also helps those species that
+mimic others in appearance, such as the viceroy butterfly
+and the monarch butterfly.
+See also MIMICRY.
+aquaporins (AQPs) The aquaporins are a family of
+proteins known for facilitating water transport. An
+aquaporin is a transport protein in the plasma membranes
+of a plant or animal cell that specifically facilitates
+the diffusion of water across the membrane
+(osmosis).
+Aquaporin-1, or CHIP-28, discovered in 1992 by
+Peter Agre, is the major water channel of the red blood
+cells. In the kidneys, it is involved in the reabsorption of
+most of the waste filtered through the glomeruli. It is
+also thought to influence the movement of CO2 across
+the cell membrane, since it is present in most cells that
+have high levels of CO2. Aquaporin-2, or WCH-CD, is a
+water channel that makes the principal cells of the
+medullary collecting duct in the kidneys more permeable
+to water. Lack of a functional aquaporin-2 gene leads to
+a rare form of nephrogenic diabetes insipidus. There are
+many more aquaporins that have been discovered in the
+more water-permeable parts of the body, such as the
+moist surface tissues of the alveoli in the lung, the kidney
+tubules, the choroid plexus of the brain where cerebrospinal
+fluid is produced, the ciliary epithelium of the
+eye where aqueous humor is formed, and the salivary
+and lacrimal tear glands. Aquaporins are believed to be
+involved in mechanisms defending against brain edema,
+congestive heart failure, and many other clinical entities.
+aquation The incorporation of one or more integral
+molecules of water into another chemical species with or
+without displacement of one or more atoms or groups.
+See also HYDRATION.
+aqueous solution A solution in which water is the
+solvent or dissolving medium, such as salt water, rain,
+or soda.
+Archaea One of two prokaryotic (no nucleus)
+domains, the other being the Bacteria. Archaeans
+include organisms that live in some of the most
+extreme environments on the planet and resemble
+bacteria. They are single-cell organisms that, with
+bacteria, are called prokaryotes. Their DNA is not
+enclosed in a nucleus. Bacteria and archaea are the
+only prokaryotes; all other life forms are eukaryotes.
+Archaeans are among the earliest forms of life that
+appeared on Earth billions of years ago, and it is
+believed that the archaea and bacteria developed
+separately from a common ancestor nearly 4 billion
+years ago.
+Some archaeans are “extremophiles,” that is,
+they live near rift vents in the deep sea at temperatures
+well over 100°C (212°F). Others live in hot
+springs (such as the hot springs of Yellowstone
+National Park, where some of archaea were first discovered)
+or in extremely alkaline or acid waters.
+They have been found inside the digestive tracts of
+cows, termites, and marine life, where they produce
+methane. They also live in the anoxic muds of marshes
+and at the bottom of the ocean and in petroleum
+deposits deep underground. They are also quite abundant
+in the plankton of the open sea and even have
+been found in the Antarctic. They survive in these
+harsh conditions by using a variety of protective
+molecules and enzymes.
+Three groups of archaeans are known and include
+the Crenarchaeota, those that are extremophiles; the
+Euryarchaeota, methane producers and salt lovers; and
+the Korarchaeota, an all-inclusive group that contains a
+number of types that are little understood today.
+Archaeans produce energy by feeding on hydrogen
+gas, carbon dioxide, and sulfur and can even create
+energy from the sun by using a pigment around the
+membrane called a bacteriorhodopsin that reacts with
+light and produces ATP.
+The archaeans were not discovered as a separate
+group until the late 1970s.
+archaezoa This group is believed to be the first to
+diverge from the prokaryotes. They lack mitochondria
+(converts foods into usable energy), though some
+archaezoans have genes for mitochondrial. They also
+lack an endoplasmic reticulum (important for protein
+synthesis) and golgi apparatus (important for glycosyarchaezoa
+25lation, secretion), have no peroxisomes (use oxygen to
+carry out catabolic reactions), and have small ribosomes
+similar to bacteria.
+Archaezoa has three known subgroups: diplomonads,
+microspoidians, and trichomonads. They are usually
+found with flagellas in moist/damp environments
+such as streams, lakes, underground water deposits,
+and in damp soil.
+Some members have been found in harsh environments
+and can exist in bodies of water that can drop
+below –20° Fahrenheit and around ocean floor vents
+that exceed 320°F. These organisms can survive in a
+variety of environments as long as they are in water.
+Many archaezoans are parasites and feed off their
+host. The species Giardia, which causes abdominal
+cramps and severe diarrhea, uses a ventral suction cup
+to attach to the human intestinal epithelium. Some
+species have chloroplasts that allow them to take in
+light energy and use it when needed. Some species contain
+hydrogenosomes, organelles that are similar to
+mitochondria but do not respire with oxygen. They
+convert pyruvate into acetate, CO2, and H2, allowing
+extra ATP synthesis without respiration.
+Since they have no mitochondria or plastid, it is
+believed that they are the intermediate stage between
+prokaryotes and eukaryotes and are also used as evidence
+for the evolution of the nucleus before the
+organelles.
+archegonium In plants, the multicellular flaskshaped
+female gametangium (a moist chamber in which
+gametes develop in bryophytes, ferns, and gymnosperms).
+archenteron The endoderm-lined gut (enteron) hollow
+cavity formed during the gastrulation process in
+metazoan embryos. The archenteron is formed by the
+infolding of part of the outer surface of the BLASTULA
+and opening to the exterior via the BLASTOPORE. Also
+called the primitive gut, or gastrocoel in early embryonic
+development, it is the digestive cavity. The term is
+Greek for “primitive intestine.”
+archipelago A group or chain of islands clustered in
+a body of water, e.g., the African Bazaruto Archipelago,
+consisting of five islands: Bazaruto, Magaruque,
+Santa Carolina, Benguera (Benguerra), and Bangue.
+Aristotle (384 B.C.E.–322 B.C.E.) Greek Philosopher
+Aristotle, a Greek philosopher and scientist, has
+had more influence on the field of science than anyone.
+His influence, which lasted more than 2,000
+years, was due to the fact that he was the first to
+depart from the old Platonic school of thinking by
+reasoning that accurate observation, description,
+inductive reasoning, and interpretation was the way
+to understand the natural world. Since he was the
+first to use this method, he is often called the “Father
+of Natural History.”
+Born in 384 B.C.E. in the Ionian colony of Stagirus
+(now Macedonia), Aristotle was the son of Nicomachus,
+a physician and grandfather of Alexander the
+Great. At 17, he became a student in Plato’s academy
+in Athens and stayed there for more than 20 years as a
+student and teacher. In 347 B.C.E., he moved to the
+princedom of Atarneus in Mysia (northwestern Asia
+Minor), ruled by Hermias, and who presided over a
+small circle of Plato followers in the town of Assos.
+Aristotle befriended Hermias, joined the group, and
+eventually married Hermias’s niece and adopted daughter
+Pythias.
+Around 342 B.C.E., he moved to Mieza, near the
+Macedonian capital Pella, to supervise the education
+of 13-year-old Alexander the Great. Aristotle returned
+to Athens in 335 B.C.E. to teach, promote research
+projects, and organize a library in the Lyceum. His
+school was known as the Peripatetic School. After
+Alexander’s death in 323 B.C.E., Aristotle was prosecuted
+and had to leave Athens, leaving his school to
+Theophrastus. He died shortly after at Chalcis in
+Euboea in 322 B.C.E.
+While his writings were immense, one of his works
+particularly influenced the field of meteorology for
+over 2,000 years. Meteorologica (meteorology) was
+written in 350 B.C.E. and comprised four books,
+although there are doubts about the authenticity of the
+last one. They deal mainly with atmospheric phenomena,
+oceans, meteors and comets, and the fields of
+astronomy, chemistry, and geography.
+Aristotle attempted to explain the atmosphere
+in a philosophical way and discussed all forms of
+“meteors,” a term then used to explain anything sus-
+26 archegoniumpended in the atmosphere. Aristotle discussed the
+philosophical nature of clouds and mist, snow, rain
+and hail, wind, lightning and thunder, rivers, rainbows,
+and climatic changes. His ideas posited the
+existence of four elements (earth, wind, fire, and
+water), each arranged in separate layers but capable
+of mingling.
+Aristotle’s observations in the biological sciences
+had some validity, but many of his observations and
+conclusions regarding weather and climate were
+wrong, and it was not until the 17th century—with the
+invention of meteorological instruments such as the
+hygrometer, thermometer, and barometer—that his
+ideas were disproved scientifically. However, he correctly
+reasoned that the earth was a sphere, recorded
+information regarding the bathymetry of seas, correctly
+interpreted dolphins and whales as mammals, separated
+vertebrates into oviparous and viviparous, and
+described and named many organisms, including crustaceans
+and worms, mollusks, echinoderms, and fish
+from the Aegean Sea.
+Arrhenius, Svante August (1859–1927) Swedish
+Chemist, Physicist Svante August Arrhenius was born
+in Vik (or Wijk), near Uppsala, Sweden, on February
+19, 1859. He was the second son of Svante Gustav
+Arrhenius and Carolina Christina (née Thunberg).
+Svante’s father was a surveyor and an administrator of
+his family’s estate at Vik. In 1860, a year after Arrhenius
+was born, his family moved to Uppsala, where his
+father became a supervisor at the university. He was
+reading by the age of three.
+Arrhenius received his early education at the
+cathedral school in Uppsala, excelling in biology,
+physics, and mathematics. In 1876, he entered the
+University of Uppsala and studied physics, chemistry,
+and mathematics, receiving his B.S. two years later.
+While he continued graduate classes for three years in
+physics at Uppsala, his studies were not completed
+there. Instead, Arrhenius transferred to the Swedish
+Academy of Sciences in Stockholm in 1881 to work
+under Erick Edlund to conduct research in the field of
+electrical theory.
+Arrhenius studied electrical conductivity of dilute
+solutions by passing electric current through a variety
+of solutions. His research determined that molecules
+in some of the substances split apart, or dissociated
+from each other, into two or more ions when they
+were dissolved in a liquid. He found that while each
+intact molecule was electrically balanced, the split
+particles carried a small positive or negative electrical
+charge when dissolved in water. The charged atoms
+permitted the passage of electricity, and the electrical
+current directed the active components toward the
+electrodes. His thesis on the theory of ionic dissociation
+was barely accepted by the University of Uppsala
+in 1884, since the faculty believed that oppositely
+charged particles could not coexist in solution. He
+received a grade that prohibited him from being able
+to teach.
+Arrhenius published his theories (“Investigations
+on the Galvanic Conductivity of Electrolytes”) and
+sent copies of his thesis to a number of leading European
+scientists. Russian-German chemist Wilhelm Ostwald,
+one of the leading European scientists of the day
+and one of the principal founders of physical chemistry,
+was impressed and visited him in Uppsala, offering
+him a teaching position, which he declined.
+However, Ostwald’s support was enough for Uppsala
+to give him a lecturing position, which he kept for two
+years.
+The Stockholm Academy of Sciences awarded
+Arrhenius a traveling scholarship in 1886. As a result,
+he worked with Ostwald in Riga with physicist
+Friedrich Kohlrausch at the University of Wurzburg,
+with physicist Ludwig Boltzmann at the University of
+Graz, and with chemist Jacobus Van’t Hoff at the University
+of Amsterdam. In 1889, he formulated his rate
+equation that is used for many chemical transformations
+and processes, in which the rate is exponentially
+related to temperature, known as the “Arrhenius
+equation.”
+He returned to Stockholm in 1891 and became a
+lecturer in physics at Stockholm’s Hogskola (high
+school) and was appointed physics professor in 1895
+and rector in 1897. Arrhenius married Sofia Rudbeck
+in 1894 and had one son. The marriage lasted a short
+two years. Arrhenius continued his work on electrolytic
+dissociation and added the study of osmotic
+pressure.
+In 1896, he made the first quantitative link
+between changes in carbon dioxide concentration and
+climate. He calculated the absorption coefficients of
+carbon dioxide and water based on the emission spectrum
+of the moon, and he also calculated the amount
+Arrhenius, Svante August 27of total heat absorption and corresponding temperature
+change in the atmosphere for various concentrations
+of carbon dioxide. His prediction of a doubling of
+carbon dioxide from a temperate rise of 5–6°C is close
+to modern predictions. He predicted that increasing
+reliance on fossil fuel combustion to drive the world’s
+increasing industrialization would, in the end, lead to
+increases in the concentration of CO2 in the atmosphere,
+thereby giving rise to a warming of the Earth.
+In 1900, he published his Textbook of Theoretical
+Electrochemistry. In 1901 he and others confirmed the
+Scottish physicist James Clerk Maxwell’s hypothesis that
+cosmic radiation exerts pressure on particles. Arrhenius
+went on to use this phenomenon in an effort to explain
+the aurora borealis and solar corona. He supported the
+Norwegian physicist Kristian Birkeland’s explanation of
+the origin of auroras that he proposed in 1896. He also
+suggested that radiation pressure could carry spores and
+other living seeds through space and believed that life on
+earth was brought here under those conditions. He likewise
+believed that spores might have populated many
+other planets, resulting in life throughout the universe.
+In 1902, he received the Davy Medal of the Royal
+Society and proposed a theory of immunology. The following
+year he was awarded the Nobel Prize for chemistry
+for his work that originally had been perceived as
+improbable by his Uppsala professors. He also published
+his Textbook of Cosmic Physics.
+He became director of the Nobel Institute of Physical
+Chemistry in Stockholm in 1905 (a post he held
+until a few months before his death). He married
+Maria Johansson and had one son and two daughters.
+The following year he also had time to publish three
+books, Theories of Chemistry, Immunochemistry, and
+Worlds in the Making.
+He was elected a foreign member of the Royal
+Society in 1911, the same year he received the Willard
+Gibbs Medal of the American Chemical Society. Three
+years later he was awarded the Faraday Medal of the
+British Chemical Society. He was also a member of the
+Swedish Academy of Sciences and the German Chemical
+Society.
+During the latter part of his life his interests included
+the chemistry of living matter and astrophysics, especially
+the origins and fate of stars and planets. He
+continued to write books such as Smallpox and Its Combating
+(1913), Destiny of the Stars (1915), Quantitative
+Laws in Biological Chemistry (1915), and Chemistry
+and Modern Life (1919). He also received honorary
+degrees from the universities of Birmingham, Edinburgh,
+Heidelberg, and Leipzig and from Oxford and Cambridge
+Universities. He died in Stockholm on October 2,
+1927, after a brief illness, and is buried at Uppsala.
+arteriosclerosis Also known as “hardening of the
+arteries.” It is a disease whereby the arteries thicken and
+the inner surfaces accumulate deposits of hard plaques
+of cholesterol, calcium, fibrin, and other cellular debris.
+The arteries become inelastic and narrowed, which
+increases the stress on the heart as it pumps blood
+through, and complete obstruction with loss of blood
+supply can occur. This is a common cause for high
+blood pressure. There are hereditary links that are associated
+with increased risk of heart attack and stroke.
+When arteriosclerosis occurs in large arteries, such as
+the aorta, it is often referred to as atherosclerosis.
+See also ARTERY.
+artery A blood vessel that carries oxygenated
+(except the pulmonary artery) blood away from the
+heart via the right and left ventricles to organs
+throughout the body. The main trunk of the arterial
+system in the body is called the aorta. The aortic divisions
+are the abdominal aorta, thoracic aorta, aortic
+artery, and ascending aorta. The pulmonary artery
+carries unoxygenated blood from the heart to the
+lungs for oxygenation.
+See also VEIN.
+arthritis Inflammation of one or more of the joints in
+the body.
+Arthropoda An animal phylum where individuals
+have a segmented body, exoskeleton, and jointed legs.
+artificial selection Artificial selection is the conscious
+attempt by human beings to alter the environments
+or traits of other organisms (including their own
+environment) so as to alter the evolution of these
+28 arteriosclerosisorganism’s species. It is used in the selective breeding of
+domesticated plants and animals to encourage the
+occurrence of desirable traits or new breeds. Chickens
+are artificially selected to produce better eggs, and pet
+fish are selectively bred to produce vibrant colors and
+other desirable traits.
+ascus (plural, asci) In Ascomycota (blue, green, and
+red molds), a saclike spore capsule located at the tip of
+the fruiting body, called the ascocarp in dikaryotic
+(containing two differing haploid nuclei) hyphae, in
+which ascopores are found and in which karyogamy is
+performed, i.e., two (dikaryotic) nuclei fuse (karyogamy)
+to form diploid nuclei. Asci vary in shape from
+narrow and elongate to nearly round. While the number
+of ascospores per ascus is usually eight, numerous
+other counts of ascospores per ascus are also known.
+In medicine ASCUS stands for atypical squamous
+cells of undetermined significance and means that irregular
+cells have shown up on a Pap smear.
+asexual reproduction A type of reproduction, without
+meiosis or syngamy (the fusion of two gametes in
+fertilization), involving only one parent that produces
+genetically identical offspring by budding, by the division
+of a single cell, or by the entire organism breaking
+into two or more parts. The offspring has the identical
+genes and chromosomes as the parent. Most plants are
+capable of asexual reproduction by means of specialized
+organs called propagules, such as tubers, stolons,
+gemma cups, and rhizomes.
+Asexual reproduction is also known as vegetative
+reproduction. Examples of organisms that reproduce
+by asexual reproduction include aspens, dandelions,
+strawberries, walking fern (Asplenium rhizophyllum),
+and yeast. While asexual reproduction guarantees
+reproduction (no dependence on others), it does not
+allow genetic variation.
+See also SEXUAL REPRODUCTION.
+asexual reproduction 29
+Illustration of the arterial system in the human body, shown in a
+standing figure. The heart and kidneys are also shown. Note the
+feathery network of blood vessels in the left and right lungs (next
+to the heart). Arteries are the blood vessels that carry oxygen-rich
+blood to the body’s tissues. Veins (not shown) carry blood back to
+the heart. The average adult has about five liters of blood. At rest,
+this volume of blood passes through the heart each minute.
+(Courtesy © John Bavosi/Photo Researchers, Inc.)
+A tailless whip scorpion (arthropod) from a cave in the Bahamas
+is an example of a troglodyte, an animal that lives underground.
+(Courtesy of Tim McCabe)assimilation To transform food and other nutrients
+into a part of the living organism.
+assimilative See ASSIMILATION.
+assimilator See ASSIMILATION.
+associative learning The acquired ability to associate
+one stimulus with another, such as one linked to a
+reward or punishment; also called classical conditioning
+and trial-and-error learning.
+assortative mating A type of nonrandom or preference
+mating in which mating partners resemble each
+other in certain phenotypic characteristics. It can be a
+preference or avoidance of certain individuals as mates
+based on physical or social traits.
+astigmatism Distorted vision, especially at close distances,
+resulting from an irregularly shaped cornea.
+asymmetric carbon A carbon atom covalently
+bonded to four different atoms or groups of atoms.
+asymmetric synthesis A traditional term for stereoselective
+synthesis. A chemical reaction or reaction
+sequence in which one or more new elements of CHIRALITY
+are formed in a SUBSTRATE molecule and which
+produces the STEREOISOMERic (ENANTIOMERic or
+DIASTEREOISOMERic) products in unequal amounts.
+asymmetry parameter In nuclear quadrupole resonance
+spectroscopy, the parameter, h, is used for
+describing nonsymmetric fields. It is defined as h =
+(qxx – qyy)/qzz in which qxx, qyy, and qzz are the
+components of the field gradient q (which is the second
+derivative of the time-averaged electric potential) along
+the x– , y– and z–axes. By convention qzz refers to the
+largest field gradient, qyy to the next largest, and qxx
+to the smallest when all three values are different.
+atomic number The atomic number is equal to the
+number of positively charged protons in an atom’s
+nucleus and determines which element an atom is.
+The atomic number is unique for each element and is
+designated by a subscript to the left of the elemental
+symbol. The atomic number for hydrogen is 1; it has
+one proton. Elements are substances made up of
+atoms with the same atomic number. Most of the
+elements are metals (75 percent) and the others are
+nonmetals.
+atomic weight or mass The total atomic mass (the
+weighted average of the naturally occurring isotopes),
+which is the mass in grams of one MOLE of the atom.
+The atomic weight is calculated by adding the number
+of protons and neutrons together. The atomic weight of
+hydrogen is 1.0079 grams per mole.
+ATP (adenosine triphosphate) An adenine (purine
+base), ribose, and three phosphate units containing
+nucleoside triphosphate that (a) releases free energy
+when its phosphate bonds are hydrolyzed and (b) produces
+adenosine diphosphate (ADP) and inorganic
+phosphorous. This energy is used to drive ENDERGONIC
+REACTIONS in cells (chemical reactions that
+require energy input to begin). ATP is produced in the
+cristae of mitochondria and chloroplasts in plants and
+is the driving force in muscle contraction and protein
+synthesis in animals. It is the major energy source
+within cells.
+ATP synthase (proton translocating ATPase) A
+protein complex (a chemiosmotic enzyme) that synthesizes
+adenosine triphosphate (ATP) from adenosine
+diphosphate (ADP) and enables phosphate
+coupling with an electrochemical ion gradient across
+the membrane. It is found in cellular membranes and
+the inner membrane of mitochondria, the thylakoid
+membrane of chloroplasts, and the plasma membrane
+of prokaryotes. The protein consists of two
+portions: a soluble fraction that contains three catalytic
+sites and a membrane-bound portion that contains
+anion channels. It functions in chemiosmosis,
+the use of ion gradients across membranes, with
+adjacent electron transport chains, and it uses the
+30 assimilationenergy stored across the photosynthetic membrane (a
+hydrogen-ion concentration gradient) to add inorganic
+phosphate to ADP, thereby creating ATP. This
+allows hydrogen ions (H+) to diffuse into the mitochondrion.
+atrioventricular valve A valve in the heart between
+each atrium and ventricle. It prevents a backflow of
+blood when the ventricles contract.
+atrium (plural, atria) An upper chamber that
+receives blood from the veins returning to the vertebrate
+heart and then pushes the blood to the ventricles,
+the lower chambers. There is a left and right atrium.
+Oxygenated blood returns from the lungs into the left
+atrium and gets pushed down to the left ventricle. The
+left ventricle pumps the blood out to the rest of the
+body, transporting the oxygen to parts of the body that
+need it. Blood returning from its voyage through the
+body arrives in the right atrium. It then goes into the
+right ventricle from which it goes through the lungs
+again to get more oxygen, and the cycle continuously
+repeats itself.
+auranofin See GOLD DRUGS.
+autacoid A biological substance secreted by various
+cells whose physiological activity is restricted to the
+vicinity of its release; it is often referred to as local
+HORMONE.
+autogenesis model According to autogenesis (“selfgenerating”),
+eukaryotic cells evolved by the specialization
+of internal membranes originally derived from
+prokaryotic plasma membranes. This is another word
+for spontaneous generation or abiogenesis.
+autoimmune disease An immunological disorder in
+which the immune system turns against itself. Autoimmunity
+can be the cause of a broad spectrum of human
+illnesses. Autoimmune diseases were not accepted into
+the mainstream of medicine until the 1950s and 1960s.
+They are diseases in which the progression from benign
+autoimmunity to pathogenic autoimmunity happens
+over a period of time and is determined by both genetic
+influences and environmental triggers. Examples of
+autoimmune diseases are idiopathic thrombocytopenic
+purpura, Graves’ disease, myasthenia gravis, pemphigus
+vulgaris (cause of pemphigus), and bullous pemphigoid
+(a blistering disease).
+autonomic nervous system (ANS) A division of the
+nervous system of vertebrates. The nervous system consists
+of two major subdivisions: the central nervous system
+(CNS), made up of the brain and spinal cord, and
+the peripheral nervous system (PNS), which comprises
+ganglia and peripheral nerves outside the brain and the
+spinal cord. The peripheral nervous system is divided
+into two parts: the somatic, which is concerned with
+sensory information about the environment outside the
+body as well as muscle and limb position; and the autonomic
+nervous system that regulates the internal environment
+of vertebrates. It consists of the sympathetic
+(fight/flight), parasympathetic (rest/rebuild), and enteric
+nervous systems. The ANS is involved in the function
+of virtually every organ system.
+The parasympathetic nervous system takes care of
+essential background operations such as heart/lungs
+and digestion, while the sympathetic nervous system
+provides stress-response and procreation strategies and
+functions. The enteric nervous system takes care of
+controlling the function of the gut.
+The sympathetic nerves form part of the nerve network
+connecting the organ systems with the central nervous
+system. The sympathetic nerves permit an animal
+to respond to stressful situations and helps control the
+reaction of the body to stress. Examples of the sympathetic
+reactions are increase in heart rate, decrease in
+secretion of salivary and digestive glands, and dilation
+of pupils. The parasympathetic nerves connect both
+somatic and visceral organs to the central nervous system,
+and their primary action is to keep body functions
+normalized. The ANS works to conserve the body’s
+resources and to restore equilibrium to the resting state.
+autophytic The process whereby an organism uses
+photosynthesis to make complex foods from inorganic
+substances.
+autophytic 31autopolyploid A type of polyploid species resulting
+from one species doubling its chromosome number to
+become tetraploid, which may self-fertilize or mate
+with other tetraploids. This can result in sympatric speciation,
+where a new species can evolve in the geographical
+midst of its parent species because of
+reproductive isolation.
+See also POLYPLOIDY.
+autoreceptor Present at a nerve ending, a RECEPTOR
+that regulates, via positive or negative feedback processes,
+the synthesis and/or release of its own physiological
+ligand.
+See also HETERORECEPTOR.
+autosome A chromosome that is not directly
+involved in determining sex, as opposed to the sex
+chromosomes or the mitochondrial chromosome.
+Human cells have 22 pairs of autosomes.
+autotroph Any organism capable of making its
+own food. It synthesizes its own organic food substances
+from inorganic compounds using sources such
+as carbon dioxide, ammonia, and nitrates. Most
+plants and many protists and bacteria are autotrophs.
+Photoautotrophs can use light energy to make their
+food (photosynthesis). Chemoautotrophs use chemical
+energy to make their food by oxidizing compounds
+such as hydrogen sulfide (H2S). Heterotrophs are
+organisms that must obtain their energy from organic
+compounds.
+See also TROPHIC LEVEL.
+auxins A group of plant hormones that produce a
+number of effects, including plant growth, phototropic
+response through the stimulation of cell elongation
+(photopropism), stimulation of secondary growth,
+apical dominance, and the development of leaf traces
+and fruit. An important plant auxin is indole-3-acetic
+acid (IAA). (IAA and synthetic auxins such as 2,4-D
+and 2,4,5-T are used as common weed killers.)
+auxotroph A nutritionally mutant organism that is
+unable to synthesize certain essential molecules (e.g.,
+mineral salts and glucose) and that cannot grow on
+media lacking these molecules normally synthesized by
+wild-type strains of the same species without the addition
+of a specific supplement like an amino acid.
+Aves The vertebrate class of birds, characterized by
+feathers and other flight adaptations, such as an active
+metabolism, and distinguished by having the body
+more or less completely covered with feathers and the
+forelimbs modified as wings. Birds are a monophyletic
+lineage that evolved once from a common ancestor, and
+all birds are related through that common origin. There
+are about 30 orders of birds, about 180 families, and
+about 2,000 genera with 10,000 species.
+axillary bud An embryonic shoot present in the
+angle formed by a leaf and stem. Also called the lateral
+bud.
+axon A process from a neuron, usually covered with
+a myelin sheath, that carries nerve impulses away from
+the cell body and to the synapse in contact with a target
+cell. The end of the axon contains vesicles (hollow
+spheres), in which transmitters are stored, and specialized
+structures forming the synapse.
+See also NEURON.
+azurin An ELECTRON TRANSFER PROTEIN, containing a
+TYPE 1 COPPER site, that is isolated from certain bacteria.
+32 autopolyploidbacteria One of two prokaryotic (no nucleus)
+domains, the other being the ARCHAEA. Bacteria are
+microscopic, simple, single-cell organisms. Some bacteria
+are harmless and often beneficial, playing a major
+role in the cycling of nutrients in ecosystems via aerobic
+and anaerobic decomposition (saprophytic), while others
+are pathogenic, causing disease and even death.
+Some species form symbiotic relationships with other
+organisms, such as legumes, and help them survive in
+the environment by fixing atmospheric nitrogen. Many
+different species exist as single cells or colonies, and
+they fall into four shapes based on the shape of their
+rigid cell wall: coccal (spherical), bacillary (rod-shaped),
+spirochetal (spiral/helical or corkscrew), and vibro
+(comma-shaped). Bacteria are also classified on the
+basis of oxygen requirement (aerobic vs. anaerobic).
+In the laboratory, bacteria are classified as grampositive
+(blue) or gram-negative (pink) following a laboratory
+procedure called a Gram’s stain. Gram-negative
+bacteria, such as those that cause the plague, cholera,
+typhoid fever, and salmonella, for example, have two
+outer membranes, which make them more resistant to
+conventional treatment. They can also easily mutate
+and transfer these genetic changes to other strains,
+making them more resistant to antibiotics. Gram-positive
+bacteria, such as those that cause anthrax and listeriosis,
+are more rare and are treatable with penicillin
+but can cause severe damage by either releasing toxic
+chemicals (e.g., clostridium botulinum) or by penetrating
+deep into tissue (e.g., streptococci). Bacteria are
+often called germs.
+bacteriochlorin (7,8,17,18-tetrahydroporphyrin) A
+reduced PORPHYRIN with two pairs of nonfused saturated
+33
+B
+Photomicrograph of Streptococcus (Diplococcus) pneumoniae
+bacteria, using Gram’s stain technique. Streptococcus pneumoniae
+is one of the most common organisms causing respiratory
+infections such as pneumonia and sinusitis, as well as bacteremia,
+otitis media, meningitis, peritonitis, and arthritis. (Courtesy of
+Centers for Disease Control and Prevention, 1979)carbon atoms (C-7, C-8 and C-17, C-18) in two of the
+pyrrole rings.
+See also ISOBACTERIOCHLORIN.
+bacteriochlorophyll See CHLOROPHYLL.
+bacterium (plural, bacteria) A single-celled prokaryotic
+microorganism in the bacteria domain.
+See also BACTERIA.
+balanced polymorphism The maintenance of two
+or more alleles in a population due to the selective
+advantage of the heterozygote. A heterozygote is a
+genotype consisting of two different alleles of a gene
+for a particular trait (Aa). Balanced polymorphism is a
+type of polymorphism where the frequencies of the
+coexisting forms do not change noticeably over many
+generations. Polymorphism is a genetic trait controlled
+by more than one allele, each of which has a frequency
+of 1 percent or greater in the population gene pool.
+Polymorphism can also be defined as two or more phenotypes
+maintained in the same breeding population.
+See also POLYMORPHISM.
+Banting, Frederick Grant (1891–1941) Canadian
+Physician Frederick Grant Banting was born on
+November 14, 1891, at Alliston, Ontario, Canada, to
+William Thompson Banting and Margaret Grant.
+He went to secondary school at Alliston and then
+to the University of Toronto to study divinity before
+changing to the study of medicine. In 1916 he took his
+M.B. degree and joined the Canadian Army Medical
+Corps and served in France during World War I. In
+1918 he was wounded at the battle of Cambrai, and
+the following year he was awarded the Military Cross
+for heroism under fire.
+In 1922 he was awarded his M.D. degree and was
+appointed senior demonstrator in medicine at the University
+of Toronto. In 1923 he was elected to the Banting
+and Best Chair of Medical Research, which had
+been endowed by the legislature of the Province of
+Ontario.
+Also in 1922, while working at the University of
+Toronto in the laboratory of the Scottish physiologist
+John James Richard MACLEOD, and with the assistance
+of the Canadian physiologist Charles Best, Banting discovered
+insulin after extracting it from the pancreas.
+The following year he received the Nobel Prize in
+medicine along with Macleod. Angered that Macleod,
+rather than Best, had received the Nobel Prize, Banting
+divided his share of the award equally with Best. It was
+Canada’s first Nobel Prize. He was knighted in 1934.
+The word banting was associated with dieting for
+many years.
+In February 1941 he was killed in an air disaster in
+Newfoundland.
+Bárány, Robert (1876–1936) Austrian Physician
+Robert Bárány was born on April 22, 1876, in Vienna,
+the eldest son of the manager of a farm estate. His
+mother, Maria Hock, was the daughter of a well-known
+Prague scientist. The young Bárány contracted tuberculosis,
+which resulted in permanent knee problems.
+He completed medical studies at Vienna University
+in 1900, and in 1903, he accepted a post as demonstrator
+at the otological clinic.
+Bárány developed a rotational method for testing
+the middle ear, known as the vestibular system, that
+commands physical balance by integrating an array of
+neurological, biological, visual, and cognitive processes
+to maintain balance. The middle ear’s vestibular system
+is made up of three semicircular canals and an otolith.
+Inside the canals are fluid and hairlike cilia that register
+movement. As the head moves, so does the fluid, which
+in turn moves the cilia that send signals to the brain
+and nervous system. The function of the otolith, a
+series of calcium fibers that remain oriented to gravity,
+is similar. Both help the body to stay upright. Bárány’s
+contributions in this area won him the Nobel Prize in
+physiology in 1914. To receive his award, he had to be
+released from a Russian prisoner of war camp in 1916
+at the request of the prince of Sweden.
+After the war he accepted the post of principal and
+professor of the Otological Institute in Uppsala, where
+he remained for the remainder of his life.
+During the latter part of his life, Bárány studied the
+causes of muscular rheumatism. Although he suffered a
+stroke, this did not prevent him from writing on the
+subject. He died at Uppsala on April 8, 1936. An elite
+organization called the Bárány Society is named after
+him and is devoted to vestibular research.
+34 bacteriochlorophyllbarchan A crescent-shaped dune with wings, or
+horns, pointing downwind.
+bark The outer layer or “skin” of stems and trunks
+that forms a protective layer. It is composed of all the
+tissues outside the vascular cambium in a plant growing
+in thickness. Bark consists of phloem, phelloderm,
+cork cambium, and cork.
+Barr body One of the two X chromosomes in each
+somatic cell of a female is genetically inactivated. The
+Barr body is a dense object or mass of condensed sex
+chromatin lying along the inside of the nuclear envelope
+in female mammalian cells; it represents the inactivated
+X chromosome. X inactivation occurs around the
+16th day of embryonic development. Mary Lyon, a
+British cytogeneticist, introduced the term Barr body.
+basal body (kinetosome) A eukaryotic cell organelle
+within the cell body where a flagellum arises, which is
+usually composed of nine longitudinally oriented,
+equally spaced sets of three microtubules. They usually
+occur in pairs and are structurally identical to a
+centriole.
+Not to be confused with basal body temperature
+(BBT), which is the lowest body temperature of the
+day, usually the temperature upon awakening in the
+morning. BBT is usually charted daily and is used to
+determine fertility or to achieve pregnancy.
+basal metabolic rate (BMR) BMR is the number of
+calories your body burns at rest to maintain normal
+body functions and changes with age, weight, height,
+gender, diet, and exercise.
+base A substance that reduces the hydrogen ion concentration
+in a solution. A base has less free hydrogen
+ions (H+) than hydroxyl ions (OH–) and has a pH of
+more than 7 on a scale of 0–14. A base is created when
+positively charged ions (base cations) such as magnesium,
+sodium, potassium, and calcium increase the pH
+base 35
+An example of a deflation zone (low ground behind fore dunes) and an example of barchan dunes in Morro Bay, California. (Courtesy of
+Tim McCabe)of water when released to solution. They have a slippery
+feel in water and a bitter taste. A base will turn
+red litmus paper blue (acids turn blue litmus red). The
+three types of bases are: Arrhenius, any chemical that
+increases the number of free hydroxide ions (OH–)
+when added to a water-based solution; Bronsted or
+Bronsted-Lowry, any chemical that acts as a proton
+acceptor in a chemical reaction; and Lewis, any chemical
+that donates two electrons to form a covalent bond
+during a chemical reaction. Bases are also known as
+alkali or alkaline substances, and when added to acids
+they form salts. Some common examples of bases are
+soap, ammonia, and lye.
+See also ACID; BRØNSTED BASE; HARD BASE; LEWIS
+BASE.
+basement membrane The thin extracellular layer
+composed of fibrous elements, proteins, and space-filling
+molecules that attaches the epithelium tissue
+(which forms the superficial layer of skin and some
+organs and the inner lining of blood vessels, ducts,
+body cavities, and the interior of the respiratory, digestive,
+urinary, and reproductive systems) to the underlying
+connective tissue. It is made up of a superficial
+basal lamina produced by the overlying epithelial tissue,
+and an underlying reticular lamina, which is the
+deeper of two layers and produced by the underlying
+connective tissue. It is the layer of tissue that cells “sit”
+or rest on.
+base pairing The specific association between two
+complementary strands of nucleic acids that results from
+the formation of hydrogen bonds between the base components
+(adenine [A], guanine [G], thymine [T], cytosine
+[C], uracil [U] of the NUCLEOTIDES of each strand (the
+lines indicate the number of hydrogen bonds):
+A=T and G
+C in DNA, A=U and G
+C (and in some cases GU) in RNA
+Single-stranded nucleic acid molecules can adopt a
+partially double-stranded structure through intrastrand
+base pairing.
+See also NUCLEOSIDES.
+base-pair substitution There are two main types of
+mutations within a gene: base-pair substitutions and
+base-pair insertions or deletions. A base-pair substitution
+is a point mutation; it is the replacement of one
+nucleotide and its partner from the complementary
+deoxyribonucleic acid (DNA) strand with another pair
+of nucleotides. Bases are one of five compounds—adenine,
+guanine, cytosine, thymine, and uracil—that form
+the genetic code in DNA and ribonucleic acid (RNA).
+basicity constant See ACIDITY CONSTANT.
+basidiomycetes A group of fungi whose sexual
+spores (basidiospores) are borne in a basidium, a clubshaped
+reproductive cell. Includes the orders Agaricales
+(mushrooms) and Aphyllophorales.
+See also FUNGI.
+basidium (plural, basidia) A specialized clubshaped
+sexual reproductive cell found in the fertile area
+of the hymenium, the fertile sexual spore-bearing tissues
+of all basidiomycetes, and that produces sexual
+spores on the gills of mushrooms. Shaped like a baseball
+bat, it possesses four slightly inwardly curved
+horns or spikes called sterigma on which the basidiospores
+are attached.
+Batesian mimicry A type of mimicry described by H.
+W. Bates in 1861 that describes the condition where a
+harmless species, the mimic, looks like a different species
+that is poisonous or otherwise harmful to predators, the
+model, and in this way gains security and protection by
+counterfeiting its appearance. Since many predators have
+become sick from eating a poisonous animal, they will
+avoid any similar looking animals in the future. Examples
+of Batesian mimicry include the Viceroy mimicking
+the Monarch butterfly and the clearwing moth that
+resembles a bee by having yellow and black coloring.
+See also MIMICRY.
+bathyal zone The deepest part of the ocean where
+light does not penetrate.
+See also PELAGIC ZONE.
+36 basement membraneB cell or lymphocyte A type of white blood cell,
+or lymphocyte, that makes up 25 percent or more of
+the white blood cells in the body. The other class of
+lymphocyte is T cells. B cells develop in the bone marrow
+and spleen, and during infections they are transformed
+into plasma cells that produce large quantities
+of antibody (immunoglobulin) directed at specific
+pathogens. A cancer of the B lymphocytes is called a
+B-cell lymphoma.
+behavioral ecology A subdiscipline that seeks to
+understand the functions, or fitness consequences,
+of behavior in which animals interact with their
+environment.
+Békésy, Georg von (1899–1972) Hungarian Physicist
+Georg von Békésy was born in Budapest, Hungary,
+on June 3, 1899, to Alexander von Békésy, a
+diplomat, and his wife Paula. He received his early education
+in Munich, Constantinople, Budapest, and in a
+private school in Zurich. He received a Ph.D. in physics
+in 1923 from the University of Budapest for a method
+he developed for determining molecular weight. He
+began working for the Hungarian Telephone and Post
+Office Laboratory in Budapest until 1946. During the
+years 1939–46 he was also professor of experimental
+physics at the University of Budapest.
+While his research was concerned mainly with
+problems of long-distance telephone transmission, he
+conducted the study of the ear as a main component of
+the transmission system. He designed a telephone earphone
+and developed techniques for rapid, nondestructive
+dissection of the cochlea.
+In 1946 he moved to Sweden as a guest of the
+Karolinska Institute and did research at the Technical
+Institute in Stockholm. Here he developed a new type
+of audiometer. The following year he moved to the
+United States to work at Harvard University in the
+Psycho-Acoustic Laboratory and developed a
+mechanical model of the inner ear. He received the
+Nobel Prize in 1961 for his discoveries concerning
+the physical mechanisms of stimulation within the
+cochlea. He moved on to the University of Hawaii in
+1966, where a special laboratory was built for him.
+He received numerous honors during his lifetime.
+He died on June 13, 1972, in Honolulu.
+benthic zone A lower region of a freshwater or
+marine body. It is below the pelagic zone and above the
+abyssal zone, which is the benthic zone below 9,000 m.
+Organisms that live on or in the sediment in these environments
+are called benthos.
+See also OCEANIC ZONE.
+beringia All of the unglaciated area that encompassed
+northwestern North America and northeastern
+Asia, including the Bering Strait, during the last ice age.
+berry A pulpy and stoneless fruit containing one or
+more seeds, e.g., strawberry.
+beta sheet Preferentially called a beta pleated sheet;
+a regular structure in an extended polypeptide chain,
+beta sheet 37
+The Monarch butterfly is a chemically protected species that is
+mimicked by the Viceroy. This is known as Batesian mimicry.
+(Courtesy of Tim McCabe)stabilized in the form of a sheet by hydrogen bonds
+between CO and NH groups of adjacent (parallel or
+antiparallel) chains.
+beta strand Element of a BETA SHEET. One of the
+strands that is hydrogen bonded to a parallel or
+antiparallel strand to form a beta sheet.
+beta turn A hairpin structure in a polypeptide chain
+reversing its direction by forming a hydrogen bond
+between the CO group of AMINO ACID RESIDUE n with
+the NH group of residue (n+3).
+See also HELIX.
+biennial A plant that requires two years or at least
+more than one season to complete its life cycle. In the
+first year, plants form vegetative growth, and in the second
+year they flower. (Latin biennialis, from biennis;
+bis, twice, and annus, year)
+bifunctional ligand A LIGAND that is capable of
+simultaneous use of two of its donor atoms to bind to
+one or more CENTRAL ATOMS.
+See also AMBIDENTATE.
+bilateral symmetry Characterizing a body form
+having two similar sides—one side of an object is the
+mirror image of its other half—with definite upper and
+lower surfaces and anterior and posterior ends. Also
+called symmetry across an axis.
+In plants, the term applies to flowers that can be
+divided into two equal halves by only one line through
+the middle. Most leaves are bilaterally symmetrical.
+bilateria Members of the branch of eumetazoans
+possessing bilateral symmetry. Many bilaterian animals
+exhibit cephalization, an evolutionary trend
+toward concentration of sensory structures, mouth,
+and nerve ganglia at the anterior end of the body. All
+bilaterally symmetrical animals are triploblastic, that
+is, having three germ layers: ectoderm, endoderm, and
+mesoderm.
+binary fission A type of asexual reproduction in
+prokaryotes (cells or organisms lacking a membranebound,
+structurally discrete nucleus and other subcellular
+compartments) in which a cell divides or splits into
+two “daughter” cells, each containing a complete copy
+of the genetic material of the parent. Examples of organisms
+that reproduce this way are bacteria, paramecium,
+and Schizosaccharomyces pombe (an ascomycetous
+species of yeast). Also known as transverse fission.
+binding constant See STABILITY CONSTANT.
+binding site A specific region (or atom) in a molecular
+entity that is capable of entering into a stabilizing
+interaction with another molecular entity. An example
+of such an interaction is that of an ACTIVE SITE in an
+enzyme with its SUBSTRATE. Typical forms of interaction
+are by hydrogen bonding, COORDINATION, and
+ion-pair formation. Two binding sites in different
+molecular entities are said to be complementary if their
+interaction is stabilizing.
+binomial (binomial name) Each organism is named
+using a Latin-based code consisting of a combination
+of two names, the first being a generic (genus) name
+and the second a specific trivial name, which, together,
+38 beta strand
+Amoeba proteus showing cell division via binary fission.
+Amoebas are protozoans, the simplest form of animal life.
+(Courtesy of Hideki Horikami)constitute the scientific name of a species. Lupinus
+perennis, or wild blue lupine, is an example. Both
+names are italicized, and both names used together
+constitute the species name. This is an example of the
+binomial nomenclature, critical to the system of classification
+of plants and animals. Linnaeus, a Swedish
+naturalist, developed the system in the 18th century.
+The hierarchy lists the smallest group to largest group:
+species, genus, family, order, class, division, and kingdom.
+The first person to formally describe a species is
+often included, sometimes as an abbreviation, when the
+species is first mentioned in a research article (e.g.,
+Lupinus perennis L., where L. = Linnaeus, who first
+produced this binomial name and provided an original
+description of this plant).
+binuclear Less frequently used term for the IUPAC
+recommended term dinuclear.
+See also NUCLEARITY.
+bioassay A procedure for determining the concentration,
+purity, and/or biological activity of a substance
+(e.g., vitamin, hormone, plant growth factor, antibiotic,
+enzyme) by measuring its effect on an organism, tissue,
+cell, enzyme, or receptor preparation compared with a
+standard preparation.
+bioavailability The availability of a food component
+or a XENOBIOTIC to an organ or organism.
+biocatalyst A catalyst of biological origin, typically
+an ENZYME.
+bioconjugate A molecular species produced by living
+systems of biological origin when it is composed of two
+parts of different origins, e.g., a conjugate of a xenobiotic
+with some groups, such as glutathione, sulfate, or
+glucuronic acid, to make it soluble in water or compartmentalized
+within the cell.
+bioconversion The conversion of one substance to
+another by biological means. The fermentation of sugars
+to alcohols, catalyzed by yeasts, is an example of
+bioconversion.
+See also BIOTRANSFORMATION.
+biodiversity (biological diversity) The totality of
+genes, species, and ecosystems in a particular environment,
+region, or the entire world. Usually refers to the
+variety and variability of living organisms and the
+ecological relationships in which they occur. It can be
+the number of different species and their relative frequencies
+in a particular area, and it can be organized
+on several levels, from specific species complexes to
+entire ecosystems or even molecular-level heredity
+studies.
+bioenergetics The study of the energy transfers in
+and between organisms and their environments and the
+regulation of those pathways. The term is also used for
+a form of psychotherapy that works through the body
+to engage the emotions and is based on the work of
+Wilhelm Reich and psychiatrist Alexander Lowen in
+the 1950s.
+biofacies A characteristic set of fossil fauna. Facies is
+a geological term that means “aspect” and is used for
+defining subdivisions based on an aspect or characteristic
+of a rock formation, such as lithofacies, based on
+physical characteristics, or biofacies, based on the fossil
+content.
+biogeochemical cycles Both energy and inorganic
+nutrients flow through ecosystems. However, energy is
+a one-way process that drives the movement of nutrients
+and is then lost, whereas nutrients are cycled back
+into the system between organisms and their environments
+by way of molecules, ions, or elements. These
+various nutrient circuits, which involve both biotic and
+abiotic components of ecosystems, are called biogeochemical
+cycles. Major biogeochemical cycles include
+the water cycle, carbon cycle, oxygen cycle, nitrogen
+cycle, phosphorus cycle, sulfur cycle, and calcium cycle.
+Biogeochemical cycles can take place on a cellular level
+(absorption of carbon dioxide by a cell) all the way to
+global levels (atmosphere and ocean interactions).
+biogeochemical cycles 39These cycles take place through the biosphere, lithosphere,
+hydrosphere, and atmosphere.
+biogeographic boundary (zoogeographical region)
+Six to nine regions that contain broadly similar fauna.
+Consists of Nearctic, Palearctic, Neotropical, Aethiopian,
+Oriental, and Australian, and some include Holarctic,
+Palaeotropical, and Oceana.
+biogeography The study of the past and present distribution
+of life.
+bioisostere (nonclassical isostere) A compound
+resulting from the exchange of an atom or of a group
+of atoms with another broadly similar atom or group
+of atoms. The objective of a bioisosteric replacement
+is to create a new compound with similar biological
+properties to the parent compound. The bioisosteric
+replacement can be physicochemically or topologically
+based.
+See also ISOSTERE.
+bioleaching Extraction of metals from ores or soil
+by biological processes, mostly by microorganisms.
+biological clock The internal timekeeping that
+drives or coordinates a circadian rhythm.
+biological control (integrated pest management)
+Using living organisms to control other living organisms
+(pests), e.g., aphids eaten by lady beetles.
+biological half-life The time at which the amount of
+a biomolecule in a living organism has been reduced by
+one half.
+See also HALF-LIFE.
+biological magnification (bioaccumulation) The
+increase in the concentration of heavy metals (e.g., mercury)
+or organic contaminants (e.g., chlorinated hydrocarbons
+[CBCs]) in organisms as a result of their
+consumption within a food chain/web. An excellent
+example is the process by which contaminants such as
+polychlorinated biphenyls (PCBs) accumulate or magnify
+as they move up the food chain. For example, PCBs
+concentrate in tissue and internal organs, and as big fish
+eat little fish, they accumulate all the PCBs that have
+been eaten by everyone below them in the food chain.
+biological species A population or group of populations
+whose members can interbreed or have the potential
+to interbreed.
+See also SPECIES.
+bioluminescence The process of producing light by
+a chemical reaction by a living organism, e.g., glowworms,
+fireflies, and jellyfish. Usually produced in
+organs called photopores or light organs, bioluminescence
+can be used for luring prey or as a courting
+behavior.
+biomass The dry weight of organic matter in unit area
+or volume, usually expressed as mass or weight of a
+group of organisms in a particular habitat. The term also
+refers to organic matter that is available on a renewable
+basis such as forests, agricultural crops, wood and wood
+wastes, animals, and plants.
+40 biogeographic boundary
+organic
+compounds
+in animals
+respiration
+and decay
+feeding
+photosynthesis
+respiration combustion
+and decay
+fossil fuels
+(coal and peat)
+organic
+compounds
+in green plants
+CO2
+free carbon
+dioxide in the
+atmosphere
+The carbon cycle, one of the main biogeochemical cycles that
+processes and transfers nutrients from organisms to their
+environment.biome A large-scale recognizable grouping, a distinct
+ecosystem, that includes many communities of a similar
+nature that have adapted to a particular environment.
+Deserts, forests, grasslands, tundra, and the oceans are
+biomes. Biomes have changed naturally and moved
+many times during the history of life on Earth. In more
+recent times, change has been the result of humaninduced
+activity.
+biomembrane Organized sheetlike assemblies, consisting
+mainly of proteins and lipids (bilayers), that act
+as highly selective permeability barriers. Biomembranes
+contain specific molecular pumps and gates, receptors,
+and enzymes.
+biomimetic Refers to a laboratory procedure designed
+to imitate a natural chemical process. Also refers to a
+compound that mimics a biological material in its
+structure or function.
+biomineralization The synthesis of inorganic crystalline
+or amorphous mineral-like materials by living
+organisms. Among the minerals synthesized biologically
+in various forms of life are fluorapatite (Ca5(PO4)3F),
+hydroxyapatite, magnetite (Fe3O4), and calcium carbonate
+(CaCO3).
+biopolymers Macromolecules, including proteins,
+nucleic acids, and polysaccharides, formed by living
+organisms.
+bioprecursor prodrug A PRODRUG that does not
+imply the linkage to a carrier group, but results from a
+bioprecursor prodrug 41
+Cuatraciénagas dunes in Mexico showing an example of the biodiversity of plants found in the xeric conditions of gypsum sands and
+deserts. (Courtesy of Tim McCabe)molecular modification of the active principle itself.
+This modification generates a new compound, able to
+be transformed metabolically or chemically, the resulting
+compound being the active principle.
+biosensor A device that uses specific biochemical
+reactions mediated by isolated enzymes, immunosystems,
+tissues, organelles, or whole cells to detect chemical
+compounds, usually by electrical, thermal, or
+optical signals.
+biosphere The entire portion of the Earth between the
+outer portion of the geosphere (the physical elements of
+the Earth’s surface crust and interior) and the inner portion
+of the atmosphere that is inhabited by life; it is the
+sum of all the planet’s communities and ecosystems.
+biotechnology The industrial or commercial manipulation
+and use of living organisms or their components
+to improve human health and food production,
+either on the molecular level (genetics, gene splicing, or
+use of recombinant deoxyribonucleic acid [DNA]) or in
+more visible areas such as cattle breeding.
+biotic Pertains to the living organisms in the environment,
+including entire populations and ecosystems.
+biotransformation A chemical transformation mediated
+by living organisms or ENZYME preparations. The
+chemical conversion of substances by living organisms
+or enzyme preparations.
+See also BIOCONVERSION.
+bivalve A mollusk having two valves or shells that
+are hinged together, e.g., mussels and clams.
+blastocoel The fluid-filled cavity that forms in the
+center of the blastula embryo. The blastula is an early
+stage in the development of an ovum, consisting of a
+hollow sphere of cells enclosing the blastocoel.
+See also BLASTULA.
+blastocyst An embryonic stage in mammals; a hollow
+ball of 30–150 cells produced one week after FERTILIZATION
+in humans. It is a sphere made up of an outer
+layer of cells called the trophectoderm, a fluid-filled
+cavity called the BLASTOCOEL, and a cluster of cells on
+the interior called the INNER CELL MASS. It is the inner
+cell mass that becomes what is known as the FETUS.
+See also EMBRYO.
+blastopore The opening of the ARCHENTERON
+(primitive gut) in the gastrula that develops into the
+mouth in protostomes (metazoans such as the nematodes,
+flatworms, and mollusks that exhibit determinate,
+spiral cleavage and develop a mouth from the
+blastopore) and the anus in deuterostomes. (Animals
+such as the chordates and echinoderms in which the
+first opening in the embryo becomes the anus, while
+the mouth appears at the other end of the digestive
+system.)
+42 biosensor
+Light micrograph of a human embryo at the blastocyst stage. This
+early blastocyst is about four days old, appearing as a hollow ball
+of cells. On around day six, the embryo will begin to implant into
+the wall of the uterus. Magnification unknown. (Courtesy ©
+Pascal Goetgheluck/Photo Researchers, Inc.)blastula Early stage of animal development of an
+embryo, where a ball forms consisting of a single layer
+of cells that surrounds the fluid-filled cavity called the
+blastocoel. The term blastula is often used interchangeably
+with the term blastocyst.
+See also BLASTOCOEL; BLASTOCYST.
+bleomycin (BLM) A glycopeptide molecule that can
+serve as a metal-chelating ligand. The Fe(III) complex
+of bleomycin is an antitumor agent, and its activity is
+associated with DNA cleavage.
+BLM See BLEOMYCIN.
+blood Blood is an animal fluid that transports oxygen
+from the lungs to body tissues and returns carbon
+dioxide from body tissues to the lungs through a network
+of vessels such as veins, arteries, and capillaries.
+It transports nourishment from digestion, hormones
+from glands, carries disease-fighting substances to tissues,
+as well as wastes to the kidneys. Blood contains
+red and white blood cells and platelets that are responsible
+for a variety of functions, from transporting substances
+to fighting invasion from foreign substances.
+Some 55 percent of blood is a clear liquid called plasma.
+The average adult has about five liters of blood.
+See also ARTERY; CAPILLARY; VEIN.
+blood-brain barrier (BBB) The blood-brain barrier
+is a collection of cells that press together to block many
+substances from entering the brain while allowing others
+to pass. It is a specialized arrangement of brain capillaries
+that restricts the passage of most substances into
+the brain, thereby preventing dramatic fluctuations in
+the brain’s environment. It maintains the chemical environment
+for neuron functions and protects the brain
+from the entry of foreign and harmful substances. It
+allows substances in the brain such as glucose, certain
+ions, and oxygen and others to enter, while unwanted
+ones are carried out by the endothelial cells. It is a
+defensive system to protect the central nervous system.
+What is little understood is how the blood-brain
+barrier is regulated, or why certain diseases are able to
+manipulate and pass through the barrier.
+There is evidence that multiple sclerosis attacks
+occur during breakdowns of the blood-brain barrier. A
+study in rats showed that flavinoids, such as those
+found in blueberries and grape seeds among others, can
+inhibit blood-brain barrier breakdown under conditions
+that normally lead to such breakdown.
+Researchers at the University of Maryland School
+of Medicine in Baltimore have identified a receptor in
+the human brain that regulates the interface between
+the bloodstream and the blood-brain barrier and
+could lead to a new understanding of this nearly
+impenetrable barrier and to treatment of diseases that
+affect the brain. They found that two proteins,
+zonulin and zot, unlock the cell barrier in the intestine,
+attach themselves to receptors in the intestine to
+open the junctions between the cells, and allow substances
+to be absorbed. The new research indicates
+that zonulin and zot also react with similar receptors
+in the brain, suggesting that it may become feasible to
+develop a new generation of drugs able to cross the
+blood-brain barrier.
+blood-brain barrier 43
+Scanning electron micrograph (SEM) showing three types of cells
+found in human blood. At right is a red blood cell (erythrocyte), a
+biconcave disc that transports oxygen around the body. A white
+blood cell (center) is roughly spherical with microvilli projecting
+from its surface. Different types of white cells are active in the
+body’s immune response to infection. The waferlike cell at left is a
+blood platelet, which functions to control clotting and thus prevents
+bleeding from damaged vessels. Each cubic millimeter of
+blood contains approximately 5 million red cells, 7,000 white cells,
+and 250,000 platelets. Magnification: ×3,850 at 35-mm size, ×27,000
+at 8 × 10-in. size. (Courtesy © NIBSC/Photo Researchers, Inc.)44 blood-brain barrier
+Blood Identification through the Ages
+by John C. Brenner and Demetra Xythalis
+Blood is a fluid that circulates throughout the body, transporting
+oxygen, nutrients and waste materials. Blood is
+composed of various formed elements such as red blood
+cells (erythrocytes), white blood cells (leukocytes), platelets
+(thrombocytes), and a liquid fraction called plasma, each
+containing a vast array of biochemical constituents. Red
+blood cells comprise the majority of the formed elements in
+the blood. Hemoglobin is a chemical that is found in red
+blood cells, consisting of an iron-containing pigment, heme,
+and a protein component, globin. The components of blood
+are controlled genetically and have the potential of being a
+highly distinctive feature for personal identification.
+The field of forensic science is the study and practice
+of the application of natural sciences for the purpose of the
+law. One of the disciplines in forensic science is forensic
+serology, which involves the identification and characterization
+of blood and body fluids, either in a liquid or dried
+state, in association with a criminal or civil investigation.
+Blood and dried bloodstains are two of the most important
+and most frequently encountered types of evidence in criminal
+investigation of crimes such as homicides, assaults,
+and rapes.
+Since the 1900s, forensic serologists have attempted to
+identify blood and/or bloodstains found at crime scenes.
+When serology was in its early stages, stains at crime
+scenes were identified just as blood. Now that forensic
+serologists can individualize human blood by identifying all
+of its known factors, the result could be evidence of the
+strongest kind for linking a suspect to the crime scene or
+finding a lost victim.
+When examining dried bloodstains, the forensic serologists
+are trying to determine the following: (1) Is the stain
+blood? (2) If the stain is blood, is it human or animal? (3) If
+probe DNA
+labeling with
+fluorescent dye
+denature
+&
+hybridize
+Fluorescence in situ hybridization is a process that vividly paints chromosomes or portions of chromosomes with fluorescent
+molecules. This technique is useful for identifying chromosomal abnormalities and gene mapping. (Courtesy of Darryl Leja, NHGRI,
+National Institutes of Health)44 blood-brain barrier
+Blood Identification through the Ages
+by John C. Brenner and Demetra Xythalis
+Blood is a fluid that circulates throughout the body, transporting
+oxygen, nutrients and waste materials. Blood is
+composed of various formed elements such as red blood
+cells (erythrocytes), white blood cells (leukocytes), platelets
+(thrombocytes), and a liquid fraction called plasma, each
+containing a vast array of biochemical constituents. Red
+blood cells comprise the majority of the formed elements in
+the blood. Hemoglobin is a chemical that is found in red
+blood cells, consisting of an iron-containing pigment, heme,
+and a protein component, globin. The components of blood
+are controlled genetically and have the potential of being a
+highly distinctive feature for personal identification.
+The field of forensic science is the study and practice
+of the application of natural sciences for the purpose of the
+law. One of the disciplines in forensic science is forensic
+serology, which involves the identification and characterization
+of blood and body fluids, either in a liquid or dried
+state, in association with a criminal or civil investigation.
+Blood and dried bloodstains are two of the most important
+and most frequently encountered types of evidence in criminal
+investigation of crimes such as homicides, assaults,
+and rapes.
+Since the 1900s, forensic serologists have attempted to
+identify blood and/or bloodstains found at crime scenes.
+When serology was in its early stages, stains at crime
+scenes were identified just as blood. Now that forensic
+serologists can individualize human blood by identifying all
+of its known factors, the result could be evidence of the
+strongest kind for linking a suspect to the crime scene or
+finding a lost victim.
+When examining dried bloodstains, the forensic serologists
+are trying to determine the following: (1) Is the stain
+blood? (2) If the stain is blood, is it human or animal? (3) If
+probe DNA
+labeling with
+fluorescent dye
+denature
+&
+hybridize
+Fluorescence in situ hybridization is a process that vividly paints chromosomes or portions of chromosomes with fluorescent
+molecules. This technique is useful for identifying chromosomal abnormalities and gene mapping. (Courtesy of Darryl Leja, NHGRI,
+National Institutes of Health)blood-brain barrier 45
+the stain is human blood, can it be associated with a particular
+individual? The forensic serologist, in an attempt to do
+blood identification, uses two categories of tests: the presumptive
+test, which is nonspecific for blood, and the confirmatory,
+which is specific for blood species.
+The first step in determining whether a crime scene
+stain is blood involves the use of a chemical screening test
+or presumptive test. Some presumptive tests used by forensic
+serologists include benzidine (introduced in 1904), phenolphthalein
+(1901), leucomalachite green (1904), and
+luminol (1928).
+The identification of benzidine as a carcinogen led to
+its discontinuance as a screening test for blood. Another
+chemical used for screening stains for blood is phenolphthalein.
+Both tests consist of a two-step procedure. The
+first step is to moisten a white filter paper with distilled
+water. Apply the filter paper to the suspected bloodstain.
+A portion of the stain will transfer onto the moistened
+paper. Add the leucomalachite green reagent to the
+paper. The second step is to add hydrogen peroxide to the
+filter paper and look for a color change on the paper. A
+positive result will yeild a bluish-green color. When phenolphthalein
+is mixed with a dried bloodstain, with the
+addition of hydrogen peroxide, the hemoglobin in the
+blood causes the formation of a deep pink color. The leucomalachite
+green test is a presumptive test for blood
+that is used by many laboratories today. The heme group
+in hemoglobin catalyzes the oxidation by peroxide of the
+malachite green to produce a bluish-green reaction when
+the suspected stain is blood.
+Luminol is a chemical reagent that is very useful in
+locating small traces of blood at a crime scene. Unlike the
+above-mentioned chemical screening test, the reaction of
+luminol with blood results in the production of light rather
+than color. The one requirement for the use of luminol is
+that the scene be completely dark. Luminol is a chemical
+that can be used as a spray at crime scenes and will react
+with any blood present, causing a luminescence.
+The second step in blood identification is the use of
+confirmatory tests. Confirmatory blood identification tests
+are specific for the heme component of hemoglobin. A positive
+confirmatory test result is taken as positive proof of the
+presence of blood in a questioned stain. Some of the confirmatory
+tests include: microcrystalline tests, Teichmann and
+Takayama tests, ring precipitin test, gel diffusion method,
+and electrophoresis (1907). The Teichmann (1853) and the
+Takayama (1905) confirmatory tests are based on the observation
+that heme, in the presence of certain chemicals, will
+form characteristic crystals that can be seen using a microscope.
+The precipitin test is based on antibody molecules
+interacting with antigens to form a precipitate that can be
+visualized under the proper light conditions or with a stain.
+Serologists use this test to determine whether the origin of
+the bloodstain is human or animal. The ring precipitin test
+involves layering a dilute saline extract of the bloodstain on
+top of the antihuman serum in a capillary tube. Because of
+the density of the antihuman serum, the bloodstain extract
+will layer on top, and the two solutions will not mix, thus
+forming a cloudy ring or band at the interface between the
+two solutions.
+The gel diffusion method is based on the fact that antigens
+and antibodies will diffuse, or move toward each
+other, on an agar-gel-coated plate, such as the Ouchterlony
+plate. The extracted bloodstain and the human antiserum
+are placed in separate holes opposite each other on the gel.
+A white precipitate line will form where the antigens and
+antibodies meet if the bloodstain is of human origin.
+The electrophoretic method, or crossover electrophoresis,
+is a sensitive method using an electric current
+that is passed through a gel plate. A line of precipitation
+formed between the hole containing the bloodstain extract
+and the hole containing the human antiserum denotes a
+specific antigen antibody reaction.
+The next generation of confirmatory test, which in
+some forensic laboratories has replaced the electrophoretic
+or crossover electrophoresis is called the One Step
+ABAcard HemaTrace. This test utilizes a combination of
+monoclonal and polyclonal antibody reagents to selectively
+detect human hemoglobin. Adding a portion of the prepared
+elution from the bloodstain to the sample well and observing
+the development of indicative colored lines conduct the
+test. The species specificity of the reaction is based on the
+recognition by antibodies of antigens displayed on human
+hemoglobin. A positive result is visualized because goldconjugated,
+monoclonal antibody-Hb immune complexes
+are captured and condensed on the test mambrane by stationary
+phase polyclonal anti-human hemoglobin antibodies,
+causing the gold particles to condense. This produces a
+pink-colored line at the test area. Absence of this colored
+line indicates a negative result.
+There are many different substances in human blood
+that can be grouped to individualize the blood. Blood contains
+many inherited factors referred to as genetic markers.
+Determination of factors in a person’s blood is called blood
+grouping or blood typing. True individualization of a specimen
+of blood would mean that a sufficiently large number of
+genetic markers could be typed so that nobody else in the
+(continues)46 blood-brain barrier
+world would have that particular combination of genetic
+markers.
+In 1900, Dr. Karl Landsteiner announced one of the
+most significant discoveries of the 20th century—the typing
+of human blood. Out of Landsteiner’s work came the classification
+system that is called the ABO system. Blood group
+systems are the most well known and widely recognized
+class of genetic markers.
+Bloodstains can be typed for ABO using two different
+procedures: (1) by detecting the antibodies of the serum or
+(2) by detecting the antigens of the red cells. Detection of
+the antibodies is the older method. This procedure was first
+extensively employed by Lattes in Italy in 1913. The procedure
+has been modified and improved with the development
+of new antisera. In this test, which detects antibodies in
+dried bloodstains, two portions of the stains are placed onto
+microscope slides. Type A red cells are added to one glass
+slide, and Type B red cells to the other slide. If the bloodstain
+on the slide contains anti-A antibodies, the A red cells
+that were added will agglutinate, which looks like
+crosslinked cells under the microscope. Agglutination of the
+A cells indicates that anti-A is present, and therefore, that
+the bloodstain is of blood group B.
+The other approach to typing dried bloodstains is the
+detection of the antigens that are on the surface of the red
+blood cells. When blood dries, the red cells break apart, but
+the red blood cell antigens are still present in the dried stains.
+The two major methods that have been used are absorptioninhibition
+and absorption-elution. The absorption-inhibition
+method depends on the ability to estimate the amount of
+antibody present in an antiserum before and after exposure
+to a stain extract containing a possible antigen.
+The absorption-elution method is based on the theory
+that blood-group antibodies can bind to their specific redcell
+surface antigens in bloodstains. The antigen-antibody
+complex can then be dissociated and the antibodies recovered.
+The breaking of the antigen-antibody bond can be
+done by increasing the temperature. Removing specific
+antibodies from complexes with their antigens in this way is
+called elution.
+Another main class of blood constituents used as
+genetic markers is the polymorphic enzymes. The enzymes
+of interest to the forensic serologists are primarily located
+within the red blood cell and are commonly referred to as
+isoenzymes. These enzyme forms can be grouped from a
+bloodstain to further individualize the blood. Red-cell isoenzymes
+are frequently typed by a procedure called electrophoresis.
+This procedure brings about the separation of
+different proteins based primarily upon differences in net
+charge, and it is usually done with some kind of starch-gel
+or on a cellulose acetate support. The most important
+enzyme systems used in forensic serology are phosphoglucomutase
+(PGM), erythrocyte acid phosphatase (EAP),
+esterase D (ESD), adenylate kinase (AK), adenosine deaminase
+(ADA), and glyoxalase I (GLO).
+The main features of the molecular architecture of
+deoxyribonucleic acid (DNA) were first formulated by Watson
+and Crick in 1953, who at the same time pointed out
+how the proposed structure would account for the three
+basic attributes of genetic material: gene specificity, gene
+replication, and gene mutation. It was not until 1985 that
+forensic scientists discovered that portions of the DNA
+structure of certain genes are as unique to an individual as
+their fingerprints. Alec Jeffreys and his colleagues at
+Leicester University, England, who were responsible for
+these revelations, named the process for isolating and
+reading these DNA markers “DNA fingerprinting.” The DNA
+typing of biological fluid and stains finally gives the forensic
+scientist the ability to link crime scene evidence such as
+bloodstains to a single individual.
+The separation of DNA fragments of different sizes
+usually can be efficiently accomplished by agarose gel
+electrophoresis. The agarose gels are thick, which makes
+them difficult to process in terms of hybridization, washing,
+and autoradiography. To overcome these problems, a
+transfer technique was developed that transferred the
+DNA fragments from the agarose gel onto a nylon membrane.
+This technique was first described by E. Southern in
+1975, and it is called Southern blotting. If a specific recognition
+base sequence is present, the restriction enzyme
+recognizing that site will cleave the DNA molecule, resulting
+in fragments of specific base-pair lengths. Restriction
+fragment length polymorphism (RFLPs) generates different
+DNA fragment lengths by the action of specific endonucleases.
+To visualize the separate RFLPs, a nylon sheet is
+treated with radioactively labeled probes containing a
+base sequence complementary to the RFLPs being identified,
+a process called hybridization. Once the radioactive
+sequences are on the nylon membrane, the membrane is
+exposed to a piece of X-ray film. The developed X-ray film
+shows DNA fragments that combined with radioactive
+probe. The size of the bloodstain (i.e., the amount of blood
+required) on forensic evidence and the time required to
+obtain the DNA information from the evidence were two
+drawbacks to this procedure.
+As the push to individualize forensic bloodstain proceeded,
+the next advancement came in 1983, with molecular
+Blood Identification through the Ages
+(continued)blood pressure The hydrostatic force that blood
+exerts against the wall of a blood vessel. This pressure
+is greatest during the contraction of the ventricles of
+the heart (systolic pressure), which forces blood into
+the arterial system. Pressure falls to its lowest level
+when the heart is filling with blood while at rest (diastolic
+pressure). Blood pressure varies depending on the
+energy of the heart action, the elasticity of the walls of
+the arteries, and the volume and viscosity (resistance)
+of the blood. Blood pressure rises and falls throughout
+the day.
+When the blood flows through the vessels at a
+greater than normal force, reading consistently above
+140/90 mm Hg (millimeters of mercury), it is called
+hypertension or high blood pressure. High blood pressure
+strains the heart; harms the arteries; and increases
+the risk of heart attack, stroke, and kidney problems.
+About one in every five adults in the United States has
+high blood pressure. Elevated blood pressure occurs
+more often in men than in women, and in African
+Americans it occurs almost twice as often as in Caucasians.
+Essential hypertension (hypertension with no
+known cause) is not fully understood, but it accounts
+for about 90 percent of all hypertension cases in people
+over 45 years of age.
+Low blood pressure is called hypotension and is an
+abnormal condition in which the blood pressure is
+lower than 90/60 mm Hg. When the blood pressure is
+too low, there is inadequate blood flow to the heart,
+brain, and other vital organs.
+An optimal blood pressure is less than 120/80 mm
+Hg.
+blotting A technique used for transferring DNA,
+RNA, or protein from gels to a suitable binding matrix,
+such as nitrocellulose or nylon paper, while maintaining
+the same physical separation.
+blue copper protein An ELECTRON TRANSFER PROTEIN
+containing a TYPE 1 COPPER site. Characterized by
+a strong absorption in the visible region and an EPR
+(ELECTRON PARAMAGNETIC RESONANCE SPECTROSCOPY)
+blue copper protein 47
+biologist Kary Mullis’s development of a process called
+polymerase chain reaction (PCR). PCR has revolutionized
+the approach to the recovery of DNA from a variety of
+sources. Availability of oligonucleotide primers is the key to
+the amplification process. PCR consists of three steps,
+beginning with the denaturing of the double-strand DNA,
+separated by heating to 90–96°C. The second step involves
+hybridization or annealing, in which one primer is annealed
+to the flanking end of each DNA target sequence complementary
+strand. The third step uses a thermally stable Taq
+polymerase to mediate the extension of the primers. The
+result is two new helices in place of the first, each one
+composed of the original strands plus its newly assembled
+complementary strand.
+All eukaryotic genomes contain regions of simple
+repetitive DNA, called short tandem repeats (STR) or
+microsatellites, which consist of variable numbers of tandem
+repeats (VNTRs). The number of repeats at an STR
+locus can be highly variable among individuals, resulting in
+different-length polymorphisms that can be detected by
+relatively simple use of the PCR-based assays. STR loci are
+useful to forensic science because of their small range of
+alleles, their high sensitivity, and suitability even if the DNA
+is degraded. Today the forensic laboratory using the
+PCR/STR analysis can individualize bloodstains obtained
+from forensic evidence with a very high probability of identifying
+a single individual.
+In the past, forensic scientists who handled biological
+forensic evidence were only able to tell the investigating
+official whether the dried stain at the crime scene was
+blood. Today the forensic laboratory reports contain information
+about dried stains at crime scenes that can be related to
+one individual. This information has been tremendously helpful
+in the investigation of crimes. With the establishment of a
+DNA database, physical evidence collected from the crime
+scene that contains biological stains can be analyzed even
+if there is no suspect. The DNA profile developed from
+forensic bloodstain evidence can be compared with various
+DNA databases to develop a match, which could lead to
+identification of an individual.
+—John C. Brenner, M.S., is a forensic
+scientist, and Demetra Xythalis is a senior
+lab technician. Both work at the New York
+State Police Forensic Investigation Center in
+Albany, New York.signal with an unusually small HYPERFINE coupling to
+the copper nucleus. Both characteristics are attributed
+to COORDINATION of the copper by a cysteine sulfur.
+bond energy (bond dissociation energy) Atoms in a
+molecule are held together by covalent bonds, and to
+break these bonds atoms need bond energy. The
+source of energy to break the bonds can be in the
+form of heat, electricity, or mechanical means. Bond
+energy is the quantity of energy that must be absorbed
+to break a particular kind of chemical bond. It is
+equal to the quantity of energy the bond releases
+when it forms. It can also be defined as the amount of
+energy necessary to break one mole of bonds of a
+given kind (in gas phase).
+bone imaging The construction of bone tissue images
+from the radiation emitted by RADIONUCLIDES that have
+been absorbed by the bone. Radionuclides such as 18F,
+85Sr, and 99mTc are introduced as complexes with specific
+LIGANDs (very often phosphonate ligands) and are
+absorbed in the bones by metabolic activity.
+See also IMAGING.
+book lungs The respiratory pouches or organs of gas
+exchange in spiders (arachnids), consisting of closely
+packed blood-filled plates, sheets, or folds for maximum
+surface aeration and contained in an internal
+chamber on the underside of the abdomen. They look
+like the pages of a book.
+Bordet, Jules (1870–1961) Belgian Bacteriologist,
+Immunologist Jules Bordet was born in Soignies, Belgium,
+on June 13, 1870. He was educated in Brussels
+and graduated with a doctor of medicine in 1892. Two
+years later he went to Paris and began work at the Pasteur
+Institute, where he worked on the destruction of
+bacteria and explored red blood cells in blood serum,
+contributing to the founding of serology, the study of
+immune reactions in bodily fluids. In 1901 he returned
+to Belgium to found the Pasteur Institute of Brabant,
+Brussels, where he served until 1940. He was director
+of the Belgian Institute and professor of bacteriology at
+the University of Brussels (1907–35).
+His work in immunology included finding two
+components of blood serum responsible for bacteriolysis
+(rupturing of bacterial cell walls) and the process of
+hemolysis (rupturing of foreign red blood cells in blood
+serum). Working with his colleague Octave Gengou,
+Bordet developed several serological tests for diseases
+such as typhoid fever, tuberculosis, and syphilis. The
+bacteria responsible for whooping cough, Bordetella
+pertussis, was named for him after he and Gengou discovered
+it in 1906. In 1919, he received the Nobel
+Prize in physiology and medicine for his immunological
+discoveries.
+He was the author of Traité de l’immunité dans
+les maladies infectieuses (Treatise on immunity in infectious
+diseases) and numerous medical publications.
+Bordet was a permanent member of the administrative
+council of Brussels University, president of the
+First International Congress of Microbiology (Paris,
+1930), and member of numerous scientific societies. He
+died on April 6, 1961.
+bottleneck effect A dramatic reduction in genetic
+diversity of a population or species when the population
+number is severely depleted by natural disaster, by
+disease, or by changed environmental conditions. This
+limits genetic diversity, since the few survivors are the
+resulting genetic pool from which all future generations
+are based.
+Bovet, Daniels (1907–1992) Swiss Physiologist
+Daniel Bovet was born in Neuchâtel, Switzerland, on
+March 23, 1907, to Pierre Bovet, professor of pedagogy
+at the University of Geneva, and Amy Babut. He
+graduated from the University of Geneva in 1927 and
+then worked on a doctorate in zoology and comparative
+anatomy, which he received in 1929.
+During the years 1929 until 1947 he worked at the
+Pasteur Institute in Paris, starting as an assistant and
+later as chief of the institute’s Laboratory of Therapeutic
+Chemistry. Here he discovered the first synthetic
+antihistamine, pyrilamine (meplyramine). In 1947 he
+went to Rome to organize a laboratory of therapeutic
+chemistry and became an Italian citizen. He became the
+laboratory’s chief at the Istituto Superiore di Sanità,
+Rome. Seeking a substitute for curare, a muscle relaxant,
+for anesthesia, he discovered gallamine (trade
+48 bond energyname Flaxedil), a neuromuscular blocking agent used
+today as a muscle relaxant in the administration of
+anesthesia.
+He and his wife Filomena Nitti published two
+important books, Structure chimique et activité pharmacodynamique
+des médicaments du système nerveux
+végétatif (The chemical structure and pharmacodynamic
+activity of drugs of the vegetative nervous system)
+in 1948 and, with G. B. Marini-Bettòlo, Curare
+and Curare-like Agents (1959). In 1957 he was
+awarded the Nobel Prize for physiology or medicine
+for his discovery relating to synthetic compounds for
+the blocking of the effects of certain substances occurring
+in the body, especially in its blood vessels and
+skeletal muscles.
+Bovet published more than 300 papers and
+received numerous awards. He served as the head of
+the psychobiology and psychopharmacology laboratory
+of the National Research Council (Rome) from 1969
+until 1971, when he became professor of psychobiology
+at the University of Rome (1971–82). He died on
+April 8, 1992, in Rome.
+Bowman’s capsule A cup-shaped receptacle in the
+kidney that contains the glomerulus, a semipermeable
+twisted mass of tiny tubes through which the blood
+passes and is the primary filtering device of the
+nephron, a tiny structure that produces urine during
+the process of removing wastes. Each kidney is made
+up of about 1 million nephrons. Blood is transported
+into the Bowman’s capsule from the afferent arteriole
+that branches off of the interlobular artery. The blood
+is filtered out within the capsule, through the glomerulus,
+and then passes out by way of the efferent arteriole.
+The filtered water and aqueous wastes are passed
+out of the Bowman’s capsule into the proximal convoluted
+tubule, where it passes through the loop of Heinle
+and into the distal convoluted tubule. Eventually the
+urine passes and filters through the tiny ducts of the
+calyces, the smallest part of the kidney collecting system,
+where it begins to be collected and passes down
+into the pelvis of the kidney before it makes its way to
+the ureter and to the bladder for elimination.
+brachyptery A condition where wings are disproportionately
+small in relation to the body.
+brain imaging In addition to MAGNETIC RESONANCE
+IMAGING, which is based on the absorption by the brain
+of electromagnetic radiation, brain images can be
+acquired by scintillation counting (scintigraphy) of radiation
+emitted from radioactive nuclei that have crossed
+the blood-brain barrier. The introduction of radionuclides
+into brain tissue is accomplished with the use of
+specific 99mTc(V) complexes with lipophilic ligands.
+See also IMAGING.
+brain stem (brainstem) The oldest and inferior portion
+of the brain that consists of the midbrain, pons,
+reticular formation, thalamus, and medulla oblongata,
+brain stem 49
+Artwork combining profiles of brain and head anatomy. The brain
+is seen sliced in half to show internal anatomy. The brain’s major
+area, the cerebrum, includes the folded outer layer (cerebral cortex)
+that produces memory, language, and conscious movement.
+The central space is a brain ventricle. The brain stem, at the base
+of the brain, controls subconscious functions like breathing. It
+extends downwards and connects to the spinal cord in the neck.
+The cerebellum (round area, at left of the brainstem) controls balance
+as well as muscle coordination. The head and neck blood
+vessels branch from the major chest vessels at bottom. (Courtesy
+© Mehau Kulyk/Photo Researchers, Inc.)and forms a cap on the anterior end of the spinal cord.
+The brain stem is the base of the brain and connects
+the brain’s cerebrum to the spinal cord. It shares several
+features in common with the brain of reptiles and controls
+automatic and motor basic functions such as heart
+rate and respiration and also is the main channel for
+sensory and motor signals.
+bridging ligand A bridging ligand binds to two or
+more CENTRAL ATOMs, usually metals, thereby linking
+them together to produce polynuclear coordination
+entities. Bridging is indicated by the Greek letter µ
+appearing before the ligand name and separated by a
+hyphen. For an example, see FEMO-COFACTOR.
+bronchiole A series of small tubes or airway passages
+that branch from the larger tertiary bronchi within
+each lung. At the end of the bronchiole are the
+alveoli, thousands of small saclike structures that make
+up the bulk of the lung and where used blood gets
+reoxygenated before routing back through the heart.
+See also LUNG.
+Brønsted acid A molecular entity capable of donating
+a hydron to a base (i.e., a “hydron donor”) or the
+corresponding chemical species.
+See also ACID.
+Brønsted base A molecular entity capable of accepting
+a hydron from an acid (i.e., a “hydron acceptor”)
+or the corresponding chemical species.
+See also BASE.
+Brownian movement The rapid but random
+motion of particles colliding with molecules of a gas or
+liquid in which they are suspended.
+bryophytes The mosses (Bryophyta), liverworts
+(Hepatophyta), and hornworts (Anthocerophyta); a
+group of small, rootless, thalloid (single cell, colony,
+filament of cells, or a large branching multicellular
+structure) or leafy nonvascular plants with life cycles
+dominated by the gametophyte phase. These plants
+inhabit the land but lack many of the terrestrial adaptations
+of vascular plants, such as specialized vascular
+or transporting tissues (e.g., xylem and phloem).
+Terrestrial bryophytes are important for soil fixation
+and humus buildup. In pioneer vegetation,
+they provide a suitable habitat for seedlings of early
+pioneering plants. Bryophytes are also early colonizers
+after fire and contribute to nutrient cycles.
+bubonic plague A bacterial disease marked by chills,
+fever, and inflammatory swelling of lymphatic glands
+found in rodents and humans. It is caused by Pasteurella
+pestis and transmitted by the oriental rat flea. The
+famous Black Death that devastated the population of
+Europe and Asia in the 1300s was a form of bubonic
+plague.
+budding An asexual means of propagation in which a
+group of self-supportive outgrowths (buds) from the
+parent form and detach to live independently, or else
+remain attached to eventually form extensive colonies.
+The propagation of yeast is a good example of budding.
+Also a type of grafting that consists of inserting a
+single bud into a stock.
+buffer A molecule or chemical used to control the
+pH of a solution. It consists of acid and base forms and
+minimizes changes in pH when extraneous acids or
+bases are added to the solution. It prevents large
+changes in pH by either combining with H+ or by
+releasing H+ into solution.
+See also PH SCALE.
+bulk flow (pressure flow) Movement of water due
+to a difference in pressure between two locations. The
+movement of solutes in plant phloem tissue is an
+example.
+50 bridging ligand

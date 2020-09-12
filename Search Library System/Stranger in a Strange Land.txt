@@ -1,0 +1,2239 @@
+IF YOU THINK that this book appears to be thicker and contain more words than you
+found in the first published edition of Stranger in a Strange Land, your observation is correct. This
+edition is the original one-the way Robert Heinlein first conceived it, and put it down on paper.
+The earlier edition contained a few words over 160,000, while this one runs around 220,000
+words. Robert's manuscript copy usually contained about 250 to 300 words per page, depending on
+the amount of dialogue on the pages. So, taking an average of about 275 words, with the
+manuscript running 800 pages, we get a total of 220,000 words, perhaps a bit more.
+This book was so different from what was being sold to the general public, or to the science
+fiction reading public in 1961 when it was published, that the editors required some cutting and
+removal of a few scenes that might then have been offensive to public taste.
+The November 1948 issue of Astounding Science Fiction contained a letter to the editor
+suggesting titles for the issue of a year hence. Among the titles was to be a story by Robert A.
+Heinlein-"Gulf."
+In a long conversation between that editor, John W. Campbell, Jr., and Robert, it was
+decided that there would be sufficient lead time to allow all the stories that the fan had titled to be
+written, and the magazine to come out in time for the November 1949 date. Robert promised to
+deliver a short story to go with the title. Most of the other authors also went along with the gag.
+This issue came to be known as the "Time Travel" issue.
+Robert's problem, then, was to find a story to fit the title assigned to him.
+So we held a "brainstorming" session. Among other unsuitable notions, I suggested a story
+about a human infant, raised by an alien race. The idea was just too big for a short story, Robert
+said, but he made a note about it. That night he went into his study, and wrote some lengthy notes,
+and set them aside.
+For the title "Gulf" he wrote quite a different story.
+The notes sat in a file for several years, at which time Robert began to write what was to be
+Stranger in a Strange Land. Somehow, the story didn't quite jell, and he set it aside. He returned to
+“Stranger In A Strange Land” by Robert Heinlein
+ - 2 -
+the manuscript a few times, but it was not finished until 1960: this was the version you now hold in
+your hands.
+In the context of 1960, Stranger in a Strange Land was a book that his publishers feared-it
+was too far off the beaten path. So, in order to mini~ mize possible losses, Robert was asked to cut
+the manuscript down to 150,000 words-a loss of about 70,000 words. Other changes were also
+requested, before the editor was willing to take a chance on publication.
+To take out about a quarter of a long, complicated book was close to an impossible task.
+But, over the course of some months, Robert accomplished it. The final word count came out at
+160,087 words. Robert was convinced that it was impossible to cut out any more, and the book was
+accepted at that length.
+For 28 years it remained in print in that form.
+In 1976, Congress passed a new Copyright Law, which said, in part, that in the event an
+author died, and the widow or widower renewed the copyright, all old contracts were cancelled
+Robert died in 1988, and the following year the copyright for Stranger in a Strange Land came up
+for renewal.
+Unlike many other authors, Robert had kept a copy of the original typescript, as submitted
+for publication~ on file at the library of the University of California at Santa Cruz, his archivists. I
+asked for a copy of that manuscript, and read that and the published versions side by side. And I
+came to the conclusion that it had been a mistake to cut the book.
+So I sent a copy of the typescript to Eleanor Wood, Robert's agent. Eleanor also read the
+two versions together, and agreed with my verdict. So, after the notification to the publisher, she
+presented them with a copy of the new/old version.
+No one remembered the fact that such drastic cutting had been done on this book; over the
+course of years all the editors and senior officers at the publishing house had changed. So this
+version was a complete surprise to them.
+They decided to publish the original version, agreeing that it was better than the cut one.
+You now have in your hands the original version of Stranger in a Strange Land, as written
+by Robert Anson Heinlein.
+The given names of the chief characters have great importance to the plot. They were
+carefully selected: Jubal means "the father of all," Michael stands for "Who is like God
+“Stranger In A Strange Land” by Robert Heinlein
+ - 3 -
+The first human expedition from Terra to Mars was selected on the theory that the greatest
+danger to man in space was man himself. At that time, only eight Terran years after the founding of
+the first human colony on Luna, any interplanetary trip made by humans necessarily had to be
+made in weary free-fail orbits, doubly tangent semi-ellipses--from Terra to Mars, two hundred
+fifty-eight days, the same for the return journey, plus four hundred fifty-five days waiting at Mars
+while the two planets crawled slowly back into relative positions which would permit shaping the
+doubly-tangent orbit-a total of almost three Earth years.
+Besides its wearing length, the trip was very chancy. Only by refueling at a space station,
+then tacking back almost into Earth's atmosphere, could thi5 primitive flying coffin, the Envoy,
+make the trip at all. Once at Mars she might be able to return-if she did not crash in landing, if
+water could be found on Man to fill her reaction-mass tanks, if some sort of food could be found on
+Mars, if a thousand other things did not go wrong.
+But the physical danger was judged to be less important than the psychological stresses.
+Eight humans, crowded together like monkeys for almost three Terran years, had better get along
+much better than humans usually did. An all-male crew had been vetoed as unhealthy and sociaily
+unstable from lessons learned earlier. A ship's company of four married couples had been decided
+on as optimum, if the necessary specialties could be found in such a combination.
+The University of Edinburgh, prime contractor, sub-contracted crew selection to the
+Institute for Social Studies. After discarding the chaff of volunteers useless through age, health,
+mentality, training, or temperament, the Institute still had over nine thousand candidates to work
+from, each sound in mind and body and having at least one of the necessary special skills. It was
+expected that the Institute would report several acceptable four-couple crews.
+No such crew was found. The major skills needed were astrogator, medical doctor, cook,
+machinist, ship's commander, semantician, chemical engineer, electronics engineer, physicist,
+geologist, biochemist, biologist, atomics engineer, photographer, hydroponicist, rocket engineer.
+Each crew member would have to possess more than one skill, or be able to acquire extra skills in
+time. There were hundreds of possible combinations of eight people possessing these skills; there
+turned up three combinations of four married couples possessing them, plus health and
+intelligence.-but in all three cases the group-dynamicists who evaluated the temperament factors for
+compatibility threw up their hands in horror.
+The prime contractor suggested lowering the compatibility figure-ofmerit; the Institute
+stiffly offered to return its one dollar fee. In the meantime a computer programmer whose name
+was not recorded had the machines hunt for three-couple rump crews. She found several dozen
+compatible combinations, each of which defined by its own characteristics the couple needed to
+complete it. In the meantime the machines continued to review the data changing through deaths,
+withdrawals, new volunteers, etc.
+Captain Michael Brunt, M.S., Cmdr. D. F. Reserve, pilot (unlimited license), and veteran at
+thirty of the Moon run, seems to have had an inside track at the Institute, someone who was willing
+to look up for him the names of single female volunteers who might (with him) complete a crew,
+and then pair his name with these to run trial problems through the machines to determine whether
+or not a possible combination would be acceptable. This would account for his action in jetting to
+Australia and proposing marriage to Doctor Winifred Coburn, a horse-faced spinster semantician
+nine years his senior. The Carlsbad Archives pictured her with an expression of quiet good humor
+but otherwise lacking in attractiveness.
+“Stranger In A Strange Land” by Robert Heinlein
+ - 4 -
+Or Brant may have acted without inside information, solely through that trait of intuitive
+audacity necessary to command an exploration. In any case lights blinked, punched cards popped
+out, and a crew for the Envoy had been found:
+Captain Michael Brant, commanding-pilot, astrogator, relief cook, relief photographer,
+rocketry engineer;
+Dr. Winifred Coburn Brant, forty-one, semantician, practical nurse, stores officer, historian;
+Mr. Francis X. Seeney, twenty-eight, executive officer, second pilot, astrogator,
+astrophysicist, photographer~
+Dr. Olga Kovalic Seeney, twenty-nine, cook, biochemist, hydroponicist;
+Dr. Ward Smith, forty-five, physician and surgeon, biologist;
+Dr. Mary Jane Lyle Smith, twenty-six, atomics engineer, electronics and power technician;
+Mr. Sergei Rimsky, thirty-five, electronics engineer, chemical engineer, practical machinist
+& instrumentation man, cryologist;
+Mrs. Eleanora Alvarez Rimsky, thirty-two, geologist and selenologist, hydroponicist.
+The crew had a well-rounded group of skills, although in some cases their secondary skills
+had been acquired by intensive coaching during the last weeks before blast-off. More important,
+they were mutually compatible in their temperaments.
+Too compatible, perhaps.
+The Envoy departed on schedule with no mishaps. During the early part of the voyage her
+daily reports were picked up with ease by private listeners. As she drew away and signals became
+fainter, they were picked up and rebroadcast by Earth's radio satellites. The crew seemed to be both
+healthy and happy. An epidemic of ringworm was the worst that Dr. Smith had to cope with-the
+crew adapted to free fall quickly and no antinausea drugs were used after the first week. If Captain
+Brant had any disciplinary problems, he did not choose to report them to Earth.
+The Envoy achieved a parking orbit just inside the orbit of Phobos and spent two weeks in
+photographic survey. Then Captain Brant radioed:
+"We will attempt a landing at 1200 tomorrow GST just south of Lacus Soli." No further message
+was ever received.
+II
+IT WAS A QUARTER of an Earth century before Mars was again visited by humans. Six years
+after the Envoy was silent, the drone probe Zombie, sponsored jointly by the Geographic Society
+and La Société Astronautique Internationale, bridged the void and took up an orbit for the waiting
+period, then returned. The photographs taken by the robot vehicle showed a land unattractive by
+human standards; her recording instruments confirmed the thinness and unsuitability of the Arean
+atmosphere to human life.
+But the Zombie's pictures showed clearly that the "canals" were engineering works of some
+sort and there were other details which could only be interpreted as ruins of cities. A manned
+expedition on a major scale and without delay surely would have been mounted had not World War
+III intervened.
+But the war and the delay resulted eventually in a much stronger, safer expedition than that
+of the lost En my. The Federation Ship Champion, manned by an all-male crew of eighteen
+experienced spacemen and carrying more than that number of male pioneers, made the crossing
+“Stranger In A Strange Land” by Robert Heinlein
+ - 5 -
+under Lyle Drive in only nineteen days. The Champion landed just south of Lacus Soli, as Captain
+van Tromp intended to search for the Envoy. The second expedition reported to Earth by radio
+daily, but three despatches were of more than scientific interest. The first was:
+"Rocket Ship Envoy located. No survivors."
+The second worldshaker was: "Mars is inhabited."
+The third was: "Correction to despatch 23-105: One survivor of Envoy located."
+III
+CAPTAIN WILLEM VAN TROMP was a man of humanity and good sense. He radioed ahead:
+"My passenger must not, repeat, must not be subjected to the strain of a public reception. Provide
+low-gee shuttle, stretcher and ambulance service, and anned guard."
+He sent his ship's surgeon Dr. Nelson along to make sure that Valentine Michael Smith was
+installed in a suite in Bethesda Medical Center, transferred gently into a hydraulic bed, and
+protected from outside contact by marine guards. Van Tromp himself went to an extraordinary
+session of the Federation High Council.
+At the moment when Valentine Michael Smith was being lifted into bed, the High Minister
+for Science was saying testily, "Granted, Captain, that your authority as military commander of
+what was nevertheless primarily a scientific expedition gives you the right to order unusual medical
+service to protect a person temporarily in your charge, I do not see why you now presume to
+interfere with the proper functions of my department. Why, Smith is a veritable treasure trove of
+scientific information!"
+"Yes. I suppose he is, sir."
+"Then why-" The science minister broke off and turned to the High Minister for Peace and
+Military Security. "David? This matter is obviously now in my jurisdiction. Will you issue the
+necessary instructions to your people? After all, one can't keep persons of the caliber of Professor
+Kennedy and Doctor Okajima, to mention just two, cooling their heels indefinitely. They won't
+stand for it."
+The peace minister did not answer but glanced inquiringly at Captain van Tromp. The
+captain shook his head. "No, sir."
+"Why not?" demanded the science minister. "You have admitted that he isn't sick."
+"Give the captain a chance to explain, Pierre," the peace minister advised. "Well, Captain?"
+"Smith isn't sick, sir," Captain van Tromp said to the peace minister, "but he isn't well,
+either. He has never before been in a one-gravity field. He now weighs more than two and one half
+times what he is used to and his muscles aren't up to it. He's not used to Earth-normal air pressure.
+He's not used to anything and the strain is likely to be too much for him. Hell's bells, gentlemen,
+I'm dog tired myself just from being at one-gee again-and I was born on this planet."
+The science minister looked contemptuous. "If acceleration fatigue is all that is worrying
+you, let me assure you, my dear Captain, that we had anticipated that. His respiration and heart
+action will be watched carefully. We are not entirely without imagination and forethought. After
+all, I've been out myself. I know how it feels. This man Smith must-"
+Captain van Tromp decided that it was time to throw a tantrum. He could excuse it by his
+own fatigue-very real fatigue, he felt as if he had just landed on Jupiter-and he was smugly aware
+“Stranger In A Strange Land” by Robert Heinlein
+ - 6 -
+that even a high councilor could not afford to take too stiff a line with the commander of the first
+successful Martian expedition.
+So he interrupted with a snort of disgust. "link! 'This man Smith-' This 'man!' Can't you see
+that that is just what he is not?"
+"Eh?"
+"Smith ... is . . . not . . . a . . . man."
+"Huh? Explain yourself, Captain."
+"Smith is not a man. He is an intelligent creature with the genes and ancestry of a man, but
+he is not a man. He's more a Martian than a man. Until we came along he had never laid eyes on a
+human being. He thinks like a Martian, he feels like a Martian. He's been brought up by a race
+which has nothing in common with us. Why, they don't even have sex. Smith has never laid eyes on
+a woman-still hasn't if my orders have been carried out. He's a man by ancestry, a Martian by
+environment. Now, if you want to drive him crazy and waste that 'treasure trove of scientific
+information,' call in your fat-headed professors and let them badger him. Don't give him a chance to
+get well and strong and used to this madhouse planet. Just go ahead and squeeze him like an
+orange. It's no skin off me; I've done my job!"
+The ensuing silence was broken smoothly by Secretary General Douglas himself. "And a
+good job, too, Captain. Your advice will be weighed, and be assured that we will not do anything
+hastily. If this man, or manMartian, Smith, needs a few days to get adjusted, I'm sure that science
+can wait-so take it easy, Pete. Let's table this part of the discussion, gentlemen, and get on to other
+matters. Captain van Tromp is tired."
+"One thing won't wait," said the Minister for Public Information.
+"Eh, Jock?"
+"If we don't show the Man from Mars in the stereo tanks pretty shortly, you'll have riots on
+your hands, Mr. Secretary."
+"Hmm- You exaggerate, Jock. Mars stuff in the news, of course. Me decorating the captain
+and his brave crew-tomorrow, that had better be. Captain van Tromp telling of his experiences-after
+a night's rest of course, Captain."
+The minister shook his head.
+"No good, Jock?"
+"The public expected the expedition to bring back at least one real live 
+“Stranger In A Strange Land” by Robert Heinlein
+ - 7 -
+"Mahmoud, sir. No, Doctor Mahmoud is not well. A-a slight nervous breakdown, sir." Van
+Tromp reflected that being dead drunk was the moral equivalent thereof.
+"Space happy?"
+"A little, perhaps." These damned groundhogs!
+"Well, fetch him around when he's feeling himself. young man Smith should be of help as
+an interpreter."
+"Perhaps," van Tromp said doubtfully.
+This young man Smith was busy at that moment just staying alive. His body, unbearably
+compressed and weakened by the strange shape of space in this unbelievable place, was at last
+somewhat relieved by the softness of the nest in which these others had placed him. He dropped the
+effort of sustaining it, and turned his third level to his respiration and heart beat.
+He saw at once that he was about to consume himself. His lungs were beating almost as
+hard as they did at home, his heart was racing to distribute the influx, ail in an attempt to cope with
+the squeezing of space-and this in a situation in which he was smothered by a poisonously rich and
+dangerously hot atmosphere. He took immediate steps.
+When his heart rate was down to twenty per minute and his respiration almost
+imperceptible, he set them at that and watched himself long enough to assure himself that he would
+not inadvertently discorporate while his attention was elsewhere. When he was satisfied that they
+were running properly, he set a tiny portion of his second level on guard and withdrew the rest of
+himself. It was necessary to review the configurations of these many new events in order to fit them
+to himself, then cherish and praise them-lest they swallow him up.
+Where should he start? When he had left home, enfolding these others who were now his
+own nestlings? Or simply at his arrival in this crushed space? He was suddenly assaulted by the
+lights and sounds of that arrival, feeling it again with mind-shaking pain. No, he was not yet ready
+to cherish and embrace that configuration-back! back! back beyond his first sight of these others
+who were now his own. Back even before the healing which had followed his first grokking of the
+fact that he was not as his nestling brothers . . . back to the nest itself.
+None of his thinkings had been in Earth symbols. Simple English he had freshly learned to
+speak, but much less easily than a Hindu uses it to trade with a Turk. Smith used English as one
+might use a code book, with tedious and imperfect translation for each symbol. Now his thoughts,
+pure Martian abstractions from half a million years of wildly alien culture, traveled so far from any
+human experience as to be utterly untranslatable.
+In the adjoining room an inteme, Dr. "Tad" Thaddeus, was playing cribbage with Tom
+Meechum, Smith's special nurse. Thaddeus had one eye on his dials and meters and both eyes on
+his cards; nevertheless he noted every heart beat of his patient. When a flickering light changed
+from ninety-two pulsations per minute to less than twenty, he pushed the cards aside, jumped to his
+feet, and hurried into Smith's room with Meechum at his heels.
+The patient floated in the flexible skin of the hydraulic bed. He appeared to be dead.
+Thaddeus swore briefly and snapped, "Get Doctor Nelson!"
+Meechum said, "Yessir!" and added, "How about the shock gear, Doe? He's far gone."
+"Gel Doctor Nelson!"
+The nurse rushed out. The interne examined the patient as closely as possible but refrained
+from touching him. He was still doing so when an older doctor came in, walking with the labored
+awkwardness of a man long in space and not yet adjusted to high gravity. "Well, Doctor?"
+“Stranger In A Strange Land” by Robert Heinlein
+ - 8 -
+"Patient's respiration, temperature, and pulse dropped suddenly, uh, about two minutes ago,
+sir."
+"What have you done for him, or to him?"
+"Nothing, sir. Your instructions-"
+"Good." Nelson looked Smith over briefly, then studied the instruments back of the bed,
+twins of those in the watch room. "Let me know if there is any change." He started to leave.
+Thaddeus looked startled. "But, Doctor-" He broke off.
+Nelson said grimly, "Go ahead, Doctor. What is your diagnosis?"
+"Uh, I don't wish to sound off about your patient, sir."
+"Never mind. I asked for your diagnosis."
+"Very well, sir. Shock-atypical, perhaps," he hedged, "but shock, leading to termination."
+Nelson nodded. "Reasonable enough. But this isn't a reasonable case. Relax, son. I've seen
+this patient in this condition half a dozen times during the trip back. It doesn't mean a thing.
+Watch." Nelson lifted the patient's right arm, let it go. It stayed where he had left it.
+"Catalepsy?" asked Thaddeus.
+"Call it that if you like. Calling a tail a leg doesn't make it one. Don't worry about it, Doctor.
+There is nothing typical about this case. Just keep him from being bothered and call me if there is
+any change." He replaced Smith's arm.
+When Nelson had left, Thaddeus took one more look at the patient, shook his head and
+joined Meechum in the watch room. Meechum picked up his cards and said, "Crib?"
+"No."
+Meechuin waited, then added, "Doc, if you ask me, that one in there is a case for the basket
+before morning."
+"No one asked you."
+"My mistake."
+"Go out and have a cigarette with the guards. I want to think."
+Meechum shrugged and left. Thaddeus opened a bottom drawer, took out a bottle and
+poured himself a dose intended to help his thinking. Meechum joined the guards in the corridor;
+they straightened up, then saw who it was and relaxed. The taller marine said, "Howdy, pal. What
+was the excitement just now?"
+"Nothing much. The patient just had quintuplets and we were arguing about what to name
+them. Which one of you monkeys has got a butt? And a light?"
+The other marine dug a pack of cigarettes out of a pocket. "How're you fixed for Suction?"
+he asked bleakly.
+"Just middlin'. Thanks." Meechum stuck the cigarette in his face and talked around it.
+"Honest to God, gentlemen, I don't know anything about this patient. I wish I did."
+"What's the idea of these orders about 'Absolutely No Women'? Is he some kind of a sex
+maniac?"
+"Not that I know of. All that I know is that they brought him in from the Champion and said
+that he was to have absolute quiet."
+"'The Champion!' "the first marine said. "Of course! That accounts for it."
+"Accounts for what?"
+"It stands to reason. He ain't had any, he ain't seen any, he ain't touched any-for months.
+And he's sick, see? If he was to lay hands on any, they're afraid he'd kill hisself." He blinked and
+blew out a deep breath. "I'll bet I would, under similar circumstances. No wonder they don't want
+no bims around him."
+“Stranger In A Strange Land” by Robert Heinlein
+ - 9 -
+Smith had been aware of the visit by the doctors but he had grokked at once that their
+intentions were benign; it was not necessary for the major part of him to be jerked back from where
+he was.
+At the hour in the morning when human nurses slap patient's faces with cold, wet cloths
+under the pretense of washing them, Smith returned from his journey. He speeded up his heart,
+increased his respiration, and again took note of his surroundings, viewing them with serenity. He
+looked the room over, noting without discrimination and with praise all its details, both important
+and unimportant. He was, in fact, seeing it for the first time, as he had been incapable of enfolding
+it when he had been brought there the day before. This commonplace room was not commonplace
+to him; there was nothing remotely like it on all Mars, nor did it resemble the wedge-shaPed~
+metal-walled compartments of the Champion. But, having relived the events linking his nest to this
+place, he was now prepared to accept it, commend it, and in some degree to cherish it.
+He became aware that there was another living creature in the room with him. A
+granddaddy longlegs was making a futile journey down from the ceiling, spinning as it went. Smith
+watched it with delight and wondered if it were a nestling form of man.
+Doctor Archer Frame, the interne who had relieved Thaddeus, walked in at that moment.
+"Good morning," he said. "How do you feel?"
+Smith turned the question over in his mind. The first phrase he recognized as a formal
+sound, requiring no answer but which could be repeated-or might not be. The second phrase was
+listed in his mind with several possible translations. If Doctor Nelson used it, it meant one thing; if
+Captain van Tromp used it, it was a formal sound, needing no reply.
+He felt that dismay which so often overtook him in trying to communicate with these
+creatures-a frightening sensation unknown to him before he met men. But he forced his body to
+remain calm and risked an answer. "Feel good."
+"Good!" the creature echoed. "Doctor Nelson will be along in a minute. Feel like some
+breakfast?"
+All four symbols in the query were in Smith's vocabulary but he had trouble believing that
+he had heard them rightly. He knew that he was food, but he did not "feel like" food. Nor had he
+had any warning that he might be selected for such an honor. He had not known that the food
+supply was such that it was necessary to reduce the corporate group. He was filled with mild regret,
+since there was still so much to grok of these new events, but no reluctance.
+But he was excused from the effort of translating an answer by the entrance of Dr. Nelson.
+The ship's doctor had had little rest and less sleep; he wasted no time on speech but inspected Smith
+and the array of dials in silence.
+Then he turned to Smith. "Bowels move?" he asked.
+Smith understood this; Nelson always asked about it. "No, not yet."
+"We'll take care of that. But first you eat. Orderly, fetch in that tray."
+Nelson fed him two or three bites, then required him to hold the spoon and feed himself. It
+was tiring but gave him a feeling of gay triumph, for it was the first unassisted action he had taken
+since reaching this oddly distorted space. He cleaned out the bowl and remembered to ask, "Who is
+this?" so that he could praise his benefactor.
+"What is this, you mean," Nelson answered. "It's a synthetic food jelly, based on amino
+acids-and now you know as much as you did before. Finished? All right, climb out of that bed."
+"Beg pardon?" It was an attention symbol which he had learned was useful when
+communication failed.
+“Stranger In A Strange Land” by Robert Heinlein
+ - 10 -
+"I said get out of there. Sit up. Stand up. Walk around. You can do it. Sure, you're weak as a
+kitten but you'll never put on muscle floating in that bed." Nelson opened a valve at the head of the
+bed; water drained out. Smith restrained a feeling of insecurity, knowing that Nelson cherished
+him. Shortly he lay on the floor of the bed with the watertight cover wrinkled around him. Nelson
+added, "Doctor Frame, take his other elbow. We'll have to help him and steady him."
+With Dr. Nelson to encourage him and both of them to help him, Smith stood up and
+stumbled over the rim of the bed. "Steady. Now stand up on your own," Nelson directed. "Don't be
+afraid. We'll catch you if necessary."
+He made the effort and stood alone-a slender young man with underdeveloped muscles and
+overdeveloped chest. His hair had been cut in the Champion and his whiskers removed and
+inhibited. His most marked feature was his bland, expressionless, almost babyish face-set with eyes
+which would have seemed more at home in a man of ninety.
+He stood alone for a moment, trembling slightly, then tried to walk. He managed three
+shuffling steps and broke into a sunny, childlike smile. "Good boy!" Nelson applauded.
+He tried another step, began to tremble violently and suddenly collapsed. They barely
+managed to break his fall. "Damn!" Nelson fumed. "He's gone into another one. Here, help me lift
+him into the bed. No-fill it first."
+Frame did so, cutting off the flow when the cover skin floated six inches from the top. They
+lugged him into it, awkwardly because he had frozen into the foetal position. "Get a collar pillow
+under his neck," instructed Nelson, "and call me when he comes out of it. No-let me sleep, I need it.
+Unless something worries you. We'll walk him again this afternoon and tomorrow we'll start
+systematic exercise. In three months I'll have him swinging through the trees like a monkey. There's
+nothing really wrong with him."
+"Yes, Doctor," Frame answered doubtfully.
+"Oh, yes, when he comes out of it, teach him how to use the bathroom. Have the nurse help
+you; I don't Want him to fall."
+"Yes, sir. Uh, any particular method-I mean, how-"
+"Eh? Show him, of course! Demonstrate. He probably won't understand much that you say
+to him, but he's bright as a whip. He'll be bathing himself by the end of the week."
+Smith ate lunch without help. Presently a male orderly came in to remove his tray. The man
+glanced around, then came to the bed and leaned over him. "Listen," he said in a low voice, "I've
+got a fat proposition for you."
+"Beg pardon?"
+"A deal, a bargain, a way for you to make a lot of money fast and easy."
+'Money?' What is 'money'?"
+"Never mind the philosophy; everybody needs money. Now listen I'll have to talk fast
+because I can't stay in here long-and it's taken a lot of fixing to get me in here at all. I represent
+Peerless Features. We'll pay you sixty thousand for your exclusive story and it won't be a bit of
+trouble to
+you-we've got the best ghost writers in the business. You just talk and answer questions; they put it
+together." He whipped out a piece of paper. "Just read this and sign it. I've got the down payment
+with me."
+Smith accepted the paper, stared thoughtfully at it, holding it upside down. The man looked
+at him and muffled an exclamation. "Lordyl Don't you read English?"
+Smith understood this well enough to answer. "No."
+“Stranger In A Strange Land” by Robert Heinlein
+ - 11 -
+"Well- Here, I'll read it to you, then you just put your thumb print in the square and I'll
+witness it. 'I, the undersigned, Valentine Michael Smith, sometimes known as the Man from Mars,
+do grant and assign to Peerless Features, Limited, all and exclusive rights in my true-fact story to
+be titled I Was a Prisoner on Mars in exchange for-"
+"Orderly!"
+Dr. Frame was standing in the door of the watch room; the paper disappeared into the man's
+clothes. "Coming, sir. I was just getting this tray."
+"What were you reading?"
+"Nothing."
+"I saw you. Never mind, come out of there quickly. This patient is not to be disturbed." The
+man obeyed; Dr. Frame closed the door behind them. Smith lay motionless for the next half hour,
+but try as he might he could not grok it at all.
+IV
+GILLIAN BOARDMAN WAS CONSIDERED professionally competent as a nurse; she was
+judged competent in wider fields by the bachelor internes and she was judged harshly by some
+other women. There was no harm in her and her hobby was men. When the grapevine carried the
+word that there was a patient in special suite K-12 who had never laid eyes on a woman in his life,
+she did not believe it. When detailed explanation convinced her, she resolved to remedy it. She
+went on duty that day as floor supervisor in the wing where Smith was housed. As soon as possible
+she went to pay a call on the strange patient.
+She knew of the "No Female Visitors" rule and, while she did not Consider herself to be a
+visitor of any sort, she sailed on past the marine guards without attempting to use the door they
+guarded-marines, she had found, had a stuffy habit of construing their orders literally. Instead she
+went into the adjacent watch room. Dr. "Tad" Thaddeus was on duty there alone.
+He looked up. "Well, if it ain't 'Dimples!' Hi, honey, what brings you here?"
+She sat on the corner of his desk and reached for his cigarettes. "'Miss Dimples,' to you,
+chum; I'm on duty. This call is part of my rounds. What about your patient?"
+"Don't worry your fuzzy head about him, honey chile; he's not your responsibility. See your
+order book."
+"I read it. I want to have a look at him."
+"In one word-no."
+"Oh, Tad, don't go regulation on me. I know you."
+He gazed thoughtfully at his nails. "Ever worked for Doctor Nelson?"
+"No. Why?"
+"If I let you put your little foot inside that door, I'd find myself in Antarctica early
+tomorrow, prescribing for penguins' chilblains. So switch your fanny out of here and go bother your
+own patients. I wouldn't want him even to catch you in this watch room."
+She stood up. "Is Doctor Nelson likely to come popping in?"
+"Not likely, unless I send for him. He's still sleeping off low-gee fa. tigue."
+"So? Then what's the idea of being so duty struck?"
+"That's all, Nurse."
+"Very well, Doctor!" She added, "Stinker."
+“Stranger In A Strange Land” by Robert Heinlein
+ - 12 -
+"Jill!"
+"And a stuffed shirt, too."
+He sighed. "Still okay for Saturday night?"
+She shrugged. "I suppose so. A girl can't be fussy these days." She went back to her duty
+station, found that her services were not in immediate demand, picked up the pass key. She was
+balked but not beaten, as she recalled that suite K- 12 had a door joining it to the room beyond it, a
+room sometimes used as a sitting room when the suite was occupied by a Very Important Person.
+The room was not then in use, either as part of the suite or separately. She let herself into it. The
+guards at the door beyond paid no attention, unaware that they had been flanked.
+She hesitated at the inner door between the two rooms, feeling some of the sharp excitement
+she used to feel when sneaking out of student nurses' quarters. But, she told herself, Dr. Nelson was
+asleep and Tad wouldn't tell on her even if he caught her. She didn't blame him for keeping his
+finger on his number-but he wouldn't report her. She unlocked the door and looked in.
+The patient was in bed, he looked at her as the door opened. Her first impression was that
+here was a patient too far gone to care. His lack of expression seemed to show the complete apathy
+of the desperately ill. Then she saw that his eyes were alive with interest; she wondered if his face
+were paralysed? No, she decided; the typical sags were lacking.
+She assumed her professional manner. "Well, how are we today? Feeling better?"
+Smith translated and examined the questions. The inclusion of herself in the first query was
+confusing, but he decided that it might symbolize a wish to cherish and grow close. The second part
+matched Nelson's speech forms. "Yes," he answered.
+"Good!" Aside from his odd lack of expression she saw nothing strange about him-and if
+women were unknown to him, he was certainly managing to conceal it. "Is there anything I can do
+for you?" She glanced around, noted that there was no glass on the bedside shelf. "May I get you
+water?"
+Smith had spotted at once that this creature was different from the others who had come to
+see him. Almost as quickly he compared what he was seeing with pictures Nelson had shown him
+on the trip from home to this place-pictures intended to explain a particularly difficult and puzzling
+configuration of this people group. This, then, was a "woman."
+He felt both oddly excited and disappointed. He suppressed both in order that he might grok
+deeply, with such success that Dr. Thaddeus noticed no change in the dial readings in the next
+room.
+But when he translated the last query he felt such a surge of emotion that he almost let his
+heartbeat increase. He caught it in time and chided himself for an undisciplined nestling. Then he
+checked his translation.
+No, he was not mistaken. This woman creature had offered him the water ritual. It wished to
+grow closer.
+With great effort, scrambling for adequate meanings in his pitifully poor list of human
+words, he attempted to answer with due ceremoniousness. "I thank you for water. May you always
+drink deep."
+Nurse Boardman looked startled. "Why, how sweetl" She found a glass, filled it, and
+handed it to him.
+He said, "You drink."
+Wonder if he thinks I'm trying to poison him? she asked herself-but there was a compelling
+quality to his request. She took a sip, whereupon he took the glass from her and took one also, after
+which he seemed content to sink back into the bed, as if he had accomplished something important.
+“Stranger In A Strange Land” by Robert Heinlein
+ - 13 -
+Jill told herself that, as an adventure, this was a fizzle. She said, "Well, if you don't need
+anything else, I must get on with my work."
+She started for the door. He called out, "Not"
+She stopped. "Eh? What do you want'~"
+"Don't go away."
+"Well II have to go, pretty quickly." But she came back to the bedside, "Is there anything
+you want?"
+He looked her up and down. "You are ... 'woman'?"
+The question startled Jill Boardxnafl. Her sex had not been in doubt to the most casual
+observer for many years. Her first impulse was to answer flippantly.
+But Smith's grave face and oddly disturbing eyes checked her. She became aware
+emotionallY that the impossible fact about this patient was true: he did not know what a woman
+was. She answered carefully, "Yes, I am a woman,"
+Smith continued to stare at her without expression. Jill began to be embarrassed by it. To be
+looked at appreciativelY by a male she expected and sometimes enjoyed, but this was more like
+being examined under a microscope. She stirred restively. "Well? I look like a woman, don't I?"
+"I do not know," Smith answered slowly. "How does woman look? What makes you
+woman?"
+"Well, for pity's sake!" Jill realized confusedly that this conversation was further out of
+hand than any she had had with a male since about her twelfth birthday. "You don't expect me to
+take off my clothes and show you',,
+Smith took time to examine these verbal symbols and try to translate them. The first group
+he could not grok at all. It might be one of those formal sound groups these people so often used . .
+. yet it had been spoken with surprising force, as if it might be a last communication before
+withdrawaL Perhaps he had so deeply mistaken right conduct in dealing with a woman creature that
+the creature might be ready to discorporate at once.
+He knew vaguely that he did not want the nurse to die at that moment, even though it was
+certainly its right and possibly its obligation to do so. The abrupt change from the rapport of the
+Water ritual to a situation in which a newly won water brother might possibly be considering
+withdrawal or discorporatiOn would have thrown him into panic had he not been consciOuSlY
+suppressing such disturbance. But he decided that if
+Jill died now he must die at once also-he could not grok it in any other wise, not after the giving of
+water.
+The second half of the communication contained only symbols that he had encountered
+before. He grokked imperfectly the intention but there seemed to be an implied way Out for him to
+avoid this crisis-by acceding to the suggested wish. Perhaps if the woman took its clothes off
+neither of them need discorporate. He smiled happily. "Please."
+Jill opened her mouth, closed it hastily. She opened it again. "Huh? Well, I'll be darned!"
+Smith could grok emotional violence and knew that somehow he had offered the wrong
+reply. He began to compose his mind for discorporation, savoring and cherishing all that he had
+been and seen, with especial attention to this woman creature. Then he became aware that the
+woman was bending over him and he knew somehow that it was not about to die. It looked into his
+face. "Correct me if I am wrong," it said, "but were you asking me to take my clothes off?"
+The inversions and abstractions required careful translation but Smith managed it. "Yes," he
+answered, while hoping that it would not stir up a new crsis.
+"That's what I thought you said. Brother, you aren't ill."
+“Stranger In A Strange Land” by Robert Heinlein
+ - 14 -
+The word "brother" he considered first-the woman was reminding him that they had been
+joined in the water ritual. He asked the help of his nestlings that he might measure up to whatever
+this new brotheT wanted. "I am not ill," he agreed.
+"Though I'm darned if I know how to cope with whatever is wrong with you. But I won't
+peel down. And I've got to get out of here." It straightened up and turned again toward the side
+door-then stopped and looked back with a quizzical smile. "You might ask me again, real prettily,
+under other circumstances. I'm curious to see what I might do."
+The woman was gone. Smith relaxed into the water bed and let the room fade away from
+him. He felt sober triumph that he had somehow comforted himself so that it was not necessary for
+them to die . . . but there was much new to grok. The woman's last speech had contained many
+symbols new to him and those which were not new had been arranged in fashions not easily
+understood. Out he was happy that the emotional flavor of them had been suitable for
+communication between water brothers-although touched with something else both disturbing and
+terrifyingly pleasant. He thought about his new brother, the woman creature, and felt odd tingles
+run through him. The feeling reminded him of the first time he had been allowed to be present at a
+discorporatiOn and he felt happy without knowing why.
+He wished that his brother Doctor Mahmoud were here. There was so much to grok, so little
+to grok from.
+Jill Boardman spent the rest of her watch in a mild daze. She managed to avoid any
+mistakes in medication and she answered from reflex the usual verbal overtures made to her. But
+the face of the Man from Mars stayed in her mind and she mulled over the crazy things he had said.
+No, not "crazy," she corrected-she had done her Stint ~fl psychiatric wards and she felt certain that
+his remarks had not been psychotic.
+She decided that "innocent" was the proper term-then she decided that the word was not
+adequate. His expression was innocent, but his eyes were not. What sort of creature had a face like
+that?
+She had once worked in a Catholic hospital; she suddenly saw the face of the Man from
+Mars surrounded by the head dress of a nursing Sister, a nun. The idea disturbed her, for there was
+nothing female about Smith's face.
+She was changing into Street clothes when another nurse stuck her head into the locker
+room. "Phone, Jill. For you." Jill accepted the call, sound without vision, while she continued to
+dress.
+"Is this Florence Nightingale?" a baritone voice asked.
+"Speaking. That you, Ben?"
+"The stalwart upholder of the freedom of the press in person. Little one, are you busy?"
+"What do you have in mind?"
+"I have in mind taking you out, buying you a bloody steak, plying you with liquor, and
+asking you a question."
+"The answer is still 'No.'
+"Not that question. Another one."
+"Oh, do you know another one? If so, tell me."
+"Later. I want you softened up by food and liquor first."
+"Real steak? Not syntho?"
+"Guaranteed. When you stick a fork into it, it will turn imploring eyes on you."
+"You must be on an expense account, Ben."
+“Stranger In A Strange Land” by Robert Heinlein
+ - 15 -
+"That's irrelevant and ignoble. How about it?"
+"You've talked me into it."
+"The roof of the medical center. Ten minutes."
+She put the street suit she had changed into back into her locker and put on a dinner dress
+kept there for emergencies. It was a demure little number, barely translucent and with bustle and
+bust pads so subdued that they merely re-created the effect she would have produced had she been
+wearing nothing. The dress had cost her a month's pay and did not look it, its subtle power being
+concealed like knock-out drops in a drink. Jill looked at herself with satisfaction and took the
+bounce tube up to the roof.
+There she pulled her cape around her against the wind and was looking for Ben Caxton
+when the roof orderly touched her arm. "There is a car over there paging you, Miss Boardman-that
+Talbot saloon."
+"Thanks, Jack." She saw the taxi spotted for take-off, with its door open. She went to it,
+climbed in, and was about to hand Ben a backhanded compliment on gallantry when she saw that
+he was not inside. The taxi was on automatic; its door closed and it took to the air, swung Out of
+the circle, and sliced across the Potomac. Jill sat back and waited.
+The taxi stopped on a public landing flat over Alexandria and Ben Caxton got in; it took off
+again. Jill looked him over grimly. "My, aren't we getting important! Since when has your time
+become so valuable that you send a robot to pick up your women?"
+He reached over, patted her knee, and said gently, "Reasons, little one, reasons-I can't afford
+to be seen picking you up-"
+"~Velll"
+"-and you can't afford to be seen being picked up by me. So simmer down. I apologize. I
+bow in the dust. I kiss your little foot. But it was necessary."
+"Hmm ... which one of us has leprosy?"
+"Both of us, in different ways. Jill, I'm a newspaperman."
+"I was begimiing to think you were something else."
+"And you are a nurse at the hospital where they are holding the Man from Mars." He spread
+his hands and shrugged.
+"Keep talking. Does that make me unfit to meet your mother?"
+"Do you need a map, Jill? There are more than a thousand reporters in this area, not
+counting press agents, ax grinders, winchells, lippmanns, and the stampede that headed this way
+when the Champion landed. Every one of them has been trying to interview the Man from Mars,
+including me. So far as I know, none has succeeded. Do you think it would be Smart for us to be
+seen leaving the hospital together?"
+"Umm, maybe not. But I don't really see that it matters. I'm not the Man from Mars."
+He looked her over. "You certainly aren't. But maybe you are going to help me see himwhich
+is why I didn't want to be seen picking you
+"Huh? Ben, you've been out in the sun without your hat. They've got a marine guard around
+him." She thought about the fact that she herself had not found the guard too hard to circumvent,
+decided not to mention it.
+"So they have. So we talk it over."
+"I don't see what there is to talk about."
+"Later. I didn't intend to let the subject come up until I had softened you with animal
+proteins and ethanol. Let's eat first."
+“Stranger In A Strange Land” by Robert Heinlein
+ - 16 -
+"Now you sound rational. Where? Would your expense account run to the New Mayflower?
+You are on an expense account, aren't you?"
+Caxton frowned. "Jill, if we eat in a restaurant, I wouldn't want to risk one closer than
+Louisville. It would take this hack more than two hours to get us that far. How about dinner in my
+apartment?"
+"'-Said the Spider to the Fly.' Ben, I remember the last time. I'm too tired to wrestle."
+"Nobody asked you to. Strictly business. King's X, cross my heart and hope to die."
+"I don't know as I like that much better. If I'm safe alone with you, I must be slipping. Well,
+all right, King's X."
+Caxton leaned forward and punched buttons; the taxi, which had been circling under a
+"hold" instruction, woke up, looked around, and headed for the apartment hotel where Ben lived.
+He then dialed a phone number and said to Jill, "How much time do you want to get liquored up,
+sugar foot? I'll tell the kitchen when to have the steaks ready."
+Jill considered it. "Ben, your mousetrap has a private kitchen."
+"Of sorts. I can grill a steak, if that is what you mean."
+"I'll grill the steak. Hand me the phone." She gave orders, stopping to make sure that Ben
+liked endive.
+The taxi dropped them on the roof and they went down to his flat. It was unstylish and oldfashioned;
+its one luxury was a live grass lawn in the living room. Jill stopped in the entrance hail,
+slipped off her shoes, then stepped bare-footed into the living room and wiggled her toes among the
+cool green blades. She sighed. "My, that feels good. My feet have hurt ever since I entered
+training."
+"Sit down."
+"No, I want my feet to remember this tomorrow, when I'm on duty."
+"Suit yourself." He went into his pantry and mixed drinks.
+Presently she pattered after him and became domestic. The steak was waiting in the package
+lift; with it were pre-baked potatoes ready to be popped into short-wave. She tossed the salad,
+handed it to the refrigerator, then set up a combination on the stove to grill the steak and have the
+potatoes hot simultaneously, but did not start the cycle. "Ben, doesn't this stove have a remote
+control?"
+"Of course."
+"Well, I can't find it."
+He studied the setup on the control panel, then flipped an unmarked switch. "Jill, what
+would you do if you had to cook over an open fire?"
+"I'd do darn well. I was a Girl Scout and a good one. How about you, smarty?"
+He ignored it, picked up a tray and went back to the living room; she followed and sat down
+at his feet, spreading her skirt to avoid grass stains. They applied themselves seriously to martinis.
+Opposite his chair was a stereovision tank disguised as an aquarium; he switched it on from his
+chair, guppies and tetras faded out and gave way to the face of a commentator, the well-known
+winchell Augustus Greaves.
+"-it can be stated authoritatively," the stereo image was saying, "that the Man from Mars is
+being kept constantly under hypnotic drugs to keep him from disclosing these facts. The
+administration would find it extremely embarrassing if-"
+Canon flipped it off. "Gus old boy," he said pleasantly, "you don't know a durn thing more
+about it than I do." He frowned. "Though you might be right about the government keeping him
+under drugs."
+“Stranger In A Strange Land” by Robert Heinlein
+ - 17 -
+"No, they aren't," Jill said suddenly.
+"Eh? How's that, little one?"
+"The Man from Mars isn't being kept under hypnotics." Having blurted more than she had
+meant to, she added carefully, "He's got a nurse and a doctor all to himself on continuous watch,
+but there aren't any orders for sedation."
+"Are you sure? You aren't one of his nurses-or are you?"
+"No. They're male nurses. Uh ... matter of fact, there's an order to keep women away from
+him entirely and a couple of tough marines to make sure of it."
+Caxton nodded. "I heard about that. Fact is, you don't know whether they are drugging him
+or not. Do you?"
+Jill stared into her empty glass. She felt annoyed to have her word doubted but realized she
+would have to tell on herself to back up what she had said. "Ben? You wouldn't give me away?
+Would you?"
+"Give you away? How?"
+"Any way at all."
+"Hmm ... that covers a lot of ground, but I'll go along."
+"All right. Pour me another one first." He did so, Jill went on. "I know they don't have the
+Man from Mars hopped up-because I talked with him."
+Caxton gave a slow whistle. "I knew it. When I got up this morning I said to myself, 'Go see
+Jill. She's the ace up my sleeve.' Honey lamb, have another drink. Have six. Here, take the pitcher."
+"Not so fast, thanks."
+"Whatever you like. May I rub your poor tired feet? Lady, you are about to be interviewed.
+Your public waits with quivering impatience. Now let's begin at the beginning. How-"
+"No, Ben! You promised-remember? You quote me just one little quote and I'll lose my
+job."
+"Mmm ... probably. How about 'from a usually reliable source'?"
+"I'd be scared."
+"Well? Are you going to tell Uncle Ben? Or are you going to let him die of frustration and
+then eat that steak by yourself?"
+"Oh, I'll talk-now that I've talked this much. But you can't use it." Ben kept quiet and did not
+press his luck; Jill described how she had outflanked the guards.
+He interrupted. "Say! Could you do that again?"
+"Huh? I suppose so, but I won't. It's risky."
+"Well, could you slip me in that way? Of course you could! Look, I'll dress up like an
+electrician-greasy coveralls, union badge, tool kit. You just slip me the pass key and-"
+"No!"
+"Huh? Look, baby girl, be reasonable. I'll bet you four to one that half the hospital staffers
+around him are ringers, stuck in there by one news service or another. This is the greatest humaninterest
+story since Colombo conned Isabella into hocking her jewels. The only thing that worries
+me is that I may find another phony electrician-"
+"The only thing that worries me is me," Jill interrupted. "To you it's just a story; to me it's
+my career. They'd take away my cap, my pin, and ride me out of town on a rail. I'd be finished as a
+nurse."
+"Mmm ... there's that."
+"There sure is that."
+"Lady, you are about to be offered a bribe."
+“Stranger In A Strange Land” by Robert Heinlein
+ - 18 -
+"How big a bribe? It'll take quite a chunk to keep me in style the rest of my life in Rio."
+"Well ... the story is worth money, of course, but you can't expect me to outbid Associated
+Press, or Reuters. How about a hundred?"
+"What do you think I am?"
+"We settled that, we're dickering over the price. A hundred and fifty?"
+"Pour me another drink and look up the phone number of Associated Press for me, that's a
+lamb."
+"It's Capitol 10-9000. Jill, will you marry me? That's as high as I can
+She looked up at him, startled. "What did you say?"
+"Will you marry me? Then, when they ride you out of town on a rail, I'll be waiting at the
+city line and take you away from your sordid existence. You'll come back here and cool your toes
+in my grass-our grass- and forget your ignominy. But you've durn well got to sneak me into that
+hospital room first."
+"Ben, you almost sound serious. If I phone for a Fair Witness, will you repeat the offer?"
+Caxton sighed. "Jill, you're a hard woman. Send for a Witness."
+She stood up. "Ben," she said softly, "I won't hold you to it." She rumpled his hair and
+kissed him. "But don't ever joke about marriage to a spinster."
+"I wasn't joking."
+"I wonder. Wipe off the lipstick and I'll tell you everything I know, then we'll consider how
+you can use it without getting me ridden on that rail. Fair enough?"
+"Fair enough."
+She gave him a detailed account. "I'm sure he wasn't drugged. I'm equally sure that he was
+rational-although why I'm sure I don't know, for he talked in the oddest fashion and asked the
+darnedest questions. But I'm sure. He isn't psychotic."
+"It would be odder still if he hadn't talked in an odd fashion."
+"Huh?"
+"Use your head, Jill. We don't know much about Mars but we do know that Mars is very
+unlike Earth and that Martians, whatever they are, certainly are not human. Suppose you were
+suddenly popped into a tribe so far back in the jungle that they had never laid eyes on a white
+woman. Would you know all the sophisticated small talk that comes from a lifetime in a culture?
+Or would your conversation sound odd? That's a very mild analogy; the truth in this case is at least
+forty million miles stranger."
+Jill nodded. "I figured that out ... and that is why I discounted his odd remarks. I'm not
+dumb."
+"No, you're real bright, for a female."
+"Would you like this martini poured in your thinning hair?"
+"I apologize. Women are lots smarter than men; that is proved by our whole cultural setup.
+Gimme, I'll fill it."
+She accepted the peace offerings and went on, "Ben, that order about not letting him see
+women, it's silly. He's no sex fiend."
+"No doubt they don't want to hand him too many shocks at once."
+"He wasn't shocked. He was just ... interested. It wasn't like having a man look at me at all."
+"If you had humored him on that request for a private viewing, you might have had your
+hands full. He probably has all the instincts and no inhibitions."
+"Huh? I don't think so. I suppose they've told him about male and female; he just wanted to
+see how women are different."
+“Stranger In A Strange Land” by Robert Heinlein
+ - 19 -
+"'Vive Ia difference!'" Caxton answered enthusiastically.
+"Don't be more vulgar than you have to be."
+"Me? I wasn't being vulgar, I was being reverent. I was giving thanks to all the gods that I
+was born human and not Martian."
+"Be serious,"
+"I was never more serious."
+"Then be quiet. He wouldn't have given me any trouble. He would probably have thanked
+me gravely. You didn't see his face-I did."
+"What about his face?"
+Jill looked puzzled. "I don't know how to express it. Yes, I do!-Ben, have you ever seen an
+angel?"
+"You, cherub. Otherwise not."
+"Well, neither have I-but that is what he looked like. He had old, wise eyes in a completely
+placid face, a face of unearthly innocence." She shivered.
+"'Unearthly' is surely the right word," Ben answered slowly. "I'd like to see him."
+"I wish you had. Ben, why are they making such a thing out of keeping him shut up? He
+wouldn't hurt a fly. I'm sure of it."
+Caxton fitted his fingertips together. "Well, in the first place they want to protect him. He
+grew up in Mars gravity; he's probably weak as a cat."
+"Yes, of course. You could see it, just looking at him. But muscular weakness isn't
+dangerous; myasthenia gravis is much worse and we manage all right with such cases."
+"They would want to keep him from catching things, too. He's like those experimental
+animals at Notre Dame; he's never been exposed."
+"Sure, sure-no antibodies. But from what I hear around the mess hail, Doctor Nelson-the
+surgeon in the Champion, I mean-Doctor Nelson took care of that on the trip bac
+“Stranger In A Strange Land” by Robert Heinlein
+ - 20 -
+"Honey, your pal appears to be the first interplanetary bastard of record. I mean 'love
+child.'"
+"The hell you say!"
+"Please be more ladylike in your speech. Do you remember anything about the crew of the
+Envoy? Never mind, I'll hit the high points. Eight people, four married couples. Two couples were
+Captain and Mrs. Brant, Doctor and Mrs. Smith. Your friend with the face of an angel appears to be
+the son of Mrs. Smith by Captain Brant."
+"How do they know? And, anyhow, who cares?" Jill sat up and said indignantly, "It's a
+pretty snivelin' thing to dig up a scandal after all this time. They're all dead-let 'em alone, I say!"
+"As to how they know, you can figure that out. Blood typing, Rh factor, hair and eye color,
+all those genetic things-you probably know more about them than I do. Anyhow it is a
+mathematical certainty that Mary Jane Lyle Smith was his mother and Captain Michael Brant was
+his father. All the factors are matters of record for the entire crew of the Envoy; there probably
+never were eight people more thoroughly measured and typed. Also it gives Valentine Michael
+Smith a wonderfully fine heredity; his father had an I.Q. of 163, his mother 170, and both were tops
+in their fields.
+"As to who cares," Ben went on, "a lot of people care very much- and a lot more will care,
+once this picture shapes up. Ever heard of the Lyle Drive?"
+"Of course. That's what the Champion used."
+"And every other space ship, these days. Who invented it?"
+"I don't-Wait a minute! You mean she-"
+"Hand the little lady a cigar! Dr. Mary Jane Lyle Smith. She knew she had something
+important, even though development work remained to be done on it. So before she left on the
+expedition, she applied for a dozenodd basic patents and placed it all in a corporate trust-not a nonprofit
+corporation, mind you-then assigned control and interim income to the Science Foundation.
+So eventually the government got control of it-but your friend with the face of an angel owns it. No
+possible doubt. It's worth millions, maybe hundreds of millions; I couldn't guess."
+They brought in dinner. Caston used ceiling tables to protect his lawn; he lowered one down
+in front of his chair and another to Japanese height so that Jill could sit on the grass. "Tender?" he
+asked.
+"Ongerful!" she answered with her mouth full.
+"Thanks. Remember, I cooked it."
+"Ben," she said after swallowing, "how about Smith being a-I mean, being illegitimate? Can
+he inherit?"
+"He's not illegitimate. Doctor Mary Jane was at Berkeley, and California laws deny the
+concept of bastardy. Same for Captain Brant, as New Zealand also has civilized laws on the
+subject. While under the laws of the home State of Doctor Ward Smith, Mary Jane's husband, a
+child born in wedlock is legitimate, come hell or high water. We have here. Jill, a man who is the
+Simon-pure legitimate child of three different parents.
+"Huh? Now wait a minute, Ben; he can't be it both ways. One or the other but not both. I'm
+not a lawyer but-"
+"You sure ain't. Such legal fictions bother a lawyer not at all. Smith is legitimate different
+ways in different jurisdictions, all kosher and all breaking his way-even though he is probably a
+bastard in his physical ancestry. So he inherits. Besides that, while his mother was wealthy, both his
+fathers were at least well to do. Brant was a bachelor until just before the expedition; he had
+ploughed most of his scandalous salary as a pilot on the Moon run back into Lunar Enterprises,
+“Stranger In A Strange Land” by Robert Heinlein
+ - 21 -
+Limited. You know how that stuff has boomed-they just declared another three-way stock dividend.
+Brant had one vice, gambling-but the bloke won regularly and invested that, too. Ward Smith had
+family money; he was a medical man and scientist by choice. Smith is heir to both of them."
+"Whew!"
+"That ain't half, honey. Smith is heir to the entire crew."
+"Huh?"
+"All eight signed a 'Gentlemen Adventurers' contract, making them all mutually heirs to
+each other-all of them and their issue. They did it with great care, using as models similar contracts
+in the sixteenth and seventeenth centuries that had stood up against every effort to break them. Now
+these were all high-powered people; among them they had quite a lot. Happened to include
+considerable Lunar Enterprises stock, too, besides what Brant held. Smith might turn out to own a
+controlling interest, or at least a key bloc in a proxy fight."
+Jill thought about the childlike creature who had made such a touching ceremony out of just
+a drink of water and felt sorry for him. But Caxton went on: "I wish I could sneak a look at the
+Envoy's log. I know they recovered it-but I doubt if they'll ever release it."
+"Why not, Ben?"
+"Because it's a nasty story. I got Just enough to be sure before my informant sobered up and
+clammed up. Dr. Ward Smith delivered his wife of child by Caesarian section-and she died on the
+table. He seems to have worn his horns complacently until then. But what he did next shows that he
+knew the score; with the same scalpel he cut Captain Brant's throat- then cut his own. Sorry, hon."
+Jill shivered. "I'm a nurse. I'm immune to such things."
+"You're a liar and I love you for it. I was on police beat for three years, Jill; I never got
+hardened to it."
+"What happened to the others?"
+"I wish I knew. If we don't break the bureaucrats and high brass loose from that log, we'll
+never know-and I am enough of a starry-eyed newsboy to think we should know. Secrecy begets
+tyranny."
+"Ben, he might be better off if they gypped him out of his inheritance. He's very . . . uh,
+unworldly."
+"The exact word, I'm sure. Nor does he need all that money; the Man from Mars will never
+miss a meal. Any of the governments and any of a thousand-odd universities and scientific
+institutions would be delighted to have him as a permanent, privileged guest."
+"He'd better sign it over and forget it."
+"It's not that easy. Jill, you know about the famous case of General Atomics versus Larkin,
+et al?"
+"Uh, not really. You mean the Larkin Decision. I had to study it in school, same as
+everybody. But what's it got to do with Smith?"
+"Think back. The Russians sent the first rocket to the Moon, it crashed. The United States
+and Canada combine to send another one; it gets back but leaves nobody on the Moon. So when the
+United States and the Commonwealth are getting set to send a colonizing one jointly under the
+nominal sponsorship of the Federation and Russia is mounting the same deal on their own, General
+Atomics steals a march by sending one of their own from an island leased from Ecuador-and their
+men are still there, sitting pretty and looking smug when the Federation vessel shows up . . .
+followed by the Russian one.
+"You know what happened. General Atomics, a Swiss corporation American controlled,
+claimed the Moon. The Federation couldn't just brush them off; that would have been too raw and
+“Stranger In A Strange Land” by Robert Heinlein
+ - 22 -
+anyhow the Russians wouldn't have held still. So the High Court ruled that a corporate person, a
+mere legal fiction, could not own a planet; therefore the real owners were the flesh-and-blood men
+who had maintained the occupation-Larkin and associates. So they recognized them as a sovereign
+nation and took them into the Federation-with some melon slicing for those on the inside and fat
+concessions to General Atomics and its daughter corporation, Lunar Enterprises. This did not
+entirely suit anybody and the Federation High Court was not all powerful in those days-but it was a
+compromise everybody could swallow. It resulted in some tight rules for colonizing planets, all
+based on the Larkin Decision and intended to avoid bloodshed. Worked, too-it's a matter of history
+that World War Three did not result from conflict over space travel and such. So now the Larkin
+Decision is solidly a part of our planetary law and applies to Smith."
+Jill shook her head. "I don't see the connection. Martinis-"
+"Think, Jill. By our laws, Smith is a sovereign nation in himself-and sole owner of the
+planet Mars."
+V
+JILL LOOKED ROUND-EYED. "I've certainly had too many martinis Ben. I would swear that you
+said that that patient owns the planet Mars."
+"He does. He maintained occupation of it, unassisted, for the required length of time. Smith
+is the planet Mars-King, President, sole civic body, what you will. If the skipper of the Champion
+had not left colonists behind, Smith's tenure might have failed. But he did, and that continues
+occupation even though Smith came to Earth. But Smith doesn't have to split with them; they are
+mere immigrants until he grants them Martian citizenship."
+"Fantastic!"
+"It surely is. Also it's legal. Honey, do you now see why so many people are interested in
+who Smith is and where he came from? And why
+the administration is so damned anxious to keep him under a rug? What they are doing isn't even
+vaguely legal. Smith is also a citizen of the United States and of the Federation, by derivation-dual
+citizenship with no conflict. It's illegal to hold a citizen, even a convicted criminal, incommunicado
+anywhere in the Federation; that's one of the things we settled in World War Three. But I doubt if
+Smith knows his rights. Also, it has been considered an unfriendly act all through history to lock up
+a visiting friendly monarch-which is what he is-and not to let him see people, especially the press,
+meaning me. You still won't sneak me in as a thumbfingered electrician?"
+"Huh? You've got me worse scared than ever. Ben, if they had caught me this morning,
+what do you think they would have done to me?"
+"Mmm ... nothing rough. Just locked you in a padded cell, with a certificate signed by three
+doctors, and allowed you mail on alternate leap years. They aren't mad at you. I'm wondering what
+they are going to do to him."
+"What can they do?"
+"Well, he might just happen to die-from gee-fatigue, say. That would be a fine out for the
+administration."
+"You mean murder him?"
+"Tut, tut! Don't use nasty words. I don't think they will. In the first place he is a mine of
+information; even the public has some dim notion of that. He might be worth more than Newton
+“Stranger In A Strange Land” by Robert Heinlein
+ - 23 -
+and Edison and Einstein and six more like them all rolled into one. Or he may not be. I don't think
+they would dare touch him until they were sure. In the second place, at the very least, he is a bridge,
+an ambassador, a unique interpreter, between the human race and the only other civilized race we
+have as yet encountered. That is certainly important but there is no way to guess just how
+important. How are you on the classics? Ever read H. G. Wells' The War of the Worlds?"
+"A long time ago, in school."
+"Consider the idea that the Martians might decide to make war on us-and win. They might,
+you know, and we have no way of guessing how big a club they can swing. Our boy Smith might
+be the go-between, the peacemaker, who could make the First Interplanetary War unnecessary.
+Even if this possibility is remote, the administration can't afford to ignore it until they know. The
+discovery of intelligent life on Mars is something that, politically, they haven't figured out yet."
+"Then you think he is safe?"
+"Probably, for the time being. The Secretary General has to guess and guess right. As you
+know, his administration is shaky."
+"I don't pay any attention to politics."
+"You should. It's only barely less important than your own heartbeat."
+"I don't pay any attention to that, either."
+"Don't talk when I'm orating. The majority headed by the United States could slip apart
+overnight-Pakistan would bolt at a nervous cough. In which case there would be a vote of no
+conlidence, a general election, and Mr. Secretary General Douglas would be out and back to being
+a cheap lawyer again. The Man from Mars can make or break him. Are you going to sneak me in?"
+"I am not. I'm going to enter a nunnery. Is there more coffee?"
+"I'll see."
+They both stood up. Jill stretched and said, "Oh, my ancient bones! And, Lordy, look at the
+time! Never mind the coffee, Ben; I've got a hard day tomorrow, being polite to nasty patients and
+standing clear of internes. Run me home, will you? Or send me home, I guess that's safer. Call a
+cab, that's a lamb."
+"Okay, though the evening is young." He went into his bedroom, caine out carrying an
+object about the size and shape of a small cigarette lighter. "Sure you won't sneak me in?"
+"Gee, Ben, I want to, but-"
+"Never mind. I wouldn't let you. It really is dangerous-and not just to your career. I was just
+softening you up for this." He showed her the little object. "Will you put a bug on him?"
+"Huh? What is it?"
+"The greatest boon to divorce lawyers and spies since the Mickey Finn. A
+microminiaturized wire recorder. The wire is spring driven so that it can't be spotted by a snooper
+circuit. The insides are transistors and resistors and capacitors and stuff, all packed in plastic-you
+could drop it Out of a cab and not hurt it. The power is about as much radioactivity as you would
+find in a watch dial, but shielded, The wire is good for twentyfour hours. Then you slide out a spool
+and stick in another one-the spring is part of the spool, already wound."
+"Will it explode?" she asked nervously.
+"You could bake it in a cake."
+"But, Ben, you've got me scared to go back into his room now."
+"Unnecessary. You can go into the room next door, can't you?"
+"I suppose so."
+"This thing has donkey's ears. Fasten the concave side flat against a wall-surgical tape will
+do nicely-and it picks up every word spoken in the room beyond. Is there a closet or something?"
+“Stranger In A Strange Land” by Robert Heinlein
+ - 24 -
+She thought about it. "I'm bound to be noticed if I duck in and out of that adjoining room
+too much; it's really part of the suite he's in. Or they may start using it. Look, Ben, his room has a
+third wall in common with a room on another corridor. Will that do?"
+"Perfect. Then you'll do it?"
+"Umm ... give it to me. I'll think it over and see how the land lies."
+Caxton stopped to polish it with his handkerchief. "Put on your gloves."
+"Why?"
+"Possession of it is slightly illegal, good for a short vacation behind bars. Always use gloves
+on it and the spare spools-and don't get caught with it."
+"You think of the nicest thingsl"
+"Want to back out?"
+Jill let out a long breath. "No. I've always wanted a life of crime. Will you teach me
+gangster lingo? I want to be a credit to you."
+"Good girl!" A light blinked over the door, he glanced up. "That must be your cab. I rang
+for it when I went to get this."
+"Oh. Find my shoes, will you? No, don't come up to the roof. The less I'm seen with you
+from here on the better."
+"As you wish."
+As he straightened up from putting her shoes on, she took his head in both hands and kissed
+him. "Dear Ben! No good can come of this and I hadn't realized you were a criminal type-but you're
+a good cook, as long as I set up the combination . . . and I just might marry you if I can trap you
+into proposing again."
+"The offer remains open."
+"Do gangsters marry their molls? Or is it 'frails'? We'll see" She left hurriedly.
+Jill Boardman placed the bug without difficulty. The patient in the adjacent room in the next
+corridor was bedfast; Jill often Stopped to gossip. She stuck it against the wall over a closet shelf
+while chattering about how the maids just never dusted high in the closets.
+Removing the spool the next day and inserting a fresh one was just as easy; the patient was
+asleep. She woke while Jill was still perched on a chair and seemed surprised; Jill diverted her with
+a spicy and imaginary ward rumor.
+Jill sent the exposed wire by mail, using the hospital's post office as the impersonal
+blindness of the postal System seemed safer than a cloak & dagger ruse. But her attempt to insert a
+third fresh spool she muffed. She had waited for a time when the patient was asleep but had just
+mounted the chair when the patient woke up. "Oh! Hello, Miss Boardman."
+Jill froze with one hand on the wire recorder. "Hello, Mrs. Fritschlie," she managed to
+answer. "Have a nice nap?"
+"Fair," the woman answered peevishly. "My back aches."
+"I'll rub it."
+"Doesn't help much. Why are you always fiddling around in my closet? Is something
+wrong?"
+Jill tried to reswallow her stomach. The woman wasn't really suspicious, she told herself.
+"Mice," she said vaguely.
+"'Mice?' Oh, I can't abide mice! I'll have to have another room, right away!"
+“Stranger In A Strange Land” by Robert Heinlein
+ - 25 -
+Jill tore the little instrument off the closet wall and stuffed it into her pocket, jumped down
+from the chair and spoke to the patient. "Now, now, Mrs. Fritschlie-I was just looking to see if
+there were any mouse holes in that closet. There aren't."
+"You're sure?"
+"Quite sure. Now let's rub the back, shall we? Easy over."
+Jill decided she could not plant the bug in that room again and concluded that she would
+risk attempting to place it in the empty room which was part of K-12, the Suite of the Man from
+Mars. But it was almost time for her relief before she was free again. She got the pass key.
+Only to find that she did not need it; the door was unlocked and held two more marines; the
+guard had been doubled. One of them glanced up as she opened the door. "Looking for someone?"
+"No. Don't sit on the bed, boys," she said crisply. "If you need more chairs, we'll send for
+them." She kept her eye on the guard while he got reluctantly up; then she left, trying to conceal her
+trembling.
+The bug was still burning a hole in her pocket when she went off duty; she decided to return
+it to Caxton at once. She changed clothes, shifted it to her bag, and went to the roof. Once in the air
+and headed toward Ben's apartment she began to breathe easier. She phoned him in flight.
+"Caxton speaking."
+"Jill, Ben. I want to see you. Are you alone?"
+He answered slowly, "I don't think it's smart, kid. Not now."
+"Ben, I've got to see you. I'm on my way over."
+"Well, okay, if that's how it's got to be."
+"Such enthusiasm!"
+"Now look, hon, it isn't that I-"
+"'Bye!" She switched off calmed down and decided not to take it out on poor Ben-fact was
+they both were playing out of their league. At least she was-she should have stuck to nursing and
+left politics alone.
+She felt better when she saw Ben and better yet when she kissed him and snuggled into his
+arms. Ben was such a dear-maybe she really should marry him. But when she tried to speak he put
+a hand over her mouth, then whispered close against her ear, "Don't talk. No names and nothing but
+trivialities. I may be wired by now."
+She nodded and he led her into the living room. Without speaking she got out the wire
+recorder and handed it to him. His eyebrows went up when he saw that she was returning not just a
+spool but the whole works but he made no comment. Instead he handed her a copy of the afternoon
+Post.
+"Seen the paper?" he said in a natural voice. "You might like to glance at it while I wash
+up."
+"Thanks." As she took it he pointed to a column; he then left, taking with him the recorder.
+Jill saw that the column was Ben's own syndicated outlet.
+THE CROW'S NEST
+by Ben Caxton
+Everyone knows that jails and hospitals have one thing in common: they both can be very hard to
+get out of. In some ways a prisoner is less cut off than a patient; a prisoner can send for his lawyer,
+“Stranger In A Strange Land” by Robert Heinlein
+ - 26 -
+can demand a Fair Witness, he can invoke habeas corpus and require the jailor to show cause in
+Open court.
+But it takes only a simple NO VISITORS sign, ordered by one of the medicine men of our
+peculiar tribe, to consign a hospital patient to oblivion more thoroughly than ever was the Man in
+the Iron Mask.
+To be sure, the patient's next of kin cannot be kept out by this device
+-but the Man from Mars seems to have no next of kin. The crew of the ill-fated Envoy had few ties
+on Earth; if the Man in the Iron Mask- pardon me I mean the "Man from Mars"-has any relative
+who is guarding his interests, a few thousand inquisitive reporters (such as your present scrivener)
+have been unable to verify it.
+Who speaks for the Man from Mars? Who ordered an armed guard placed around him?
+What is his dread disease that no one may catch a glimpse of him, nor ask him a question? I address
+you, Mr. Secretary General; the explanation about "physical weakness" and "gee-fatigue" won't
+wash; if that were the answer, a ninety-pound nurse would do as well as an armed guard.
+Could this disease be financial in nature? Or (let's say it softly) is it political?
+There was more, all in the same vein; Jill could see that Ben was deliberately baiting the
+administration, trying to force them to bring Smith out into the open. What that would accomplish
+she did not know, her own horizon not encompassing high politics and high finance. She felt, rather
+than knew, that Caxton was taking serious risk in challenging the established authorities, but she
+had no notion of the size of the danger, nor of what form it might take.
+She thumbed through the rest of the paper. It was well loaded with follow-up stories on the
+return of the Champion. with pictures of Secretary General Douglas pinning medals on the crew,
+interviews with Captain van Tromp and other members of his brave company, pictures of Martians
+and Martian cities. There was very little about Smith, merely a medical bulletin that he was
+improving slowly but satisfactorily from the effects of his trip.
+Ben came out and dropped some sheets of onion skin in her lap. "Here's another newspaper
+you might like to see," he remarked and left agan.
+Jill soon saw that the other "newspaper" was a transcription of what her first wire had
+picked up. As typed out, it was marked "First Voice," "Second Voice," and so on, but Ben had gone
+back and written in names wherever he had been able to make attributions later. He had written
+across the top: "All voices, identified or not, are masculine."
+Most of the items were of no interest. They simply showed that Smith had been fed, or
+washed, or massaged, and that each morning and afternoon he had been required to get up and
+exercise under the supervision of a voice identified as "Doctor Nelson" and a second voice marked
+"second doctor." Jill decided that this must be Dr. Thaddeus.
+But one longish passage had nothing to do with the physical care of the patient. Jill read it
+and reread it:
+Doctor Nelson: How are you feeling, boy? Are you strong enough to talk for a while?
+Smith: Yes.
+Doctor Nelson: A man wants to talk to you.
+Smith: (pause) Who? (Caxton had written in: All of Smith's speeches are preceded by long
+pauses, some longer than others.)
+Nelson: This man is our great (untranscribable guttural word-Martian?). He is our oldest
+Old One. Will you talk with him?
+“Stranger In A Strange Land” by Robert Heinlein
+ - 27 -
+Smith: (very long pause) I am great happy. The Old One will talk and I will listen and grow.
+Nelson: No, no! He wants to ask you questions.
+Smith: I cannot teach an Old One.
+Nelson: The Old One wishes it. Will you let him ask you questions?
+Smith: Yes.
+(Background noises, short delay.)
+Nelson: This way, sir. Uh, I have Doctor Mahmoud standing by, ready to translate for you.
+Jill read "New Voice." Caxton had scratched this out and had written in: "Secretary General
+Douglasilt"
+Secretary General: I won't need him. You say Smith understands English.
+Nelson: Well, yes and no, Your Excellency. He knows quite a number of words, but, as
+Mahmoud says, he doesn't have any cultural context to hang the words on. It can be rather
+confusing.
+Secretary General: Oh, we'll get along all right, I'm sure. When I was a youngster I
+hitchhiked all through Brazil, without knowing a word of Portuguese when I started. Now, if you
+will just introduce us-then leave us alone.
+Nelson: Sir? I think I had better stay with my patient.
+Secretary General: Really, Doctor? I'm afraid I must insist. Sorry.
+Nelson: And I am afraid that I must insist. Sorry, sir. Medical ethics- Secretary General:
+(interrupting) As a lawyer, I know a little something of medical jurisprudence-so don't give me that
+"medical ethics" mumbo-jumbo, really. Did this patient select you?
+Nelson: Not exactly, but- Secretary General: Just as I thought. Has he had any opportunity to
+make a choice of physicians? I doubt it. His present status is that of ward of the state. I am acting as
+his next of kin, defacto-and, you will find, de jure as well. I wish to interview him alone.
+Nelson: (long pause, then very stiffly) If you put it that way, Your Excellency, I withdraw
+from the case.
+Secretary General: Don't take it that way, Doctor; I didn't mean to get your back hair up. I'm
+not questioning your treatment. But you wouldn't try to keep a mother from seeing her son alone,
+now would you? Are you afraid that I might hurt him?
+Nelson: No, but- Secretary General: Then what is your objection? Come now, introduce us
+and let's get on with it. This fussing may be upsetting your patient.
+Nelson: Your Excellency, I will introduce you. Then you must select another doctor for
+your . . . ward.
+Secretary General: I'm sorry, Doctor, I really am. I can't take that as final-we'll discuss it
+later. Now, if you please?
+Nelson: Step over here, sir. Son, this is the man who wants to see you. Our great Old One.
+Smith: (untranscribable)
+Secretary General: What did he say?
+Nelson: Sort of a respectful greeting. Mahmoud says it translates: "I am only an egg."
+More or less that, anyway. He used to use it on me. It's friendly. Son, talk man-talk.
+Smith: Yes.
+Nelson: And you had better use simple one-syllable words, if I may offer a last
+advice.
+Secretary General: Oh, I will.
+Nelson: Good-by, Your Excellency. Good-by, son.
+Secretary General: Thanks, Doctor. See you later.
+“Stranger In A Strange Land” by Robert Heinlein
+ - 28 -
+Secretary General: (continued) How do you feel?
+Smith: Feel fine.
+Secretary General: Good. Anything you want, just ask for it. We want you to be happy.
+Now I have something I want you to do for me. Can you write?
+Smith: 'Write?' What is 'write?'
+Secretary General: Well, your thumb print will do. I want to read a paper to you. This paper
+has a lot of lawyer talk, but stated simply it says that you agree that in leaving Mars you have
+abandoned-I mean, given up-any claims that you may have there. Understand me? You assign them
+in trust to the government.
+Smith: (no answer)
+Secretary General: Well, let's put it this way. You don't own Mars, do you?
+Smith: (longish pause) I do not understand.
+Secretary General: Mmm . . . let's try it this way. You want to stay here, don't you?
+Smith: I do not know. I was sent by the Old Ones. (Long untranscribable speech, sounds
+like a bullfrog fighting a cat.)
+Secretary General: Damn it, they should have taught him more English by now. See here,
+son, you don't have to worry about these things. Just let me have your thumb print here at the
+bottom of this page. Let me have your right hand. No, don't twist around that wa
+“Stranger In A Strange Land” by Robert Heinlein
+ - 29 -
+Special Service squads are thorough. But this cab-" He patted its seat cushions. "They can't
+gimmick thousands of cabs. One picked at random should be safe."
+Jill shivered. "Ben, you don't really think they would..." She let it trail off.
+"Don't I, now! You saw my column. I filed that copy nine hours ago. Do you think the
+administration will let me kick it in the stomach without doing something about it?"
+"But you have always opposed this administration."
+"That's okay. The duty of His Majesty's Loyal Opposition is to oppose. They expect that.
+But this is different; I have practically accused them of holding a political prisoner . . . one the
+public is very much interested in. Jill, a government is a living organism. Like every living thing its
+prime characteristic is a blind, unreasoned instinct to survive. You hit it, it will fight back. This
+time I've really hit it." He gave her a sidelong look. "I shouldn't have involved you in this."
+"Me? I'm not afraid. At least not since I turned that gadget back over to you."
+"You're associated with me. If things get rough, that could be enough."
+Jill shut up. She had never in her life experienced the giant ruthlessness of giant power.
+Outside of her knowledge of nursing and of the joyous guerilla warfare between the sexes, Jill was
+almost as innocent as the Man from Mars. The notion that she, Jill Ooardman, who had never
+experienced anything worse than a spanking as a child and an occasional harsh word as an adult,
+could be in physical danger was almost impossible for her to believe. As a nurse, she had seen the
+consequences of ruthlessness, violence, brutality-but it could not happen to her.
+Their cab was circling for a landing in Hagerstown before she broke the moody silence.
+"Ben? Suppose this patient does die. What happens?"
+"Huh?" He frowned. "That's a good question, a very good question. I'm glad you asked it; it
+shows you are taking an interest in the work. Now if there are no other questions, the class is
+dismissed."
+"Don't try to be funny."
+"Hmm ... Jill, I've been awake nights when I should have been dreaming about you, trying
+to answer that one. It's a two-part question, political and financial-and here are the best answers I
+have now: If Smith dies, his odd legal claim to the planet Mars vanishes. Probably the pioneer
+group the Champion left behind on Mars starts a new claim-and almost certainly the administration
+worked out a deal with them before they left Earth. The Champion is a Federation ship but it is
+more than possible that the deal, if there was one, leaves all the strings in the hands of that
+redoubtable defender of human rights, Mr. Secretary General Douglas. Such a deal could keep him
+in power for a long time. On the other hand, it might mean nothing at all."
+"Huh? Why?"
+"The Larkin Decision might not apply. Luna was uninhabited, but
+Mars is inhabited-by Martians. At the moment, Martians are a legal zero. But the High Court might
+take a look at the political situation, stare at its collective navel, and decide that human occupancy
+meant nothing on a planet already inhabited by non-human natives. Then rights on Mars, if any,
+would have to be secured from the Martians themselves."
+"But, Ben, that would logically be the case anyhow. This notion of a single man owning a
+planet ...it' s fantastic!"
+"Don't use that word to a lawyer; he won't understand you. Straining at gnats and
+swallowing camels is a required course in all law schools. Besides, there is a case in point. In the
+fifteenth century the Pope deeded the entire western hemisphere to Spain and Portugal and nobody
+paid the slightest attention to the fact that the real estate was already occupied by several million
+Indians with their own laws, customs, and notions of property rights. His grant deed was pretty
+“Stranger In A Strange Land” by Robert Heinlein
+ - 30 -
+effective, too. Take a look at a western hemisphere map sometime and notice where Spanish is
+spoken and where Portuguese is spoken-and see how much land the Indians have left."
+"Yes, but- Ben, this isn't the fifteenth century."
+"It is to a lawyer. They still cite Blackwell, Code Napoleon, or even the laws of Justinian.
+Mark it down, Jill; if the High Court rules that the Larkin Decision applies, Smith is in a position to
+grant or withhold concessions on Mars which may be worth millions, or more likely billions. If he
+assigns his claim to the present administration, then Secretary Douglas is the man who will hand
+out the plums. Which is just what Douglas is trying to rig. You saw that bug transcript."
+"Ben, why should anybody want that sort of power?"
+"Why does a moth fly toward a light? The drive for power is even less logical than the sex
+urge . . . and stronger. But I said this was a two-part question. Smith's financial holdings are almost
+as important as his special position as nominal king-emperor of Mars. Possibly more important, for
+a High Court decision could knock out his squatter's rights on Mars but I doubt if anything could
+shake his ownership of the Lyle Drive and a major chunk of Lunar Enterprises; the eight wills are a
+matter of public record- and in the three most important cases he inherits with or without a will.
+What happens if he dies? I don't know. A thousand alleged cousins would pop up, of course, but the
+Science Foundation has fought off a lot of such money-hungry vermin in the past twenty years. It
+seems possible that, if Smith dies without making a will, his enormous fortune will revert to the
+state."
+"'The state?' Do you mean the Federation or the United States?"
+"Another very good question to which I do not know the answer. His natural parents come
+from two different member countries of the Federation and he was born outside all of them . . . and
+it is going to make a crucial difference to some people who votes those blocks of stock and who
+licenses those patents. It won't be Smith; he won't know a stock proxy from a traffic ticket. It is
+likely to be whoever can grab him and hang onto him. In the meantime I doubt if Lloyd's would
+write a policy on his life; he strikes me as a very poor risk."
+"The poor baby! The poor, poor infant!"
+VI
+THE RESTAURANT IN HAGERSTOWN had "atmosphere" as well as good food, which meant
+that it had tables scattered not only over a lawn leading down to the edge of a little lake but also
+had tables in the boughs of three enormous old trees. Over all was a force field roof which kept the
+outdoors dining area perpetually summer even in rain and snow.
+Jill wanted to eat up in the trees, but Ben ignored her and bribed the maître d'hôtel to set up
+a table near the water in a spot of his choice, then ordered a portable stereo tank placed by their
+table.
+Jill was miffed. "Ben, why bother to come here and pay these prices if we can't eat in the
+trees and have to endure that horrible jitterbox?"
+"Patience, little one. The tables up in the trees all have microphone circuits; they have to
+have them for service. This table is not gimmicked- I hope-as I saw the waiter take it from a stack
+of unused ones. As for the tank, not only is it unAmerican and probably subversive to eat without
+watching stereo but also the racket from it would interfere even with a directional mike aimed at us
+“Stranger In A Strange Land” by Robert Heinlein
+ - 31 -
+from a distance . . . assuming that Mr. Douglas's investigators are beginning to take an interest in
+us, which I misdoubt they are."
+"Do you really think they might be shadowing us, Ben?" Jill shivered. "I don't think I'm cut
+out for a life of crime."
+"Pish and likewise tush! When I was working on the General Synthetics bribery scandals I
+never slept twice in the same place and ate nothing but packaged food I had bought myself. After a
+while you get to like it- stimulates the metabolism."
+"My metabolism doesn't need it, thank you. All I require is one elderly, wealthy private
+patient."
+"Not going to marry me, Jill?"
+"After my future husband kicks off, yes. Or maybe I'll be so rich I can afford to keep you as
+a pet."
+"Best offer I've had in months. How about starting tonight?"
+"After he kicks off."
+During their cocktails the musical show plus lavish commercials which had been banging
+their eardrums from the stereo tank suddenly stopped. An announcer's head and shoulders filled the
+tank; he smiled sincerely and said, "NWNW, New World Networks and its sponsor of the hour,
+Wise Girl Maithusian Lozenges, is honored and privileged to surrender the next few minutes to a
+special, history-making broadcast by the Federation Government. Remember, friends, every wise
+girl uses Wise Girls. Easy to carry, pleasant to take, guaranteed no-fail, and approved for sale
+without prescription under Public Law 1312, Why take a chance on old-fashioned, unesthetic,
+harmful, unsure methods? Why risk losing his love and respect? Remember The lovely, lupine
+announcer glanced aside and hurried through the rest of his commercial: "I give you the Wise Girl,
+who in turn brings you the Secretary General-and the Man from Mars!"
+The 3-D picture dissolved into that of a young woman, so sensuous, so unbelievably
+mammalian, so seductive, as to make every male who saw her unsatisfied with local talent. She
+stretched and wiggled and said in a bedroom voice, "I always use Wise Girl."
+The picture dissolved and a full orchestra played the opening bars of Hail to Sovereign
+Peace. Ben said, "Do you use Wise Girl?"
+"None o' your business!" She looked ruffled and added, "It's a quack nostrum. Anyhow,
+what makes you think I need it?"
+Caxton did not answer; the tank had filled with the fatherly features of Mr. Secretary
+General Douglas. "Friends," he began, "fellow citizens of the Federation, I have tonight a unique
+honor and privilege. Since the triumphant return of our trail-blazing ship Champion-" He continued
+in a few thousand well-chosen words to congratulate the citizens of Earth on their successful
+contact with another planet, another civilized race. He managed to imply that the exploit of the
+Champion was the personal accomplishment of every citizen of the Federation, that any one of
+them could have led the expedition had he not been busy with other serious work-and that he,
+Secretary Douglas, had been chosen by them as their humble instrument to work their will. The
+flattering notions were never stated baldly, but implied; the underlying assumption being that the
+common man was the equal of anyone and better than most-and that good old Joe Douglas
+embodied the common man. Even his mussed cravat and cowlicked hair had a "just folks" quality.
+Bert Caxton wondered who had written the speech. Jim Sanforth, probably-Jim had the
+most subtle touch of any member of Douglas' staff in selecting the proper loaded adjective to tickle
+and soothe an audience; he had written advertising commercials before he went into politics and
+had absolutely no compunctions. Yes, that bit about "the hand that rocks the cradle" was clearly
+“Stranger In A Strange Land” by Robert Heinlein
+ - 32 -
+Jim's work-Jim was the sort of jerk who would entice a young girl with candy and consider it a
+smart operation.
+"Turn it off!" Jill said urgently.
+"Huh? Shut up, pretty foots. I've got to hear this."
+"-and so, friends, I have the honor to bring you now our fellow citizen Valentine Michael
+Smith, the Man from Mars! Mike, we all know you are tired and have not been well-but will you
+say a few words to your friends? They all want to see you."
+The stereo scene in the tank dissolved to a semi-close-up of a man in a wheel chair.
+Hovering over him like a favorite uncle was Douglas and on the other side of the chair was a nurse,
+stiff, starched, and photogenic.
+Jill gasped. Ben whispered fiercely, "Keep quiet! I don't want to miss a word of this."
+The interview was not long. The smooth babyface of the man in the chair broke into a shy
+smile; he looked at the cameras and said, "Hello, folks. Excuse me for sitting down. I'm still weak."
+He seemed to speak with difficulty and once the nurse interrupted to take his pulse.
+In answer to questions from Douglas he paid compliments to Captain van Tromp and the
+crew of the Champion, thanked everyone for his rescue, and said that everyone on Mars was
+terribly excited over contact with Earth and that he hoped to help in welding strong and friendly
+relations between the two planets. The nurse interrupted again, but Douglas said gently. "Mike, do
+you feel strong enough for just one more question?"
+"Sure, Mr. Douglas-if I can answer it."
+"Mike? What do you think of the girls here on Earth?"
+"Gee!"
+The baby face looked awestruck and ecstatic and turned pink. The scene dissolved again to
+the head and shoulders of the Secretary General. "Mike asked me to tell you," he went on in
+fatherly tones, "that he will be back to see you as soon as he can. He has to build up his muscles,
+you know. The gravity of Earth is as rough on him as the gravity of Jupiter would be to us. Possibly
+next week, if the doctors say he is strong enough." The scene shifted back to the exponents of Wise
+Girl lozenges and a quick one-act playlet made clear that a girl who did not use them was not only
+out of her mind but undoubtedly a syntho in the hay as well; men would cross the street to avoid
+her. Ben switched to another channel, then turned to Jill and said moodily, "Well, I can tear up
+tomorrow's column and look around for a new subject to plug. They not only made my today's
+squawk look silly but it appears that Douglas has him safely under his thumb."
+"Ben!"
+"Huh?"
+"That's not the Man from Mars!"
+"What? Baby, are you sure?"
+"Sure I'm sure! Oh, it looked like him, it looked a great deal like him. Even the voice was
+similar. But it was not the patient I saw in that guarded room."
+Ben tried to shake her conviction. He pointed out that several dozen other persons were
+known to have seen Smith-guards, internes, male nurses, the captain and crew members of the
+Champion, probably others. Quite a few of that list must have seen this newscast-or at least the
+administration would have to assume that some of them would see it and spot the substitution . . . if
+there had been a substitution. It did not make sense-too great a risk.
+Jill did not offer logical rebuttal; she simply stuck Out her lower lip and insisted that the
+person on Stereo was not the patient she had met. Finally she said angrily, "All right, all right, have
+it your own way! I can't prove I'm right-so I must be wrong. Men!"
+“Stranger In A Strange Land” by Robert Heinlein
+ - 33 -
+"Now, Jill
+"Please take me home."
+Ben silently went for a cab. He did not accept one from outside the restaurant even though
+he no longer thought that anyone would be taking interest in his movements; he selected one from
+the landing flat of a hotel across the way. Jill remained chilly on the flight back. Presently Ben got
+out the transcripts of the sounds picked up from Smith's hospital room and reread them. He read
+them still again, thought for a while, and said, "Jill?"
+"Yes, Mr. Caxton?"
+"I'll 'mister' you! Look, Jill, I'm sorry, I apologize. I was wrong."
+"And what leads you to this momentous conclusion?"
+He slapped the folded papers against his palm. "This. Smith could not possibly have been
+showing this behavior yesterday and the day before and then have given that interview tonight. He
+would have flipped his controls
+gone into one of those trance things."
+"I am gratified that you have finally seen the obvious."
+"Jill, will you kindly kick me in the face a couple of times, then let up? This is serious. Do
+you know what this means?"
+"It means they used an actor to fake an interview. I told you that an hour ago."
+"Sure. An actor and a good one, carefully typed and coached. But it implies much more than
+that. As I see it, there are two possibilities. The first is that Smith is dead and-"
+"Dead!" Jill suddenly was back in that curious water-drinking ceremony and felt the
+strange, warm, unworldly flavor of Smith's personality, felt it with unbearable sorrow.
+"Maybe. In which case this ringer will be allowed to stay 'alwe' for a week or ten days, until
+they have time to draw up whatever papers they want him to sign. Then the ringer will 'die' and
+they will ship him Out of town, probably with a hypnotic injunction not to talk so strong that he
+would choke up with asthma if he tried to spill it-or maybe even a transorbital lobotomy if the boys
+are playing for keeps. But if Smith is dead, we can just forget it; we'll never be able to prove the
+truth. So let's assume that he is still alive."
+"Oh, I do hope so!"
+"What is Hecuba to you, or you to Hecuba?" Caxton misquoted. "If he is still alive, it could
+be that there is nothing especially sinister about it. After all, a lot of public figures use doubles for
+some of their appearances;•. it does not even annoy the public because every time a yokel thinks
+that he has spotted a double it makes him feel smart and in the know, So it may be that the
+administration has just yielded to public demand and given them that look at the Man from Mars
+we have all been yapping for. It could be that in two or three weeks our friend Smith will be in
+shape to stand the strain of public appearances, at which time they will trot him Out. But I doubt it
+like hell!"
+"Why?"
+"Use your pretty curly head. The Honorable Joe Douglas has already made one attempt to
+squeeze out of Smith what he wants . . . and failed miserably. But Douglas can't afford to fail. So I
+think he will bury Smith deeper than ever . . . and that is the last we will ever see of the true Man
+from Mars."
+"Kill him?" Jill said slowly.
+"Why be rough about it? Lock him in a private nursing home and never let him learn
+anything. He may already have been removed from Bethesda Center."
+"Oh, dear! Ben, what are we going to do?"
+“Stranger In A Strange Land” by Robert Heinlein
+ - 34 -
+Caxton scowled and thought. "I don't have a good plan. They own both the bat and the ball
+and are making the rules. But what I am going to do is this~ I'm going to walk into that hospital
+with a Fair Witness on one side and a tough lawyer on the other and demand to see Smith. Maybe I
+can force them to drag it out into the open."
+"I'll be right behind you!"
+"Like mischief you will. You stay Out of this. As you pointed Out, it would ruin you
+professionally."
+"But you need me to identify him."
+"Not so. I flatter myself that I can tell a man who was raised by nonhumans from an actor
+pretending to be such a man in the course of a very short interview. But if anything goes wrong,
+you are my ace in the hole-a person who knows that they are pulling hanky-panky concerning the
+Man from Mars and who has access to the inside of Bethesda Center. Honey, if you don't hear from
+me, you are on your own."
+"Ben, they wouldn't hurt you?"
+"I'm fighting Out of my weight, youngster. There is no telling."
+"Uh ... oh, Ben, I don't like this. Look, if you do get in to see him, what are you going to
+do?"
+"I'm going to ask him if he wants to leave the hospital. If he says he does, I'm going to
+invite him to come along with me. In the presence of a Fair Witness they won't dare stop him. A
+hospital isn't a prison; they don't have any legal right to hold him."
+"Uh ... then what? He really does need medical attention, Ben; he's not able to take care of
+himself. I know."
+Caxton scowled again. "I've been thinking of that. I can't nurse him. You could, of course, if
+you had the facilities. We could put him in my flat-"
+"-and I could nurse him. We'll do it, Ben!"
+"Slow down. I thought of that. Douglas would pull some legal rabbit out of his hat, a
+deputation in force would call, and Smith would go right back to pokey. And so would both of us,
+maybe." He wrinkled his brow. "But I know one man who could give him shelter and possibly get
+away with it."
+"Ever heard of Jubal Harshaw?"
+"Huh? Who hasn't?"
+"That's one of his advantages; everybody knows who he is. It makes him hard to shove
+around. Being both a doctor of medicine and a lawyer he is three times as hard to shove around.
+But most important he is so rugged an individualist that he would fight the whole Federation
+Departtflent of Security with just a potato knife if it suited his fancy-and that makes him eight times
+as hard to shove around. But the point is that I got well acquainted with him during the disaffection
+trials; he is a friend I can count on in a pinch. If I can get Smith out of Bethesda, I'll take him to
+Harshaw's place over in the Poconos-and then just let those jerks try to hide him under a rug again!
+Between my column and Harshaw's love for a fight we'll give 'em a bad time."
+VII
+DESPITE A LATE EVENING Jill was ready to relieve the night floor nurse ten minutes early the
+next morning. She intended to obey Ben's order to stay out of his proposed attempt to see the Man
+“Stranger In A Strange Land” by Robert Heinlein
+ - 35 -
+from Mars but she was determined to be close by when it happened . . . just in case. Ben might
+need reinforcements.
+There were no longer marine guards in the corridor. Trays, medications, and two patients to
+be prepared for surgery kept her busy the first two hours; she had only time to check the knob of
+the door to suite K- 12. It was locked, as was the door to the adjoining sitting room. The door to the
+watch room on its other side was closed. She considered sneaking in again to see Smith through the
+connecting sitting room, now that the guards were gone, but decided to postpone it; she was too
+busy. Nevertheless she managed to keep a close check on everyone who came Onto her floor.
+Ben did not show up and discreet questions asked of her assistant on the switchboard
+reassured her that neither Ben nor anyone else had gone in to see the Man from Mars while Jill was
+busy elsewhere. It puzzled her; while Ben had not set a time, she had had the impression that he
+had intended to storm the citadel as early in the day as possible.
+Presently she felt that she just had to snoop a bit. During a lull she knocked at the door of
+the Suite's watch room, then stuck her head in and pretended surprise. "Oh! Good morning, Doctor.
+I thought Doctor Frame was in here."
+The physician at the watch desk was strange to Jill. He turned away from the displayed
+physio data, looked at her, then smiled as he looked her up and down. "I haven't seen Dr. Frame,
+Nurse. I'm Dr. Brush. Can I help?"
+At the typical male reaction Jill relaxed. "Nothing special. To tell the truth I was curious.
+How is the Man from Mars?"
+She smiled and winked. "It's no secret to the staff, Doctor. Your patient-" She gestured at
+the inner door.
+"Huh?" He looked startled. "Did they have him in this suite?"
+"What? Isn't he here now?"
+"Not by six decimal places. Mrs. Rose Bankerson-Dr. Garner's patient. We brought her in
+early this morning."
+"Really? But what happened to the Man from Mars? Where did they put him?"
+"I haven't the faintest. Say, did I realiy just miss seeing Valentine Smith?"
+"He was here yesterday. That's all I know."
+"And Dr. Frame was on his case? Some people have all the luck. Look what I'm stuck
+with." He switched on the Peeping Tom above his desk; Jill saw framed in it, as if she were looking
+down, a water bed; floating in it was a tiny old woman. She seemed to be asleep.
+"What's her trouble?"
+"Mmm ... Nurse, if she didn't have more money than any person ought to have, you might
+be tempted to call it senile dementia. As it is, she is in for a rest and a check-up."
+Jill made small talk for a few moments more, then pretended to see a call light. She went
+back to her desk, dug out the night log-yes, there it was: V M. Smith, K-12-zransfer. Below that
+entry was another: Rose ~ Bankerson (Mrs.)-red K-12 (diet kitchen instrd by Dr. Garner-no ordersfir
+nt respnbl).
+Having noted that the rich old gal was no responsibility of hers, Jill turned her mind back to
+Valentine Smith. Something about Mrs. Bankerson's case struck her as odd but she could not put
+her finger on it, so she put it Out of her mind and thought about the matter that did interest her.
+Why had they moved Smith in the middle of the night? To avoid any possible contact with
+outsiders, probably. But where had they taken him? Ordinarily she would simply have called
+"Reception" and asked, but Ben's opinions plus the phony broadcast of the night b
+“Stranger In A Strange Land” by Robert Heinlein
+ - 36 -
+her jumpy about showing curiosity; she decided to wait until lunch and see what she could pick up
+on the gossip grapevine.
+But first Jill went to the floor's public booth and called Ben. His office informed her that
+Mr. Caxton had just left town, to be gone a few days. She was startled almost speechless by thisthen
+pulled herself together and left word for Ben to call her.
+She then called his home. He was not there; she recorded the same message.
+Ben Caxton had wasted no time in preparing his attempt to force his way into the presence
+of Valentine Michael Smith. He was lucky in being able to retain James Oliver Cavendish as his
+Fair Witness. While any Fair Witness would do, the prestige of Cavendish was such that a lawyer
+was hardly necessary-the old gentleman had testified many times before the High Court of the
+Federation and it was said that the wills locked up in his head represented not billions but trillions.
+Cavendish had received his training in total recall from the great Dr. Samuel Renshaw himself and
+his professional hypnotic instruction had been undergone as a fellow of the Rhine Foundation. His
+fee for a day or fraction thereof was more than Ben made in a week, but Ben expected to charge it
+off to the Post syndicate-in any case, the best was none too good for this job.
+Caxton picked up the junior Frisby of Biddle, Frisby, Frisby, Biddle, & Reed as that law
+firm represented the Post syndicate, then the two younger men called for Witness Cavendish. The
+long, spare form of Mr. Cavendish, wrapped chin to ankle in the white cloak of his profession,
+reminded Ben of the Statue of Liberty . . . and was almost as conspicuous. Ben had already
+explained to Mark Fnsby what he intended to try (and Frisby had already pointed Out to him that he
+had no status and no rights) before they called for Cavendish; once in the Fair Witness's presence
+they conformed to protocol and did not discuss what he might be expected to see and hear.
+The cab dropped them on top of Bethesda Center; they went down to the Director's office.
+Ben handed in his card and said that he wanted to see the Director.
+An imperious female with a richly cultivated accent asked if he had an appointment. Ben
+admitted that he had none.
+"Then I am afraid that your chance of seeing Dr. Broemer is very slight. Will you state your
+business?"
+"Just tell him," Caxton said loudly, so that others waiting would hear, "that Caxton of the
+Crow's Nest is here with a lawyer and a Fair Witness to interview Valentine Michael Smith, the
+Man from Mars."
+She was startled almost out of her professional hauteur. But she recovered and said frostily,
+"I shall inform him. Will you be seated, please?"
+"Thanks, I'll wait right here."
+They waited. Frisby broke out a cigar, Cavendish waited with the calm patience of one who
+has seen all manner of good and evil and now counts them both the same, Caxton uttered and tried
+to keep from biting his nails. At last the snow queen behind the desk announced, "Mr. Berquist will
+see you."
+"Berquist? Gil Berquist?"
+"I believe his name is Mr. Gilbert Berquist."
+Caxton thought about it-Gil Berquist was one of Secretary Douglas's large squad of stooges,
+or "executive assistants." He specialized in chaperoning official visitors. "I don't want to see
+Berquist; I want the Director."
+“Stranger In A Strange Land” by Robert Heinlein
+ - 37 -
+But Berquist was already coming out, hand shoved out before him, greeter's grin plastered
+on his face. "Benny Caxton! How are you, chum? Long time and so forth. Still peddling the same
+old line of hoke?" He glanced at the Fair Witness, but his expression admitted nothing.
+Ben shook hands briefly. "Same old hoke, sure. What are you doing here, Gil?"
+"If I ever manage to get Out of public service I'm going to get me a column, too-nothing to
+do but phone in a thousand words of rumors each day and spend the rest of the day in debauchery. I
+envy you, Ben."
+"I said, 'What are you doing here, Gil?' I want to see the Director, then get five minutes with
+the Man from Mars. I didn't come here for your high-level brush off."
+"Now, Ben, don't take that attitude. I'm here because Dr. Broemer has been driven almost
+crazy by the press-so the Secretary General sent me over to take some of the load off his
+shoulders."
+"Okay. I want to see Smith."
+"Ben, old boy, don't you realize that every reporter, special correspondent, feature writer,
+commentator, free-lance, and sob sister wants the same thing? You winchells are just one squad in
+an army; if we let you all have your way, you would kill off the poor jerk in twenty-four hours.
+Polly Peepers was here not twenty minutes ago. She wanted to interview him on love life among
+the Martians." Berquist threw up both hands and looked helpless.
+"I want to see Smith, Do I see him, or don't I?"
+"Ben, let's find a quiet place where we can talk over a long, tall glass. You can ask me
+anything you want to."
+"I don't want to ask you anything; I want to see Smith. By the way, this is my attorney,
+Mark Frisby-Biddle & Frisby." As was customary, Ben did not introduce the Fair Witness; they all
+pretended that he was not present.
+"I've met Frisby," Berquist acknowledged. "How's your father, Mark? Sinuses still giving
+him fits?"
+"About the same."
+"This foul Washington climate. Well, come along, Ben. You, too,Mark."
+"Hold it," said Caxton. "I don't want to interview you, Gil. I want to see Valentine Michael
+Smith. I'm here as a member of the press, directly representing the Post syndicate and indirectly
+representing over two hundred million readers. Do I see him? If I don't, say so out loud and state
+your legal authority for refusing me."
+Berquist sighed. "Mark, will you tell this keyhole historian that he can't go busting into a
+sick man's bedroom just because he has a syndicated column? Valentine Smith made one public
+appearance just last night
+-against his physician's advice I might add. The man is entitled to peace and quiet and a chance to
+build up his strength and get oriented. That appearance last night was enough, more than enough."
+"There are rumors," Caxton said carefully, "that the appearance last night was a fake."
+Berquist stopped smiling. "Frisby," he said coldly, "do you want to advise your client on the
+law concerning slander?"
+"Take it easy, Ben."
+"I know the law on slander, Gil. In my business I have to. But whom am I slandering? The
+Man from Mars? Or somebody else? Name a name. I repeat," he went on, raising his voice, "that I
+have heard that the man interviewed on TV last night was not the Man from Mars. I want to see
+him myself and ask him."
+“Stranger In A Strange Land” by Robert Heinlein
+ - 38 -
+The crowded reception hail was very quiet as everyone present bent an ear to the argument.
+Berquist glanced quickly at the Fair Witness, then got his expression under control and said
+smilingly to Caxton, "Ben, it's just possible that you talked yourself into the interview you wantedas
+well as a lawsuit. Wait a moment."
+He disappeared into the inner office, came back fairly soon. "I arranged it," he said wearily,
+"though God knows why. You don't deserve it, Ben. Come along. Just you-Mark, I'm sorry but we
+can't have a crowd of people; after all, Smith is a sick man."
+"No," said Caxton.
+"Huh?"
+"All three of us, or none of us. Take your choice."
+"Ben, don't be silly; you're receiving a very special privilege. Tell you what-Mark can come
+along and wait outside the door But you certainly don't need him." Berquist glanced toward
+Cavendish; the Witness seemed not to hear.
+"Maybe not. But I've paid his fee to have him along. My column will state tonight that the
+administration refused to permit a Fair Witness to see the Man from Mars."
+Berquist shrugged. "Come along, then. Ben, I hope that slander suit really clobbers you."
+They took the patients' elevator rather than the bounce tube out of deference to Cavendish's
+age, then rode a slide-away for a long distance past laboratories, therapy rooms, solaria, and ward
+after ward. They were stopped once by a guard who phoned ahead, then let them through; they
+were at last ushered into a physio-data display room used for watching critically ill patients. "This
+is Dr. Tanner," Berquist announced. "Doctor, this is Mr. Caxton and Mr. Frisby." He did not, of
+course, introduce Cavendish.
+Tanner looked worried. "Gentlemen, I am doing this against my better judgment because
+the Director insists. I must warn you of one thing. Don't do or say anything that might excite my
+patient. He is in an extremely neurotic condition and falls very easily into a state of pathological
+withdrawal-a trance, if you choose to call it that."
+"Epilepsy?" asked Ben.
+"A layman might easily mistake it for that. It is more like catalepsy. But don't quote me;
+there is no clinical precedent for this case."
+"Are you a specialist, Doctor? Psychiatry, maybe?"
+Tanner glanced at Berquist. "Yes," he admitted.
+"Where did you do your advanced work?"
+Berquist said, "Look, Ben, let's see the patient and get it over with. You can quiz Dr. Tanner
+afterwards."
+"Okay."
+Tanner glanced over his dials and graphs, then flipped a switch and stared into a Peeping
+Tom, He left the desk, unlocked a door and led them into an adjoining bedroom, putting a finger to
+his lips as he did so. The other four followed him in. Caxton felt as if he were being taken to "view
+the remains" and suppressed a nervous need to laugh.
+The room was quite gloomy. "We keep it semi-darkened because his eyes are not
+accustomed to our light levels," Tanner explained in a hushed voice. He turned to a hydraulic bed
+which filled the center of the room. "Mike, I've brought some friends to see you."
+Caxton pressed closer, Floating therein, half concealed by the way his body sank into the
+plastic skin covering the liquid in the tank and farther concealed by a sheet up to his armpits, was a
+young man. He looked back at them but said nothing; his smooth, round face was expressionless.
+“Stranger In A Strange Land” by Robert Heinlein
+ - 39 -
+So far as Ben could tell this was the man who had been on stereo the night before. He had a
+sudden sick feeling that little Jill, with the best of intentions, had tossed him a live grenade-a
+slander suit that might very well bankrupt him. "You are Valentine Michael Smith?"
+"Yet"
+"The Man from Mars?"
+"Yet"
+"You were on stereo last night?"
+The man in the tank bed did not answer. Tanner said, "I don't think he knows the word. Let
+me try. Mike, you remember what you did with Mr. Douglas last night?"
+The face looked petulant. "Bright lights. Hurt."
+"Yes, the lights hurt your eyes. Mr. Douglas had you say hello to people."
+The patient smiled slightly. "Long ride in chair."
+"Okay," agreed Caxton. "I catch on. Mike, are they treating you all right here?"
+"Yes."
+"You don't have to stay here, you know. Can you walk?"
+Tanner said hastily, "Now see here, Mr. Caxton-" Berquist put a hand on his arm and he
+shut up.
+"I can walk ... a little. Tired."
+"I'll see that you have a wheel chair. Mike, if you don't want to stay here, I'll help you get
+out of bed and take you anywhere you want to go."
+Tanner shook off Berquist's hand and said, "I can't have you interfering with my patient!"
+"He's a free man, isn't he?" Caxton persisted. "Or is he a prisoner here?"
+Berquist answered, "Of course he is a free man! Keep quiet, Doctor. Let the fool dig his
+own grave."
+"Thanks, Gil. Thanks all to pieces. So he is free to leave if he wants to. You heard what he
+said, Mike. You don't have to stay here. You can go anywhere you like. I'll help you."
+The patient glanced fearfully at Tanner. "No! No, no, no!"
+"Okay, okay."
+Tanner snapped, "Mr. Berquist, this has gone quite far enough! My patient will be upset the
+rest of the day."
+"All right, Doctor. Ben, let's get the show on the road. You've had enough, surely."
+"Ub ... just one more question." Caxton thought hard, trying to think what he could squeeze
+out of it. Apparently Jill had been wrong- yet she had not been wrong!-or so it had seemed last
+night. But something did not quite fit although he could not tell what it was.
+"One more question," Berquist begrudged.
+"Thanks. Uh ... Mike, last night Mr. Douglas asked you some questions." The patient
+watched him but made no comment. "Let's see, he asked you what you thought of the girls here on
+Earth, didn't he?"
+The patient's face broke into a big smile. "Gee!"
+"Yes. Mike ... when and where did you see these girls?"
+The smile vanished. The patient glanced at Tanner, then he stiffened, his eyes rolled up, and
+he drew himself into the foetal position, knees drawn up, head bent, and arms folded across his
+chest.
+Tanner snapped, "Get them out of here!" He moved quickly to the tank bed and felt the
+patient's wrist.
+“Stranger In A Strange Land” by Robert Heinlein
+ - 40 -
+Berquist said savagely, "That tears it! Caxton, will you get out? Or shall I call the guards
+and have you thrown out?"
+"Oh, we're getting out all right," Caxton agreed. All but Tanner left the room and Berquist
+closed the door.
+"Just one point, Gil," Caxton insisted. "You've got him boxed up in there . . . so just where
+did he see those girls?"
+"Eh? Don't be silly. He's seen lots of girls. Nurses ... laboratory technicians. You know."
+"But I don't know. I understood he had nothing but male nurses and that female visitors had
+been rigidly excluded."
+"Eh? Don't be any more preposterous than you have to be." Berquist looked annoyed, then
+suddenly grinned. "You saw a nurse with him on stereo just last night."
+"Oh. So I did." Caxton shut up and let himself be led out.
+They did not discuss it further until the three were in the air, headed for Cavendish's home.
+Then Frisby remarked, "Ben, I don't suppose the Secretary General will demean himself to sue you,
+since you did not print it. Still, if you really do have a source for that rumor you mentioned, we had
+better perpetuate the evidence. You don't have much of a leg to stand on, you know."
+"Forget it Mark. He won't sue." Ben glowered at the floor of the cab. "How do we know that
+was the Man from Mars?"
+"Eh? Come off it, Ben."
+"How do we know? We saw a man about the right age in a hospital bed. We have Berquist's
+word for it-and Berquist got his start in politics issuing denials; his word means nothing. We saw a
+total stranger, supposed to be a psychiatrist . . . and when I tried to find out where he had studied
+psychiatry I got euchred out. How do we know? Mr. Cavendish, did you see or hear anything that
+convinced you that this bloke was the Man from Mars?"
+Cavendish answered carefully, "It is not my function to form opinions. I see, I hear-that is
+all."
+"Sorry."
+"By the way, are you through with me in my professional capacity?"
+"Huh? Oh, sure. Thanks, Mr. Cavendish."
+"Thank you, sir. It was an interesting assignment." The old gentleman took off the cloak
+that set him apart from ordinary mortals, folded it carefully and laid it on the seat. He sighed,
+relaxed, and his features lost professional detachment, warmed and mellowed. He took out cigars,
+offered them to the others; Frisby took one and they shared a light. "I do not smoke," Cavendish
+remarked through a thick cloud, "while on duty. It interferes with optimum functioning of the
+senses."
+"If I had been able to bring along a crew member of the Champion," Caxton persisted, "I
+could have tied it down. But I thought surely I could tell."
+"I must admit," remarked Cavendish, "that I was a little surprised at one thing you did not
+do."
+"Huh? What did I miss?"
+"Calluses"
+"Calluses?"
+"Surely. A man's life history can be told from his calluses. I once did a monograph on them,
+published in The Witness Quarterly- like Sherlock Holmes' famous monograph on tobacco ash.
+This young man from Mars
+“Stranger In A Strange Land” by Robert Heinlein
+ - 41 -
+since he has never worn our sort of shoes and has lived in gravity about one third of ours,
+should display foot calluses consonant with his former environment. Even the time he recently
+spent in space should have left their traces. Very interesting."
+"Damn~ Good Lord, Mr. Cavendish, why didn't you suggest it to me?"
+"Sir?" The old man drew himself up and his nostrils dilated. "It would not have been ethical.
+I am a Fair Witness, not a participant. My professional association would suspend me for much
+less. Surely you know that."
+"Sorry. I forgot myself." Caxton frowned. "Let's wheel this buggy around and go back.
+We'll take a look at his feet-or I'll bust the place down with Berquist's fat head!"
+"I'm afraid you will have to find another Witness ... in view of my indiscretion in discussing
+it, even after the fact."
+"Uh, yes, there's that." Caxton frowned.
+"Better just calm down, Ben," advised Frisby. "You're in deep enough now. Personally, I'm
+convinced it was the Man from Mars. Occam's razor, least hypothesis, just plain horse sense."
+Caxton dropped them, then set the cab to cruise while he thought. Presently he punched the
+combination to take him back to Bethesda Medical Center.
+He was less than half way back to the Center when he realized that his trip was useless.
+What would happen? He would get as far as Berquist, no farther. He had been allowed in once-with
+a lawyer, with a Fair Witness. To demand to be allowed to see the Man from Mars a second time,
+all in one morning, was unreasonable and would be refused. Nor, since it was unreasonable, could
+he make anything effective out of it in his column.
+But he bad not acquired a widely syndicated column through being balked. He intended to
+get in.
+How? Well, at least he now knew where the putative "Man from Mars" was being kept. Get
+in as an electrician? Or as a janitor? Too obvious; he would never get past the guard, not even as far
+as "Dr. Tanner."
+Was "Tanner" actually a doctor? It seemed unlikely. Medical men, even the worst of them, tended
+to shy away from hanky-panky contrary to their professional code. Take that ship's surgeon,
+Nelson-he had quit, washed his hands of the case simply because- Wait a minute! Dr. Nelson was
+one man who could tell offhand
+whether that young fellow was the Man from Mars, without checking calluses, using trick
+questions, or anything. Caxton reached for buttons, ordered his cab to ascend to parking level and
+hover, and immediately tried to phone Dr. Nelson, relaying through his office for the purpose since
+he neither knew where Dr. Nelson was, nor had with him the means to find out. Nor did his
+assistant Osbert Kilgallen know where he was, either, but he did have at hand resources to find out;
+it was not even necessary to draw on Caxton's large account of uncollected favors in the Enclave, as
+the Post syndicate's file on Important Persons placed him at once in the New Mayflower. A few
+minutes later Caxton was talking with him.
+To no purpose-Dr. Nelson had not seen the broadcast. Yes, he had heard about it; no, he had
+no reason to think the broadcast had been faked. Did Dr. Nelson know that an attempt had been
+made to coerce Valentine Smith into surrendering his rights to Mars under the Larkin Decision?
+No, he did not know it, had no reason to believe so . . . and would not be interested if it were true; it
+was preposterous to talk about anyone "owning" Mars; Mars belonged to the Martians. So? Let's
+propose a hypothetical question, Doctor; if someone were trying to- But Dr. Nelson had switched
+off. When Caxton tried to reconnect, a recorded voice stated sweetly: "The subscriber has
+voluntarily suspended service temporarily. If you care to record-" Caxton switched off.
+“Stranger In A Strange Land” by Robert Heinlein
+ - 42 -
+Caxton made a foolish statement concerning Dr. Nelson's parentage. But what he did next
+was much more foolish; he phoned the Executive Palace, demanded to speak to the Secretary
+General.
+His action was more a reflex than a plan. In his years as a snooper, first as a reporter, then
+as a lippmann, he had learned that close-held secrets could often be cracked by going all the way to
+the top and there making himself unbearably unpleasant. He knew that such twisting of the tiger's
+tail was dangerous, for he understood the psychopathology of great power as thoroughly as Jill
+Boardman lacked knowledge of it-but he had habitually relied on his relative safety as a dealer in
+still another sort of power almost universally feared and appeased by the powerful.
+What he forgot was, that in phoning the Palace from a taxicab, he was not doing so publicly.
+Caxton was not put through to the Secretary General, nor had he expected to be. Instead he
+spoke with half a dozen underlings and became more aggressive with each one. He was so busy
+that he did not notice it when his cab ceased to hover and left the parking level.
+When he did notice it, it was too late; the cab refused to obey the orders he at once punched
+into it. Caxton realized bitterly that he had let himself be trapped by a means no professional
+hoodlum would fall for: his call had been traced, his cab identified, its idiot robot pilot placed under
+orders of an over-riding police frequency-and the cab itself was being used to arrest him and fetch
+him in, all most privately and with no fuss,
+He wished keenly that he had kept Fair Witness Cavendish with him. But he wasted no time
+on this futility but cleared the useless call from the radio and tried at once to call his lawyer, Mark
+Frisby.
+He was still trying when the taxicab landed inside a courtyard landing fiat and his signal
+was cut off by its walls. He then tried to leave the cab, found that the door would not open-and was
+hardly surprised to discover that he was becoming very light-headed and was fast losing
+consciousnessVIII
+JILL TRIED TO TELL HERSELF that Ben had gone charging off on another Scent and simply had
+forgotten (or had not taken time) to let her know. But she did not believe it. Ben, incredibly busy as
+he was, owed much of his success, both professional and social, to meticulous attention to human
+details. He remembered birthdays and would rather have weiched on a poker debt than have
+forgotten to write a bread-and-butter note. No matter where he had gone, nor how urgent the
+errand, he could have-and would have!-at least taken two minutes while in the air to record a
+reassuring message to her at her home or at the Center. It was an unvarying characteristic of Ben,
+she reminded herself, the thing that made him a lovable beast in spite of his many faults.
+He must have left word for her! She called his office again at her lunch break and spoke
+with Ben's researcher and office chief, Osbert Kilgallen. He assured her solemnly that Ben had left
+no message for her, nor had any come in since she had called earlier.
+She could see past his head in the screen that there were other people in the office; she
+decided it was a poor time to mention the Man from Mars. "Did he say where he was going? Or
+when he would be back?"
+"No. But that is not unusual. We always have a few spare columns on the hook to fill in
+when one of these things comes up."
+"Well ... where did he call you from? Or am I being too snoopy?"
+“Stranger In A Strange Land” by Robert Heinlein
+ - 43 -
+"Not at all, Miss floardman. He did not call; it was a statprint message, filed from Paoli Flat
+in Philadelphia as I recall."
+Jill had to be satisfied with that. She lunched in the nurses' dining room and tried to interest
+herself in food. It wasn't, she told herself, as if anything were really wrong . . . or as if she were in
+love with the lunk or anything silly like that.
+"Hey! Boardman! Snap out of the fog-I asked you a question."
+Jill looked up to find Molly Wheelwright, the wing's dietician, looking at her. "Sorry. I was
+thinking about something else."
+"I said, 'Since when does your floor put charity patients in luxury suites?'
+"Isn't K-12 on your floor? Or have they moved you?"
+"K-12? Certainly. But that's not a charity case; it's a rich old woman, wealthy that she can
+pay to have a doctor watch every breath she draws."
+"Humph! If she's wealthy, she must have come into money awfully suddenly. She's been in
+the N.P. ward of the geriatrics sanctuary for the past seventeen months."
+"Must be some mistake."
+"Not mine-I don't let mistakes happen in my diet kitchen. That tray is a tricky one and I
+check it myself-fat-free diet (she's had her gall bladder out) and a long list of sensitivities, plus
+concealed medication. Believe me, dear, a diet order can be as individual as a fingerprint." Miss
+Wheelwright stood up. "Gotta run, chicks. I wish they would let me run this kitchen for a while.
+Hogwallow Cafeteria!"
+"What was Molly sounding off about?" one of the nurses asked.
+"Nothing. She's just mixed up." But Jill continued to think about it. It occurred to her that
+she might locate the Man from Mars by making inquiries around the diet kitchens. She put the idea
+out of her mind; it would take a full day to visit all the diet kitchens in the acres of ground covered
+by the sprawling buildings. Bethesda Center had been founded as a naval hospital back in the days
+when wars were fought on oceans; it had been enormous even then. It had been transferred later to
+Health, Education, & Welfare and had expanded; now it belonged to the Federation and was still
+larger, a small city.
+But there was something odd about Mrs. Bankerson's case. The hospital accepted all classes
+of patients, private, charity, and government; the floor Jill was working on usually had only
+government patients and its luxury suites were occupied by Federation Senators or other official
+guests able to command flossy service. It was unusual for a paying private patient to have a suite on
+her floor, or to be on her floor in any status.
+Of course Mrs. Bankerson could be overflow, if the part of the Center open to the feepaying
+public had no such suite available. Yes, probably that was it.
+She was too rushed for a while after lunch to think about it, being busy with incoming
+patients. Shortly a situation came up in which she needed a powered bed. The routine action would
+be to phone for one to be sent up-but the storage room was in the basement a quarter of a mile away
+and Jill wanted the bed at once. She recalled that she had seen the powered bed which was
+normally in the bedroom of suite K-l2 parked in the sitting room of that suite; she remembered
+telling one of those marine
+guards not to sit on it. Apparently it had Simply been shoved in there to get it out of the way when
+the flotation bed had been installed for Smith.
+Possibly it was still sitting there, gathering dust and still charged out to the floor. Powered
+beds were always in short supply and cost six times as much as an ordinary bed. While, strictly
+speaking, it was the wing superintendent's worry, Jill saw no reason to let overhead charges for her
+“Stranger In A Strange Land” by Robert Heinlein
+ - 44 -
+floor run up unnecessarily-and besides, if it was still there, she could get it at once. She decided to
+find out.
+The sitting room door was still locked. She was startled to find that her pass key would not
+open it. Making a mental note to tell maintenance to repair the lock, she went on down the corridor
+to the watch room of the suite, intending to find out about the bed from the doctor watching over
+Mrs. Bankerson.
+The physician on watch was the same one she had met before, Dr. Brush. He was not an
+intern, nor a resident, but had been brought in for this patient, Jill had learned from him, by Dr.
+Garner. Brush looked up as she put her head in. "Miss Boardman! Just the person I want to see!"
+"Why didn't you ring? How's your patient?"
+"She's all right," he answered, glancing up at the Peeping Tom, "But I definitely am not."
+"Trouble?"
+"Some trouble. About five minutes' worth. And my relief is not in the building. Nurse, could
+you spare me about that many minutes of your valuable time? And then keep your mouth shut
+afterwards?"
+"I suppose so. I told my assistant floor supervisor I would be away for a few minutes. Let
+me use your phone and I'll tell her where to find me."
+"No!" he said urgently. "Just lock that door after I leave and don't let anybody in until you
+hear me rap 'Shave and a Haircut' on it, that's a good girl."
+"All right, sir," Jill said dubiously. "Am I to do anything for your patient?"
+"No, no, just sit there at the desk and watch her in the screen. You won't have to do
+anything. Don't disturb her."
+"Well, if anything does happen, where will you be? In the doctors' lounge?"
+"I'm not going that far-just to the men's washroom down the corridor. Now shut up, please,
+and let me go-this is urgent."
+He left and Jill obeyed his order to lock the door after him. Then she looked at the patient
+through the viewer and ran her eye over the dials. The elderly woman was again asleep and the
+displays showed her pulse strong and her breathing even and normal; Jill wondered why Dr. Garner
+considered a "death watch" necessary?
+Then she remembered why she had come in there in the first place and decided that she
+might as well find out if the bed was in the far room without bothering Dr. Brush about it. While it
+was not quite according to Dr. Brush's instructions, she would not be disturbing his patientcertainly
+she knew how to walk through a room without waking a sleeping patient!-and she had
+decided years ago that what doctors did not know rarely hurt them. She opened the door quietly and
+went in.
+A quick glance assured her that Mrs. Bankerson was in the typical sleep of the senile.
+Walking noiselessly she went past her to the door to the sitting room. It was locked but her pass key
+let her in.
+She was pleased to see that the powered bed was there. Then she saw that the room was
+occupied-sitting in an arm chair with a picture book in his lap was the Man from Mars.
+Smith looked up and gave her the beaming smile of a delighted baby.
+Jill felt dizzy, as if she had been jerked out of sleep. Jumbled ideas raced through her mind.
+Valentine Smith here? But he couldn't be; he had been transferred somewhere else; the log showed
+it. But he was here.
+Then all the ugly implications and possibilities seemed to line themselves up . - - the fake
+"Man from Mars" on stereo ... the old woman out there, ready to die, but in the meantime covering
+“Stranger In A Strange Land” by Robert Heinlein
+ - 45 -
+the fact that there was another patient in here . . . the door that would not open to her pass-key-and,
+lastly, a horrid vision of the "meat wagon" wheeling out of here some night, with a sheet concealing
+the fact that it carried not one cadaver, but two.
+When this last nightmare rushed through her mind, it carried in its train a cold wind of fear,
+the realization that she herself was in peril through having stumbled Onto this top-secret fact.
+Smith got clumsily up from his chair, held out both hands while still smiling and said,
+"Water brother!"
+"Hello. Uh ... how are you?"
+"I am well. I am happy." He added something in a strange, choking speech, then corrected
+himself and said carefully, "You are here, my brother. You were away. Now you are here. I drink
+deep of you."
+Jill felt herself helplessly split between two emotions, one that crushed and melted her
+heart-and an icy fear of being caught here. Smith did not seem to notice. Instead he said, "See? I
+walk! I grow strong." He demonstrated by taking a few steps back and forth, then stopped,
+triumphant, breathless, and smiling in front of her.
+She forced herself to smile. "We are making progress, aren't we? You
+keep growing stronger, that's the spirit! But I must go now-I just stopped in to say hello."
+His expression changed instantly to distress. "Do not go!"
+"Oh, but I must!"
+He continued to look woebegone, then added with tragic certainty, "I have hurted you. I did
+not know."
+"Hurt me? Oh, no, not at all! But I must go-and quickly!"
+His face was without expression. He stated rather than asked, "Take me with you, my
+brother."
+"What? Oh, I can't. And I must go, at once. Look, don't tell anyone that I was in here,
+please!"
+"Not tell that my water brother was here?"
+"Yes. Don't tell anyone. Uh, I'll try to come back, I really will. You be a good boy and wait
+and don't tell anyone."
+Smith digested this, looked serene. "I will wait. I will not tell."
+"Good!" Jill wondered how the devil she possibly could get back in to see him-she certainly
+couldn't depend on Dr. Brush having another convenient case of trots. She realized now that the
+"broken" lock had not been broken and her eye swept around to the corridor door-and she saw why
+she had not been able to get in. A hand bolt had been screwed to the surface of the door, making a
+pass key useless. As was always the case with hospitals, bathroom doors and other doors that could
+be bolted were so arranged as to open also by pass key, so that patients irresponsible or unruly
+could not lock themselves away from the nurses. But here the locked door kept Smith in, and the
+addition of a simple hand bolt of the sort not permitted in hospitals served to keep out even those
+with pass keys.
+Jill walked over and opened the bolt. "You wait. I'll come back."
+"I shall waiting."
+When she got back to the watch room she heard already knocking the Tock! Tocki Ti-toe/c
+tocki - . . Tock, tock! signal that Brush had said he would use; she hurried to let him in.
+He burst in, saying savagely, "Where the hell were you, nurse? I knocked three times." He
+glanced suspiciously at the inner door.
+“Stranger In A Strange Land” by Robert Heinlein
+ - 46 -
+"I saw your patient turn over in her sleep," she lied quickly. "I was in arranging her collar
+pillow."
+"Damn it, I told you simply to sit at my desk!"
+Jill knew suddenly that the man was even more frightened than she was-and with more
+reason. She counter-attacked. "Doctor, I did you a favor," she said coldly. "Your patient is not
+properly the responsibility of the floor supervisor in the first place. But since you entrusted her to
+me, I had to do what seemed necessary in your absence. Since you have questioned what I have
+done, let's get the wing superintendent and settle the matter."
+"Huh? No, no-forget it."
+"No, sir. I don't like to have my professional actions questioned without cause. As you
+know very well, a patient that old can smother in a water bed; I did what was necessary. Some
+nurses will take any blame from a doctor, but I am not one of them. So let's call the
+superintendent."
+"What? Look, Miss Boardman, I'm sorry I said anything. I was upset and I popped off
+without thinking. I apologize."
+"Very well, Doctor," Jill answered stiffly. "Is there anything more I can do for you?"
+"Uh? No, thank you. Thanks for standing by for me. Just ... well, be sure not to mention it,
+will you?"
+"I won't mention it." You can bet your sweet life I won't mention it, Jill added silently. But
+what do I do now? Oh, I wish Ben were in town! She got back to her duty desk, nodded to her
+assistant, and pretended to look over some papers. Finally she remembered to phone for the
+powered bed she had been after in the first place. Then she sent her assistant to look at the patient
+who needed the bed (now temporarily resting in the ordinary type) and tried to think.
+Where was Ben? If he were only in touch, she would take ten minutes relief, call him, and
+shift the worry onto his broad shoulders. But Ben, damn him, was oft' skyoodling somewhere and
+letting her carry the ball.
+Or was he? A fretful suspicion that had been burrowing around in her subconscious all day
+finally surfaced and looked her in the eye, and this time she returned the stare: Ben Caxton would
+not have left town without letting her know the outcome of his attempt to see the Man from Mars.
+As a fellow conspirator it was her right to receive a report and Ben always played fair . . . always.
+She could hear sounding in her head something he had said on the ride back from
+Hagerstown: "-if anything goes wrong, you are my ace in the hole . . . honey. ~f you don't hear
+from me, you are on your own,"
+She had not thought seriously about it at the time, as she had not really believed that
+anything could happen to Ben. Now she thought about it for a long time, while trying to continue
+her duties. There comes a time in the life of every human when he or she must decide to risk "his
+life, his fortune, and his sacred honor" on an outcome dubious. Those who fail the challenge are
+merely overgrown children, can never be anything else. Jill Boardman encountered her personal
+challenge-and accepted it-at 3:47 that afternoon while convincing a ward visitor that he simply
+could not
+bring a dog onto the floor even though he had managed to slip it past the receptionist and even if
+the sight of this dog was just what the patient needed.
+The Man from Mars sat down again when Jill left. He did not pick up the picture book they
+had given him but simply waited in a fashion which may be described as "patient" only because
+human language does not embrace Martian emotions nor attitudes. He merely held still with quiet
+“Stranger In A Strange Land” by Robert Heinlein
+ - 47 -
+happiness because his brother had said that he would return. He was prepared to wait, without
+doing anything, without moving, for several years if necessary.
+He had no clear idea how long it had been since he had first shared water with this brother;
+not only was this place curiously distorted in time and shape, with sequences of sights and sounds
+and experiences new to him and not yet grokked, but also the culture of his nest took a different
+grasp of time from that which is human. The difference lay not in their much longer lifetimes as
+counted in Earth years, but in a basically different attitude. The sentence, "It is later than you
+think," could not have been expressed in Martian-nor could "Haste makes waste," though for a
+different reason: the first notion was inconceivable while the latter was an unexpressed Martian
+basic, as unnecessary as telling a fish to bathe. But the quotation, "As it was in the Beginning, is
+now and ever shall be," was so Martian in mood that it could be translated more easily than "two
+plus two makes four"-which was not a truism on Mars.
+Smith waited.
+Brush came in and looked at him; Smith did not move and Brush went away.
+When Smith heard a key in the Outer door, he recalled that this sound had been one that he
+had heard somewhat before the last visit of his water brother, so he shifted his metabolism in
+preparation, in case the sequence occurred again. He was astonished when the door opened and Jill
+slipped in, as he had not been aware that the outer door was a door. But he grokked it at once and
+gave himself over to the joyful fullness which comes only in the presence of one's own nestlings,
+one's chosen water brothers, and (under certain circumstances) in the presence of the Old Ones.
+His joy was somewhat sullied by immediate awareness that his brother did not fully share it
+. . - in truth, he seemed more distressed than was possible save in one about to discorporate because
+of some shameful lack or failure.
+But Smith had already learned that these creatures, so much like himself in some ways,
+could endure emotions dreadful to contemplate and still not die. His Brother Mahmoud underwent
+a spiritual agony five times daily and not only did not die but had urged the agony on him as a
+needful thing. His Brother Captain van Tromp suffered terrifying spasms unpredictably, any one of
+which should have, by Smith's standards, produced immediate discorporation to end the conflict-yet
+that brother was still corporate so far as he knew.
+So he ignored Jill's agitation.
+Jill handed him a bundle. "Here, put these on. Hurry!"
+Smith accepted the bundle and stood waiting. Jill looked at him and said, "Oh, dear! All
+right, get your clothes off. I'll help you."
+She was forced to do more than help; she had to undress and dress him. He had been
+wearing a hospital gown, a bathrobe, and slippers, not because he wanted them but because he had
+been told to wear them. He could handle them himself by now, but not fast enough to Suit Jill; she
+skinned him quickly. She being a nurse and he never having heard of the modesty taboo-nor would
+he have grasped an explanation-they were not slowed up by irrelevancies; the difficulties were
+purely mechanical. He was delighted and surprised by the long false skins Jill drew over his legs,
+but she gave him no time to cherish them, but taped the women's stockings to his thighs in lieu of a
+garter belt. The nurse's uniform she dressed him in was not her own, but one that she had borrowed
+from a larger woman on the excuse that a cousin of hers needed one for a masquerade party. Jill
+hooked a nurse's cape around his neck and reflected that its all-enclosing straight drape covered
+most of the primary and secondary sex characteristics-at least she hoped that it would. The shoes
+were more difficult, as they did not fit well and Smith still found standing and walking in this
+gravity field an effort even barefooted.
+“Stranger In A Strange Land” by Robert Heinlein
+ - 48 -
+But at last she got him covered and pinned a nurse's cap on his head. "Your hair isn't very
+long," she said anxiously, "but it is practically as long as a lot of the girls wear it and it will have to
+do." Smith did not answer as he had not understood much of the remark. He tried to think his hair
+longer but realized that it would take time.
+"Now," said Jill. "Listen carefully. No matter what happens, don't say a word. I'll do all the
+talking. Do you understand me?"
+"Don't talk. I will not talk."
+"Just come with me-I'll hold your hand. And don't say a word. But if you know any prayers,
+pray!"
+"Pray?"
+"Never mind. You just come along and don't talk." She opened the quick glance outside,
+then took his hand and led him out into the corridor.
+No one seemed especially interested. Smith found the many strange configurations
+upsetting in the extreme; he was assaulted by images he could not bring into focus. He stumbled
+blindly along beside Jill, with his eyes and senses almost disconnected to protect himself against
+chaos.
+She led him to the end of the corridor and stepped on a slide-away leading crosswise. He
+almost fell down and would have done so if Jill had not caught him. A chambermaid looked
+curiously at them and Jill cursed under her breath-then was very careful in helping him off. They
+took an elevator to the roof, Jill being quite sure that she could never pilot him up a bounce tube.
+On the roof they encountered a major crisis, though Smith was not aware of it. He was
+undergoing the keen delight of seeing sky; he had not seen sky since the sky of Mars. This sky was
+bright and colorful and joyful
+-it being a typical overcast Washington grey day. In the meantime Jill was looking around
+helplessly for a taxi. The roof was almost deserted, something she had counted on, since most of
+the nurses who came off duty when she did were already headed home fifteen minutes ago and the
+afternoon visitors were gone. But the taxis were, of course, gone too. She did not dare risk an air
+bus, even though one which went her way would be along in a few minutes.
+She was about to call a taxi when one headed in for a landing. She called to the roof
+attendant. "Jack! Is that cab taken? I need one."
+"It's probably the one I called for Dr. Phipps."
+"Oh, dear! Jack, see how quick you can get me another one, will you? This is my cousin
+Madge-she works over in South Wing-and she has a terrible laryngitis and I want to get her out of
+this wind."
+The attendant looked dubiously toward the phone in his booth and scratched his head. "Well
+... seeing it's you, Miss Boardman, I'll let you take this one and call another one for Dr. Phipps.
+How's that?"
+"Oh, Jack, you're a lamb! No, Madge, don't try to talk; I'll thank him. Her voice is gone
+completely; I'm going to take her home and bake it out with hot rum."
+"That ought to do it. Old-fashioned remedies are always best, my mother used to say." He
+reached into the cab and punched the combination for Jill's home from memory, then helped them
+in. Jill managed to get in the way and thereby cover up Smith's unfamiliarity with this common
+ceremonial. "Thanks, Jack. Thanks loads."
+The cab took off and Jill took her first deep breath. "You can talk
+"What should I say?"
+“Stranger In A Strange Land” by Robert Heinlein
+ - 49 -
+"Huh? Nothing. Anything. Whatever you like."
+Smith thought this over. The scope of the invitation obviously called for a worthy answer,
+suitable to brothers. He thought of several, discarded them because he did not know how to
+translate them, then settled on one which he thought he could translate fairly well but which
+nevertheless conveyed even in this strange, flat speech some of the warm growing-closer brothers
+should enjoy. "Let our eggs share the same nest."
+Jill looked startled. "Huh? What did you say?"
+Smith felt distressed at the failure to respond in kind and interpreted it as failure on his own
+part. He realized miserably that, time after time, he had managed to bring agitation to these other
+creatures when his purpose had been to create oneness. He tried again, rearranging his sparse
+vocabulary to enfold the thought somewhat differently. "My nest is yours and your nest is mine."
+This time Jill managed to smile. "Why, how sweet! My dear, I am not sure that I understand
+you, but if I do, that is the nicest offer I have had in a long time." She added, "But right now we are
+up to our ears in trouble- so let's wait a while, shall we?"
+Smith had understood Jill hardly more than Jill had understood him, but he caught his water
+brother's pleased mood and understood the suggestion to wait. Waiting was something he did
+without effort, so he sat back, satisfied that all was well between himself and his brother, and
+enjoyed the scenery. It was the first time he had seen this place from the air and on every side there
+was a richness of new things to try to grok. It occurred to him that the apportation used at home did
+not permit this delightful viewing of what lay between. This thought almost led him to a
+comparison of Martian and human methods not favorable to the Old Ones, but his mind
+automatically shied away from heresy.
+Jill kept quiet, too, and tried to get her thoughts straight. Suddenly she realized that the cab
+was heading down the final traffic leg toward the apartment house where she lived-and she realized
+just as quickly that home was the last place for her to go, it being the first place they would look
+once they figured out how Smith had escaped and who had helped him. She did not kid herself that
+she had covered her tracks. While she knew nothing of police methods, she supposed that she must
+have left fingerprints in Smith's room, not to mention the people who had seen them walk out. It
+was even possible (so she had heard) for a technician to read the tape in this cab's pilot and tell
+exactly what trips it had made that day and where and when.
+She reached forward, slapped the order keys, and cleared the instruction to go to her
+apartment house. She did not know whether that would wipe the tape or not-but she was not going
+to head for a place where the police might already be waiting.
+The cab checked its forward motion, rose out of the traffic lane and hovered. Where could
+she go? Where in all this swarming city could she hide a grown man who was half idiot and could
+not even dress himself?-a man who was the most sought-after person on the globe? Oh, if Ben were
+only here! Ben - - - where are you?
+She reached forward again, picked up the phone and rather hopelessly punched Ben's
+number, expecting to hear the detached voice of an automation inviting her to record a message.
+Her spirits jumped when a man's voice answered . - . then slumped again when she realized that it
+was not Ben but his majordomo, Osbert Kilgallen. "Oh. Sorry, Mr. Kilgallen. This is Jill
+Boardman. I thought I had called Mr. Caxton's home."
+"You did. But I always have his home calls relayed to the office when he is away more than
+twenty-four hours."
+"Then he is still away?"
+"I'm afraid so. Is there anything I can do for you?"
+“Stranger In A Strange Land” by Robert Heinlein
+ - 50 -
+"Uh, no. Look, Mr. Kilgallen, isn't it strange that Ben should just drop out of sight? Aren't
+you worried about him?"
+"Eh? Why should I be? His message said that he did not know how long he would be
+away."
+"Isn't that rather odd in itself?"
+"Not in Mr. Caxton's work, Miss Boardman."
+"Well ... I think there is something very odd about his being away this time! I think you
+ought to report it. You ought to spread it over every news service in the country-in the world!"
+Even though the cab's phone had no vision circuit Jill felt Osbert Kilgallen draw himself up.
+"I'm afraid, Miss Boardman, that I will have to interpret my employer's instructions myself. Uh - - .
+if you don't mind my saying so, there is always some . . 'good friend' phoning Mr. Caxton
+frantically every time he leaves town."
+Some babe trying to get a hammer lock on him, Jill interpreted angrily-and this Osbert
+character thinks I'm the current one. It put out of her mind the half-formed thought of asking
+Kilgallen for help; she switched off as quickly as possible.
+But where could she go? The obvious solution popped into her mind. If Ben was missingand
+the authorities had a hand in it-the last place they would be likely to look for Valentine Smith
+would be Ben's apartment. Unless, she corrected, they connected her with Ben, which she did not
+think that they did.
+They could dig a bite to eat out of Ben's buttery-she wouldn't risk ordering anything from
+the basement; they might know he was away. And she could borrow some of Ben's clothes for her
+idiot child. The last point settled it; she set the combination for Ben's apartment house. The cab
+picked out the new lane and dropped into it.
+Once outside the door to Ben's fiat Jill put her face to the hush box by the door and said
+emphatically, "Karthago delenda est!"
+Nothing happened. Oh damn him! she said frantically to herself; he's changed the combo.
+She stood there for a moment, knees weak, and kept her face away from Smith. Then she again
+spoke into the hush box. It was a Raytheon lock, the same voice circuit actuated the door or
+announced callers. She announced herself on the forlorn chance that Ben might have returned.
+"Ben, this is Jill."
+The door slid open.
+They went inside and the door closed. Jill thought for an instant that Ben had let them in,
+then she realized that she had accidentally hit on his new door combination . . . intended, she
+guessed, as a gracious compliment combined with a wolf tactic. She felt that she could have
+dispensed with the compliment to have avoided the awful panic she had felt when the door had
+refused to open.
+Smith stood quietly at the edge of the thick green lawn and looked at the room. It again was
+a place so new to him as not to be grokked at once, but he felt immediately pleased with it. It was
+less exciting than the moving place they had just been in, but in many ways more suited for
+enfolding together the self. He looked with interest at the view window at one end but did not
+recognize it as a window, mistaking it for a living picture like those he had been used to at homethe
+suite he had been in at Bethesda contained no windows, it being in one of the newer wings, and
+thus far he had never acquired the idea of "window."
+He noticed with approval that the simulation of depth and movement in the "picture" was
+perfect-some very great artist among these people must have created it. Up until this time he had

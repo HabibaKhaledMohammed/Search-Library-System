@@ -1,0 +1,2266 @@
+Introduction 3
+3
+From: Methods in Molecular Biology, vol. 318: Plant Cell Culture Protocols, Second Edition
+Edited by: V. M. Loyola-Vargas and F. Vázquez-Flota © Humana Press Inc., Totowa, NJ
+1
+An Introduction to Plant Cell Culture
+Back to the Future
+Victor M. Loyola-Vargas and Felipe Vázquez-Flota
+Summary
+Plant cell, tissue, and organ culture is a set of techniques designed for the growth and multiplication
+of cells and tissues using nutrient solutions in an aseptic and controlled environment.
+This technology explores conditions that promote cell division and genetic
+reprogramming in in vitro conditions. Mainly developed in the early 1960s, plant tissue culture
+has turned into a standard procedure for modern biotechnology and today one can recognize
+five major areas where in vitro cell cultures are currently applied: large-scale propagation of
+elite materials, generation of genetic modified fertile individuals, as a model system for fundamental
+plant cell physiology aspects, preservation of endangered species, and metabolic engineering
+of fine chemicals. This chapter reviews the recent advances in such areas.
+Key Words: Aseptic culture; genetic modified organisms; large-scale propagation; metabolic
+engineering; plant cell culture; techniques.
+1. Introduction
+Multicellular organisms vary greatly in their complexity, developmental
+patterns, and reproductive strategies. Nevertheless, and despite such differences,
+all of them share the common feature of having a single-celled phase at
+the very beginning of their life cycles. This single cell will become a new individual
+cell after several rounds of division, resulting in the development of
+structures made of specialized cells. For this reason, the unicellular stage is
+recognized as totipotent; this attribute will be present only in the cells produced
+during the initial rounds of division. Once the early stages of cell division
+have been completed, and different sets of cells have been committed to4 Loyola-Vargas and Vázques-Flota
+form specialized structures, totipotency is almost lost. The knowledge of the
+events that govern the transformation of that single cell into a complete and
+functional individual lies at the core of the understanding of life itself.
+Biologists have known for many years that somatic plant cells are more
+amenable to be reprogrammed than cells isolated from animal tissues. If exposed
+to the proper conditions, even the most specialized plant cells can be
+induced to express genes that otherwise would only be expressed at the onset
+of the process of morphogenesis. As a result of such a change in the pattern of
+gene expression, new cell types, different from the original one, may be formed.
+Plant cell and tissue culture technology explores conditions that promote cell
+division and genetic re-programming in in vitro conditions.
+Plant tissue culture refers to the set of techniques designed for the growth
+and multiplication of cells, tissues, and organs using nutrient solutions in an
+aseptic and controlled environment (see Chapters 2, 4–7 and Fig. 1). Throughout
+the years, since the early 1960s to the mid-1980s (see Chapter 2), tissue
+culture has turned into a basic asset to modern biotechnology, and facilities for
+in vitro cell cultures are found today in practically each plant biology laboratory,
+serving different purposes, from the fundamental biochemical aspects to
+the massive propagation of selected individuals. Browsing through the most
+influential journals on plant sciences, one can recognize five major areas where
+in vitro cell cultures are being currently applied: large-scale propagation of
+elite materials, generation of genetic modified fertile individuals, as a model
+system for fundamental plant cell physiology aspects, preservation of endangered
+species, and metabolic engineering of fine chemicals.
+2. Large-Scale Propagation of Elite Materials
+The commercial technology for plant massive multiplication is primarily
+based on micropropagation (see Chapters 11, 14, 16). Micropropagation protocols
+are aimed at the rapid multiplication of plantlets true-to-type to the original
+material. Meristematic tissues, located either on terminal or axillary buds,
+are induced to proliferate in response to hormonal treatments. Hypocotyls are
+also frequently used as the original explant, because bud formation can be easily
+induced in them as compared with more mature tissues. Culture conditions,
+mainly nitrogen source, light regime, and temperature, can play critical roles in
+favoring bud development into vitroplants. Although the propagation protocols
+for a number of plant species were developed in the 1960s, transition of in
+vitro to ex vitro conditions even now frequently represents a bottleneck step.
+Therefore, successful commercial propagation protocols also require procedures
+for the establishment of plants to field conditions in addition to the efficient
+multiplication of plantlets (see Chapter 12). The massive production ofIntroduction 5
+embryos, and their later development into entire plants, can also provide a
+methodology for the propagation of selected materials (see Chapter 8).
+3. Generation of Genetic Modified Fertile Individuals
+The events required to genetically transform an organism occur at the cellular
+level. Plant transformation protocols require of both a reliable DNA delivery
+methodology, as well as the efficient regeneration of fertile individuals
+from the modified cells. Techniques to introduce foreign genes into plant genomes
+include the Agrobacterium system and the bombardment of DNAcovered
+microprojectiles (see Chapters 22–24, 26). Selective markers, such as
+Fig. 1. (A) Callus from Catharanthus roseus. (B) Suspension culture from
+Coryphanta spp. (C) Tumors from C. roseus. (D) Hairy roots from C. roseus. (E)
+Regeneration of plantlets from C. roseus callus. (F) Protoplasts from Coffea arabica.
+(G) Micropropagation of Agave tequilana. (H) Somatic embryogenesis of Coffea
+canephora. (I) Root culture from Psacalium decompositum. A, C, D, E, F, H, and I
+from the authors’ laboratories. B from the laboratory of Dr. Lourdes Miranda. G from
+the laboratory of Dr. Manuel Robert. All of them are from Centro de Investigación
+Cientifica de Yucatán.6 Loyola-Vargas and Vázques-Flota
+antibiotic resistance, chromophores, or fluorochromes, are incorporated to distinguish
+the transformed tissues from those untransformed. Genetically modified
+plants will rise from individual cells and, because DNA insertion is a
+random process, an efficient regeneration procedure will increase the probability
+of recovering a transgenic plant. For this reason, the use of tissues with a
+high-morphogenetic or embryogenic potential is recommended (see Chapters
+9 and 10). Protoplasts can also be used (see Chapters 17–21); however, they
+may require a considerable amount of labor before regenerating a new plant,
+although with better odds of obtaining actual transformants.
+4. In Vitro Cultures as a Model for the Study of Plant Cell Physiology
+In vitro cultures represent an advantageous system for the study of different
+processes in plant cell physiology. Conditions can be strictly controlled, allowing
+monitoring of the effects of a single factor on a given process. One of the
+best examples of the use of cell cultures with such purposes may be the triggering
+of the defense mechanisms in response to elicitation. A number of genes
+involved in different aspects of such response, including those in perception of
+the stimulus, as well as in the signaling pathway, have been isolated and characterized
+in cell cultures from different species. Elicitation of secondary
+metabolism in cell cultures has also led to the identification of the biosynthetic
+enzymes involved in the process, in addition to the isolation of both structural
+and regulatory genes (see Chapter 30). Cell mechanisms for resistance to metals
+(see Chapter 25), salinity or drought among others, can be analyzed without
+having the interference of tissue organization. Furthermore, in vitro cultures
+submitted to morphogenetic conditions provide an optimum system for the
+study of the biochemical and molecular aspects associated with plant differentiation
+(see Chapter 10).
+5. Preservation of Endangered Species and Phytogenetic Resources
+Every year, an important number of plant species disappear, partly as a result
+of the loss of natural areas. Plants with a complex reproductive biology are
+particularly endangered given the reduction of their natural habitats, along with
+the small sizes of their populations and their prolonged life cycle. Furthermore,
+endangered, asexually propagated plants have to deal with the reduction of their
+genetic variability, which increases their susceptibility to an abrupt environmental
+change or to the introduction of new elements into their ecosystem. In
+vitro culture represents an alternative to preserve and regenerate endangered
+species’ populations through micropropagation techniques (see Chapter 15).
+New sources of genetic variation can be generated that arise from somaclonal
+variation, which is inherent to callus or cell suspension cultures (see Chapter 6).Introduction 7
+It is not only tropical and exotic species that are endangered. The use of
+improved plant varieties have resulted in the diminished utilization of traditional
+varieties of several crops, such as maize, potato, and tomato. Quite often,
+these traditional varieties, which may have been bred for hundreds of years,
+and are still cultivated by farmers of small communities, are adapted to very
+specific environments or conditions isolated by distance or geographical conditions.
+Besides their cultural value, they may represent an unexplored source
+for resistance genes to pathogens, insects, and drought. In vitro culture provides
+the technology for the preservation of such phytogenetic resources, which
+may not be adapted to flourish in nurseries or under greenhouse conditions. In
+vitro cultures may also be used to preserve extended collections of germoplasm
+in reduced areas under strictly controlled environments. This approach is particularly
+valuable in the case of plants, which are vegetatively propagated. Terminal
+or axillary buds cultured in vitro may also be preserved by cryogenic
+techniques, thereby minimizing the excessive tissue manipulation required (see
+Chapter 7). The preservation of valuable tropical genetic resources, deposited
+in germoplasm banks and maintained by means of in vitro techniques, represents
+a growing trend in tissue culture applications.
+6. Metabolic Engineering of Fine Chemicals
+Once the technology for culturing plant cells in a manner similar to fungal
+and bacterial cells was available, the production of fine chemicals (natural
+products or secondary metabolites) was among the first applications to be pursued.
+However, differing from fungi and bacteria, the pattern of natural products
+yielded by plant cells in culture frequently showed variations from those
+of organized tissues. Despite many years and numerous attempts by several
+laboratories around the world, in vitro cell cultures have not turned out to be
+efficient factories of natural products. Nevertheless, cell cultures proved to be
+an invaluable source for enzymes and genes involved in the synthesis of these
+metabolites (see Chapter 30), as well as for establishing the relationship between
+cell differentiation and secondary metabolism. Early approaches to promote
+the production of secondary metabolites included the induction of cell
+lines from highly productive tissues or individuals, the systematic screening of
+numerous cell lines for strains with a high-biosynthetic potential, and the formulation
+of culture media composition. Because very little was known about
+the regulation of secondary metabolism, such approaches were based on following
+a series of trial and error assays, rather than on a solid biochemical
+rationalization. The better understanding of the tight regulation governing secondary
+metabolism pathways as well as its close relationship with branches of
+the primary metabolism, can now be applied through metabolic engineering8 Loyola-Vargas and Vázques-Flota
+strategies in order to promote the accumulation of valuable natural products
+through use of in vitro cultures. Metabolic engineering is aimed to improve
+cell processes, by means of recombinant DNA technology, for commercial
+purposes. Genes coding for enzymes involved in limiting steps in a pathway
+may be over-expressed in cell cultures favoring carbon flux through it (see
+Chapters 27–30). Alternatively, new enzymatic activities can be introduced,
+resulting in the formation of new compounds. Recently, the identification of
+regulatory genes, controlling the coordinated activation of a set of enzymes
+involved in secondary metabolism, has created new possibilities for the genetic
+manipulation of the whole pathway, by means of a single gene.
+7. Future Perspectives
+Plant cell cultures have turned into an invaluable tool to plant scientists and
+today in vitro culture techniques are standard procedures in most laboratories.
+However, the usefulness of this technology goes beyond academic laboratories.
+Massive propagation of plants represents an economically rewarding enterprise
+as a number of companies report significant profits every year. Plant
+biotechnology has experienced new and exciting advances thanks to the development
+of genomics, proteomics, and more recently, metabolomics. These approaches
+will, without doubt, accelerate the discovery, isolation, and
+characterization of genes, thus conferring new agronomic traits to crops. However,
+as mentioned in Chapters 22–26, successful genetic engineering programs
+for the development of new plant varieties, require the stable insertion of those
+genes into the plant genome and their stable transmission to the offspring. Nevertheless,
+in some cases, regeneration of whole plants from transgenic cells or
+tissues may not be necessary. The production of fine chemicals in genetically
+modified cells cultured in large volumes may prove advantageous over production
+in field grown plants that would occupy considerable extensions of
+land, which could, in turn, be used for agriculture. Therefore, technologies for
+cell culture in such volume conditions should be established. The requirements
+for the development of such methodologies seem enough to keep cell culture
+scientists busy for a number of years.Plant Tissue Culture 9
+9
+From: Methods in Molecular Biology, vol. 318: Plant Cell Culture Protocols, Second Edition
+Edited by: V. M. Loyola-Vargas and F. Vázquez-Flota © Humana Press Inc., Totowa, NJ
+2
+History of Plant Tissue Culture
+Trevor A. Thorpe
+Summary
+Plant tissue culture, or the aseptic culture of cells, tissues, organs, and their components
+under defined physical and chemical conditions in vitro, is an important tool in both basic and
+applied studies as well as in commercial application. It owes its origin to the ideas of the German
+scientist, Haberlandt, at the beginning of the 20th century. The early studies led to root
+cultures, embryo cultures, and the first true callus/tissue cultures. The period between the 1940s
+and the 1960s was marked by the development of new techniques and the improvement of
+those already in use. It was the availability of these techniques that led to the application of
+tissue culture to five broad areas, namely, cell behavior (including cytology, nutrition, metabolism,
+morphogenesis, embryogenesis, and pathology), plant modification and improvement,
+pathogen-free plants and germplasm storage, clonal propagation, and product (mainly secondary
+metabolite) formation, starting in the mid-1960s. The 1990s saw continued expansion in
+the application of the in vitro technologies to an increasing number of plant species. Cell cultures
+have remained an important tool in the study of basic areas of plant biology and biochemistry
+and have assumed major significance in studies in molecular biology and agricultural
+biotechnology. The historical development of these in vitro technologies and their applications
+are the focus of this chapter.
+Key Words: Cell behavior; cell suspensions; clonal propagation; organogenesis; plantlet
+regeneration; plant transformation; protoplasts; somatic embryogenesis; vector-dependent/independent
+gene transfer.
+1. Introduction
+Plant tissue culture, also referred to as cell, in vitro, axenic, or sterile culture,
+is an important tool in both basic and applied studies, as well as in commercial
+application (1). Plant tissue culture is the aseptic culture of cells,
+tissues, organs and their components under defined physical and chemical conditions
+in vitro. The theoretical basis for plant tissue culture was proposed by10 Thorpe
+Gottlieb Haberlandt in his address to the German Academy of Science in 1902
+on his experiments on the culture of single cells (2). He opined that, to my
+knowledge, no systematically organized attempts to culture isolated vegetative
+cells from higher plants have been made. Yet the results of such culture experiments
+should give some interesting insight to the properties and potentialities
+that the cell, as an elementary organism, possesses. Moreover, it would provide
+information about the interrelationships and complementary influences to
+which cells within a multicellular whole organism are exposed (from the English
+translation, [3]). He experimented with isolated photosynthetic leaf cells and
+other functionally differented cells and was unsuccessful, but nevertheless he
+predicted that one could successfully cultivate artificial embryos from vegetative
+cells. He, thus, clearly established the concept of totipotency, and further
+indicated that the technique of cultivating isolated plant cells in nutrient solution
+permits the investigation of important problems from a new experimental
+approach. On the basis of that 1902 address and his pioneering experimentation
+before and later, Haberlandt is justifiably recognized as the father of plant
+tissue culture. Other studies led to the culture of isolated root tips (4,5). This
+approach of using explants with meristematic cells produced the successful
+and indefinite culture of tomato root tips (6). Further work allowed for root
+culture on a completely defined medium. Such root cultures were used initially
+for viral studies and later as a major tool for physiological studies (7). Success
+was also achieved with bud cultures (8,9).
+Embryo culture also had its beginning early in the first decade of the last
+century with barley embryos (10). This was followed by the successful rescue
+of embryos from nonviable seeds of a cross between Linum perenne?Linum
+austriacum (11), and for full embryo development in some early-ripening species
+of fruit trees (12); thus providing one of the earliest applications of in vitro
+culture. The phenomenon of precocious germination was also encountered (13).
+The first true plant tissue cultures were obtained by Gautheret (14,15) from
+cambial tissue of Acer pseudoplatanus. He also obtained success with similar
+explants of Ulmus campestre, Robinia pseudoacacia, and Salix capraea using
+agar-solidified medium of Knop’s solution, glucose and cysteine hydrochloride.
+Later, the availability of indole acetic acid and the addition of B vitamins
+allowed for the more or less simultaneous demonstrations with carrot root tissues
+(16,17), and with tumor tissue of a Nicotiana glauca ? Nicotiana
+langsdorffii hybrid (18), which did not require auxin, that tissues could be continuously
+grown in culture; and even made to differentiate roots and shoots
+(19,20). However, all of the initial explants used by these pioneers included
+meristematic tissue. Nevertheless, these findings set the stage for the dramatic
+increase in the use of in vitro cultures in the subsequent decades. Greater detail
+on the early pioneering events in plant tissue culture can be found in WhitePlant Tissue Culture 11
+(21), Bhojwani and Razdan (22), and Gautheret (23). This current article is
+based on an earlier review by the author (24) (used with permission from
+Elsevier).
+2. The Development and Improvement of Techniques
+The 1940s, 1950s, and 1960s proved an exciting time for the development
+of new techniques and the improvement of those already available. The application
+of coconut water (often incorrectly referred to as coconut milk) allowed
+for the culture of young embryos (25) and other recalcitrant tissues, including
+monocots. Callus cultures of numerous species, including a variety of woody
+and herbaceous dicots and gymnosperms, as well as crown gall tissues, were
+established as well (23). It was recognized at this time that cells in culture
+underwent a variety of changes, including loss of sensitivity to applied auxin
+or habituation (26,27), as well as variability of meristems formed from callus
+(27,28). Nevertheless, it was during this period that most of the in vitro techniques
+used today were largely developed.
+Studies by Skoog et al. (29) showed that the addition of adenine and high
+levels of phosphate allowed nonmeristematic pith tissues to be cultured and to
+produce shoots and roots, but only in the presence of vascular tissue. Further
+studies using nucleic acids led to the discovery of the first cytokinin (kinetin),
+as the breakdown product of herring sperm DNA (30). The availability of kinetin
+further increased the number of species that could be cultured indefinitely,
+but perhaps most importantly, led to the recognition that the exogenous balance
+of auxin and kinetin in the medium influenced the morphogenic fate of
+tobacco callus (31). A relative high level of auxin to kinetin-favored rooting,
+the reverse led to shoot formation and intermediate levels to the proliferation
+of callus or wound parenchyma tissue. This morphogenic model has been
+shown to operate in numerous species (32). Native cytokinins were subsequently
+discovered in several tissues, including coconut water (33). The formation
+of bipolar somatic embryos (carrot) was first reported independently
+by Reinert (34,35) and Steward (36) in addition to the formation of unipolar
+shoot buds and roots.
+The culture of single cells (and small cell clumps) was achieved by shaking
+callus cultures of Tagetes erecta and tobacco, and subsequently placing them
+on filter paper resting on well-established callus, giving rise to the so-called
+nurse culture (37,38). Later, single cells could be grown in medium in which
+tissues had already been grown (i.e., conditioned medium) (39). As well, single
+cells incorporated in a 1-mm layer of solidified medium formed some cell colonies
+(40). This technique is widely used for cloning cells and in protoplast
+culture (22). Finally, in 1959, success was achieved in the culture of mechanically
+isolated mature differentiated mesophyll cells of Macleaya cordata (41),12 Thorpe
+and later in the induction of somatic embryos from the callus (42). The first
+large-scale culture of plant cells was obtained from cell suspensions of Ginkgo,
+holly, Lolium and rose in simple sparged 20-L carboys (43). The utilization of
+coconut water as an additive to fresh medium, instead of using conditioned
+medium, finally led to realization of Haberlandt’s dream of producing a whole
+plant (tobacco) from a single cell by Vasil and Hildebrandt (44), thus demonstrating
+the totipotency of plant cells.
+The earliest nutrient media used for growing plant tissues in vitro were
+based on the nutrient formulations for whole plants, for which they were many
+(21); but Knop’s solution and that of Uspenski and Uspenskia were used the
+most, and provided less than 200 mg/L of total salts. Based on studies with
+carrot and Virginia creeper tissues, the concentration of salts was increased
+twofold (45), and was further increased ca. 4 g/L, based on work with Jerusalem
+artichoke (46). However, these changes did not provide optimum growth
+for tissues, and complex addenda, such as yeast extract, protein hydrolysates,
+and coconut water, were frequently required. In a different approach, based
+on an examination of the ash of tobacco callus, Murashige and Skoog (MS)
+(47) developed a new medium. The concentration of some salts was 25 times
+that of Knop’s solution. In particular, the levels of NO3
+– and NH4
++ were very
+high and the arrays of micronutrients were increased. MS formulation allowed
+for a further increase in the number of plant species that could be cultured,
+many of them using only a defined medium consisting of macro- and micronutrients,
+a carbon source, reduced N, B vitamins, and growth regulators (48).
+The MS salt formulation is now the most widely used nutrient medium in
+plant tissue culture.
+Plantlets were successfully produced by culturing shoot tips with a couple
+of primordia of Lupinus and Tropaeolum (9), but the importance of this finding
+was not recognized until later when this approach to obtain virus-free orchids,
+its potential for clonal propagation was realized (49). The potential was rapidly
+exploited, particularly with ornamentals (50). Early studies had shown that
+cultured root tips were free of viruses (51). It was later observed that the virus
+titer in the shoot meristem was very low (52). This was confirmed when virusfree
+Dahlia plants were obtained from infected plants by culturing their shoot
+tips (53). Virus elimination was possible because vascular tissues, within which
+the viruses move, do not extend into the root or shoot apex. The method was
+further refined (54), and now routinely used.
+Techniques for in vitro culture of floral and seed parts were developed during
+this period. The first attempts at ovary culture yielded limited growth of the
+ovaries accompanied by rooting of pedicels in several species (56). Compared
+to studies with embryos, successful ovule culture is very limited. Studies with
+both ovaries and ovules have been geared mainly to an understanding of facPlant Tissue Culture 13
+tors regulating embryo and fruit development (56). The first continuously
+growing tissue cultures from an endosperm were from immature maize (57).
+Plantlet regeneration via organogenesis was later achieved in Exocarpus
+cupressiformis (58).
+In vitro pollination and fertilization was pioneered using Papaver somniferum
+(59). The approach involves culturing excised ovules and pollen grains together
+in the same medium and has been used to produce interspecific and intergeneric
+hybrids (60). Earlier, cell colonies were obtained from Ginkgo pollen grains in
+culture (61), and haploid callus was obtained from whole anthers of Tradescantia
+reflexa (62). However, it was the finding of Guha and Maheshwari (63,64)
+that haploid plants could be obtained from cultured anthers of Datura innoxia
+that opened the new area of androgenesis. Haploid plants of tobacco were also
+obtained (65), thus confirming the totipotency of pollen grains.
+Plant protoplasts or cells without cell walls were first mechanically isolated
+from plasmolysed tissues well over 100 yr ago, and the first fusion was
+achieved in 1909 (23). Nevertheless, this remained an unexplored technology
+until the use of a fungal cellulase by Cocking (66) ushered in a new era. The
+commercial availability of cell wall degrading enzymes led to their wide use
+and the development of protoplast technology in the 1970s. The first demonstration
+of the totipotency of protoplasts was by Takebe et al. (67), who obtained
+tobacco plants from mesophyll protoplasts. This was followed by the
+regeneration of the first interspecific hybrid plants (N. glauca ? N.
+langsdorffii) (68).
+Braun (69) showed that in sunflower Agrobacterium tumefaciens could induce
+tumors, not only at the inoculated sites, but at distant points. These secondary
+tumors were free of bacteria and their cells could be cultured without auxin (70).
+Further experiments showed that crown gall tissues, free of bacteria, contained a
+tumor-inducing principle (TIP), which was probably a macromolecule (71). The
+nature of the TIP was worked out in the 1970s (72), but Braun’s work served as
+the foundation for Agrobacterium-based transformation. It should also be noted
+that the finding by Ledoux (73) that plant cells could take up and integrate DNA
+remained controversial for more than a decade.
+3. The Recent Past
+Based on the availability of the various in vitro techniques discussed in Subheading
+2., it is not surprising that, starting in the mid-1960s, there was a
+dramatic increase in their application to various problems in basic biology, agriculture,
+horticulture, and forestry through the 1970s and 1980s. These applications
+can be divided conveniently into five broad areas, namely: (1) cell
+behavior, (2) plant modification and improvement, (3) pathogen-free plants
+and germplasm storage, (4) clonal propagation, and (5) product formation (1).14 Thorpe
+Detailed information on the approaches used can be gleaned from Bhojwani
+and Razdan (22), Vasil (74), and Vasil and Thorpe (75), among several sources.
+3.1. Cell Behavior
+Included under this heading are studies dealing with cytology, nutrition, primary,
+and secondary metabolism, as well as morphogenesis and pathology of
+cultured tissues (1). Studies on the structure and physiology of quiescent cells
+in explants, changes in cell structure associated with the induction of division
+in these explants and the characteristics of developing callus, and cultured cells
+and protoplasts have been carried out using light and electron microscopy (76–
+79). Nuclear cytology studies have shown that endoreduplication, endomitosis,
+and nuclear fragmentation are common features of culture cells (80,81).
+Nutrition was the earliest aspect of plant tissue culture investigated, as indicated
+earlier. Progress has been made in the culture of photoautotrophic cells
+(82,83). In vitro cultures, particularly cell suspensions, have become very useful
+in the study of both primary and secondary metabolism (84). In addition to
+providing protoplasts from which intact and viable organelles were obtained
+for study (e.g., vacuoles) (85), cell suspensions have been used to study the
+regulation of inorganic nitrogen and sulfur assimilation (86), carbohydrate
+metabolism (87), and photosynthetic carbon metabolism (88,89); thus clearly
+showing the usefulness of cell cultures for elucidating pathway activity. Most
+of the work on secondary metabolism was related to the potential of cultured
+cells to form commercial products, but has also yielded basic biochemical
+information (90,91).
+Morphogenesis or the origin of form is an area of research with which tissue
+culture has long been associated; and one to which tissue culture has made
+significant contributions both in terms of fundamental knowledge and application
+(1). Xylogenesis or tracheary element formation has been used to study
+cytodifferentation (92–94). In particular the optimization of the Zinnia mesophyll
+single cell system has dramatically improved our knowledge of this process.
+The classical findings of Skoog and Miller (31) on the hormonal balance
+for organogenesis has continued to influence research on this topic; a concept
+supported more recently by transformation of cells with appropriately modified
+Agrobacterium T-DNA (95,96). However, it is clear from the literature
+that several additional factors, including other growth active substances, interact
+with auxin and cytokinin to bring about de novo organogenesis (97). In
+addition to bulky explants, such as cotyledons, hypocotyls, and callus (97),
+thin (superficial) cell layers (98,99) have been used in traditional morphogenic
+studies, as well as to produce de novo organs and plantlets in hundreds of plant
+species (50,100). As well, physiological and biochemical studies on organoPlant Tissue Culture 15
+genesis have been carried out (97,101,102). The third area of morphogenesis,
+somatic embryogenesis, also developed in this period with over 130 species
+reported to form the bipolar structures by the early 1980s (103,104). Successful
+culture was achieved with cereals, grasses, legumes, and conifers, previously
+considered to be recalcitrant groups. The development of a single cell to
+embryo system in carrot (105) has allowed for an in depth study of the process.
+Cell cultures have continued to play an important role in the study of plantmicrobe
+interaction, not only in tumorigenesis (106), but also on the biochemistry
+of virus multiplication (107), phytotoxin action (108), and disease
+resistance, particularly as affected by phytoalexins (109). Without doubt the
+most important studies in this area dealt with Agrobacteria, and although aimed
+mainly at plant improvement (see Subheading 3.2.) provided good fundamental
+information (96).
+3.2. Plant Modification and Improvement
+During this period, in vitro methods were used increasingly as an adjunct to
+traditional breeding methods for the modification and improvement of plants.
+The technique of controlled in vitro pollination on the stigma, placenta, or ovule
+has been used for the production of interspecific and intergeneric hybrids, overcoming
+sexual self-incompatibility, and the induction of haploid plants (109).
+Embryo, ovary, and ovule cultures have been used in overcoming embryo inviability,
+monoploid production in barley and in overcoming seed dormancy and
+related problems (110,112). In particular, embryo rescue has played a most
+important role in producing interspecific and intergeneric hybrids (113).
+By the early 1980s, androgenesis had been reported in some 171 species,
+many of which were important crop plants (114). Gynogenesis was reported in
+some 15 species, in some of which androgenesis was not successful (115). The
+value of these haploids was that they could be used to detect mutations and for
+recovery of unique recombinants, because there is no masking of recessive
+alleles. As well, the production of double haploids allowed for hybrid production
+and their integration into breeding programs.
+Cell cultures have also played an important role in plant modification and
+improvement, as they offer advantages for isolation of variants (116). Although
+tissue culture-produced variants have been known since the 1940s (e.g., habituation),
+it was only in the 1970s that attempts were made to utilize them for plant
+improvement. This somaclonal variation is dependent on the natural variation
+in a population of cells, either pre-existing or culture-induced, and is usually
+observed in regenerated plantlets (117). The variation may be genetic or epigenetic
+and is not simple in origin (118,119). The changes in the regenerated
+plantlets have potential agricultural and horticultural significance, but this
+potential has not yet been realized. It has also been possible to produce a wide16 Thorpe
+spectrum of mutant cells in culture (120). These include cells showing biochemical
+differences, antibiotic, herbicide, and stress resistance. In addition,
+auxotrophs, autotrophs, and those with altered developmental systems have
+been selected in culture; usually the application of the selective agent in the
+presence of a mutagen is required. However, in only a few cases has it been
+possible to regenerate plants with the desired traits (e.g., herbicide-resistant
+tobacco) (121), and methyl tryptophan-resistant Datura innoxia (122).
+By 1985, nearly 100 species of angiosperms could be regenerated from protoplasts
+(123). The ability to fuse plant protoplasts by chemical (e.g., with polyethylene
+glycol [PEG]) and physical means (e.g., electrofusion) allowed for
+production of somatic hybrid plants; the major problem being the ability to
+regenerate plants from the hybrid cells (124,125). Protoplast fusion has been
+used to produce unique nuclear-cytoplasmic combinations. In one such example,
+Brassica campestris chloroplasts coding for atrazine resistance (obtained from
+protoplasts) were transferred into B. napus protoplasts with Raphanus sativus
+cytoplasm (which confers cytoplasmic male sterility from its mitochondria).
+The selected plants contained B. napus nuclei, chloroplasts from B. campestris
+and mitochondria from R. sativus, had the desired traits in a B. napus phenotype,
+and could be used for hybrid seed production (126). Unfortunately, only
+a few such examples exist to date.
+Genetic modification of plants has been achieved by direct DNA transfer
+via vector-independent and vector-dependent means since the early 1980s.
+Vector-independent methods with protoplasts include electroporation (127),
+liposome fusion (128), and microinjection (129), as well as high-velocity
+microprojectile bombardment (biolistics) (130). This latter method can be
+executed with cells, tissues, and organs. The use of Agrobacterium in vectormediated
+transfer has progressed very rapidly since the first reports of stable
+transformation (131,132). Although the early transformations utilized protoplasts,
+regenerable organs such as leaves, stems, and roots have been subsequently
+used (133,134). Much of the research activity utilizing these tools has
+focused on engineering important agricultural traits for the control of insects,
+weeds, and plant diseases.
+3.3. Pathogen-Free Plants and Germplasm Storage
+Although these two uses of in vitro technology may appear unrelated, a
+major use of pathogen-free plants is for germplasm storage and the movement
+of living material across international borders (1). The ability to rid plants of
+viruses, bacteria, and fungi by culturing meristem-tips has been widely used
+since the 1960s. The approach is particularly needed for virus-infected material,
+because bactericidal and fungicidal agents can be used successfully inPlant Tissue Culture 17
+ridding plants of bacteria and fungi (22). Meristem-tip culture is often coupled
+with thermotherapy or chemotherapy for virus eradication (135).
+Traditionally, germplasm has been maintained as seed, but the ability to
+regenerate whole plants from somatic and gametic cells and shoot apices has
+led to their use for storage (22,135). Three in vitro approaches have been
+developed, namely use of growth retarding compounds (e.g., maleic hydrazide,
+B995, and abscisic acid [ABA]) (136), low nonfreezing temperatures (1–9°C)
+(22), and cryopreservation (135). In this last approach, cell suspensions, shoot
+apices, asexual embryos, and young plantlets, after treatment with a
+cryoprotectant, is frozen and stored at the temperature of liquid nitrogen (ca.
+–196°C) (135,137).
+3.4. Clonal Propagation
+The use of tissue culture technology for the vegetative propagation of plants
+is the most widely used application of the technology. It has been used with all
+classes of plants (138,139), although some problems still need to be resolved
+(e.g., hyperhydricity, abberant plants). There are three ways by which
+micropropagation can be achieved. These are enhancing axillary bud breaking,
+production of adventitious buds directly or indirectly via callus, and somatic
+embryogenesis directly or indirectly on explants (50,138). Axillary bud breaking
+produces the smallest number of plantlets, but they are generally genetically
+true-to-type; whereas somatic embryogenesis has the potential to produce
+the greatest number of plantlets, but is induced in the lowest number of plant
+species. Commercially, numerous ornamentals are produced, mainly via axillary
+bud breaking (140). As well, there are many lab-scale protocols for other
+classes of plants, including field and vegetable crops, fruit, plantation, and forest
+trees, but cost of production is often a limiting factor in their use commercially
+(141).
+3.5. Product Formation
+Higher plants produce a large number of diverse organic chemicals, which
+are of pharmaceutical and industrial interest. The first attempt at the largescale
+culture of plant cells for the production of pharmaceuticals took place in
+the 1950s at the Charles Pfizer Co. The failure of this effort limited research in
+this area in the United States, but work elsewhere in Germany and Japan in
+particular, led to development, so that by 1978 the industrial application of cell
+cultures was considered feasible (142). Furthermore, by 1987, there were 30
+cell culture systems that were better producers of secondary metabolites than
+the respective plants (143). Unfortunately, many of the economically important
+plant products are either not formed in sufficiently large quantities or not
+at all by plant cell cultures. Different approaches have been taken to enhance18 Thorpe
+yields of secondary metabolites. These include cell cloning and the repeated
+selection of high-yielding strains from heterogenous cell populations (142,144)
+and by using enzyme linked immunosorbent assay (ELISA) and radioimmunoassay
+techniques (145). Another approach involves selection of mutant cell
+lines that overproduce the desired product (146). As well, both abiotic factors—
+such as ultraviolet (UV) irradiation, exposure to heat or cold and salts of
+heavy metals—and biotic elicitors of plant and microbial origin, have been
+shown to enhance secondary product formation (147,148). Lastly, the use of
+immobilized cell technology has also been examined (149,150).
+Central to the success of producing biologically active substances commercially
+is the capacity to grow cells on a large scale. This is being achieved
+using stirred tank reactor systems and a range of air-driven reactors (141). For
+many systems, a two-stage (or two-phase) culture process has been tried
+(151,152). In the first stage, rapid cell growth and biomass accumulation are
+emphasized, whereas the second stage concentrates on product synthesis with
+minimal cell division or growth. However, by 1987 the naphthoquinone,
+shikonin, was the only commercially produced secondary metabolite by cell
+cultures (153).
+4. The Present
+During the 1990s, continued expansion in the application of in vitro technologies
+to an increasing number of plant species was observed. Tissue culture
+techniques are being used with all types of plants, including cereals and grasses
+(154), legumes (155), vegetable crops (156), potato (157) and other root and
+tuber crops (158), oilseeds (159), temperate (160) and tropical (161) fruits, plantation
+crops (162), forest trees (163), and, of course, ornamentals (164). As can
+be seen from these articles, the application of in vitro cell technology went well
+beyond micropropagation, and embraced all the in vitro approaches that were
+relevant or possible for the particular species, and the problem(s) being addressed.
+However, only limited success has been achieved in exploiting
+somaclonal variation (165), or in the regeneration of useful plantlets from mutant
+cells (166); also, the early promise of protoplast technology has remained
+largely unfulfilled (167). Substantial progress has been made in extending
+cryopreservation technology for germplasm storage (168) and in artificial seed
+technology (169). Some novel approaches for culturing cells such as on rafts,
+membranes, and glass rods, as well as manipulation of the culture environment
+by use of non-ionic surfactants have been successfully developed (170).
+Cell cultures have remained an important tool in the study of plant biology.
+Thus progress is being made in cell biology, for example, in studies of the
+cytoskeleton (171), on chromosomal changes in cultured cells (172), and in
+cell-cycle studies (173,174). Better physiological and biochemical tools havePlant Tissue Culture 19
+allowed for a re-examination of neoplastic growth in cell cultures during
+habituation and hyperhydricity, and relate it to possible cancerous growth in
+plants (175). Cell cultures have remained an extremely important tool in the
+study of primary metabolism; for example, the use of cell suspensions to
+develop in vitro transcription systems (176), or the regulation of carbohydrate
+metabolism in transgenics (177). The development of medicinal plant cell culture
+techniques has led to the identification of more than 80 enzymes of alkaloid
+biosynthesis (reviewed in ref. 178). Similar information arising from the
+use of cell cultures for molecular and biochemical studies on other areas of
+secondary metabolism, is generating research activity on metabolic engineering
+of plant secondary metabolite production (179).
+Cell cultures remain an important tool in the study of morphogenesis, even
+though the present use of developmental mutants, particularly of Arabidopsis,
+is adding valuable information on plant development (see ref. 180). Molecular,
+physiological, and biochemical studies have allowed for an indepth understanding
+of cytodifferentiation, mainly tracheary element formation (181),
+organogenesis (182,183), and somatic embryogenesis (184–186).
+Advances in molecular biology are allowing for the genetic engineering of
+plants, through the precise insertion of foreign genes from diverse biological
+systems. Three major breakthroughs have played major roles in the development
+of this transformation technology (187). These are the development of
+shuttle vectors for harnessing the natural gene transfer capability of Agrobacterium
+(188), the methods to use these vectors for the direct transformation of
+regenerable explants obtained from plant organs (189), and the development of
+selectable markers (190). For species not amenable to Agrobacterium-mediated
+transformation, physical, chemical, and mechanical means are used to get the
+DNA into the cells. With these latter approaches, particularly biolistics (191), it
+has become possible to transform virtually any plant species and genotype.
+The initial wave of research in plant biotechnology has been driven mainly
+by the seed and agri-chemical industries, and has concentrated on agronomic
+traits of direct relevance to these industries, namely the control of insects,
+weeds, and plant diseases (192). At present, over 100 species of plants have
+been genetically engineered, including nearly all the major dicotyledonous
+crops and an increasing number of monocotyledonous ones, as well as some
+woody plants. Current research is leading to routine gene transfer systems for
+all important crops; for example, the production of golden rice (193). In addition,
+technical improvements are further increasing transformation efficiency,
+extending transformation to elite commercial germplasm and lowering
+transgenic plant production costs. The next wave in agricultural biotechnology
+is already in progress with biotechnological applications of interest to the food
+processing, speciality chemical, and pharmaceutical industries.20 Thorpe
+The current emphasis and importance of plant biotechnology can be gleamed
+from the last two International Congresses on Plant Tissue and Cell Culture
+and Biotechnology held in Israel in June 1998, and in the United States in June
+2002. The theme of the Israeli Congress was Plant Biotechnology and In Vitro
+Biology in the 21st Century and the theme of the last Congress was Plant Biotechnology
+2002 and Beyond. The proceedings for these two congresses (194,
+195) were developed through a scientific program that focused on the most
+important developments, both basic and applied, in the areas of plant tissue
+culture and molecular biology and their impact on plant improvement and biotechnology.
+They clearly show where tissue culture is today and where it is
+heading (i.e., as an equal partner with molecular biology), as a tool in basic
+plant biology and in various areas of application. In fact, progress in applied
+plant biotechnology is fully matching and is without doubt stimulating fundamental
+scientific progress, which remains the best hope for achieving sustainable
+and environmentally stable agriculture (196). Indeed, the advancements
+made in the last 100 yr with in vitro technology have gone well beyond what
+Haberlandt and the other pioneers could have imagined.
+References
+1. Thorpe, T. A. (1990) The current status of plant tissue culture, in Plant Tissue
+Culture: Applications and Limitations (Bhojwani, S. S., ed.), Elsevier,
+Amsterdam, pp. 1–33.
+2. Haberlandt, G. (1902) Kulturversuche mit isolierten Pflanzenzellen. Sitzungsber.
+Akad. Wiss. Wien. Math.-Naturwiss. Kl., Abt. J. 111, 69–92.
+3. Krikorian, A. D. and Berquam, D. L. (1969) Plant cell and tissue cultures: the
+role of Haberlandt. Botan. Rev. 35, 59–67.
+4. Kotte, W. (1922) Kulturversuche mit isolierten Wurzelspitzen. Beitr. Allg. Bot.
+2, 413–434.
+5. Robbins, W. J. (1922) Cultivation of excised root tips and stem tips under sterile
+conditions. Bot. Gaz. 73, 376–390.
+6. White, P. R. (1934) Potentially unlimited growth of excised tomato root tips in a
+liquid medium. Plant Physiol. 9, 585–600.
+7. Street, H. E. (1969) Growth in organized and unorganized systems, in Plant Physiology
+(Steward, F. C., ed.), Vol. 5B, Academic Press, New York, pp. 3–224.
+8. Loo, S. W. (1945) Cultivation of excised stem tips of asparagus in vitro. Am. J.
+Bot. 32, 13-17.
+9. Ball, E. (1946) Development in sterile culture of stems tips and subjacent regions
+of Tropaeolum malus L. and of Lupinus albus L. Am. J. Bot. 33, 301–318.
+10. Monnier, M. (1995) Culture of zygotic embryos, in In Vitro Embryogenesis in
+Plants (Thorpe, T. A., ed.), Kluwer Academic, Dordrecht, The Netherlands, pp.
+117–153.
+11. Laibach, F. (1929) Ectogenesis in plants. Methods and genetic possibilities of
+propagating embryos otherwise dying in the seed. J. Hered. 20, 201–208.Plant Tissue Culture 21
+12. Tukey, H. B. (1934) Artificial culture methods for isolated embryos of deciduous
+fruits. Proc. Am. Soc. Hortic. Sci. 32, 313–322.
+13. LaRue, C. D. (1936) The growth of plant embryos in culture. Bull. Torrey Bot.
+Club 63, 365–382.
+14. Gautheret, R. J. (1934) Culture du tissus cambial. C.R. Hebd. Seances Acad. Sc.
+198, 2195–2196.
+15. Gautheret, R. J. (1935) Recherches sur la culture des tissus végétaux. Ph.D. Thesis,
+Paris.
+16. Gautheret, R. J. (1939) Sur la possibilité de réaliser la culture indéfinie des tissus
+de tubercules de carotte. C.R. Hebd. Seances Acad. Sc. 208, 118–120.
+17. Nobécourt, P. (1939) Sur la pérennité et l’augmentation de volume des cultures
+de tissues végétaux. C.R. Seances Soc. Biol. Ses Fil. 130, 1270–1271.
+18. White, P. R. (1939) Potentially unlimited growth of excised plant callus in an
+artificial nutrient. Am. J. Bot. 26, 59–64.
+19. Nobécourt, P. (1939) Sur les radicelles naissant des cultures de tissus végétaux.
+C.R. Seances Soc. Biol. Ses Fil. 130, 1271–1272.
+20. White, P .R. (1939) Controlled differentiation in a plant tissue culture. Bull.
+Torrey Bot. Club 66, 507–513.
+21. White, P. R. (1963) The Cultivation of Animal and Plant Cells, 2nd ed., Ronald
+Press, New York.
+22. Bhojwani, S. S. and Razdan, M. K. (1983) Plant Tissue Culture: Theory and
+Practice. Developments in Crop Science, Vol. 5. Elsevier, Amsterdam.
+23. Gautheret, R. J. (1985) History of plant tissue and cell culture: A personal account,
+in Cell Culture and Somatic Cell Genetics of Plants (Vasil, I. K., ed.), Vol.
+2, Academic Press, New York, pp. 1–59.
+24. Thorpe, T. A. (2000) History of plant cell culture. Chap. 1, in Plant Tissue Culture:
+Techniques and Experiments, (Smith, R. H., ed.) 2nd ed., Academic Press,
+California, pp. 1–32. (With permission from Elsevier).
+25. Van Overbeek, J., Conklin, M. E., and Blakeslee, A. F. (1941) Factors in coconut
+milk essential for growth and development of very young Datura embryos. Science
+94, 350–351.
+26. Gautheret, R. J. (1942) Hétéro-auxines et cultures de tissus végétaux. Bull. Soc.
+Chim. Biol. 24, 13–41.
+27. Gautheret, R. J. (1955) Sur la variabilité des propriétés physiologiques des cultures
+de tissues végétaux. Rev. Gén. Bot. 62, 5–112.
+28. Nobécourt, P. (1955) Variations de la morphologie et de la structure de cultures
+de tissues végétaux. Ber. Schweiz. Bot. Ges. 65, 475–480.
+29. Skoog, F. and Tsui, C. (1948) Chemical control of growth and bud formation in
+tobacco stem segments and callus cultured in vitro. Am. J. Bot. 35, 782–787.
+30. Miller, C., Skoog, F., Von Saltza, M. H., and Strong, F. M. (1955) Kinetin, a cell
+division factorfrom desoxyribonucleic acid. J. Am. Chem. Soc. 77, 1392.
+31. Skoog, F. and Miller, C. O. (1957) Chemical regulation of growth and organ
+formation in plant tissue cultures in vitro. Symp. Soc. Exp. Biol. 11, 118–131.
+32. Evans, D. A., Sharp, W. R., and Flick, C. E. (1981) Growth and behavior of cell
+cultures: Embryogenesis and organogenesis, in Plant Tissue Culture: Methods22 Thorpe
+and Applications in Agriculture (Thorpe, T. A., ed.), Academic Press, New York,
+pp. 45–113.
+33. Letham, D. S. (1974) Regulators of cell division in plant tissues. The cytokinins
+of coconut milk. Physiol. Plant. 32, 66–70.
+34. Reinert, J. (1958) Utersuchungen die Morphogenese an Gewebeku1turen. Ber.
+Dtsch. Bot. Ges. 71, 15.
+35. Reinert, J. (1959) Uber die Kontrolle der Morphogenese und die Induktion von
+Adventivembryonen an Gewebekulturen aus Karotten. Planta 53, 318–333.
+36. Steward, F. C., Mapes, M. O., and Mears, K. (1958) Growth and organized development
+of cultured cells. II. Organization in cultures grown from freely suspended
+cells. Am. J. Bot. 45, 705–708.
+37. Muir, W.H., Hildebrandt, A.C., and Riker, A.J. (1954) Plant tissue cultures produced
+from single isolated plant cells. Science 119, 877–878.
+38. Muir, W. H., Hildebrandt, A. C., and Riker, A. J. (1958) The preparation, isolation
+and growth in culture of single cells from higher plants. Am. J. Bot. 45, 585–597.
+39. Jones, L. E., Hildebrandt, A. C., Riker, A. J., and Wu, J. H. (1960) Growth of
+somatic tobacco cells in microculture. Am. J. Bot. 47, 468–475.
+40. Bergmann, L. (1959) A new technique for isolating and cloning cells of higher
+piarits. Nature 184, 648–649.
+41. Kohlenbach, H. W. (1959) Streckungs-und Teilungswachstum isolierter
+Mesophyllzellen von Macleaya cordata (Wild.) R. Br. Naturwissenschaften 46,
+116–117.
+42. Kohlenbach, H. W. (1966) Die Entwicklungspotenzen explantierter und isolierter
+Dauerzellen. I. Das Strechungs- und Teilungswachstum isolierter
+Mesophyllzellen von Macleaya cordata Z. Pflanzenphysiol. 55, 142–157.
+43. Tulecke, W. and Nickell, L. G. (1959) Production of large amounts of plant tissue
+by submerged culture. Science 130, 863–864.
+44. Vasil, V. and Hildebrandt, A. C. (1965) Differentiation of tobacco plants from
+single, isolated cells in micro cultures. Science 150, 889–892.
+45. Heller, R. (1953) Recherches sur la nutrition minerale des tissus végétaux cultivé
+in vitro. Ann. Sci. Nat. Bot. BioI. Veg. 14, 1–223.
+46. Nitsch, J. P. and Nitsch, C. (1956) Auxin-dependent growth of excised Helianthus
+tuberosus tissues. Am. J. Bot. 43, 839–851.
+47. Murashige, T. and Skoog, F. (1962) A revised medium for rapid growth and
+bioassays with tobacco tissue cultures. Physiol. Plant. 15, 473–497.
+48. Gamborg, O. L., Murashige, T., Thorpe, T. A., and Vasil, I. K. (1976) Plant tissue
+culture media. In Vitro 12, 473–478.
+49. Morel, G. (1960). Producing virus-free cymbidium. Am. Orchid Soc. Bull. 29,
+495–497.
+50. Murashige, T. (1974) Plant propagation through tissue culture. Annu. Rev. Plant
+Physiol. 25, 135–166.
+51. White, P. R. (1934) Multiplication of the viruses of tobacco and Aucuba mosaics
+in growing excised tomato root tips. Phytopathology 24, 1003–1011.Plant Tissue Culture 23
+52. Limasset, P. and Cornuet, P. (1949) Recherche du virus de la mosaïque du tabac
+dans les méristèmes des plantes infectées. C.R. Hebd. Seances Acad. Sci. 228,
+1971–1972.
+53. Morel, G. and Martin, C. (1952) Guérison de dahlias atteints d’une maladie á
+virus. C.R. Hebd. Seances Acad. Sc. 235, 1324–1325.
+54. Quack, F. (1961) Heat treatment and substances inhibiting virus multiplication in
+meristem culture to obtain virus-free plants. Adv. Hortic. Sci. Their Appl., Proc.
+Int. Hortic. Congr. 15th, 1958 1, 144–148.
+55. LaRue, C. D. (1942) The rooting of flowers in culture. Bull. Torrey Bot. Club 69,
+332–341.
+56. Rangan, T. S. (1982) Ovary, ovule and nucellus culture, in Experimental Embryology
+of Vascular Plants (Johri, B. M., ed.), Springer-Verlag, Berlin, pp. 105–129.
+57. LaRue, C. D. (1949) Culture of the endosperm of maize. Am. J. Bot. 36, 798.
+58. Johri, B. M. and Bhojwani, S. S. (1965) Growth responses of mature endosperm
+in cultures. Nature 208, 1345–1347.
+59. Kanta, K., Rangaswamy, N. S., and Maheshwari, P. (1962) Test-tube fertilization
+in flowering plants. Nature 194, 1214–1217.
+60. Zenkteler, M., Misiura, E., and Guzowska, I. (1975) Studies on obtaining hybrid
+embryos in test tubes, in Form, Structure and Function in Plants (Mohan
+Ram, H. Y., Shaw, J. J., and Shaw, C. K., eds.), Sarita Prakashan, Meerut, India,
+pp. 180–187.
+61. Tulecke, W. (1953) A tissue derived from the pollen of Ginkgo biloba. Science
+117, 599–600.
+62. Yamada, T., Shoji, T., and Sinoto, Y. (1963) Formation of calli and free cells in
+a tissue culture of Tradescantia reflexa. Bot. Mag. 76, 332–339.
+63. Guha, S. and Maheshwari, S. C. (1964) In vitro production of embryos from
+anthers of Datura. Nature 204, 497.
+64. Guha, S. and Maheshwari, S. C. (1966) Cell division and differentiation of
+embryos in the pollen grains of Datura in vitro. Nature 212, 97–98.
+65. Bourgin, J.P. and Nitch, J.P. (1967) Obtention de Nicotiana haploides à partir
+de’étamines cultivées in vitro. Ann. Physiol. Vég. 9, 377–382.
+66. Cocking, E. C. (1960) A method for the isolation of plant protoplasts and vacuoles.
+Nature 187, 927–929.
+67. Takebe, I., Labib, C., and Melchers, G. (1971) Regeneration of whole plants from
+isolated mesophyll protoplasts of tobacco. Naturwissenschaften 58, 318–320.
+68. Carlson, P. S., Smith, H. H., and Dearing, R. D. (1972) Parasexual interspecific
+plant hybridization. Proc. Natl. Acad. Sci. USA 69, 2292–2294.
+69. Braun, A. C. (1941) Development of secondary tumor and tumor strands in the
+crown-gall of sunflowers. Phytopathology 31, 135–149.
+70. Braun, A. C. and White, P. R. (1943) Bacteriological sterility of tissues derived
+from secondary crown-gall tumors. Phytopathology 33, 85–100.
+71. Braun, A. C. (1950) Thermal inactivation studies on the tumor inducing principle
+in crown-gall. Phytopathology 40, 3.24 Thorpe
+72. Zaenen, I., van Larebeke, N., Touchy, H., Van Montagu, M., and Schell, J. (1974)
+Super-coiled circular DNA in crown-gall inducing Agrobacterium strains. J. Mol.
+BioI. 86, 109–127.
+73. Ledoux, L. (1965) Uptake of DNA by living cells. Prog. Nucleic Acid Res. Mol.
+Biol. 4, 231–267.
+74. Vasil, I. K. (ed.) (1994) Cell Culture and Somatic Cell Genetics of Plants, Vol. 1,
+Laboratory Procedures and Their Applications. Academic Press, New York.
+75. Vasil, I. K. and Thorpe, T. A. (eds.) (1994) Plant Cell and Tissue Culture, Kluwer
+Acad. Publ., Dordrecht, The Netherlands.
+76. Yeoman, M. M. and Street, H. E. (1977) General cytology of cultured cells, in
+Plant Tissue and Cell Culture (Street, H. E., ed.), Blackwell Scientific, Oxford,
+pp. 137–176.
+77. Lindsey, K. and Yeoman, M. M. (1985) Dynamics of plant cell cultures, in Cell
+Culture and Somatic Cell Genetics of Plants (Vasil, I. K., ed.), Vol. 2, Academic
+Press, New York, pp. 61–101.
+78. Fowke, L.C. (1986) Ultrastructural cytology of cultured plant tissues, cells, and
+protoplasts, in Cell Culture and Somatic Cell Genetics of Plants (Vasil, I. K.,
+ed.), Vol. 3, Academic Press, New York, pp. 323–342.
+79. Fowke, L. C. (1987) Investigations of cell structure using cultured cells and protoplasts,
+in Plant Tissue and Cell Culture (Green, C. E., Somers, D. A., Hackett,
+W. P., and Biesboer, D. D., eds.), A. R. Liss, New York, pp. 17–31.
+80. D’Amato, F. (1978) Chromosome number variation in cultured cells and regenerated
+plants, in Frontiers of Plant Tissue Culture 1978 (Thorpe, T. A., ed.), Intl.
+Assoc. Plant Tissue Culture, Univ. of Calgary Printing Services, pp. 287–295.
+81. Nagl, W., Pohl, J., and Radler, A. (1985) The DNA endoreduplication cycles, in
+The Cell Division Cycle in Plants (Bryant, J. A. and Francis, D., eds.), Cambridge
+University Press, Cambridge, pp. 217–232.
+82. Yamada, Y., Fumihiko, S., and Hagimori, M. (1978) Photoautotropism in green
+cultured cells, in Frontiers of Plant Tissue Culture 1978 (Thorpe, T. A., ed.), Intl.
+Assoc. Plant Tissue Culture, Univ. of Calgary Printing Services, pp. 453–462.
+83. Hüsemann, W. (1985) Photoautotrophic growth of cells in culture, in Cell Culture
+and Somatic Cell Genetics of Plants (Vasil, I. K., ed.), Vol. 2, Academic
+Press, New York, pp. 213–252.
+84. Neumann, K.-H., Barz, W., and Reinhard, E. (eds.) (1985) Primary and Secondary
+Metabolism of Plant Cell Cultures, Springer-Verlag, Berlin.
+85. Leonard, R. T. and Rayder, L. (1985) The use of protoplasts for studies on membrane
+transport in plants, in Plant Protoplasts (Fowke, L. C. and Constabel, F.,
+eds.), CRC Press, Boca Raton, Florida, pp. 105–118.
+86. Filner, P. (1978) Regulation of inorganic nitrogen and sulfur assimilation in cell
+suspension cultures, in Frontiers of Plant Tissue Culture 1978 (Thorpe, T. A.,
+ed.), Intl. Assoc. Plant Tissue Culture, Univ. of Calgary Printing Services, pp.
+437–442.
+87. Fowler, M. W. (1978) Regulation of carbohydrate metabolism in cell suspension
+cultures, in Frontiers of Plant Tissue Culture 1978 (Thorpe, T. A., ed.), Intl.
+Assoc. Plant Tissue Culture, Univ. of Calgary Printing Services, pp. 443–452.Contamination Management 35
+35
+From: Methods in Molecular Biology, vol. 318: Plant Cell Culture Protocols, Second Edition
+Edited by: V. M. Loyola-Vargas and F. Vázquez-Flota © Humana Press Inc., Totowa, NJ
+3
+Pathogen and Biological Contamination Management
+The Road Ahead
+Alan C. Cassells and Barbara M. Doyle
+Summary
+Multiplication of certified pathogen-free stock plants in vitro makes an important contribution
+to the production of disease-free planting material for vegetatively propagated crops. Meristem
+culture is extensively used to eliminate pathogens and contaminants from microbially
+contaminated plants prior to micropropagation. The approach to pathogen and contamination
+management differs. It is essential to avoid the release of pathogen-contaminated microplants
+and to ensure this the plant pathogen-testing guidelines and protocols issued by the Food and
+Agriculture Organisation (FAO) and its regional representative organizations should be followed.
+Where in vitro methods are used to eliminate pathogens, the progeny plants should be
+established in vivo under quarantine conditions and tested under FAO guidelines before being
+used as stock plants for in vitro multiplication. At establishment of microplants in vitro (stage
+1), cultures should be culture-indexed for the presence of microbial contaminants. If pathogenand
+contaminant-free cultures are established, then the risk is that of managing laboratory contamination
+by common environmental microorganisms based on Hazard Analysis Critical Control
+Points (HACCP) principles.
+International plant health certification organizations are conservative and rely on established
+pathogen indexing protocols. They are reluctant to accept DNA-based tests and do not
+accept testing of in vitro cultures. Given that in time both of these restrictions may be relaxed,
+micropropagators may look forward to availing more of diagnostic service providers using
+polymerase chain reaction-based multiplex assays for pathogen-indexing and advances in diagnostic
+kits for environmental microorganisms in support of laboratory contamination management;
+with the caveat that molecular tests for pathogens may continue to require confirmation
+by inoculation of indicator plant species.
+Key Words: Environmental microorganisms; HACCP; meristem culture; molecular beacons;
+multiplex assays; PCR.36 Cassells and Doyle
+1. Introduction
+Biotic contamination in tissue culture is caused by the entry into culture of
+pathogens and other microbial contaminants on or in the explants used to initiate
+the cultures, and by entry of environmental microorganisms and microarthropods
+during the in vitro culture stages (see Fig. 1). Biotic contaminants
+associated with the explants used to establish cultures are usually pathogens of
+the crop or opportunistic colonizers of the plant (1). The latter may be organisms
+abundant in the environment of the plants that were not excluded during
+apical meristem explant preparation or microorganisms that escaped surface
+sterilization by persistence in biofilms, in surface niches or as endophytes. Such
+contaminants may remain latent in the explants and in regenerated plants, to
+transmit disease or contamination through the progeny plants, or they may
+emerge during culture when suppressive media factors are removed or the
+medium is diluted, to overrun the cultures. When clean (aseptic) cultures are
+established, biotic contamination can occur during the in vitro stages. In this
+case the contaminants are environmental microorganisms, human-associated
+microorganisms, and micro-arthropods (see Fig. 1; [2–4]). Typically, these microorganisms
+are non-fastidious and their presence can be seen by visual inspection
+of the cultures.
+The distinction between plant pathogens (phytopathogens) and environmental
+contaminants in tissue culture is in many instances a case of role reversal.
+Phytopathogens may be latent in tissues in vitro (i.e., be symptomless) whereas
+environmental organisms may rapidly overgrow the explant, killing the tissues
+by becoming vitropathogens. The risk with phytopathogen contamination is
+that of clonal propagation and possible international distribution and environmental
+release of pathogens; the risk from contamination with vitropathogens
+is loss of the cultures. A further distinction is that vitropathogens are mainly
+non-fastidious environmental fungi and bacteria whereas phytopathogens are
+mainly intracellular non-cultivable viruses and viroids or fastidious inter- or
+intra-cellular bacteria. The identification of phytopathogens may require diagnostics
+and diagnostic protocols, which in the case of plant health certification
+schemes are prescribed by international regulatory authorities (5).
+The consequences of the distinction both in the character of the contaminants
+and in the sequence of their occurrence in tissue culture, is that pathogen
+and biological contamination management, arguably, are best managed by two
+strategies. Phytopathogens and opportunistic endophytes and surface contaminants
+should be eliminated at the stage of establishment of the cultures and
+contamination management in the laboratory, caused by vitropathogens, is best
+managed by good working practice (6). This approach will be discussed further
+here with emphasis on emerging “omics” (genomic, proteomic, and
+metabolomic) identification methods.Contamination Management 37
+2. Diagnostics and Diagnosis
+In plant health certification, the requirement is to be able to distinguish
+between non-pathogenic and pathogenic isolates and to distinguish between
+races of pathovars, where pathovars are defined as “a strain or set of strains
+with the same or similar characteristics differentiated at infrasubspecific level
+from other strains of the same species or subspecies on the basis of distinctive
+pathogenicity to one or more host plants.” Classification of a taxon as a
+pathovar does not exclude recognition of difference in biochemical, serological,
+or other non-pathogenic characters between that and other pathovars of the
+same species or subspecies, but implies that at the infrasubspecific level other
+differences are considered to have less significance in comparison to differences
+in pathogenicity. Usually pathovars are distinguished in terms of proved
+differences in host range. However, clear differences in symptomatology on
+the same plant species (e.g., Xanthomonas campestris pv. oryzae and X.
+campestris pv. oryzicola) can warrant different pathovar designation
+(www.ag.uidaho.cdu/bacteriology/pathovar.html). Consequently, to confirm
+the identity of a pathovar or pathovar race putatively identified by any test
+method where the pathogenicity gene(s) or gene product(s) are not detected by
+the method may require inoculation of an indicator host plant.
+Fig. 1. A scheme illustrating a two-phase strategy for managing contamination in
+tissue culture where the focus is on pathogen-indexing and pathogen and contaminant
+elimination before or at the establishment of the cultures and good laboratory working
+practice is used to exclude environmental organisms during the in vitro stages.38 Cassells and Doyle
+Table 1
+Characteristics of CCP Biomarkers
+Indicator Quick test
+organism Type Characteristics or reference
+Pseudomonas Gram-negative, motile rods that oxidise (7)
+fluorescens Eubacteriaceae glucose (1)
+Erwinia spp. Eubacteriaceae Gram-negative, motile more than 4 (7)
+peritrichous flagellae, grows
+anaerobically (1)
+Klebsiella spp. Eubacteriaceae (7)
+Serratia spp. Eubacteriaceae Gram-negative, motile rods, highly mucoid api 20Ea
+colonies, produces red pigment,
+facultative anaerobes, oxidase negative,
+nitrate positive (1)
+Agrobacterium Eubacteriaceae Gram-negative, motile, non-spore forming (7)
+spp. rods, grows on D-1 medium (1)
+Bacillus spp. Eubacteriaceae Gram-positive, motile rods, produces (7)
+large; gray-white colonies with irregular
+margins on blood agar; produces
+endospores when stressed; motile/nonmotile;
+catalase positive (1)
+Rhodotorula Basidiomycetes Unicellular (blasto-) conida globose api 20C
+spp. to elongate which may be encapsulated; AUXa
+pseudohyphae are absent or rudimentary;
+colonies cream to pink, coral red, orange
+or yellow in color
+Penicillium Deuteromycetes Conidiophores arising from the mycelium (43)
+spp. singly or less commonly in groups or fused,
+branched near the apex, ending in spore
+producing cells, the spores are
+produced sequentially and form chains
+Staplylococcus Euacteriaceae Gram-positive, non-motile, spherical api
+spp. in clusters, anerobic fermentation of STAPHa
+glucose with acid production, catalase,
+nitrate, and coagulase positive.
+Streptococcus Euacteriaceae Gram-positive, non-motile, spherical api
+spp. in chains, aerobic action on glucose STREPa
+catalase negative
+Candida Saccharomycetales Produces blastospores, pseudohyphae, api
+albicans and chlamydospores on cornmeal ID32Ca
+Tween-80 agar at 25°C after 72 h
+awww.biomerieux.fr
+For a complete list of commercial diagnostic suppliers for bacterial and yeast biochemical detrection
+kits see http://www.aoac.org/testkits/microbiologykits.htm.
+In tissue culture in general, diagnostics are only required for pathovar identification;
+however, if good laboratory management practice is followed there
+will be an interest in identifying those laboratory contaminants, at least to geContamination Management 39
+nus level, which may be indicators of sources of contamination (see Fig. 2 [6]).
+The latter are mainly cultivable environmental microorganisms (yeasts and
+bacteria) and can be identified by classical microbiological methods or by biochemical
+test kits (e.g., see www.biomereiux.fr and Table 1). Historically,
+plant associated-bacteria have been identified based on the Gram stain, morphology,
+biochemical tests, and growth and colony characteristics on selective
+media (7,8). Fungal including yeast contaminants are normally identified based
+on morphology (9,10). Microarthropod contaminants are identified microscopically
+(11). The following methods are used for pathogen and contaminant identification.
+2.1. Conventional Methods
+2.1.1. Microscopy Methods
+Light microscopy is used extensively in the identification of fungal and bacterial
+plant pathogens and culture contaminants. It is also used to characterize
+and distinguish yeasts from bacteria and in bacterial identification, in combi-
+Fig. 2. A flow diagram showing the stages in micropropagation that lists microorganisms
+that indicate failure of equipment and aseptic techniques at the respective
+stages.40 Cassells and Doyle
+nation with simple biochemical tests and growth on selective media (7,8).
+Gram-, capsule-, and flagella-staining are important in the identification of
+bacteria. The critical control point (CCP) indicator yeasts, Rhodotorula spp.
+and Candida albicans are identified microscopically (Table 1).
+Thin-section electron microscopy (EM) can be used to study inter- and intracellular
+pathogens (12) but is not used in routine diagnosis. Leaf-dip electron
+microscopy, especially when combined with serological techniques (e.g.,
+immuno-electron microscopy and immunogold electron microscopy) is a sensitive
+technique but is limited by the high capital and running costs (13).
+2.1.2. Biochemical Kits
+Kits for bacterial and yeast identification based on miniaturised biochemical
+tests are available from a number of companies (see www.aoac.org/testkits/
+microbiologykits.htm). These kits are useful for the identification of laboratory
+contaminants (common environmental microorganisms) but as identification
+is based on a comparison of the biochemical profile of the unknown with a
+reference database, their use in plant pathogen identification is limited as the
+latter tend not to be on the databases. They involve some basic tests on the
+microorganism (e.g., Gram stain, oxidase test) to categorize the organism for
+the purpose of selecting the appropriate test kit (14). More useful for plant
+bacterial pathogen identification is fatty acid profiling which involves extraction,
+derivatization, separation, and identification of the fatty acids as some
+fatty acids indicate taxonomic relationships (15).
+2.1.3. Identification Based on Selective Culture Media
+Growth on selective media, following staining and microscopic examination,
+is a relatively low cost traditional strategy to identify bacteria to genus
+level, which can be used for identification of CCP indicator organisms (see
+Fig. 2 and Table 1). These methods are also applicable to the identification of
+bacterial plant pathogens but in the latter case require inoculation of indicator
+plants to confirm the pathogenicity and identify the pathovar (7,8).
+2.1.4. Serological Diagnostics
+Enzyme-linked immunosorbent assay (ELISA) kits are currently the most
+widely used diagnostics for the identification of viral plant pathogens and are
+commercially available (for example, see www.agdia.com). ELISA kits are
+also available commercially for a limited number of plant bacterial and fungal
+pathogens. It is essential that the negative/positive threshold is set correctly
+and that negative results are validated by inoculation of indicator plants for
+certification pathogens (16). Antibodies are also used in ISM (see Subheading
+2.1.1.) and in latex agglutination tests (17). The development of protein arrayContamination Management 41
+(protein chip) technology offers the prospect of antibody arrays for the detection
+of multiple pathogens in the same sample (18). This technology should be
+compared with multiplex DNA-based assays (see Subheading 2.1.5.1.).
+2.1.5. “Omics” Methods
+2.1.5.1. GENOMIC FINGERPRINTING
+Increasing information is available on sequence data for pathogens (e.g.,
+GenBank; www.ncbi.nih.gov/Genbank/). This facilitates primer design for
+the detection of pathovars where the diagnostician can consult publicly available
+databases and use the “Basic Local Alignment Search Tool” (BLAST) to
+compare the primer sequences against previous deposits (http://www.ncbi.nlm.
+nih.gov/blast/ [19,20]). Exploiting unique sequences for pathovar identification
+(e.g., argK-tox gene of P. syringae pv. phaseolicola) has an advantage in
+terms of specificity but a disadvantage in terms of sensitivity for the detection
+of single copy sequences (19). More commonly, ribosomal DNA is the target
+for polymerase chain reaction (PCR) amplification. It is composed of both transcribed
+and non-transcribed sequences. The internal transcribed spacer (ITS)
+regions (see Fig. 3) are nonconserved and can be targeted in specific amplification
+events. This approach can identify pathogens to the species or subspecific
+level (21) but may not identify to the pathovar level which may require
+inoculation of indicator plants (Fig. 4).
+The advances in technology for pathogen detection at the molecular level
+allow for more manageable one-tube multiplex assays for the simultaneous
+detection of a number of pathogens to be carried out (22), eliminating, in many
+cases, the need for subsequent time-consuming gel-electrophoretic analysis of
+PCR end products followed by confirmation of the amplicon (PCR amplification
+product) (19). A multiplex assay for the simultaneous detection of two
+viruses in potato tubers (Potato Leafroll Virus and Potato Virus Y) using differently
+colored molecular beacons has been described by Klerks et al. (22).
+An added benefit of these one-tube assays is the elimination of further possible
+points of entry for DNA contamination during the detection protocol.
+According to Bailey et al. (23) PCR offers the most sensitive means for
+detecting plant pathogens. But even with the current advances in molecular
+technology, sometimes detection of pathogens, for example, in asymptomatic
+material may prove difficult. Latency is potentially a problem and as a consequence
+identifying the source of the contaminant(s) can prove difficult (6). In
+many cases experienced diagnosticians are still needed for diagnosis and
+detection (19). Many service companies claim that a minimum 5–8 yr of
+experience (which includes specialist training) is needed to perform these PCR
+type assays (see www.mdpl.co.in/faq.asp) for what appears to be simple one42 Cassells and Doyle
+tube assays where plant extract is added to off-the-shelf beads and the appropriate
+signals are read (molecular beacons).
+The obvious advantages of DNA-based diagnostics for virus detection over
+host indexing or dot-blot assays using labeled probes, include efficiency and
+reliability. Gosalvez et al. (24) highlighted the sensitivity of reverse transcriptase
+(RT)-PCR (625× more sensitive) for the detection of Melon Necrotic
+Spot Virus in melon leaves compared to dot blot assays.
+Random amplified polymorphic DNA (RAPD) analysis (an example of classical
+PCR) has been used for the successful detection of many plant pathogens.
+RAPD assays are reliant on the use of random primers (usually 10-mer) where
+no prior knowledge of the genome is required. They can be used to determine
+polymorphisms and generate molecular markers which can lead to the development
+of specific primers. Rigotti et al. (25) reported on the application of
+this technology for the detection of Botrytis cinerea in strawberry.
+PCR-based diagnostics are becoming the “gold standard” for plant pathogen
+identification (19). PCR-based assays can be examined under classical- or realtime.
+Both share a common reliance on primer specificity for the successful
+identification of a particular pathogen but there are a number of significant
+differences between the two systems. One major difference between classical
+and real-time PCR is the method employed for the detection of the PCR product.
+Whereas classical PCR relies on Southern blot hybridization to unambiguously
+determine the nature of the amplicon, real-time PCR can utilize in the
+main three fluorescent methods: TaqMan® probes, fluorescent resonance
+energy transfer (FRET) probes, and molecular probes (19). In real-time PCR
+the intensity of the fluorescence of the sample is proportional to the amount of
+PCR product that has accumulated during the reaction (26). This method of
+detection of the PCR product obviates the need for further gel electrophoretic
+Fig. 3. Schematic representation of basic repeat unit of nrDNA. (Reproduced with
+permission from ref. 42.) ETS = external transcribed spacer; ITS = internal transcribed
+spacer; NTS = non-transcribed spacer; IGS = intergenic spacer.Contamination Management 43
+Fig. 4. Strategy for use of conventional and “omics” methods for pathogen identification
+comparing conventional with “omics” strategies. Real-time polymerase chain
+reaction can identify the pathogen group, specific pathogenicity factors can be potentially
+identified by spectroscopy (e.g., MALDI-TOF and FTIR, respectively).
+analysis. A frequent problem encountered with both types of PCR is inhibition
+of the amplification step usually as a result of the presence of contaminating
+material (e.g., polysaccharides or secondary metabolites in the reaction mix)
+(27). Many protocols have been published on ways to “clean-up” the target
+sample but this can result in a lower yield overall of extracted DNA. One way
+around this is to use BIO-PCR which concomitantly increases the sensitivity of
+the reaction by first incorporating an enrichment step into the procedure (28).
+A further advantage here is that only viable cells are detected. Another alternative
+for increasing the sensitivity of the PCR reaction is to use immunomagnetic
+separation (19,27) whereby the target organism is extracted by binding to magnetic
+beads that have been pre-coated with anti-rabbit immunoglobulin-G
+washed with anti-target serum.
+A method which combines PCR and ELISA was described by Bailey et al.
+(23) for the identification to the species level for Phytophthora and Pythium. In
+this report the ITS1 region (see Fig. 3) was sequenced for a number of species
+from both genera and through sequence alignment a number of differences
+were discovered which allowed for the preparation of particular capture probes44 Cassells and Doyle
+which were complementary in sequence to the target DNA molecule(s). These
+probes were biotin-labeled and immobilized in a microtiter plate coated with
+streptavidin. The DIG (digoxygenin-11-UTP)-labeled amplicons that subsequently
+bound to the capture probes were immunologically detected.
+Aside from using the organism’s chromosomal DNA as a target in PCR
+another target for amplification are plasmid sequences. But this procedure can
+be problematic as these plasmid sequences are interchangeable between bacteria
+(horizontal transfer). According to Schaad and Frederick (19), the use of
+larger plasmids (megaplasmids) as a target, where the probability of horizontal
+transfer is low, is preferred.
+Denaturing gradient gel electrophoresis (DGGE) and temperature-gradient
+gel electrophoresis (TGGE) are often used in microbial ecology for analyzing
+microbial populations (29). These techniques allow for the separation of
+amplicons of the same length but which differ with respect to their nucleotide
+sequences. Watanabe et al. (29) compared bacterial universal primers (frequently
+used in PCR/DGGE) with 16S rDNA sequences. An improvement in
+the universal primers with the incorporation of the base inosine followed by
+DGGE analyses allowed for greater levels of detection of environmental
+samples than when compared to previous studies using PCR/DGGE.
+2.1.5.2. PROTEOMIC FINGERPRINTING
+Matrix-assisted laser desorption/ionization time-of-flight (MALDI-TOF)
+based on analysis of whole intact bacteria is a rapid method of bacterial
+identification based on biomarker protein analysis (30). Intact bacteria may be
+analyzed. More information, however, can be obtained by fragmentation of
+the bacteria and analysis of the total proteome (31). This method is also applicable
+to fungi and viruses. The taxonomic relationship of the organism can be
+obtained from stable membrane protein biomarkers, it may also be possible to
+detect specific proteinaceous pathogenicity markers to identify to pathovar
+level (32).
+2.1.5.3. METABOLOMIC FINGERPRINTING
+There are emerging techniques for the rapid identification of microorganisms
+based on metabolomic analysis by micro-spectroscopy (e.g., yeast can be
+identified by Fourier-Transformed Infra-Red [FT-IR] spectroscopy) (33). For
+a review of this application see ref. 34.
+2.2. Indexing for Plant Pathogens
+In selecting stock plants for tissue culture, the main question is not whether
+they are infected on the surface with pest or microorganisms that, in principle,
+can be eliminated by surface sterilization of the explant, but whether there areContamination Management 45
+inter- or intra-cellular endophytes that may enter the cultures to cause contamination.
+Where stock plants are showing systemic disease symptoms, they
+should preferably be rejected and disease escapes sought. If the latter are not
+available, then meristem culture should be used to introduce the plants into
+culture (35). There is, however, the risk that phytopathogens (as opposed to
+vitropathogens) may be latent in the plant and in the established cultures and
+so the stock plants must be formally indexed for specified pathogens in the
+case of crops for certification. It is advisable that non-certified crops also be
+indexed for major inter- and intra-cellular phytopathogens of the crop. Indexing
+must comply with the current rules/guidelines of the regional certification
+authority (e.g., The European and Mediterranean Plant Protection Organization
+in the European Union [see guidelines for indexing at www.eppo.org] and
+the North American Plant Protection Organization in the United States and
+Canada [see guidelines for indexing at www.nappo.org]). In general, these organizations
+are conservative and require that traditional indexing methods be
+used. These are primarily based on transmission by mechanical inoculation or
+grafting to indicator plants and ELISA.
+Aside from the officially approved diagnostic tests, the certification agencies
+specify the conditions (age of plant, tissue to be tested) under which the tests
+must be carried out. One of the limitations is that the certification authorities do
+not yet approve the testing of in vitro cultures (16). Consequently, where meristem
+culture is used to eliminate phytopathogens, certification may require that
+a sample of production be established and grown in vivo for indexing.
+2.3. Establishment of Aseptic Cultures
+Although a case can be made for searching for pathogen-free stock plants
+and for rigorous indexing of the selected stock plants prior to their use in tissue
+culture, in practice this is only mandatory where micropropagation is used in
+official certification schemes (36). Commonly, the selection of the explant that
+is used to introduce the plant into culture is made on the basis of the genetic
+stability of the tissue in vitro (35). Leaf and petiole explants can be used from
+plants, typically represented by Saintpaulia and Begonia, whose tissues are
+considered to give rise to genetically stable adventitious shoots whereas cultures
+of potato, which are unstable in adventitious regeneration, are usually
+initiated from apical explants and multiplied as nodal cultures. In either case,
+or where the cultures are being set up for experimental purposes, the criterion
+of visible expression of contamination is generally used as an indicator of nonaseptic
+status. Many studies have shown that this is not a reliable strategy.
+Aside from the symptomless transmission of pathogens, there are also reported
+cases of microbial contaminants been “suppressed” by components of the plant
+tissue culture media. These may be clonally propagated or transmitted in sub46 Cassells and Doyle
+culture to emerge and over run the cultures when the medium is changed (e.g.,
+removal of additives such as phloroglucinol and alteration in the hormone content
+or reduction of sugar or medium salts). It is strongly recommended that
+cultures be indexed for microbial contamination on a range of common fungal
+and bacteriological media. It may also be beneficial to add inhibitors of phenolic
+production and bacterial substrates, such as casein hydrolysate, to the
+Stage 1 medium to encourage microbial growth (37).
+Meristem culture has long been recognized as an efficient strategy to eliminate
+pathogens from plants and, perhaps unknowingly, to eliminate many biotic
+contaminants. In general, this is a reliable strategy but there are examples
+where, either because the apical explant was too large or because the contaminant/
+pathogen was highly invasive of the apical tissue, this approach has not
+been successful (12). In these cases, attempts can be made to find escapes, or
+the plants can be heat-treated or treated with antibiotics in vivo prior to explantation.
+Alternatively, the plants can be heat treated or exposed to antibiotics in
+vitro (12,38).
+If explants, other than apical meristems are used, care should be taken as
+epiphytic bacteria and yeasts may form resistant biofilms, may be protected in
+leaf or stem crevices, in damaged hairs or glands or may have entered the plant
+opportunistically through wounds and so on, thereby avoiding the action of
+surface sterilants. Common problems are the lack of a wetting agent in the
+sterilizing solution or breakdown of the active principle (39). Leaf-surface
+inhabiting bacterial genera are CCP indicator organisms for failure to establish
+contaminant-free (aseptic) cultures (see Fig. 2). They can be identified to genera
+by classical plant bacteriological methods; by use of commercial biochemical
+test kits in-house or sent for fatty acid profiling or PCR analysis to service
+companies (addresses can be found using web search engines such as
+yahoo.com).
+3. Laboratory Contamination Management
+HACCP has been used very effectively in the food industry to control contamination
+and is equally applicable in the tissue culture laboratory (6). It is
+important when designing tissue culture laboratories, especially commercial
+laboratories, to compartmentalize activities so that barriers are in place to prevent
+the entry of contamination from the external environment and between
+the sterile and nonsterile areas. The staff should receive an adequate training in
+aseptic technique and staff hygiene standards should be maintained as in the
+food industry. Jewellery and watches should be removed before entering the
+clean areas, hair and ears should be covered, overshoes should be worn, and
+face masks used. It is particularly important that workers wash their hands/
+gloves between shifts. The equipment should be regularly checked to ensure
+that the specifications for sterilization and air-cleaning are maintained.Contamination Management 47
+Biomarkers for autoclave functioning, the efficiency of laminar-flow cabinets
+and laboratory air quality are given in Fig. 2 (6). These are all common
+bacteria/yeasts and can be identified by traditional methods or by using biochemical
+test kits (Table 1). Growth room air quality can also be determined by
+monitoring these microorganisms (40). A high risk in growth rooms is infestation
+by micro-arthropods and cultures should be regularly inspected for
+microcolony trails which reflect the transmission of bacteria by the microarthropods
+as they move about the cultures. All contaminated cultures should
+be autoclaved before disposal and care should be taken to avoid storing fungal
+cultures which may act as initial sources of infection. The movement of microarthropods
+in the growthroom can be slowed by placing (transparent) film on
+the culture shelves which prevents the pest dropping down from upper shelves.
+Chemical treatments are available but these can be toxic to the plant tissues (4).
+It has been known for some time that the cultures can be contaminated by
+the laboratory workers as indicated by the presence of human-associated
+microorganisms in the cultures. It has also been reported that human pathogens
+may be transmitted via plant cultures to infect workers (41). Contamination
+with human-associated bacteria can be used to monitor the aseptic technique of
+micropropagation workers.
+4. Future Trends
+It is not surprising that the guidelines for indexing plants in certified stock
+production and for international plant movement, rely on traditional methods
+as these guidelines are drawn up by committees of representatives of individual
+countries and consensus must be obtained before changes can be introduced
+that are acceptable as a basis for international plant trade. Nevertheless, European
+Union draft legislation approves the use of PCR for indexing for Ralstonia
+solanacearum in potato and it is anticipated that the use of “omics” methods
+will become more widely approved. There still remains the requirement that
+specified in vivo plant tissues be used for indexing. Further studies of the virustiter
+of in vitro material may validate the indexing of in vitro cultures for viral
+pathogens in the future (16).
+There are no restrictions on the use of “omics” methods for pathogen-indexing
+of in vitro cultures for non-certification purposes. Here, however, the issues
+of sensitivity, specificity and cost arise. Although primers to ITS regions
+may allow identification to species or subspecific level there remains the need
+to confirm pathogenicity. Where pathovars are distinguished by the production
+of specific metabolites (toxins) or proteins (e.g., glucanases and so on) “omics”
+methods have the potential to identify them. Where pathogenicity is caused by
+quantitative rather than qualitative gene expression this may not be possible
+and inoculation indicator plants will still be required. Identification to species/Growth Measurements 51
+51
+From: Methods in Molecular Biology, vol. 318: Plant Cell Culture Protocols, Second Edition
+Edited by: V. M. Loyola-Vargas and F. Vázquez-Flota © Humana Press Inc., Totowa, NJ
+4
+Growth Measurements
+Estimation of Cell Division and Cell Expansion
+Gregorio Godoy-Hernández and Felipe A. Vázquez-Flota
+Summary
+The main parameters for the estimation of growth within in vitro cultures are reviewed.
+Procedures to measure these parameters are described, emphasizing in each case their convenience
+of use, depending on the features of the culture to evaluate.
+Key Words: Cell counting; duplication time; dry weight; fresh weight; growth index;
+packed cell volume.
+1. Introduction
+The accurate, fast, and reliable determination of cell growth is of critical
+importance in plant cell and tissue culture. The precise assessment of growth
+kinetics is essential for the efficient design of bioprocess engineering. However,
+the measurement of growth parameters in the different types of cultures,
+and concomitantly the use of various containers along with the heterogenity in
+cell morphology, introduce diverse problems that must be addressed by using a
+specific methodology for each case (1). Because callus and cell suspension
+cultures represent two of the most common in vitro systems, this chapter concentrates
+in growth measurements in such systems.
+1.1. Callus Cultures
+Plant cell cultures are initiated through the formation of a mass of
+nondifferentiated cells called “callus.” A callus culture is obtained by excising a
+piece of tissue, the explant, from the parent plant and placing it onto a nutrient
+base, solidified with agar. This nutrient base contains macronutrients (nitrogen,52 Godoy-Hernández and Vázquez-Flota
+potassium, phosphorus, and so on), micronutrients (cobalt, copper, iron, and so
+on), a carbon source (usually sucrose), and various plant growth regulators.
+Callus tissue is not an ideal system to work with, because of their slow growth
+rate and high biochemical variability. Nevertheless, because they are an almost
+obligatory step to initiate an in vitro culture, the proper assessment of the effect
+of different media composition or growth regulators on their growth rate is an
+important parameter to define the optimal media to use. The most common
+growth parameters used for callus cultures include fresh weight, dry weight,
+and growth index.
+1.2. Suspension Cultures
+The success in the establishment of a cell suspension culture depends, in a
+great extent, on the availability of “friable” callus tissue (i.e., a tissue that,
+when stirred in liquid medium, rapidly disaggregate into single cells and small
+clusters). Such a system is much more amenable for biochemical studies and
+process development than calli, because they generally grow in a faster rate
+and allow cells to be in direct contact with the medium nutrients. Suspension
+or liquid cultures of plant cells are usually grown as microbial cells. However,
+plant cell dimensions are larger than those of bacteria or fungi, ranging from
+20 to 40 µm in diameter and from 100 to 200 µm in length (2,3). The central
+vacuole occupies a large portion of the mature cell volume. Plant cell cultures
+tend to contain clumps, formed by a variable number of cells. These clumps
+arise as a result of the failure of new cells to separate after division or from the
+adherence of free cells among themselves. In some cases, such clumps (also
+known as aggregates) may contain up to 200 cells, and reach up to 2 mm in
+diameter. Although cell stickiness can be overcome by modifying the culture
+medium, cells in culture become “sticky” in late lag phase of growth as a rule.
+Methods to obtain suspensions composed largely of free cells (fine-cell suspensions)
+include the use of cell wall degrading enzymes and sieving. Unfortunately
+once established, a fine cell suspension has a tendency with time to
+revert to a clumped condition (4).
+1.3 Methods for Evaluating Growth in In Vitro Cultures
+There are several methods for evaluating growth kinetics in plant cell cultures.
+Selected examples include: fresh cell weight, dry cell weight, settled cell
+volume, packed cell volume, cell counting, culture optical density, residual
+electrical conductivity, and pH measurements, among others (1).
+In cultures originated from different plant species, settled volume, packed
+cell volume, as well as fresh weight, all show a very good linear correlation
+with dry weight data. Thus, any of these estimations can be used for measuringGrowth Measurements 53
+cell growth. However, during the stationary phase of the culture, there are
+important deviations in this correlation. At this phase, plant cell cultures show
+a high degree of aggregation, cell lysis, and a marked heterogenity in cell morphology.
+The measurement of cell concentration by cell counting and turbidity (optical
+density) has also shown a reasonably good correlation with the dry-cell
+weight parameter. When cultures reached the stationary phase, the same problems
+stated above render unsatisfactory results regarding to the correlation of
+these parameters to dry weight estimation. On the other hand, protein, RNA
+and DNA contents fail to show the same good correlation with the dry weight,
+which may be ascribed to changes in cell physiology along the growth cycle,
+which frequently results in wide variations.
+Although complicated and time consuming, cell counting represents the best
+way to assess culture growth in suspension cultures. Nevertheless, it often
+shows a good correlation with other parameters, such as electric conductivity.
+Cell density is obtained by direct counting of cells under the microscope, using
+a cell counting chamber, such as the Sedgewick rafter cell (Graticulates Limited,
+Tonbridge England) or the Newbauer chamber (Sigma-Aldrich, St. Louis,
+MO). Such devices hold a fixed volume of the suspension over a defined area.
+The base of the chamber is divided in squares, frequently containing a 1 mm3
+(1 µL) volume. By observing the suspension with a low magnification objective,
+cells contained in such a volume are identified and counted.
+Electric conductivity of culture medium decreases inversely to biomass gain.
+This is a consequence of ion uptake by cells. The monitoring of this decrease to
+assess cell growth offers several advantages over other methods, such as: (1)
+continuous and in situ or on-line monitoring of cell growth; (2) no sampling or
+wet chemical analysis is required; (3) it is economical and efficient; (4) it provides
+an accurate, reliable, and reproducible measurement of plant cell growth
+rate; and (5) it is independent of cell aggregation, growth morphology, and
+apparent viscosity (1).
+2. Materials
+2.1. Biological Material
+1. Callus and cell suspension cultures of any species.
+2.2. Glassware
+1. Glass desiccators, or any other hermetic container, with silica gel.
+2. 50-mL sterile, graduated centrifuge tubes.
+3. Counting cell chamber (Sedgewick rafter cell).54 Godoy-Hernández and Vázquez-Flota
+2.3. Instrumentation
+1. Analytical balance (resolution to 0.01 mg)
+2. Top loading balance (resolution 0.1 g)
+3. Convection oven (resolution 0.1°C)
+4. Conductivity meter (range 0–200 µs and 0–200 µs; resolution 0.1 U)
+5. Universal centrifuge (with a speed range including 4000g)
+6. Light microscope with ×10 and ×40 objective lenses.
+2.4. Chemicals
+1. Chromium trioxide (CrO3), 8% solution. Dissolve 8 g of CrO3 in 100 mL of water.
+Keep in the dark at room temperature
+2. Cellulase from Aspergillus sp., 10% suspension. Dissolve 0.5 g of cellulase
+(Sigma Chemical Co, St. Louis, MO) in 5 mL 100 mM potassium phosphate
+buffer, pH 6.0. Keep at 4°C. Use suspension within 1 wk.
+3. Macerozyme R-10, 5% suspension (Pectinase from Rhizopus). Dissolve 0.25 g of
+Macerozyme R-10 (Sigma Chemical Co) in 5 mL 100 mM potassium phosphate
+buffer, pH 6.0. Keep at 4°C. Use suspension within 1 wk.
+3. Methods
+3.1. Measuring Growth in Callus Cultures
+3.1.1. Fresh-Weight Determination
+1. To determine the total fresh weight, harvest all the tissue on the media surface
+with flat-end tweezers and weigh on a balance. To avoid tissue desiccation, open
+the culture jar only when you are ready to processes it.
+3.1.2. Dry-Weight Determination
+1. Dry weight can be estimated by drying the tissue at 60°C in a convection oven,
+until of constant weight (usually 16 h). Take a sample of the fresh tissue, weigh it
+on a pre-weighed square of aluminum foil, and evaporate the water contained in
+the tissue in the pre-heated oven at 60°C for 12 h.
+2. Allow samples to cool down in a dessicator containing silica gel for 15–20 min
+and then register the sample’s weight.
+3. Put the tissue sample back into the oven and take a new weight register after 2 h.
+If no variations are detected, samples have reached constant weight. If variations
+higher than 10% regarding the previous register are observed, return samples to
+the oven for another 2-h period.
+4. Alternatively, dry weight can be obtained from lyophilized tissues. Once harvested,
+fresh tissues should be weighed, deposited in lyophilizer flasks, and frozen
+at –20°C for at least 12 h. Flasks with frozen tissues are then connected to the
+vacuum line for 24 h and weight is registered.Growth Measurements 55
+3.2. Measuring Growth in Cell Suspension Cultures
+Growth of suspension cultures is commonly evaluated as the settled cell
+volume (SCV), the packed cell volume (PCV), fresh cell weight (FCW), dry
+cell weight (DCW). Indirect evaluations include pH measurements and medium
+residual conductivity (mmhos). Finally, parameters describing growth
+efficiency, such as specific growth rate (µ), doubling time (dt), and growth
+index, can be determined.
+3.2.1. Settled Cell Volume and Packed Cell Volume
+Both parameters allow the quick estimation of culture growth, while maintaining
+sterile conditions. These measurements are useful for monitoring
+growth in the same flasks along a culture cycle, because suspensions may be
+returned to prior culture conditions. Care must be taken to maintain sterile conditions.
+However, volume estimation may not be an accurate way of monitoring
+growth, given its dependence on cell morphology (cell and clump size, cell
+density, and other).
+SCV is determined by allowing a cell suspension to sediment in graduated
+tubes. It is reported as the percentage of the total volume of suspension occupied
+by the cell mass. The PCV is determined in a similar way, after it has been
+compacted by centrifugation.
+3.2.1.1. SETTLED CELL VOLUME
+1. Pour the cell suspension in a graduated cylinder of adequate volume.
+2. Allow the suspension to settle for 30 min and record the cell volume.
+3. Take a second reading 30 min later. If the variation between readings is higher
+than 5%, record a third measurement after another 30-min wait period.
+4. The volume fraction of the suspension occupied by the cells is determined as the
+SCV.
+3.2.1.2. PACKED CELL VOLUME
+1. PCV can be determined by centrifuging 10 mL of the culture in a 15-mL graduated
+conical centrifuge tube at 200g for 5 min.
+3.2.2. Fresh Cell Weight and Dry Cell Weight
+Fresh and dry cell weight represent more precise measurements of cell
+growth than the sole culture volume. However, both require the manipulation
+of samples in nonsterile conditions. Fresh weight estimation involves less time
+than that required for dry weight, but it may not reflect a real measurement of
+biomass gain, particularly at the end of the culture period, when most of the
+culture growth is because of water uptake (5).
+1. Collect the cell mass by filtration, using a Büchner funnel under vacuum.56 Godoy-Hernández and Vázquez-Flota
+2. Wash the cell package with about 3 mL distilled water and retain under vacuum
+for a fixed time period (e.g., 30 s). Weigh immediately to reduce variations caused
+by water evaporation.
+3. Fresh and dry weights are determined as described earlier for callus tissue.
+3.2.3. Culture Cell Density
+In order to obtain a reliable value of the number of cells in a suspension
+culture, clusters should be first disaggregated. This can be accomplished by
+incubating the suspension with an 8% chromium trioxide solution, or with hydrolytic
+enzymes, such as cellulase and pectinase. The chromium trioxide
+method is quicker and less complicated than the use of enzymes; however, it
+hinders the estimation of cell viability in the same sample. Because a careful
+use of enzymes maintains cells viable, the assessment of the number of living
+cells by the exclusion of vital stains can be performed in the same sample.
+3.2.3.1. CELL CLUSTER DISAGGREGATION BY CHROMIUM TRIOXIDE
+1. Take 1 mL of the cell suspension and add 2 mL of 8% chromium trioxide (CrO3).
+2. Incubate the mixture for 15 min at 70°C.
+3. Vortex the mixture vigorously for 15 min.
+3.2.3.2. CELL CLUSTER DISAGGREGATING HYDROLYTIC ENZYMES
+1. Take 1 mL of the cell suspension and mix it with 0.5 mL of 10% cellulase and 0.5
+mL 5% pectinase.
+2. Incubate 30 min at 25°C with rotatory agitation (100 rpm) (see Note 1).
+3.2.3.3. CELL COUNTING
+1. Fill the counting cell chamber with the mixture, position carefully the cover glass
+on top of the chamber, to avoid the formation of bubbles.
+2. Observe under the microscope with the ×10 objective to locate the squared field.
+3. Count all the cells contained in 10 squares. Add the values of the 10 squares (do
+not obtain the average). This number represents the number of cells in 10 µL, so
+multiply by 100 to determine the cell number per milliliter (6) (see Note 2).
+4. Depending on the culture’s cell density, further dilution may be required, which
+should be considered in the calculation.
+3.3. Parameters of Growth Efficiency
+3.3.1. Growth Index
+Both fresh and dry weight are measurements of tissue’s absolute biomass at
+a given sampling time. No reference to the actual growth capacity is taken in
+consideration. Growth index (GI) is a relative estimation of such capacity as it
+correlates the biomass data at the sampling time to that of the initial condition.
+It is calculated as the ratio of the accumulated and the initial biomass. TheGrowth Measurements 57
+accumulated biomass corresponds to the difference between the final and the
+initial masses.
+Where GI represents growth index, and WF and W0, represent the final and
+initial masses, respectively (either as fresh or dry weight).
+3.3.2. Specific Growth Rate
+It is generally accepted that growth of a cell culture with respect to time is
+best described by the sigmoid curve theory. At the beginning, the cell population
+grows relatively slow (lag phase). As the population size approaches onehalf
+of the carrying capacity (defined by the nutrient status of the culture
+medium), the culture’s growth per time unit increases. The rate of growth is
+measured by the steepness of the curve, and it is the steepest when the population
+density reaches one-half of the carrying capacity (in the middle of the
+sigmoid). After this point, the steepness of the curve decreases, keeping this
+tendency as the population increases, until it reaches the carrying capacity (stationary
+phase).
+The specific growth rate (µ) refers to the steepness of such a curve, and it is
+defined as the rate of increase of biomass of a cell population per unit of biomass
+concentration. It can be calculated in batch cultures, since during a
+defined period of time, the rate of increase in biomass per unit of biomass
+concentration is constant and measurable. This period of time occurs between
+the lag and stationary phases. During this period, the increase in the cell population
+fits a straight-line equation (6):
+Where xo is the initial biomass (or cell density), x is the biomass (or cell density)
+at time t, and µ is the specific growth rate.
+3.3.3. Doubling Time
+Doubling time (dt) is the time required for the concentration of biomass of a
+population of cells to double. One of the greatest contrasts between the growth
+of cultured plant cells and microorganisms refers to their respective growth
+rates. Although the pattern of growth may be the same, plant cells have dou-
+GI F
+0
+= W -W
+W
+0
+ln x = µt + ln x0
+µ = ln x - ln x0
+t58 Godoy-Hernández and Vázquez-Flota
+bling times or division rates measured in days, while this parameter in many
+microorganisms is in the order of minutes to hours. One of the fastest (and
+quite exceptional) doubling time recorded for a plant cell culture is 15 h for
+tobacco cells (2). The doubling time (dt) can be calculated according to the
+following equation (6):
+Where µ represents the specific growth rate.
+4. Notes
+1. The conductivity of the culture medium can be determined using a digital conductivity
+meter or equivalent.
+2. A very good linear correlation between the decrease in conductivity and the
+increase in dry weight can be found.
+References
+1. Ryu, D. D. Y., Lee, S. O., and Romani, R. J. (1990) Determination of growth rate
+for plant cell cultures: comparative studies. Biotechnol. Bioeng. 35, 305–311.
+2. Fowler, M. W. (1987) Products from plant cells, in Basic Biotechnology (Bu’lok,
+J. and Kristiansen, B., eds.), Academic Press, London, pp 525–544.
+3. Su, W. W. (1995) Bioprocessing technology for plant cell suspension cultures.
+Appl. Biochem. Biotechnol. 50, 189–230.
+4. Fowler, M. W. (1982) The large scale cultivation of plant cells, in Progress in Industrial
+Microbiology, Vol 16. (Bull, M. J., ed.), Elsevier, Amsterdan, pp. 207–229.
+5. Trejo-Tapia, G., Arias-Castro, C., and Rodríguez-Mendiola, M. (2003) Influence
+of the culture medium constituents and inoculum size on the accumulation of blue
+pigment and cell growth of Lavandula spica. Plant Cell Tiss. Org. Cult. 72, 7–12.
+6. King, P. J. and Street, H. E. (1977) Growth patterns in cell cultures, in Botanical
+Monographs, Vol 11: Plant Tissue and Cell Culture (Street, H. E., ed.),
+Blackwell, Oxford.
+7. Ramage, C. M. and Williams, R. R. (2002) Mineral nutrition and plant morphogenesis.
+In Vitro Cell Dev. Biol., Plant 38 , 116–124.
+dt = ln 2
+µCallus and Suspension Culture 59
+59
+From: Methods in Molecular Biology, vol. 318: Plant Cell Culture Protocols, Second Edition
+Edited by: V. M. Loyola-Vargas and F. Vázquez-Flota © Humana Press Inc., Totowa, NJ
+5
+Callus and Suspension Culture Induction, Maintenance,
+and Characterization
+Alejandrina Robledo-Paz, María Nélida Vázquez-Sánchez,
+Rosa María Adame-Alvarez, and Alba Estela Jofre-Garfias
+Summary
+Callus and cell suspension can be used for long-term cell cultures maintenance. This chapter
+describes procedures for the induction of somatic embryos of garlic, keeping a regeneration
+capacity for more than 5 yr, as well as the maintenance of a tobacco suspension culture (NT-1
+cells), for more than 10 yr. Methods for plant regeneration and growth kinetics of garlic cultures
+are described, as well as for cell viability of NT-1 cells stained with 2,3,5
+triphenyltetrazolium chloride. The packed cell volume determination as a parameter of growth
+is detailed.
+Key Words: Allium sativum; callus cultures; garlic; somatic embryogenesis; suspension
+cultures.
+1. Introduction
+Plant tissue cultures involve a series of aseptic techniques that allow for the
+production of whole regenerated plants or the induction and maintenance of
+proliferating undifferentiated masses of cells called callus. These kinds of cultures
+are initiated by placing the appropriate type of explant onto a nutrient
+medium in vitro.
+In 1957, Skoog and Miller (1) demonstrated the effect of auxins and cytokinins
+on the induction of different responses of tobacco pith tissue. It was established
+that a low concentration of auxins in combination with a high
+concentration of a cytokinin-induced shoot development and that a high concentration
+of auxins combined with a low concentration of cytokinin yielded
+root formation. After these experiments, there were many examples of mor60 Robledo-Paz et al.
+phogenetic responses of in vitro cultures, including callus induction. Plant suspension
+cultures, in which undifferentiated cells grow in liquid medium, have
+been used in biochemical research, for cell physiology, growth, metabolism,
+molecular biology, genetic engineering experiments, or for medium or largescale
+secondary metabolite and other substance production.
+As starting plant material (explant), very diverse parts of a plant can be
+used. The selection will depend on the particular species that is employed and
+the kind of response that is desired. Among the type of explants frequently
+used are leaf portions, isolated meristems, hypocotyls, and root segments,
+among others. In short, any part of the plant that is able to respond to the culture
+medium and the growing conditions can be used.
+For the initiation of the culture three important considerations should be
+taken into account: (1) explant selection, (2) election of a suitable culture
+medium, and (3) appropriate environmental conditions for its development.
+In this chapter callus induction and maintenance, plant regeneration of garlic,
+and the long-term maintenance of a tobacco suspension cell line will be
+described.
+2. Materials
+2.1. Garlic (Allium sativum L.) Somatic Embryogenesis Induction
+2.1.1. Plant Material
+1. Disease- and pest-free garlic cloves from different garlic cultivars.
+2.1.2. Laboratory Materials and Equipment
+1. Laminar flow cabinets.
+2. Bunsen burner.
+3. Dissecting forceps and scalpel.
+4. Sterile Petri dishes 15 × 100 mm.
+5. Beakers.
+6. Cylinders.
+7. 100- and 250-mL bottles.
+8. Aluminum foil.
+9. Parafilm.
+10. Stereo microscope.
+11. Tissue culture incubator at 22°C and 16 h photoperiod.
+12. Autoclave.Callus and Suspension Culture 61
+13. pH meter.
+14. Analytical balance.
+15. Stirrer with hot plate.
+2.1.3. Reagents, Solutions, and Culture Media
+1. Sterile distilled water.
+2. Ridomil bravo: 9% metalaxyl, 72% cloratonyl.
+3. Benlate (benomyl 50%).
+4. Agrimicin 100 (streptomycin 18.7%, oxytetracycline 2%).
+5. Commercial laundry bleach (e.g., Clorox®) with 6% of active chlorine.
+6. Tween-20.
+7. Fungicide and bactericide solution: for each cultivar prepare 500 mL of the fungicide
+solution. To 300 mL distilled water add the following compounds: 3 g/L
+ridomil bravo; 1.2 g/L benlate, and 1.0 g/L agrimicyn. Mix well until homogeneous
+suspension is obtained and bring volume to 500 mL.
+8. Chlorine solution: prepare 500 mL of solution for each cultivar. To 300 mL of
+distilled water add 150 mL of bleach (final concentration is 1.8% of active chlorine)
+add 4 mL of Tween-20 and bring volume to 500 mL.
+9. Culture media: specific media used for all steps, from sprouting of garlic cloves
+to plant regeneration, are described in Table 1. Mix all ingredients needed for
+each culture medium. Adjust the pH to 5.7 with 1.0N KOH. Add agar and sterilize
+in autoclave at 1.1 kg/cm2 at 121°C for 20 min. Pour 30 mL of medium into
+15 × 100-mm Petri dishes. Media B, C, and D are based on N6 salts (2) supplemented
+with Eriksson vitamins (3). Media E and F are based on on the Murashige
+and Skoog (MS) medium (4).
+2.2. NT-1 Tobacco Cell Suspension
+2.2.1. Reagents and Culture Medium
+1. Culture medium: NT-1 medium based on MS salts supplemented with 180 mg/L
+KH2PO4, 100 mg/L inositol, 1 mg/L thiamine, 2 mg/L 2,4-dichlorophenoxyacetic
+acid (2,4-D), and 30 g/L sucrose. Adjust pH to 5.7 with 1.0N KOH and sterilize
+in autoclave at 1.1 kg/cm2 at 121°C for 20 min.
+2. 0.05 M Phosphate buffer: dissolve 3.403 g of KH2PO4 in about 400 mL of distilled
+water. Adjust pH to 5.8 with KOH, and bring the volume to 500 mL.
+3. 2,3,5-Triphenyltetrazolium chloride solution: dissolve 1 g of 2,3,5-
+Triphenyltetrazolium chloride in 100 mL of 0.5 M phosphate buffer, filter, sterilize,
+and store at 4°C in the dark.Callus and Suspension Culture 63
+2.2.2. Laboratory Materials and Equipment
+1. Orbital shaker.
+2. Culture room at 25°C.
+3. Clinical centrifuge.
+4. Microcentrifuge.
+5. Optical microscope.
+6. Adjustable micropipets.
+7. 10-mL Sterile transfer pipets with wide mouth.
+8. 250-mL Erlenmeyer flasks.
+9. 15-mL Centrifuge tubes.
+10. 1.5-mL Microcentrifuge tubes.
+11. Aluminum foil.
+3. Methods
+3.1. Garlic Callus Induction
+3.1.1. Clove Disinfestation
+Selection and prepare the vegetative material: garlic cloves to be used should
+not be dormant. Freshly harvested cloves are under dormancy and will not
+respond to the culture medium for the establishment of an in vitro culture. A
+method to estimate the dormancy degree of cloves at a certain time is to cut
+them longitudinally. The first leaf should be evident (see Fig. 1) and if this leaf
+occupies more than 50% of the length of the clove it is suitable for use in the
+callus induction procedure. If this degree is not achieved then the cloves must
+be brought out of dormancy stage. To do so, cloves should be maintained at
+4°C for 4–5 wk. Once the first leaf is in the appropriate developmental stage
+the cloves are selected by their size. It is very important that the basal portion
+(from which roots are formed) do not present any evidence of damage because
+initial explants are generated from this part of the clove (5).
+Selected cloves are detached from the bulb, manually peeled, and placed
+into a beaker where the fungicide-antibiotic solution is added to them. The
+beaker is capped with aluminum foil to prevent fermentation and left at room
+temperature for 18 h. After 18 h transfer the garlic cloves to the chlorine solution
+for 20 min and, finally, rinse three to four times with sterile distilled water.
+3.1.2. Callus Initiation and Maintenance
+Each garlic clove is placed vertically, with the basal part in the culture medium,
+in 100-mL bottles with 20 mL of medium A, and incubated in a culture
+chamber at 20°C for a photoperiod of 16 h of light from white fluorescent
+lamps at 50 µmol/m2·s.64 Robledo-Paz et al.
+Roots should emerge after 3 d of incubation. The apical portion of each root,
+about 3-mm long, is dissected in a laminar flow cabinet using a sterile scalpel
+and forceps (see Note 1).
+Twenty apical tips are placed horizontally on each Petri dish containing 30
+mL of culture medium B or C. Dishes are sealed with Parafilm and maintained
+in a culture incubator at 22°C in darkness for 4 wk.
+At the end of this period cultures are transferred to fresh medium B or C and
+are grown, under the same incubation conditions, for an additional 4 wk (see
+Fig. 2A). At this time it is possible to observe callus formation in the meristematic
+region of the root tip.
+With the purpose of increasing the amount of callus formed, explants could
+be sub-cultured to fresh B or C medium at intervals of 4 wk. It is important to
+note that it is possible to obtain a larger callus mass if explants are maintained
+for 2 wk in medium D. This type of calli growing can be maintained indefinitely
+if they are transferred to fresh medium B or C at 4-wk intervals.
+3.1.3. Plant Regeneration
+If plant regeneration is desired, calli can be transferred to 100-mL bottles
+with 25 mL of medium D, and maintained at 22°C under a 16 h light photope-
+Fig. 1. Diagram of a longitudinal cut of a garlic clove showing the first foliar leaf,
+the storage leaf, and the basal plate from which roots emerge.66 Robledo-Paz et al.
+riod, at 50 µmol/m2·s. After 3 wk in this medium, small somatic embryos are
+developed in the surface of those calli (see Fig. 2B).
+Further growth of these embryos is obtained when they are transferred to
+250-mL bottles with 30 mL of medium E, and maintained under the same incubation
+conditions of light and temperature as before (see Fig. 2C). Small bulbs
+initiate and develop from these calli (see Fig. 2D) and roots start to emerge 4–
+6 wk later (see Fig. 2E and Note 2).
+Because it is difficult to know a priori which explants will develop embryogenic
+calli, it is recommended to make a selection using a stereo microscope,
+to ensure selection of calli with the morphogenetic capacity to regenerate. Calli
+obtained in medium B or C have a high multiplication rate, are very easily
+disaggregated, and very friable.
+To propagate the type of calli that allows plant regeneration it is necessary
+to sub-culture them onto medium B or C, at 3–4 wk intervals, and maintain
+them in the dark at 22°C. Under these conditions this kind of calli can be maintained
+indefinitely. For garlic it is recommended that when cultures have been
+transferred more than two times, and are under a very active division, that calli
+should be sub-divided to more Petri dishes to avoid competition for the nutrients
+in the medium.
+3.1.4. Growth Kinetics of Garlic Calli
+It is important to know the rate of growth of a particular kind of callus. This
+information allows us to better manage the callus during the multiplication,
+somatic embryo induction, and plant regeneration steps.
+In order to do this, 500 or 700 mg of fresh weight calli are placed into Petri
+dishes with 30 mL of medium B or C. Dishes are sealed and maintained in the
+dark at 22°C. Every week these calli are transferred to new dishes of known
+weight. The dishes are weighed again, after transferring the calli, to calculate
+the callus weight. This procedure is repeated for 4 wk. A growth curve is generated
+with the obtained data.
+In the case of garlic, culturing calli in medium B or C, at 1-wk intervals,
+duplicates their original weight in approx 3 wk (Table 2). These calli are able
+to preserve their capacity to increase their biomass, as well as their capacity to
+regenerate embryos for up to 6 yr if they are sub-cultivated to fresh medium at
+4-wk intervals and are kept in the dark (see Note 3). Even if the growth differences
+observed in medium B or C sub-cultured calli are very low at wk 4, the
+accumulation of medium C fresh weight calli is still considerably higher than
+that obtained in medium B.Callus and Suspension Culture 67
+It is important to note that garlic calli are very sensitive to higher temperatures.
+The growth rate and the capacity to regenerate embryos decreases if incubation
+temperatures rise higher than 22°C. The optimum temperatures are
+therefore between 20 and 22°C. The culture described here has been in culture
+for more than 5 yr.
+3.2. Long-Term Maintenance of NT-1 Cell Culture of Tobacco
+This culture has been maintained in our laboratory for more than 13 yr, after
+it was transferred to us in 1991. It is sub-cultured every week to fresh culture
+medium and incubated at 25°C in the dark in a orbital shaker at 110 rpm, as
+described by Paszty and Lurquin in 1987 (6).
+Five millilitres of a 1-wk-old culture are transferred with a 10-mL pipet to
+an Erlenmeyer flask containing 75 mL of NT-1 medium (see Note 4). The
+flask is covered with aluminium foil to avoid exposure to light.
+NT-1 cell culture is a very useful culture for transient expression, using
+the biolistic method, in experiments in which the activity of a promoter is to
+be determined. Results are obtained within 1–2 d after bombardments (see
+Note 5) (7).
+3.2.1. Packed Cell Volume
+One form to estimate the rate of growth of a culture is to determine the
+packed cell volume (PCV). In order to do this, transfer 10 mL of the suspension
+culture to a 15-mL graduated centrifuge tube. Spin it down in a clinical
+centrifuge at 200g over 5 min. PCV is the volume of the pellet and is expressed
+as a percentage of the volume of the culture used (see Note 6). This parameter
+Table 2
+Garlic Cultivar GT96-1 Calli Response to Weekly Subcultures
+to Medium B or C
+Time in weeks
+Medium 0 1 2 3 4
+B 0.5a 0.7 0.9 1.1 1.4
+0%b 40.0% 80.0% 120.0% 180.0%
+C 0.7a 0.9 1.2 1.5 2.2
+0%b 28.5% 71.4% 114.2% 214.3%
+aFresh weight in g.
+bCumulative fresh weight in %.68 Robledo-Paz et al.
+is determined daily, starting 1 d after the cells are transferred to the fresh
+medium and ending on d 7. Results are presented in Table 3. It is observed that
+at the beginning of transfer (1–3 d), there is a lag phase during which the division
+of the suspension culture is very low. Following this period a log phase is
+observed, and at d 7 the culture is still in this growing phase.
+3.2.2. Cell Viability
+One procedure to estimate the viability of the cultures is the use of 2,3,5-
+triphenyltetrazolium chloride (TTC) (8).
+Transfer 500 µL of cultures from d 1 and 4 or 250 µL of the culture from d
+7 into microcentrifuge tubes. Spin down for 1 min at 9500g, eliminate supernatant,
+and add 1 mL of TTC solution. Incubate at room temperature for 12–20 h
+in the dark, and observe under a compound microscope.
+Living cells reduce the reagent to an insoluble red formazan precipitate because
+of mitochondrial activity (see Note 7).
+In Fig. 3 stained cells from cultured NT-1 cells are shown at 1, 4, and 7 d
+after transfer to fresh medium. Cells from 1-d-old culture show a good staining
+(notice that some cells are not stained). Cells from a 4-d-old culture show a
+staining that is more intense than the other incubation periods.
+4. Notes
+1. Roots start to emerge at d 3 after cloves are put on medium A to sprout. New and
+useful roots emerge 1 wk later. It is possible to obtain more explants from a clove.
+2. Regenerated plants can be transferred to soil. They have to be conditioned to the
+environment in a growth chamber at 22°C and subjected to a photoperiod of 16 h
+light at 50 µmol/m2·s. This step is achieved in 7–10 d and plants are ready to be
+transferred to a greenhouse where they reach maturity.
+3. Cultures described here were initiated 6 yr ago and still have the capacity to regenerate
+plants which can be transferred to soil and reach maturity in the greenhouse.
+Table 3
+Packed Cell Volume
+Days after subculture PCV (v/v%)
+1 4.0
+2 5.0
+3 6.0
+4 10.0
+5 15.0
+6 30.0
+7 40.0Callus and Suspension Culture 69
+4. Pipets used to transfer NT-1 cell must have a wide tip so that the small clumps of
+cells, formed during the culture, are able to pass through.
+5. Even if this suspension culture has lost the capacity to regenerate plants, it does
+has some advantages, such as its relative uniformity and its rapid rate of growth.
+Bombardment conditions should be standardized so that differences between the
+strength of promoters could be observed.
+6. It is important to get the readings of pellet volumes soon after centrifugation,
+because cells start to swell if tubes are let to stand for long periods, resulting in
+overestimation PCV.
+7. In this case the technique of Nomarski (differential interference contrast) was
+used to improve the images obtained in the microscope.
+Acknowledgments
+The authors want to thank Laura Silva-Rosales for her critical review of the
+manuscript and Andres Estrada and Marcelina Garcia for their technical assistance
+in the TTC staining and observations.
+References
+1. Skoog, F. and Miller, C. O. (1957) Chemical regulation of growth and organ formation
+in plant tissues cultured in vitro. Symp. Soc. Exp. Biol. 11, 118–130.
+2. Chu, C. C., Wang, C. C., Sun, S. C., et al. (1975) Establishment of an efficient
+medium for anther culture of rice through comparative experiments on the nitrogen
+sources. Sci. Sin. 18, 659–688.
+Fig. 3. Staining of NT-1 tobacco suspension cultures at different stages of incubation
+with TTC. (A,D) Stained cells from 1-d-old cultures. (B,E) Cell from 4-d-old
+cultures. (C,F) Cells from 7-d-old cultures. Bar in A, B, and C = 100 mm; bar in D, E,
+and F = 50 mm.70 Robledo-Paz et al.
+3. Eriksson, T. (1965) Studies on the growth requirements and growth measurements
+of cell cultures of Haplopappus gracilis. Physiologia Plantarum. 18, 976–993.
+4. Murashige, T. and Skoog, F. (1962) A revised medium for rapid growth and bioassays
+with tobacco tissue cultures. Physiologia Plantarum. 15, 473–497.
+5. Argüello, J. A., Bottini, R., Luna, R., de Bottini, G. A., and Racca, R. W. (1983)
+Dormancy in garlic (Alliun sativum L.) cv Rosado Paraguayo I. Levels of growth
+substances in “seed cloves” under storage. Plant Cell Physiol. 24, 1559–1563.
+6. Paszty, C. and Lurquin, P. F. (1987) Improved Plant Protoplast Plating/Selection
+Technique for Quantitation of Transformation. BioTechniques. 5, 716–718.
+7. Russel, J. A., Rory, M. K., and Sanford, J. C. (1992) Major improvements in
+biolistic transformation of suspension-cultured tobacco cells. In Vitro Cell. Dev.
+Biol. 28P, 97–105.
+8. Towill, L. E. and Mazur, P. (1975) Studies on the reduction of 2,3,5-
+triphenyltretrazolim chloride as a viability assay for plant tissue cultures. Can. J.
+Bot. 53, 1097–1102.Measurement of Cell Viability 71
+71
+From: Methods in Molecular Biology, vol. 318: Plant Cell Culture Protocols, Second Edition
+Edited by: V. M. Loyola-Vargas and F. Vázquez-Flota © Humana Press Inc., Totowa, NJ
+6
+Measurement of Cell Viability in In Vitro Cultures
+Lizbeth A. Castro-Concha, Rosa María Escobedo,
+and María de Lourdes Miranda-Ham
+Summary
+An overview of the methods for assessing cell viability in in vitro cultures is presented. The
+protocols of four of the most commonly used assays are described in detail, so the readers may
+be able to determine which assay is suitable for their own projects using plant cell cultures.
+Key Words: Cell viability; Evans blue; fluorescein diacetate; MTT; TTC; tetrazolium salts.
+1. Introduction
+Plant cell cultures have been widely used as model systems for biochemical
+and physiological studies, and also in some biotechnological processes, such
+as cell permeabilization, cell immobilization, or cell cultivation in bioreactors
+(1). Therefore, the accurate assessment of the number of viable cells in a population
+is very important to prevent the inclusion of low viable or dead cells in
+the calculations of results per cell or on a fresh weight basis or to indicate the
+maximal attainable cell density in production processes.
+A cell is considered viable if it has the ability to grow and develop (2,3).
+Viability assays are based on either the physical properties of viable cells, such
+as membrane integrity or cytoplasmic streaming, or on their metabolic activity,
+such as reduction of tetrazolium salts or hydrolysis of fluorogenic
+susbtrates. To assess cell membrane integrity, dyes such as Evans blue (EB
+[4,5]), methylene blue (6), Trypan blue (7), neutral red (8), and phenosaphranin
+(9) have been used. These compounds leak through the ruptured membranes
+and stain the contents of dead cells and then, are accounted for via microscopic
+observation or spectrometric estimation.72 Castro-Concha, Escobedo, and Miranda-Ham
+Other methods rely on the measurement of the activity of enzymes, such as
+reductases and esterases. In the case of reductases, both, MTT (3-[4,5-
+dimethylthiazol-2yl]-2,5-diphenyl tetrazolium bromide) and TTC (2,3,5-
+triphenyl tetrazolium chloride), accept electrons from the electron transport chain
+of the mitochondria; as a result, these molecules are converted to insoluble
+formazan within viable cells with fully active mitochondria (10). On the other
+hand, intracellular esterases hydrolyze a fluorogenic substrate (fluorescein
+diacetate), that can pass through the cell membrane, whereupon they cleave off
+the diacetate group producing the highly fluorescent product fluorescein. Fluorescein
+will accumulate in cells, which possess intact membranes, so the green
+fluorescence can be used as a marker of cell viability (11). An alternative method
+to measure the activity of esterases is the use of two-dimensional fluorescence
+spectroscopy, which eliminates the time-consuming, and often difficult, counting
+of viable and nonviable cells under the miscroscope (1).
+Cell death is an important feature to monitor during plant–pathogen interactions,
+so it must be measured accurately for the proper appraisal of the cellular
+responses. There have been contradictory reports of the measured cell viability
+in elicited cell suspension cultures (12–14). Hence, we have analyzed the elicitor
+induced cell viability changes in a tomato cell suspension using different
+methods. The use of the reduction of tetrazolium salts is proposed as a better
+indicator of metabolically active cells during the early hours of fungal elicitation
+(15).
+2. Materials
+2.1. Cell Suspension Cultures
+Calli were induced from young leaves of Lycopersicon esculentum Mill.
+Var. Río Grande on media with Murashige and Skoog (MS) salts (16) and
+supplemented with B5 vitamins (17), 3% (w/v) sucrose, 2.24 µM 2,4-dichlorophenoxyacetic
+acid, 0.049 µMkinetin, and 0.22% (w/v) gelrite, pH 5.8. They
+were incubated in the dark at 25°C and subcultured every 3 wk. Friable calli
+were transferred into 50 mL liquid medium (as previous, without gelrite) with
+orbital shaking (100 rpm). The cell suspensions were subcultured every 7 d by
+1:5 dilution with fresh media. In order to observe an adequate response to the
+elicitor treatments, the number of cells in the suspension cultures was adjusted
+to 2.5 × 106 cells per milliliter (see Note 1).
+2.2. MTT/TTC Assay
+1. MTT stock solution: dissolve 50 mg in 10 mL sterile 50 mM phosphate buffer,
+pH 7.5 and store in the dark at 4°C.
+2. TTC stock solution: dissolve 0.2 g in 10 mL sterile 50 mM phosphate buffer, pH
+7.5 and store in the dark at 4°C.Measurement of Cell Viability 73
+3. Sterile 50 mM phosphate buffer, pH 7.5.
+4. 50% (v/v) methanol, containing 1% (w/v) sodium dodecyl sulfate (SDS).
+2.3. Evans Blue Assay
+1. EB stock solution: dissolve 100 mg in 10 mL sterile water and store in the dark at 4°C.
+2. 50% (v/v) methanol, containing 1% (w/v) SDS.
+2.4. Fluorescein Diacetate Assay
+1. Fluorescein Diacetate (FDA) stock solution: dissolve 25 mg of fluorescein
+diacetate in acetone. Preserve the solution in an amber bottle at –20°C.
+2. 50 mM phosphate buffer, pH 7.5.
+3. Methods
+3.1. Maintenance of L. esculentum Cultures
+Cells should be subcultured every 7 d as follows: in laminar flow cabinet,
+add 10 mL of a 7-d-old suspension culture to 40 mL of fresh medium in a 250-
+mL Erlenmeyer flask. Close the flasks and return to the growing conditions
+stated before. By repeating the above process, cell cultures can be maintained
+indefinitely.
+3.2. MTT/ TTC Assay
+1. Wash aseptically cell suspension samples (1 mL) with 50 mM phosphate buffer,
+pH 7.5. Repeat twice (see Note 1).
+2. Resuspend the cells in 1 mL of the same buffer.
+3. Add MTT or TTC to a final concentration of 1.25 or 2.5 mM, respectively.
+4. Incubate samples for 8 h in the dark at 25°C.
+5. Solubilize formazan salts with 1.5 mL 50% methanol, containing 1% SDS, at
+60°C for a period of 30 min.
+6. Centrifuge at 1875g for 5 min and recover the supernatant.
+7. Repeat steps 5 and 6. Pool the supernatants.
+8. Quantify absorbance at 570 nm for MTT and 485 nm for TTC (see Note 2).
+3.3. Evans Blue Assay
+1. Add Evans Blue (EB) stock solution to cell suspension samples (1 mL) to a final
+concentration of 0.025% (v/v).
+2. Incubate for 15 min at room temperature.
+3. Wash extensively with distilled water to remove excess and unbound dye.
+4. Solubilize dye bound to dead cells in 50% (v/v) methanol with 1% (w/v) SDS at
+60°C for 30 min. Repeat twice and pool the supernatants.
+5. Centrifuge at 1875g for 15 min.
+6. Dilute the supernatant to a final volume of 7 mL.
+7. Quantify absorbance at 600 nm (see Note 2).74 Castro-Concha, Escobedo, and Miranda-Ham
+3.4. FDA Assay
+1. Mix cell samples (1 mL) with 10 µL of FDA stock solution.
+2. Incubate for 15 min at room temperature in the dark.
+3. Adjust the volume to 4 mL with distilled water.
+4. Centrifuge at 1875g for 5 min.
+5. Resuspend the pellet in 1 mL 50 mM phosphate buffer, pH 7.5.
+6. Freeze quickly in liquid nitrogen.
+7. Thaw and dilute samples to 3 mL with phosphate buffer.
+8. Homogenize with a Brinkman polytron at high speed for 10 s.
+9. Centrifuge at 1875g for 20 min.
+10. Dilute a 100 µL sample of the supernatant to a final volume of 2 mL.
+11. Determine fluorescence at 516 nm, using a 492 nm excitation beam (see Note 2).
+3.5. Microscopic Assay
+1. Stain cell samples with FDA by mixing the samples (1 mL) with 10 µL of the
+stock solution.
+2. Incubate for 15 min at room temperature in the dark.
+3. Wash with 50 mM phosphate buffer, pH 7.5.
+4. Centrifuge at 1875g for 5 min.
+5. Resuspend in phosphate buffer (1 mL).
+6. Counterstain with EB, following steps 1–5 but using 10 µL of the EB stock
+solution.
+7. Determine the number of blue dead cells under a bright field and yellow-green
+fluorescent viable cells under ultraviolet light (excitation: BP 450-490 nm and
+emission: LP 520 nm) in an Axioplan microscope in 10 randomized fields in a
+Sedgewick chamber.
+4. Notes
+1. Cell densities were determined by the chromium trioxide method. Briefly, 1-mL
+samples were taken at the indicated time and mixed thoroughly with 2 mL of 8%
+(w/v) chromium trioxide. Then, they were incubated for 15 min at 80°C. One
+milliliter samples were loaded on a Sedgewick Rafter counting cell chamber
+(London), which holds 100 mm3 and 10 randomized fields were counted twice
+per slide under bright light microscopy (×10). The mean and standard deviation
+of cell density values were calculated.
+2. There was a robust correlation between enzyme activities and the number of viable
+cells employed in each assay (MTT, r2 = 0.995; TTC, r2 = 0.989; EB, r2 =
+0.979; FDA, r2 = 0.996) and an internal control of heat-killed cells was used to
+estimate the percentages of relative viability (r2 = 0.998).Cryopreservation of Cell Suspensions 77
+77
+From: Methods in Molecular Biology, vol. 318: Plant Cell Culture Protocols, Second Edition
+Edited by: V. M. Loyola-Vargas and F. Vázquez-Flota © Humana Press Inc., Totowa, NJ
+7
+Cryopreservation of Embryogenic Cell Suspensions
+by Encapsulation-Vitrification
+Qiaochun Wang and Avihai Perl
+Summary
+Encapsulation-vitrification, which is a combination of encapsulation-dehydration and vitrification
+procedures, is a newly developed technique for cryopreservation of plant germoplasm.
+Here, we describe the protocol of this methodology, using grapevine (Vitis) as a model plant.
+Cell suspensions at the exponential growth stage were encapsulated with 2.5% sodium alginate
+solution in 0.1 M calcium chloride solution for 20 min to form beads of about 4 mm in diameter
+containing 25% cells. The beads were stepwise precultured in increasing sucrose concentrations
+of 0.25, 0.5, and 0.75 M for 3 yr, with 1 d for each step. Precultured beads were treated
+with a loading solution for 60 min at room temperature and then dehydrated with PVS2 at 0°C
+for 270 min, followed by direct immersion in liquid nitrogen for 1 h. The beads were rapidly
+rewarmed at 40°C in a water bath for 3 min and then diluted with 1 M sucorse solution at room
+temperature for 30 min. Rewarmed, washed beads were post-cultured on a recovery medium
+for 3 d at 25°C in the dark for survival. Surviving cells were transferred to a regrowth medium
+to induce cell proliferation. Embryogenic cell suspensions were re-established by suspending
+the cells in a cell suspension maintenance medium maintained on a gyratory shaker at 25°C in
+the dark. For plant regeneration, surviving cells were transferred from the recovery medium to
+an embryo maturation medium and maintained at 25°C under light conditions. Embryos at the
+torpedo stage were cultured on rooting medium until whole plantlet was developed.
+Key Words: Cell suspensions; cryopreservation; embryogenesis; encapsulation; liquid nitrogen;
+plant regeneration; vitrification.
+1. Introduction
+Embryogenic cell suspensions have widely been used as an efficient system
+for plant clonal micropropagation and as target tissues for genetic manipulation
+in many transformation systems (1). However, the competence for
+embryogenesis usually declines or totally loses and somatic variation may occur78 Wang and Perl
+in such cell suspension cultures with an increase in subculture time (2). Moreover,
+establishment of fresh embryogenic cultures is season-dependent, laborious,
+and time-consuming. Cryopreservation has been considered as an ideal
+means for avoiding loss of embryogenic potential and preventing the occurrence
+of somaclonal variation: all cell divisions and other metabolic processes of plant
+materials that are stored in this way cease. Theoretically, plant materials can
+thus be stored without any changes for an indefinite period of time (3).
+Encapsulation-vitrification, which is a combination of encapsulationdehydration
+and vitrification procedures, is one of several newly developed
+techniques for cryopreservation of plant germplasm. In comparison with classical
+techniques, such as slow cooling, encapsulation-vitrification enables cells
+to be cryopreserved by direct immersion in liquid nitrogen, thus avoiding the
+use of a sophisticated and expensive programmable freezer (3). Vitrification
+refers to the physical process by which a highly concentrated cryoprotective
+solution is supercooled at very low temperatures and eventually solidifies into
+a metastable glass without undergoing crytallization at a glass transition temperature
+(4). Thus, vitrified cells evade the danger of intracellular freezing and
+survive freezing in liquid nitrogen. Encapsulation of the cells, normally in 2–3%
+calcium-alginate beads, can protect the specimens during the procedure and
+reduce the chemcial toxicity or osmotic stress of the vitrification solution. In
+addition, encapsulation-vitrification is much easier to handle and allows for
+treatment of a large number of samples at the same time in comparison to the
+vitrification procedure alone.
+Encapsulation-vitrification was originally developed by Tannoury et al. (5)
+for cryopreservation of carnation apices (Dianthus caryophyllus L.). In this
+protocol, encapsulated apices were precultured for 16 h in progressively more
+concentrated sucrose medium, then incubated for 6 h in a vitrification solution
+containing ethylene glycol and sucrose, and finally frozen either rapidly or
+slowly. Survival of cryopreserved apices reached 100 and 92% after rapid and
+slow freezing, respectively.
+Using encapsulation-vitrification procedure, much higher recovery was produced
+in cryopreserved shoot tips of wasabi (Wasabia japonica) (6) and strawberry
+(Fragaria  ananassa Duch.) (7) compared with encapsulationdehydration.
+Wang et al. (8) demonstrated that encapsulation-vitrification was
+much more applicable to different grapevine (Vitis) species and cultivars than
+encapsulation-dehydration. Therefore, encapsulation-vitrification would have a
+great potential for broad applications to cell suspensions (3,8).Cryopreservation of Cell Suspensions 79
+2. Materials
+2.1. General Requirements
+1. Standard tissue culture facilities.
+2. 2-mL Cryogenic vial.
+3. 250-mL Erlenmeyer flask.
+4. Gyratory shaker.
+5 1-mL Pipet.
+6. Sterile disposable 25-mL pipet.
+7. 20- to 35-L Taylor-Wharton Dewar flask (beaker style wide-mouth).
+8. Magenta GA7 vessels.
+9. 9-cm Whatmann paper.
+10. 9-cm Petri dish.
+2.2. Chemicals, Plant Growth Regulators, and Media
+1. Activated charcoal (AC, cat. no. C 9157).
+2. Calcium chloride (Sigma, cat. no. C 4901).
+3. Dimethylsulfoxide (DMSO) (Sigma, cat. no. D 8418).
+4. Ethylene glycol (Sigma, cat. no. E 9129).
+5. Gelrite (Sigma, cat. no. G 1910).
+6. Glycerol (Sigma, cat. no. G 5516).
+7. Naphthalene acetic acid (NAA) (Sigma, cat. no. N 0640).
+8. 2-Naphthoxyacetic acid (NOA) (Sigma, cat. no. N 3019).
+9. Nitsch and Nitsch medium (NN) (9) (Duchefa, cat. no. N 0224).
+10. Sodium alginate (Sigma, cat. no. A 2158).
+11. Sucrose (Sigma, cat. no. S 7903).
+12. Woody plant medium (WPM) (10) (Duchefa, cat. no. M 0220).
+2.3. Media and Solutions
+1. 0.1 M calcium chloride solution: liquid NN medium containing 0.1 M calcium
+chloride, 2 M glycerol, and 0.4 M sucrose, pH 5.8.
+2. Cell suspension maintenance medium: liquid NN medium supplemented with 18
+g/L maltose, 1 g/L casein enzymatic hydrolysate, 4.6 g/L glycerol, and 1 mg/L
+NOA, pH 5.8.
+3. Dilution medium: liquid NN medium containing 1 M sucrose, pH 5.8.
+4. Embryo maturation medium: solid NN medium supplemented with 18 g/L maltose,
+1 g/L casein enzymatic hydrolysate, 4.6 g/L glycerol, and 2.6 g/L gelrite, pH 5.8.
+5. Loading solution: liquid NN containing 2 M glycerol and 0.4 M sucrose, pH 5.8.
+6. Plant vitrification solution (PVS2): 0.4 M sucrose, 30% (w/v) glycerol, 15%
+(w/v) DMSO and 15% (w/v) ethylene glycol made up in liquid NN medium,
+pH 5.8 (11).80 Wang and Perl
+7. Preculture medium: cell suspension maintanence supplemented with 0.25, 0.5, or
+0.75 M sucrose, respectively, pH 5.8.
+8. Recovery medium: cell suspension maintanence containing 2.5 g/L AC and
+solidified with 2.6 g/L gelrite, pH 5.8.
+9. Rooting medium: solid WPM containing 30 g/L sucrose, 1 mg/L NAA, 2.5 g/L
+AC, and 2.6 g/L gelrite, pH 5.8.
+10. Sodium alginate solution: 0.4 M sucrose, 2 M glycerol, and 2.5% (w/v) sodium
+alginate made up in liquid NN medium, pH 5.8.
+3. Methods
+As with any method, optimal treatment parameters at each step during the
+whole procedure may vary greatly with different plant species and even cultivars.
+In this section, we make every effort to illustrate the protocol, using grapevine
+(Vitis) as an example. The method, described in Subheadings 3.1.–3.5.
+consists of (1) maintenance of embryogenic cell suspensions, (2) encapsulation-
+vitrification, (3) freezing and rewarming, (4) unloading, and (5) survival,
+regrowth, and plant regeneration. A flow-chart of the encapsulation-vitrification
+protocol is illustrated in Fig. 1.
+To maintain sterility of emberyogenic cell suspensions, all appropriate
+manipulations should be carried out in a laminar air-flow cabinet, using aseptic
+techniques and sterile materials.
+3.1. Maintenance of Embryogenic Cell Suspensions
+1. One gram of Calli are transferred to a 250-mL Erlenmeyer flask containing 50 mL
+of cell suspension maintenance medium.
+2. The cell suspensions are incubated at 25°C in darkness on a gyratory shaker
+at 90 rpm.
+3. Subculture is carried out weekly by transfer of cell suspensions to fresh cell suspension
+maintenance medium.
+3.2. Encapsulation-Vitrification
+1. Three days after subculture (see Note 1), embryogenic cell suspensions are collected
+using a 25-mL sterile disposable pitet to remove the entire medium from
+the 250-mL Erlenmeyer flask. In order to avoid loss of cells, empty the medium
+while pressing the mouth of the pipet against the bottom of the Erlenmeyer so
+that the cells do not penetrate into the pipet.
+2. The cells are transferred to 2.5% sodium alginate solution by a ratio of 1 g cells to
+3 mL solution (see Note 2) and mixed well.
+3. The mixture is dripped with a 1-mL sterile pipet into 0.1 M calcium chloride
+solution at room temperature and left for 20 min to form beads of about 4 mm in
+diameter, each containing 25% (w/v) cells (see Note 2).
+4. The beads are precultured stepwise on the preculture medium enriched with
+increasing sucrose concentrations of 0.25, 0.5, and 0.75 M for 3 d, with 1 d forCryopreservation of Cell Suspensions 81
+each step (see Note 3). The preculture conditions are the same as for the maintenance
+of embryogenic cell suspensions.
+5. The precultured beads are rapidly surface-dried by blotting onto sterile 9-cm
+Whatmann paper for a few seconds, and then transferred to a loading solution
+and incubated for 60 min at room temperature in a laminar air-flow cabinet (see
+Note 4).
+6. The beads are rapidly surface dried by blotting onto sterile 9-cm Whatmann paper
+for a few seconds, and then transferred to PVS2 cooled on ice and incubated for
+270 min (see Note 5).
+3.3. Freezing and Rewarming
+1. The vitrified beads are rapidly surface dried by blotting on sterile 9-cm Whatmann
+paper for a few seconds. Next, 10 beads are transferred into a 2-mL cryogenic
+vial and directly immersed in a Taylor-Wharton Dewar Flask containing the liquid
+nitrigen for 1 h.
+Fig. 1. A flow-chart of cryopreservation of embryogenic cell suspensions by encapsulation-
+vitrification procedure.82 Wang and Perl
+2. Cryogenic vials containing frozen cells are rapidly removed from liquid nitrogen
+and immetiately rewarmed at 40°C in a water bath for 3 min.
+3.4. Unloading
+1. Rewarmed beads are placed in the dilution medium for 30 min at room temperature
+(see Note 6), followed by surface drying by blotting on sterile 9-cm
+Whatmann paper for a few seconds.
+3.5. Survival, Regrowth, and Plant Regeneration
+1. The beads are post-cultured at 25°C in the dark for 3 d in 9-cm Petri dish (10
+beads/dish) containing 30 mL recovery medium for survival (see Note 7).
+2. For regrowth, the beads are transferred from the recovery medium to 9-cm Petri
+dish (10 beads/dish) containing 30 mL regrowth medium and placed at 25°C in
+the dark for 4 wk (see Note 8). Embryogenic cell suspensions are re-established
+by suspending the beads in a 50-mL Erlenmeyer flask containing 50 mL of cell
+suspension maintenance medium. The cultures are placed on a gyratory shaker
+(90 rpm) at 25°C in the dark. Subculture is carried out every week.
+3. For plant regeneration, the beads are transferred from the recovery medium to 9-
+cm Petri dish (10 beads/dish) containing 30 mL plant regeneration medium. The
+cultures are maintained at 25°C under a 16 photoperiod with a light intensity of
+45 µmol/s/m2 provided by cool white fluorescent tubes. Four weeks later, single
+embryos at the torpedo stage are transferred to Magenta GA7 vessels containing
+50 mL rooting medium. The culture conditions are the same as for embryo maturation.
+Subculture is done every 4 wk until a whole plantlet with a profuse root
+system is developed.
+4. Notes
+1. Growth phase at which cells are harvested at the onset of the procedure is an
+important factor for cryopreservation (12). Cells at the exponential growth stage
+are more tolerant to freezing than those either at the lag or stationary stages
+because they have small volume and vacuoles and contain relatively little water.
+The growth pattern of cell suspensions differs with different plant species. For
+several Vitis species and cultivars, the exponential growth stage is reached 3 d
+after each subculture (8,13).
+2. Cell density in the beads influences significantly the regrowth and embryo formation
+of crypreserved cell suspensions. In general, from 25 to 50% cell density
+were used in encapsulated beads (8,13–15). Regrowth of cryopresereved cells of
+Catharanthus was found faster in the beads containing 50% than the 25% cells
+(15), whereas efficiency of embryo formation in Vitis was much higher in beads
+containing 25% cells (8,13).
+3. Preculture is required to induce resistance of cell suspensions to dehydration and
+subsequent freezing in liquid nitrogen. Sucrose is the most often used sugar for
+induction of such tolerance at this step (3), although other sugars such as glucoseCryopreservation of Cell Suspensions 83
+(16), glycerol (17), maltose (18), manitol (19), and sorbitol (18,20) were used.
+Sugar concentration in the preculture medium ranges from 0.3 to 1 M for periods
+varying between 1 h (18) and 9 d (15). Progressive increase in sucrose concentration
+enables to avoid the deleteroius effects of direct exposure to high sucrose
+concentrations (21). Preculture with high sugar concentrations (up to 0.75–1 M)
+has been shown to increase the viability of cryopreserved cell suspensions of
+Catharanthus roseus (15), Papaver somniferum (18), Vaccinium pahalae (14),
+Medicago sative (22), Asparagus officinalis (23), and Vitis (8,13).
+4. In vitrification-based cryopreservation procedures, cells have to be dehydrated
+by exposure to a highly concentrated solution such as PVS2 prior to immersion
+in liquid nitrogen. However, direct exposure of cells to PVS2 without
+osmoprotection causes harmful effects on cells because of osmotic stress or
+chemical toxicity (24), which has been described as a major limitation in determining
+the success of cryopreservation of cells by vitrification (25). This major
+limitation can be overcome by the loading treatment (24,25). In this treatment,
+cells are placed at room temperature in a solution containing cryoprotective substances
+such as sucrose, glycerol and ethylene glycol, for a short period varying
+between 10 min (25,26) and 60 min (8), depending on plant scpeices. The most
+often used loading solution is composed of a basic medium containing 2 M glycerol
+and 0.4 M (8,25,26).
+5. Two plant vitrification solutions are most frequently employed: one described by
+Langis et al. (27), which comprises 40% (w/v) ethylene glycol, 15% sorbitol, and
+6% bovine serum albumin, and the other (PVS2) described by Sakai et al. (11),
+which consists of 30% (w/v) glycerol, 15% (w/v) ethylene glycol, and 15% (w/v)
+DMSO 0.4 M sucrose. We applied both vitrification solutions to Vitis cell suspensions
+with much better results obtained with PVS2. Overexposure to the vitrification
+solution can cause chemical toxicity and excess osmotic stress (28),
+eventually leading to reduced survival of cryopreserved cells. Dehydration can
+be performed either at 0°C or at room temperature. The optimal time of exposure
+to the vitrification solution varies with plant species, and depending on the temperature
+during exposure, it ranges from 20 min (25) to 270 min (8). Dehydration
+at 0°C takes longer time, but usually yields a higher survival of cryopreserved
+cells (8,25), mainly through elimination or reduction in the chemical toxicity or
+osmotic stress of vitrification solutions to plant cells (29).
+6. Unloading is designed to dilute the vitrification solutions and remove
+cryoprotectants from cryopreserved cell suspensions (30). Because of the extremely
+high concentrations of the vitrification solutions, unloading is usually
+performed either by a one-step dilution in a high-sugar concentration solution up
+to 1.2 M (25) or by a stepwise dilution in decreasing sugar concentrations (22), in
+order to reduce the osmotic shock. With Vitis cell suspensions, the best results
+were achieved using 1 M sucrose solution for 30 min (8).
+7. In many cases, recovery of cryopreserved cell suspensions was largely improved
+when post cultured for a few days on a solid medium before being transferred to
+liquid medium (8,31). Addition of activated charcoal to the recovery medium

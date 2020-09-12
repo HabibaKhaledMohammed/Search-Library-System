@@ -1,0 +1,2079 @@
+CHAPTER 1
+Nucleases
+An Overview
+A. Fred Weir
+Enzymes able to digest nucleic acids are of course essential to molecular
+biology, indeed the whole technology was founded on the discovery
+of bacterial enzymes that cleave DNA molecules in a base-specific
+manner. These enzymes, the type II restriction endonucleases, are
+perhaps the best studied of the nucleases as to both their in vivo role
+and their use as tools in the techniques of molecular biology. However,
+the nucleases are ubiquitous in living organisms and function in all
+situations where partial or complete digestion of nucleic acid is required.
+These situations not only include degradation and senescence but also
+replication and recombination, although it must be noted that, to date,
+evidence for the involvement of nucleases in the latter two processes
+in eukaryotes is largely circumstantial. The significance of nucleases
+in the functioning of nucleic acids as the genetic material can be gaged
+however by considering that several enzymes implicated in DNA replication,
+recombination, and repair have integral exo- or endodeoxyribonuclease
+activity. For example, the 5'-3' and 3'-5' exonuclease
+activity of DNA polymerases and the endo-DNase activity of topoisomerases
+(e.g., see ref. 1).
+As well as the restriction endonucleases, various other nuclease
+enzymes have been used as tools in molecular biology, the purpose of
+this chapter is to give some background on the main deoxyribonu-
+From: Methods in Molecular Biology, VoL 16: Enzymes of Molecular Biology
+Edited by: M. M. Burrell Copyright ©1993 Humana Press Inc., Totowa, NJ2 Weir
+cleases (DNases) and then to focus on the techniques in which they are
+used. The enzymes that molecular biologists use as tools are dealt with
+in separate chapters in this volume.
+1.1. Nomenclature
+Anyone who has tried the isolation of a DNase enzyme will know
+that the presence of multiple types of nuclease activity makes this
+process fraught with difficulty. In this section, consideration will be
+given to the properties of the DNase enzymes with a view to understanding
+their nomenclature, which for the most part is somewhat
+confusing (Table 1).
+Nucleases, although a large group in themselves, are part of a larger
+group of enzymes, the phosphodiesterases, which are able to catalyze
+the cleavage of phosphate-ester bonds. Schmidt and Laskowsi (2) identified
+three types of nuclease enzymatic activity: DNases, ribonucleases
+(RNases), and exonucleases. On this definition, it is apparent that
+so-called DNases and RNases cleave their substrates endonucleolytically,
+i.e., at internal sites, and that this activity is distinct and separable from
+any exonuclease activity. In practical terms, this definition holds true
+in that an endo-DNase will not digest DNA molecules to completion,
+i.e., to nucleotide monomers; only when exonuclease activity is present
+will the digestion of DNA go to completion.
+A second confusing element in the nomenclature of nucleases, and
+DNases in particular, is the presence of single-stranded DNases, e.g.,
+mung bean nuclease and nuclease S 1 fromAspergillus. These enzymes,
+although having high specificity for single-stranded DNA molecules,
+will, at high concentrations and in preparations not purified to homogeneity,
+digest native (double-stranded) DNA molecules albeit at reduced
+rates. For an example of this, Weir and Bryant (3) have isolated a nuclearlocated
+DNase from the embryo axes of pea that has a low, but measurable
+activity on native DNA but rapidly catalyzes the hydrolysis of
+heat-denatured DNA. It is not known so far whether these two activities
+are separable, but evidence from similar enzymes suggests that these
+activities are part of the same protein molecule. DNases then, tend to
+be classified as to "what they do best"; e.g., the DNase of Weir and Bryant
+would be called a single-strand specific endo-DNase. In the following
+discussion, the examples are from the DNase class of nucleases, however
+all the points considered can be equally applied to the RNases.Nucleases--An Overview 3
+Table 1
+The Nomenclature of Nuclease
+EC number Reaction Example
+3.1. I 1 Exodeoxyribonucleases producing Exonuclease III
+5'-phosphomonoesters. EC 3.1.11.2
+3 . 1 . 1 3 Exoribonucleases producing Exo-RNase H
+5'-phosphomonoesters. EC 3.1.13.2
+3.1.14 Exoribonucleases producing Yeast RNase
+other than 5'-phosphomonoesters. EC 3.1.14.1
+3 . 1 . 1 5 Exonucleases active with either Venom
+ribo- or deoxyribonucleic acids exonuclease
+and producing EC 3.1.15.1
+5'-phosphomonoesters.
+3 . 1 . 1 6 Exonucleases active with either ribodeoxyribonucleic
+acids and
+producing other than
+5'-phosphomonoesters.
+3 . 1 . 2 1 Endodeoxyribonucleases producing
+5'-phosphomonoesters.
+3.1.22
+3.1.25
+3.1.26
+3.1.27
+3.1.30
+3.1.31
+Endodeoxyribonucleases producing
+other than 5'-phosphomonoesters.
+Site-specific endodeoxyribonucleases:
+specific for altered bases.
+Endoribonucleases producing
+5'-phosphomonoesters.
+Endoribonucleases producing
+other than 5'-phosphomonoesters.
+Endonucleases active with either
+ribo- or deoxyribonucleic acids and
+producing 5'-phosphomonoesters.
+Endonucleases active with either
+ribo- or deoxyribonucleic acids
+and producing other than
+5'-phosphomonoesters.
+Spleen
+exonuclease
+EC 3.1.16.1
+DNase I
+EC 3.1.21.1
+Type II
+restriction DNases
+EC 3.1.21.4
+DNase II
+EC 3.1.22.1
+RNase H
+EC 3.1.26.4
+RNase T1
+EC 3.1.27.3
+Aspergillus
+nuclease S1 and
+Mung bean nuclease
+EC 3.1.30.1
+Micrococcal
+nuclease
+EC 3.1.31.14 Weir
+1.1.1. Criteria Used for Classification
+1.1.1.1. Exo- vs ENDONUCLEOLYTIC CLEAVAGE
+Exo-DNases cleave from the ends of DNA molecules releasing
+phosphomononucleotides. Cleavage can be either in the 3' to 5' direction
+releasing 5' phosphomononucleotides or in the 5' to 3' direction to
+yield 3' phosphomononucleotides. An example of a widely used exonuclease
+is exonuclease III fromEscherichia coli (EC 3.1.11.2), which
+will digest one strand of a double-stranded DNA molecule from a 3'
+overhang or blunt end. This property has been used to produce bidirectional
+or unidirectional nested deletion of templates for sequencing.
+Endo-DNases cleave at internal phosphate bonds. Cleavage of
+double-stranded DNA substrates can be by a "single-hit" or a "doublehit"
+mechanism (4) or by a combination of both (see Chapter 2, Section
+2.4.). Essentially this means that the enzymes can either cleave the two
+strands of the DNA molecule at points opposite or at sites on the two
+strands that are well away from each other. The scission of the molecule
+will take place at a relatively faster rate in the former case as
+compared to the latter. The prime example of an endo-DNase is pancreatic
+DNase (DNase I, EC 3.1.21.1). Under optimal conditions this
+enzyme uses a double-hit mechanism for cleavage of substrates.
+1.1.1.2. BASE SPECIFICITY AT OR NEAR THE SITE OF CLEAVAGE
+None of the eukaryotic enzymes so far isolated appear to have such
+specificity, however there is evidence that enzymes with optimal activity
+on single-stranded DNAs will preferentially cleave atA-T rich sites in
+native DNA molecules (3,5,6). As already mentioned, the Type II
+restriction endonucleases have absolute specificity for a group of bases
+at or near the cleavage site.
+1.1.1.3. SITE OF CLEAVAGE
+The site of cleavage can be on either side of the phosphate bond
+leading to a 5' or a 3' monoesterified product. No enzymes have been
+isolated that can split the internucleotide bond on either side. This
+property is particularly important if the DNA molecule is to be subsequently
+made blunt-ended for a ligation experiment. DNA molecules
+leh with a 5' overhang from a staggered cut are usually filled in with
+the Klenow fragment ofE. coli DNA polymerase, whereas those with
+a 3' overhang have the overhang cleaved back with the exonuclease
+activity of T4 DNA polymerase to create blunt ends.Nucleases--An Overview 5
+1.1.1.4. CLEAVAGE OF NATIVE OR SINGLE-STRANDED DNA
+Nucleascs tcnd to havc a"prcfcrcnce" for cleavage of single-stranded
+DNA or double-stranded DNA substratcs. In general single-strand
+specific DNascs, such as nuclcasc SI fromAspergillus (EC 3.1.30.1),
+will digest native DNA if the enzyme concentration is high. Nucleasc
+S1 is used to analyzc the structure of DNA-RNA hybrids and in cDNA
+synthesis whcrc it opens the hairpin loop gcncratcd during the synthesis.
+1.1.1.5. GENERAL
+DNascs have also in the past bccn classified according to their pH
+optima and rcquircmcnts for thc presence of mctal ions; there arc two
+major mammalian DNascs--onc working at neutral pH the othcr in
+acidic conditions--and both rcquirc Mg ions. Other nuclcasc cnzymcs
+exist that require Ca 2+ ions (pea nuclear DNasc [3]) or Zn 2+ ions
+(nuclcasc S 1). In addition to the aforementioned propertics, it is important
+to note that many crudc preparations of DNasc exhibit nonspccificity
+for the sugar moiety of nucleic acids, i.e., they will cleave both RNA
+and DNA. In these cases it is obviously essential to remove contaminating
+RNasc activity before the enzyme is used to remove DNA from
+a preparation of RNA.
+From the forcgoing discussion, it can bc sccn that the nuclcascs arc
+a complex group of cnzymcs. However, when it comes to their use as
+tools in molecular biology, the situation is very much simplified as
+only a handful of enzymes arc used routincly in experimental protocols.
+The enzymes DNascs I and II, cxonucleascs, nuclcasc S l, Bal3 l,
+and RNasc will bc discusscd in much more dctail in the following
+sections with special emphasis on the experimental protocols for thcir
+use in molecular biology techniques.
+References
+1. Roca, J. and Mczquita, C. (1989) DNA topoisomcrasc II activity in nonrcplicaring,
+transcriptionally inactive, chickcn late spcrmatids. EMBO J. 8, 1855-1860.
+2. Schmidt, G. and Laskowski, St., M. (1969) Phosphate ester cleavage, in Enzymes,
+vol. 5b (Walkcr, P. D., Lardy, H., and Myrback, A., cds.), Acadcmic, Ncw
+York, pp. 3-35.
+3, Weir, A. F. and Bryant, J. A. (1989) Partial purification and properties of a
+chromatin-bound dcoxyribonuclcasc from the embryo axes of germinating pea.
+Phytochemistry 28, 1339-1343.
+4. Bernardi, G. and Sadron, C. (1964) Studies on acid dcoxyribonuclcasc. I. Kinctics
+of the initial degradation of DNA by acid DNase. Biochemistry 3, 1411-1418.CHAPTER 2
+Deoxyribonuclease
+I (EC 3.1.21.1) and II (EC 3.1.22.1)
+A. Fred Weir
+1. Introduction
+From Chapter 1 on nucleases, we know that the term DNase refers
+to an enzyme that endonucleolytically cleaves DNA molecules. This
+chapter deals with those DNases that preferentially catalyze the hydrolysis
+of double-stranded DNA (ds DNA) and that have found a use in
+the various techniques employed in molecular biology. The Type II
+restriction endonucleases obviously fall into this category, however
+they are a large subject on their own and therefore are dealt with in a
+separate section of this book. DNases acting preferentially on singlestranded
+DNA (ss DNA) substrates are also dealt with in another section
+of this chapter.
+Despite the ubiquitous nature of nucleases in living organisms, it is
+perhaps surprising to find that, apart from the Type II restriction endonucleases,
+only one ds DNA DNase enzyme is used routinely in molecular
+biology. The reasons for this are twofold. First, as outlined in Chapter
+1, it is very difficult to isolate a DNase in a form that is completely free
+of accompanying RNase and exonuclease contamination and indeed
+these activities may be part of the same enzyme molecule. Obviously,
+it would not be desirable to remove DNA from a precious RNA preparation
+with a DNase that has an integral RNase activity. The second
+reason is that the first DNase isolated from tissues, DNase I (or pancreatic
+DNase), performs all the tasks very well and can be isolated
+readily in a pure form; why use or look for another enzyme? DNase I
+From: Methods in Molecular Biology, VoL 16: Enzymes of Molecular Biology
+Edited by: M. M. Burrell Copyright ©1993 Humana Press Inc., Totowa, NJ
+78 Weir
+has been commercially available for at least 25 years, most of the work
+on the properties of the enzyme being done in the 1960s and, to date,
+no DNase has been found to replace it in the dual tasks of complete
+degradation of"nuisance material" DNA and the partial hydrolysis of
+DNA molecule in such techniques as nick translation.
+In the following sections, the properties of DNase I are discussed in
+detail with special emphasis directed toward comparing the activity of
+DNase I with that of other types of DNase, most notably DNase II.
+2. DNase I (EC 3.1.21.1)
+2.1. Reaction
+Bovine pancreatic DNase, or more usually, DNase I, catalyzes the
+hydrolysis of ds DNA molecules but, at high concentrations of enzyme,
+ss DNA will also be digested. "Complete" hydrolysis results in the
+formation of small oligonucleotide products that are resistant to further
+cleavage, but are acid soluble (see section on assay of DNase
+activity); cleavage results in the formation of 5' monoesterified products.
+Cleavage of DNA substrate with DNase II (spleen DNase or acid
+DNase, EC 3.1.22.1), in contrast, results in the formation of 3'
+monoesterified products.
+2.2. pH Optimum
+Possibly the major reason that DNase I is preferred to DNase II is
+that DNase I has optimum activity in the region of pH 7-8, whereas
+DNase II, as its alternative name describes, has a pH optimum in acidic
+condition: pH 4.2-5.5.
+2.3. Activators and lnhibitors
+DNase I has an absolute requirement for divalent metal cations. The
+most commonly used is Mg 2÷, however Mn 2÷, Ca 2+, Co 2+, and Zn 2+
+will also activate DNase I. Concentrations of Mg 2÷ above approx 50
+mM become inhibitory, which is not the case for Co 2÷ and Mn 2÷.
+Monovalent metal ions are also inhibitors of the enzyme activity. In
+the presence of Ca 2÷, Mg 2÷ has a synergistic effect, i.e., the rate of
+hydrolysis of DNA in the presence of both ions is more than the sum
+of the rates of hydrolysis of DNA in the presence of each ion separately.
+A total of 0.1 mM Ca 2÷ is sufficient to give this enhanced reactivity
+in the presence of 10 mM Mg 2÷, however the rate of hydrolysis
+of DNA is still greatest in the presence of Mn 2+ ions (see Section 2.4.).Deoxyribonucleases of Molecular Biology
+A
+9
+3 '
+5 '
+5 ' 5'P. 5*P 5°P 3 '
+3 ' 5 ' P 5 '
+5 ' 5 ' P 5 ' P 5 ' P 3 '
+3 ' 5 ' P 5 ' P 5 ' P ~ 5 ' P .5'
+B 5, .3,
+3, .5,
+5 ~ 3*P 3 ' P .3~P 3 '
+3 ' 3 ' P 3 ' P 3~P 5*
+Fig. 1. A. Double-hit mechanism of DNase I in presence of Mg 2+ ions. B. Singlehit
+mechanism of DNase II.
+Apart from the monovalent cations, there is no general inhibitor of
+DNase I such as those available for the inhibition of RNases. The only
+real way to combat DNase activity, which may be a worry during DNA
+extractions, is to do the extraction as quickly as possible and at low
+temperatures. Inclusion of EDTA in the extraction buffer is a good
+idea, but note that Jones and Boffey (1) recently discovered a DNase
+in the leaves of wheat seedlings that appears to be stimulated in the
+presence of EDTA.
+2.4. Kinetics
+Using a variety of methods, including light-scattering, viscometry,
+and sedimentation analysis, it can be shown that there are two different
+types of mechanism for the cleavage of ds DNA substrates by DNase
+(Fig. 1). DNase I, at low concentrations and under the usual assay
+conditions, inserts nicks at random points in each strand of the DNA
+at points away from each other. This is termed a "double-hit" mechanism
+(Fig. 1 A); complete scission of the molecule will not occur until two10 Weir
+nicks are opposite. Monitoring of the reaction therefore will not indicate
+the presence of DNA molecules of intermediate size until after a lag
+phase (2a). In contrast, DNase II was shown to cleave high-mol-wt
+DNA substrates on both strands at points opposite to each other resulting
+in the complete scission of the molecule (3). This process was termed
+a single-hit mechanism (Fig. 1B), as scission of the DNA occurred
+from a single encounter with the enzyme molecule; during a digestion,
+intermediate size molecules will appear immediately. An interesting
+feature of DNase I is that the cleavage mechanism can be altered from
+double-hit to a DNase II-like single-hit mechanism by using high concentrations
+of the enzyme or by altering the divalent cation from Mg 2÷ to
+Mn 2÷ or Co 2÷. Using ss DNA as substrate, Melgar and Goldthwaite
+(2b) showed that in the presence of Mn 2÷ ions, DNase I had vastly
+increased Vma x as compared to the activity in the presence of Mg 2÷,
+whereas there was little change in the K m. The increased rate of hydrolysis
+in the presence of Mn 2÷ could of itself lead to the formation of
+intermediate size fragments in the short periods observed without there
+being a change in the actual mechanism of cleavage of a double-stranded
+substrate; the greater the number of random nicks, the greater the
+likelihood of there being scission of the molecules. If viscosity measurements
+are used to follow the progress of a DNase digestion, a relationship
+can be obtained when the log of a function of the change in
+viscosity of the DNA solution is plotted against log time. The slope of
+the resulting line, n, gives an indication of the mechanism of the reaction:
+A value of approx 1.0 indicates single-hit kinetics, whereas a value
+between 1 and 2 indicates a predominantly double-hit mechanism. When
+the hydrolysis ofds DNA by DNase I in the presence of Mn 2÷ is monitored
+by viscometry at low temperature, i.e., at low rate of hydrolysis, a value
+of n = 1.16 is obtained, indicating that the reaction is predominantly of
+the single-hit kind. Monovalent cations also lower the rate of hydrolysis
+of ds DNA by DNase I in the presence of Mn 2÷, and under these
+conditions the n value changes from approx 1.0 (single-hit mechanism)
+to values approaching 2.0 (double-hit mechanism). The inhibition of
+DNase I by monovalent cations is probably a result of competition for
+effector sites that directly or indirectly affect the active site of the enzyme.
+The process by which Mn a÷ promotes the hydrolysis of ds DNA by
+DNase I to switch from a double-hit mechanism to a single-hit mechanism
+is not known but may involve either (1) the ability of Mn 2÷ toDeoxyribonucleases of Molecular Biology 11
+promote the binding of two DNase I molecules at opposite sites on the
+two DNA strands (it is known that active DNase II is dimeric); or (2)
+the ability of Mn a÷ to enable the DNase I enzyme molecule to flip
+from the hydrolyzed strand to the opposite strand, which is then also
+cleaved (2b).
+2.5. Specificity
+There is evidence that certain deoxynucleotide sequences can be
+hydrolyzed in the presence of Mn 2+ but not in the presence of Mg 2+.
+For example, poly (dG:dC) can be hydrolyzed by DNase I with Mn 2÷
+but not with Mg2÷(4). This resistance is not attributable to secondary
+structure of the double-helix, as DNase I in the presence of Mg 2÷ is
+not able to hydrolyze the dC strand of a polymer consisting of
+dI:dC. Therefore, in addition to altering the kinetics of the reaction,
+different metal ions can also place qualitative constraints on hydrolysis
+of certain residues.
+3. Experimental Procedures
+3.1. Introduction
+DNase I is the enzyme of choice for all molecular biology techniques
+(apart from restriction digestions) that require a double-stranded
+DNase enzyme. It is readily available in pure form, i.e., exonuclease
+and RNase free, from a number of commercial sources, has high activity
+on ds DNA, and at high concentrations, will also cleave ss DNA.
+The reaction does not go to completion, to produce deoxynucleotide
+monomers, but a certain limit size is reached, after which no further
+digestion takes place. DNase I cleavage leads to the formation of 5'
+monoesterified products and the enzyme has optimum activity in the
+pH 7.0 region. DNase I is inhibited by monovalent cation but has an
+absolute requirement for divalent metal ions. The nature of the cation
+affects the mode of action of the enzyme and its ability to cleave at
+certain deoxynucleotide residues. The enzyme has optimal activity in
+the presence of Mn 2+ cations, but it is noteworthy that molecular biologists
+use Mg 2+ as the cofactor. This is probably attributable to the
+fact that many of the enzymes used in conjunction with DNase also
+require Mg 2+ as cofactor, e.g., DNA polymerase I in the nick-translation
+protocol, and that many of the techniques require only limited
+digestion of the DNA.12 Weir
+3.2. Assay of DNase Activity
+Many methods have been used in the past to assay DNase activity:
+Melgar and Goldthwaite (2a) used a somewhat complicated method
+whereby T4 DNA was labeled with 32p and embedded in a polyacrylamide
+gel. After exposure of the gel to DNase, the gel was pelleted and
+the amount of radioactive DNA fragments released into the supernatant
+was measured. More recent methods (e.g., ref. 5) have again used
+radiolabeled substrates, but this time the rate of hydrolysis is monitored
+by precipitating the DNA fragments produced out of aqueous solution
+with trichloroacetic acid (TCA) in the presence of a carrier and then
+measuring acid-soluble or acid-insoluble radioactivity. For most molecular
+biologists however, all that is required is an assay method to show
+whether DNase is responsible for the loss of DNA from a preparation,
+and if so, to show where the contamination is coming from. This is best
+accomplished by using a covalently closed circular (ccc) plasmid as
+substrate in a component analysis. In the following example, the components
+of a restriction enzyme digestion ofa plasmid are to be analyzed.
+1. Set up several reactions depending on the number of components to be
+tested, remember that the controls are all important.
+a. ccc plasmid in sterile distilled water (500 ng in 10 I.tL)
+b. ccc plasmid in buffer
+c. ccc plasmid in buffer + bovine serum albumin (BSA)
+d. ccc plasmid in buffer + enzyme
+e. ccc plasmid in buffer + BSA + enzyme
+2. Incubate at 37°C for 30-60 min.
+3. Run digests on an agarose gel.
+4. Stain with ethidium bromide and view under UV illumination.
+Endo-DNase activity is indicated by excessive conversion, as compared
+to the controls, ofccc plasmid to open circles or to linears. Usually
+endo-DNase contamination will be accompanied by exonuclease activity,
+so there will be complete degradation of the plasmid to a smear of material
+down the gel.
+3.3. Removal of DNase Activity
+DNase enzymes are heat labile and can be removed from solutions
+by autoclaving and from glassware and the like by baking or autoclaving.
+To make sure that solutions of RNase I are DNase free, boil theDeoxyribonucleases of Molecular Biology 13
+RNase solution for 15 min (RNase I is a remarkably stable enzyme)
+and cool to room temperature. Dispense into aliquots and store frozen.
+As already mentioned (Section 2.2.), during the preparation of DNA,
+endogenous DNases can be inhibited by the inclusion of EDTA in the
+homogenization buffer. It was also pointed out that a DNase activity
+had recently been discovered that was apparently stimulated by EDTA
+(1). The prevalence of this type of nuclease activity is not known, but
+if it is suspected, damage can be limited by performing extractions at
+low temperatures and proceeding to the protein removal step as rapidly
+as possible.
+3.4. Removal of RNase from DNase Solutions
+RNase-free preparations of DNase I are now commercially available,
+however some of these still may not be entirely satisfactory.
+Various column chromatography methods have been used to remove
+RNase activity from DNase solutions (e.g., ref. 6) and an effective
+method for disabling the RNase A enzyme has been described by
+Zimmerman and Sadeen (7) and modified by Gurney and Gurney (8).
+This method depends on the alkylation of a histidine in the active site
+of RNase A (a likely contaminant of DNase I as they are derived from
+the same tissue) using sodium iodoacetate. Abrief protocol is outlined
+in the following:
+1. Use autoclaved micropipet tips and glassware.
+2. Dissolve 10 mg commercial DNase in 2 mL of 2.5 mM HC1.
+3. Dialyze the solution for a few hours at 40°C against 1 L of 2.5 mM HC1
+with stirring, then overnight against 1 L of fresh 2.5 mM HCI again at
+4°C with stirring.
+4. Freshly prepare 1M sodium iodoacetate. Mix 2.5 mL of 0.2M sodium acetate,
+pH 5.3, 2.0 mL of dialyzed enzyme, and 7.5 mL of 1M sodium iodoacetate.
+Incubate the mixture at 55°C for 60 min. A precipitate will form.
+5. Dialyze the solution overnight against 1 L of 2.5 mM HCI at 4°C.
+6. Centrifuge solution at 10,000g for 30 min at 0°C.
+7. Carefully pipet off the supernatant into a sterilized tube or bottle with a
+tight fitting cap.
+8. The protein concentration should be 3-4 mg/mL. The DNase should be
+stored at 4°C, the activity should be stable (unfrozen) for at least 2 yr.
+RNases can also be inhibited by a number of compounds including
+vanadyl ribonuclease complex, heparin, and their own specific ribo14 Weir
+nuclease inhibitors. RNases are dealt with in much more detail elsewhere
+in this volume (Chapter 13).
+3.5. "Degradative" Uses of DNase I
+Stock solutions ofDNase I should be made up at 2 mg/mL in 10 mM
+Tris-HC1, pH 7.5, 50 mM NaC1, 10 mM MgCI2, 1 mM dithiothreitol,
+and 50% glycerol, and stored frozen in small aliquots. Removal of
+DNA from preparations can be accomplished by incubation with 20-
+50 ~tg/mL DNase I in the presence of 50 mM Tris-HC1, pH 7.5, 10 mM
+MgC12, at 37°C for 60 min.
+A method for preparing random oligonucleotide fragments from calf
+thymus DNA for use in the oligolabeling protocol can be found in (9).
+3.6. Nick Translation
+The alternative method for producing radiolabeled probes other
+than oligolabeling is nick translation. In this method DNase I is used
+to nick the DNA to be labeled creating free 3'OH groups. Escherichia
+coli DNA polymerase I catalyzes the addition of nucleotides to the
+3'OH termini and the 5'-3' exonuclease activity of the same enzyme
+removes nucleotides from the 5' end thus translating the nick. Linear,
+supercoiled, nicked, or gapped circular ds DNA molecules can be labeled
+to specific activities of > 108 cpm/~tg with 32p labeled deoxynucleotide
+triphosphates. Good protocols for the method are given in refs. 10 and
+11 and Chapter 3. Meinkoth and Wahl (10) pointed out that, at saturating
+levels of nucleotide triphosphates, the size of the labeled fragments is
+determined by the DNase concentration: Fragments of 500-1500 nucleotides
+long produce optimal signal:noise ratios in the subsequent
+hybridization. The necessary concentration of DNase required can be
+determined by doing a titration using from 0-100 pg/mL DNase in the
+reactions and running the labeled DNA on acrylamide gels (9). DNase
+concentration, which gives approx 30% incorporation of label, is optimal.
+3. 7. DNA Footprinting by DNase I Protection
+DNase I has been used in the past to dissect the structure of chromatin
+and to isolate nucleosomes (e.g., see 12,13), but in recent years
+molecular biologists have become interested in the proteins that bind
+to DNA and possibly regulate the expression of genes. The isolation
+and characterization of such transactivating factors can be accomplished
+by using the powerful technique of DNA footprinting. In thisDeoxyribonucleases of Molecular Biology 15
+technique the DNA of interest is labeled at either the 3' or 5' end and
+protein is bound to the DNA; the nucleoprotein complex is then subject
+to limited digestion with DNase I. Under the conditions used,
+DNase will exhibit double-hit kinetics and, therefore, will insert random
+single-strand nicks, however, cleavage will be inhibited if protein
+is already bound to the DNA. The DNA is then purified, denatured,
+and run on a sequencing polyacrylamide gel. Autoradiography of the
+labeled DNA in the gel should show a ladder of fragments representing
+cleavage at approximately every base for the control with no protein
+present. However, if protein has been bound to a particular sequence,
+there will be no cleavage by DNase I and there will be a gap in the
+ladder. This gap is known as a footprint; the sequence of the footprint
+can be determined if a sequencing reaction is run alongside the DNase
+I protection assay. Detailed protocols for the technique are given in
+refs. 14 and 15, also note that Stratagene now markets a DNA
+footprinting kit using the DNase I protection method. Exonuclease III
+protection has also been used for DNA footprinting, but in this technique
+the DNA must be labeled at the 5' end (see ref. 15).
+3.8. Concluding Remarks
+The DNases are a ubiquitous and diverse group of enzymes that play
+an integral part in the functioning of DNA as the genetic material. Much
+of the work on DNases has been directed toward finding useful tools for
+molecular biology rather than toward elucidating their physiological
+roles; despite this, only one of the DNases, DNase I, has found regular
+use in techniques where limited digestion or complete digestion of
+DNA is required. The prospects are that other eukaryotic DNase will
+be found with more specific activities than DNase I, e.g., the enzymes
+involved in DNA repair and DNases that may function in recombination
+events. Analysis and use of these enzymes will possibly give us
+a greater insight into how DNA does function as the genetic material.
+References
+1. Jones, M. and Boffey, S. A. (1984) Deoxyribonuclease activities of wheat seedlings.
+FEBS Lett. 174, 215-218.
+2a. Melgar, E. and Goldthwaite, D. A. (1968) Deoxyribonucleic acid nucleases. 1.
+The use of a new method to observe the kinetics of deoxyribonucleic acid degradation
+by deoxyribonuclease I, deoxyribonuclease II and Escherichia coli endonuclease
+I. J. Biol. Chem. 243, 4401-4408.CHAPTER 3
+DNA Polymerases (EC 2.7.7.7)
+Martin J. Maunders
+1. Introduction
+DNA polymerases catalyze the synthesis of DNA molecules from
+monomeric deoxynucleotide triphosphate units. This definition encompasses
+those enzymes classed as DNA-dependent DNA polymerases
+(EC 2.7.7.7, which require both a DNA template strand and a DNA
+primer to which the monomeric units can be added), reverse transcriptases
+(EC 2.7.7.49, RNA-dependent DNA polymerases that utilize
+an RNA template), and terminal deoxynucleotidyl transferases
+(EC 2.7.7.31, which require no template). This chapter will consider
+only DNA-dependent DNA polymerases (EC 2.7.7.7, DNA
+nucleotidyltransferases, DNA-directed).
+DNA-dependent DNA polymerases are a class of enzyme that is
+essential for the replication and maintenance of all organisms. All
+perform essentially the same reaction, the addition of monomeric units
+to synthesize a complementary copy of an existing DNA template.
+This activity can be used in molecular biology for a wide range of
+techniques. These include the labeling of DNA molecules, terminally
+or throughout the sequence, for use as probes or for sequence determination,
+the modification of DNA termini for facilitating subsequent
+manipulations, the production of double-stranded cDNA, the extension
+of mismatched sequences for site-directed mutagenesis, the extension
+of synthetic DNA sequences for gene synthesis, and the specific
+amplification of limiting quantities of DNA for analysis.
+From: Methods in Molecular Biology, Vol. 16: Enzymes of Molecular Biology
+Edited by: M. M. Burrell Copyright ©1993 Humana Press Inc., Totowa, NJ
+1718 Maunders
+The choice of enzyme depends on the reaction conditions employed
+and the desirability of other inherent enzymatic activities. The range
+of enzymes available is rapidly expanding, ensuring a concomitant
+increase in the applications of DNA polymerases in molecular biology.
+1.1. Prokaryotic DNA Polymerases
+The classical E. coli DNA polymerase family consists ofDNA polymerases
+I, II, and III (Pol I, Pol II, and Pol III). Pol III is largely
+responsible for chromosomal replication, and it initiates the growth of
+both DNA chains on RNA primers. Pol I "fills in" the gaps left by the
+intermittent nature of Pol III activity on the 3'-5' strand. Apart from
+this activity, the major role of Pol I is in DNA repair rather than replication.
+The role of Pol II is still largely unclear.
+The three enzymes have widely differing properties. Pol I, which is
+the most ~videly used in molecular biology, is described in the next
+section. Pol II has a polymerase activity of only 5% that of Pol I and
+has no 5'-3' exonuclease activity. It can only act on duplexes with gaps
+of < 100 bases and cannot replicate long single-stranded stretches from
+short primers. Pol III has a similar template requirement to Pol II, but
+is 300 times more active. Pol III holoenzyme consists of at least 13
+components (1), although various smaller complexes are active in vitro.
+In addition to the E. coli enzymes, DNA polymerases from other
+bacteria are now attaining more prominence in molecular biology,
+particularly those from thermophilic organisms. Other useful DNA
+polymerases have been isolated from bacteriophage-infected E. coli
+cells, especially the enzymes encoded by bacteriophages T4 and T7.
+1.2. Eukaryotic DNA Polymerases
+Eukaryotic organisms possess three main DNApolymerases, Pol a,
+Po113, and Pol Y. Pol a is considered to be the major DNA polymerase
+(2) and is responsible for chromosomal replication. The function of
+Po113 is unclear, whereas Pol ?, being located in both the nucleus and
+the mitochondria, is believed to be involved in mitochondrial DNA
+replication. The three enzymes all lack 3'-5' exonuclease activity, which
+has since been detected on a fourth DNA polymerase, Pol 8 (3). This
+finding supports the idea that eukaryotic DNA polymerases work in
+concert during DNA replication.DNA Polymerase 19
+2. DNA Polymerase I (EC 2.7.7.7)
+DNA polymerase I, Pol I, or Kornberg polymerase is the product of
+the pol A gene of E. coli, which has now been cloned to yield an
+overproducing strain.
+2.1. Enzyme Data
+The enzyme comprises a single polypeptide chain of mol mass
+109,000 Da, with various enzymic activities. These are a 5'-3' polymerase,
+a 3'-5' exonuclease (proofreading activity), a 5'-3' exonuclease,
+and a phosphate-exchange activity. The polymerase activity
+catalyzes the formation of a complementary DNA strand to an existing
+single-stranded template, by the extension of a DNA primer possessing
+a 3'-hydroxyl terminus. The latter may be provided merely by a
+short gap or even a nick in the DNA duplex. The presence of these
+multiple activities allows the use of DNA polymerase I to perform
+several complex manipulations.
+DNA polymerase I requires the presence of magnesium ions, as do
+all DNA polymerases. (In some cases, manganese ions may substitute,
+but reaction rates are lower, and there is a loss of fidelity.) The pH
+optimum for the enzyme is 7.4, and sulfhydryl reagents are required.
+Enzymic activity is measured by the polymerization of labeled nucleotides
+into double-stranded DNA using poly-dAdT as both template
+and primer. One unit of activity catalyzes the incorporation of 10 nmol
+into an acid precipitable form in 30 min at 37°C (4). DNA Polymerase
+I can be obtained at a purity of 5000 U/mg.
+2.2. Uses of DNA Polymerase I
+There are several uses of DNA polymerase I in molecular biology.
+First, it is used for the incorporation of labeled nucleotides into DNA
+probes by nick translation (5). This requires the action of deoxyribonuclease
+I (see Chapter 2) to introduce nicks into the duplex with
+exposed 3'-hydroxyl termini to act as a substrate for the DNA polymerase
+I. 5'-3' Polymerization occurs concomitantly with 5'-3' exonuclease
+activity, which has the effect of physically translating the "nick"
+along the DNA molecule and allowing the introduction of labeled
+nucleotides into the newly replaced DNA strand. Reaction conditions
+are such that one complete exchange of the DNA duplex is achieved20 Maunders
+in this manner. DNA polymerase I is the only common DNA polymerase
+that can carry out this coupled reaction by virtue of its 5'-3'
+exonuclease function. A typical nick translation protocol is given in
+Section 2.3.1.
+Disadvantages of nick translation with regard to other methods of
+probe labeling include the facts that the specific activity that may be
+achieved is not high, and that at temperatures above 20°C artifactual
+sequences ar e produced, such as "snapback DNA," where the newly
+synthesized strand disassociates from the template and is then itself
+copied to form inverted DNA sequences.
+Another use of DNA polymerase I is in repair synthesis, where the
+enzyme is used to "fill in" protruding 5' termini. End-labeling can also
+be achieved by removal of 3' protruding termini by the 3'-5' exonuclease
+activity and then subsequently filling in the 3' recess so formed.
+DNA polymerase I can also be used in eDNA synthesis, where it is
+employed in the synthesis of the second DNA strand. The enzyme has
+an inherent RNase H activity that is of value here. However, cDNA
+synthesis is largely performed by DNA polymerase I large (Klenow)
+fragment or reverse transcriptase.
+2.3. Experimental Procedures
+DNA polymerase I is best stored in 50 mM potassium phosphate, pH
+7.0, containing 250 ktM DTT and 50% glycerol. At -20°C, it is stable
+for over 6 mo.
+2.3.1. Protocol for Nick Translation with DNA Polymerase I
+2.3.1.1. MATERIALS REQUIRED
+1. Probe DNA.
+2. Nick translation buffer:
+• 500 mM Tris-HC1, pH 7.8
+• 50 mMMgC12
+• 100 mM ~-Mercaptoethanol
+• 100 ktg/mL Bovine serum albumin
+3. 200 jaM dGTP.
+4. 200 ~/dCTP.
+5. 200 pM dTTP.
+6. 0.1 lag/mL DNase I (prepare by serial dilution of 1 mg/mL stock).
+7. DNA polymerase I (diluted to 2 U/laL in storage buffer).DNA Polymerase 21
+8. 0.5M EDTA, pH 8.0.
+9. TNE buffer:
+• 10 mMTris-HCl, pH 8.0
+• 100 mM NaC1
+• 1 mM EDTA
+10. TE buffer:
+• 10 mMTris-HC1, pH 8.0
+• 1 mM EDTA
+11. Sephadex G-50 equilibrated in TNE buffer.
+12. o~-32P dATP (10 mCi/mL, 3000 Ci/mmol).
+13. Sterile distilled water.
+2.3.1.2. EQUIPMENT REQUIRED
+1. Water bath (15°C).
+2. Water bath (70°C) or dry beating block.
+3. Bench-top centrifuge.
+4. Sterile glass wool.
+5. Sterile 1.5-mL microfuge tubes.
+5. Pipets and sterile pipet tips.
+7. Ice bucket.
+2.3.1.3. PROTOCOL
+1. In a sterile tube on ice mix the following:
+• Probe DNA (up to 1 pg)
+• 5 ~L Nick translation buffer
+• 200 pM dGTP, dCTP, dTTP (5 I.tL each)
+• 5 ~L a-32p dATP (50 gCi, 20 ~ / )
+• 2 ~L DNase I (200 pg)
+• 1 gL DNA polymerase I (2 U)
+• Sterile distilled water to 50 ~L
+2. Incubate at 15°C for 50 min.
+3. Stop the reaction by addition of 2 pL of 0.5M EDTA, pH 8.0, or by
+heating to 70°C for l0 min.
+4. Purify the labeled probe from unincorporated nucleotides by a spun
+column method. Prepare a column of Sephadex G-50 in a 200-taL pipet
+tip plugged with glass wool. Wash the column with 500 ~L TNE buffer,
+by supporting it in a microfuge tube and spinning at 2000g for a few
+seconds. Load the nick translation reaction onto the column, and spin
+for 30 s. Elute the labeled probe with a futher 100 gl_, of TNE (or TE)
+buffer and a further spin. Pool the run-through and eluate, and then
+discard the column containing the unincorporated nucleotides.22 Maunders
+3. Klenow Fragment
+3.1. Enzyme Data
+By treatment of DNA polymerase I with the protease subtilisin, a
+polypeptide of mol mass 35,000 Da is removed that carries the 5'-3'
+exonuclease activity (6). The remaining moiety, of mol mass 76,000
+Da, retains all the other enzymic activities and is commonly termed the
+DNA polymerase I large fragment or Klenow fragment.
+3.2. Uses of Klenow Fragment
+It is impossible to use Klenow fragment for nick translation because
+of the lack of a 5'-3' exonuclease activity. However, this limitation is
+turned to advantage in other applications of the enzyme by rendering
+the polymerization activity more controllable.
+The primer extension activity of Klenow fragment has made it widely
+used in dideoxynucleotide sequencing methods (7), whereby DNA
+templates up to 350 bases long can be sequenced at a rate of 45 nucleotides/
+s. Several different DNA polymerases are commonly used for
+sequencing reactions. Each has distinct abilities when encountering
+particularly "difficult" regions of the template sequence.
+The enzyme can also be used to produce labeled double-stranded
+DNA probes (actually only labeled in one or the other of the two
+strands) by the extension of oligomeric primers of random sequence
+(8). The oligolabeling technique produces probes of a much higher
+specific activity than nick translation, with over 55% of the labeled
+nucleotide incorporated in 30 min at 37°C. Although the entire probe
+sequence is represented in the labeling mix, individual molecules are
+commonly only a few hundred bases in length, which may be a disadvantage
+for some applications. A typical reaction protocol is given in
+Section 3.3.1.
+Single-stranded (strand-specific) probes can also be prepared by
+end-labeling of protruding, flush, or recessed 3' termini. This is achieved
+by removal of the 3' nucleotides by means of the 3'-5' exonuclease
+activity (which is more active on single-stranded than double-stranded
+DNA), to form a recessed 3' end. Following the addition of high concentrations
+of deoxynucleotide triphosphates (one or more of which
+may be labeled), the polymerase activity resynthesizes the excised
+region (9,10). This process has advantages over nick translation in thatDNA Polymerase 23
+the labeled probe produced is strand-specific, and there is no production
+of hairpin-like artifacts.
+This reaction can of course be performed with unlabeled deoxynucleotides
+to produce flush or modified termini for subsequent cloning
+reactions. The fill-in reaction (see Section 3.3.2.) can be controlled
+by the withholding of one particular deoxynucleotide to generate novel
+cohesive ends. Excess Klenow fragment will also yield only partially
+filled termini because of the 3'-5' exonuclease activity.
+Klenow fragment is also used for elongating oligomeric primers in
+site-directed mutagenesis to produce double-stranded DNA. However,
+the enzyme tends to displace mismatched oligomers and so remove
+the intended mutation. T4 DNApolymerase is perhaps more useful in
+this context.
+The enzyme can also be used for the synthesis of the second DNA
+strand during cDNA synthesis (11,12). Finally, Klenow fragment was
+originally used in the polymerase chain reaction, before the introduction
+of thermostable DNA polymerases permitted the process to be automated.
+3. 3. Experimental Procedures
+Klenow fragment has similar physical properties to Pol I and should
+be stored under similar conditions. The following sections describe
+experimental protocols for two techniques utilizing Klenow fragment:
+radiolabeling DNA by extension of random primers and in-filling of
+cohesive termini.
+3.3.1. Protocol for Labeling with Random Hexameric Primers
+3.3.1.1. ~/[ATERIALS REQUIRED
+1. Probe DNA.
+2. Reaction buffer:
+• 450 mM HEPES, pH 6.6
+• 50 mM MgCI 2
+• 10 mM Dithiothreitol
+• 2 mg/mL Bovine serum albumin
+• 2.5 mM dGTP
+• 2.5 mM dCTP
+• 2.5 mM dTTP
+3. Klenow fragment (diluted to 2 U/gL in storage buffer).
+4. ct-32P dATP (10 mCi/mL, 3000 Ci/mmol).
+5. Sterile distilled water.24 Maunders
+3.3.1.2. EQUIPMENT REQUIRED
+1. 1.5-mL Microfuge tubes.
+2. Microfuge.
+3. Boiling water bath or dry heating block.
+4. Water bath (37°C).
+5. Pipets and sterile pipet tips.
+6. Ice bucket.
+3.3.1.3. PROTOCOL
+1. Dilute 50 ng probe DNA to 34 ~tL with sterile water.
+2. Denature by boiling for 3 rain. Spin down condensation and stand on ice.
+3. Add l0 ~L of reaction buffer.
+4. Add 5 laL (50 [xCi) a-32P dATP.
+5. Add 1 laL (2 U) Klenow fragment.
+6. Incubate at 37°C for 30 min or at room temperature for 1-2 h.
+7. Add 200 ]aL sterile water, and terminate the reaction by boiling for 3 min.
+8. Stand the reaction on ice and use (unpurified) within 10 min.
+3.3.2. Protocol for In-Filling Cohesive Termini
+3.3.2.1. MATERIALS REQUIRED
+1. Target DNA.
+2. Reaction buffer:
+• 70 mM Tris-HC1, pH 7.5
+• 70 mMMgC12
+• 10 mMDithiothreitol
+• 250 laM dATP
+• 250 ~ dGTP
+• 250 laM dCTP
+• 250 gM dTTP
+N.B. Alternatively, the in-filling reaction can be performed in most
+restriction endonuclease buffers.
+3. 500 mM NaC1.
+4. Klenow fragment (diluted to 0.5 U/IaL in storage buffer).
+5. Sterile distilled water.
+3.3.2.2. EQUIPMENT REQUIRED
+1. 1.5-mL Microfuge tubes.
+2. Water bath (25°C).
+3. Water bath or dry heating block (70°C).
+4. Pipets and sterile pipet tips.DNA Polymerase 25
+3.3.2.3. PROTOCOL
+1. Dilute 1 ~tg of target DNA to 44 laL with distilled water.
+2. Add 5 IxL of reaction buffer.
+3. Optionally, add NaCI to a concentration of 0-50 mM, reducing the volume
+of water use in step 1 pro rata.
+4. Add 1 IxL (0.5 U) of Klenow fragment.
+5. Incubate at 25°C for 15 min.
+6. Terminate the reaction by incubating at 70°C for 10 min.
+4. T4 DNA Polymerase
+T4 DNA polymerase is produced by the E. coli bacterium when
+infected with bacteriophage T4.
+4.1. Enzyme Data
+It is a monomeric enzyme ofmol mass 114,000 Da, that will sequentially
+add mononucleotide units to a DNA primer by means of its 5'-3'
+polymerase activity. The enzyme cannot utilize nicked DNA as a
+substrate, since its lack of a 5'-3' exonuclease activity (13) prevents it
+from displacing the existing downstream DNA strand. The enzyme
+has a highly active 3'-5' proofreading exonuclease activity, 200-fold
+more active than that of Klenow fragment, which again is more active
+against single- than double-stranded DNA.
+4.2. Uses ofT4 DNA Polymerase
+T4 DNA polymerase is used to label 3' termini in the same manner
+as Klenow fragment. The reaction can be performed at 37°C or at room
+temperature, but incubation at 12°C maximizes the polymerase activity
+over that of the exonuclease.
+The exonucleolysis/in-filling process can of course be performed in
+the absence of labeled deoxynucleotide triphosphate to convert cohesive
+or "ragged" termini to "polished" flush ends suitable for cloning.
+A further use of T4 DNA polymerase is in the process of"gap-filling"
+during site-directed mutagenesis. This entails the conversion of a
+partially single-stranded molecule to a fully double-stranded entity.
+For this application, it is usual to include the T4 gene 32 protein, which
+stimulates DNA synthesis (14).26 Maunders
+4. 3. Experimental Procedures
+T4 DNA polymerase will function in most restriction endonuclease
+buffers. An alternative reaction buffer is 50 mMTris-HC1, pH 8.5, 15 mM
+ammonium sulfate, 7 mMMgC12, 0.1 mM EDTA, 10 mM ~-mercaptoethanol,
+33 ~,/dNTPs, and 200 pg/mL BSA (15). The enzyme requires
+Mg 2+ (at least 6 mM) for activity. Its pH optimum is in the range
+8.0-9.0, exhibiting 50% activity at pH 7.5 and 9.7. The reaction temperature
+should be 37°C.
+The enzyme is best stored in 10 mM Tris-HC1, pH 8.0, 100 mM
+NaC1, 2.5 mM MgC12, 0.5 mM EDTA, 2 mM DTT, and 50% glycerol
+(15). It is stable if stored undiluted in this buffer at -20°C for
+several months.
+5. T7 DNA Polymerase
+This DNA polymerase is also produced by bacteriophage-infected
+E. coli, although it is now obtained from a cloned gene.
+5.1. Enzyme Data
+It is the only common DNA polymerase that consists of more than
+one subunit. The functional enzyme is composed of the T7 gene 5
+protein (mol mass 80,000-85,000 Da), which carries all the enzymic
+activities, plus the E. coli thioredoxin protein (mol mass 12,000 Da)
+required to associate with the template.
+The enzyme has a very active 5'-3' polymerase activity that can
+incorporate 300 nucleotides/s. It is also the most highly processive of
+all the DNA polymerases in that it can extend a primer for several
+kilobases without the enzyme dissociating from the template. The
+enzyme is also very tolerant of nucleotide analogs, which renders it
+very useful for DNA sequencing and oligolabeling techniques.
+T7 DNA polymerase lacks a 5'-3' exonuclease activity (16), but like
+T4 DNA polymerase, it has a potent 3'-5' exonuclease. In this case, the
+activity is 1000-fold that exhibited by Klenow fragment. The 3'-5'
+exonuclease activity can be inactivated by incubation with a reducing
+agent, oxygen, and low concentrations of Fe E+ . This modification does
+not affect the polymerization ability of the enzyme (17). Chemical
+modification removes 99% of the exonuclease activity, and total removal
+has been achieved by genetic engineering. These modified
+versions of T7 DNA polymerase are readily available commercially.DNA Polymerase 27
+5.2. Uses ofT7 DNA Polymerase
+A major use of native or modified T7 DNA polymerase is in DNA
+sequencing when fragments of over 1,000 bases can be analyzed from
+one reaction. The enzyme is also useful for other applications when
+extension of a primer over long stretches of template are required. The
+other uses of this enzyme include the rapid end-labeling of DNA probes
+and the extension of primers during site-directed mutagenesis.
+5.3. Experimental Procedures
+A suitable reaction buffer for T7 DNA polymerase is 40 mM Tris-
+HC1, pH 7.5, 10 mM MgC12, 1 mM DTT, 100 Jxg/mL BSA, 300 JaM
+dNTPs (18), and reactions should be performed at 37°C. The enzyme
+is stable for over 6 mo when stored at -20°C in 25 mM Tris-HC1, pH
+7.5,250 mM NaC1, 5 mM DTT, and 50% glycerol.
+6. Taq Polymerase
+Taq polymerase is a DNA polymerase isolated from the bacterium
+Thermus aquaticus (19). Similar enzymes have been isolated from
+other thermophilic organisms, including Thermus thermophilus, Th.
+flavus, Th. litoralis, Pyrococcus furiosus, and Bacillus stearothermophilus.
+Taq polymerase preparations have been isolated from
+several different strains of Th. aquaticus itself, and each has slightly
+different characteristics. The most common source is still strain YT-
+1, although the enzyme is also available from recombinant clones.
+6.1. Enzyme Data
+Taq polymerase is a monomeric enzyme with a mol mass in the range
+60,000-97,000 Da depending on the source. The enzyme exhibits a 5'-3'
+polymerase activity with a high processivity and lacks a 3'-5'exonuclease
+(proofreading) activity, but does possess a 5'-3' exonuclease (strand
+replacement) activity. A modified form of the enzyme is now available
+from which this latter activity has been removed. DNA polymerases
+from Thermus litoralis and Pyrococcusfuriosus do exhibit the 3'-5' exonuclease
+activity (20;21), which renders DNA replication less error-prone.
+Taq polymerase has another activity in that it can incorporate an
+additional nucleotide (usually deoxyadenosine) at the 3' terminus of
+any DNA duplex in a nontemplate-dependent reaction (22). This addition
+often hinders subsequent manipulations, but can be turned to
+advantage as a means of increasing cloning efficiency (23).28 Maunders
+The major distinguishing feature of Taq polymerase is its extreme
+thermal stability. The enzyme can withstand temperatures in excess of
+95°C for prolonged periods, and in fact, its optimum for reaction is
+75°C. The rate of reaction is reduced to 50% at 60°C, and to 10% at
+37°C. A range of DNApolymerases from other species ofthermostable
+bacteria (including those mentioned earlier) are now becoming available,
+which will broaden the spectrum of possible reaction conditions.
+6.2. Uses ofTaq Polymerase
+Taq polymerase is rapidly replacing other DNA polymerases in
+many laboratory techniques, primarily because of its thermal stability
+and tolerance of temperature changes. This feature allows reactions to
+be performed at elevated temperatures, whereby DNA duplex melting
+and annealing can be rigorously controlled. This ensures the presence
+of a suitable single-stranded template for high-fidelity replication, and
+also the stringency of primer association can be precisely defined.
+Additional benefits are that contaminating enzyme activities are largely
+eradicated, and complex but routine procedures can be automated.
+The major use of Taq polymerase at present is in the polymerase
+chain reaction (PCR) (24). This technique is a simple method of amplifying
+minute quantities of DNA for a variety of subsequent procedures,
+including cloning, sequencing, hybridization, and genome
+mapping (25). The enzyme from Thermus thermophilus (when used in
+a manganese-containing buffer) has an additional reverse transcriptase
+activity, which extends the use of PCR directly to cDNA synthesis.
+The PCR has applications beyond the reseach laboratory, including
+uses in forensic science, disease diagnosis or prognosis, paternity testing,
+and in animal and plant breeding programs.
+Another use of Taq polymerase is directly in DNA sequencing,
+where the high temperatures employed help reduce problems caused
+by secondary structure in the template and allow an increase in the
+stringency of primers used. Taq polymerase has, for the reasons mentioned
+earlier, become a very important tool for the molecular biologist
+and is described in detail in Chapter 4.
+References
+1. McHenry, C. S. (1988) DNA Polymerase HI holoenzyme of Escherichia coli.
+Ann. Rev. Biochem. 57, 519-550.CHAPTER 4
+Taq Polymerase (EC 2.7.7.7)
+With Particular Emphasis on Its Use in PCR Protocols
+Axel Landgraf and Heiner Wolfes
+1. Introduction
+Taq polymerase (EC 2.7.7.7) is a thermostable DNA-dependent DNA
+polymerase that was first isolated in 1976 from Thermus aquaticus
+strain YT-1 (ATTC # 25 104)(1). It catalyzes the template-directed
+polymerization of dNTPs at high temperatures.
+5'-dGdTdGdC Taq pol. 5'-dGdTdGdCdAdCdGdAdGdAdG
+3'-dCdAdCdGdTdGdCdTdCdTdC -~ 3'-dCdAdCdGdTdGdCdTdCdTdC
++dNTPs
+When Taq polymerase was isolated in 1976, nobody could have known
+the impact the application of Taq polymerase to the polymerase chain
+reaction (PCR) would have on molecular biology (2,3). In an issue of
+Science in 1989, the enzyme was dubbed molecule of the year (4).
+2. Enzymology of the Taq Polymerase
+Taq polymerase constitutes only 0.01-0.02% of the total protein of
+Thermus aquaticus. The increased demand for the enzyme led to the
+cloning of the gene in E. coli. An advantage of cloning an enzyme from
+a thermophile organism in a mesophile bacterium is that, in general,
+contaminants in the enzyme preparation should not be active at a temperature
+optimal for the Taq polymerase (5).
+From: Methods in Molecular Biology, Vol. 16: Enzymes of Molecular Biology
+Edited by: M. M. Burreil Copyright ©1993 Humana Press Inc., Totowa, NJ
+3132 Landgraf and Wollees
+The sequence for the enzyme allowed a better characterization of
+the Taq polymerase (5). Given the biochemical, biophysical, and sequence
+data, it can be concluded that the two enzyme preparations published
+in the original paper (1,5) represented either two different enzymes or
+that the smaller protein was a fragment of the constitutive Taq polymerase.
+The characteristic features of the commercially available cloned
+Taq polymerase are analogous to those of the latter protein.
+The Taq polymerase gene is 2499 nucleotides long and codes for a
+protein of 832 amino acids. The theoretical mass is 93,900 Da, which
+is in fairly good agreement with the apparent mass of 97,300 Da obtained
+from gel electrophoresis. A sequence comparison with polymerase I
+from E. coli shows significant similarities in the 5'-3' exonuclease
+domain (amino acids 1-410) as well as in the polymerase domain
+(amino acids 410-832). Regions to which definite functions could be
+assigned in polymerase I are highly conserved in Taq polymerase.
+No proofreading activity (3'-5' exonuclease) could be identified in
+Taq polymerase (6). There is no homology in Taq polymerase to a
+domain ranging from amino acid 300 to 410 in polymerase I, to which
+proofreading activity is attributed in the E. coli enzyme.
+Taq polymerase catalyzes the DNA-dependent polymerization of
+dNTPs. One unit of the enzyme is defined as the amount of enzyme
+that will incorporate 10 nmol of radioactively labeled dTTP into acidinsoluble
+material at 80°C in 30 min (1). The enzyme could be purified
+to a specific activity of 200,000 U/mg protein. As an optimal reaction
+temperature, 75-80 ° C was established, at which the incorporation rate is
+approx 150 nucleotides/s/enzyme molecule (7). In the M 13 system, incorporation
+rates of <60, 24, 1.25, and 0.25 nucleotides/s/enzyme molecule
+were measured at 70, 55, 37, and 22°C respectively (8). Incorporation
+rates decrease at temperatures >90°C; the stability of the enzyme also
+decreases drastically. The half-life time of the enzyme declines from 130
+to 40 to between 5 and 6 min at 92.5, 95, and 97.5°C respectively (7).
+Enzyme activity is dependent on bivalent cations. Concentrations
+of 2 mM MgCI 2 are optimal. Maximum polymerization rates are obtained
+with 0.7-0.8 mM dNTPs. Substrate inhibition is observed at dNTP concentrations
+of 4-6 mM. Monovalent cations also have an effect on the
+activity of the enzyme. Optimum conditions are 50 mM KC1, whereas
+inhibition is reported at concentrations >75 mM KC1 (8). NaC1, NH4C1,
+and NH 4 acetate cannot substitute for KC1 without a decrease in specificTaq Polymerase 33
+Table 1
+Inhibitor Effects on Taq Polymerase I Activity ~
+Inhibitor Concentration % Activity
+Urea <0.5M 100
+1.0M 118
+1.5M 107
+2.0M 82
+SDS 0.001% 105
+0.01% 10
+0.1% <0.1
+Ethanol <3 % 100
+10% 110
+DMSO <1% 100
+10% 53
+20% 110
+DMF <5 % 100
+10% 82
+20% 17
+aBased on results from ref. 7.
+activity. Denaturating agents, detergents, and organic solvents in low
+concentration are tolerated by Taq polymerase; at higher concentrations,
+inhibition is observed.
+A compilation of the effects of several substances is shown in Table 1.
+These concentrations are not obligatorily applicable to the PCR; e.g.,
+0.5M Urea are inhibitory to the PCR, whereas up to 1.5M Urea do not
+alter the incorporation yields of Taq polymerase. The inhibition by
+0.01% SDS can be reversed by adding 0.1% Tween 20 or NP40 (7).
+Taq polymerase is an enzyme with high processivity (8). An absolute
+requirement is a DNA template with a primer to initiate the reaction. The
+primer must be dephosphorylated on the 3' end (7). Taq polymerase has
+a strand displacement 5'-3' exonuclease activity. 5'-phosphorylated
+oligodeoxynucleotides are not degraded by the 5'-3' exonuclease activity
+of the enzyme. Studies of the fidelity of DNAsynthesis by Taq polymerase
+revealed error rates of 1.1 x 10 -4 for misincorporation and 2.5 x 10 -5 for
+frameshift mutations (6). An error rate of 2 × 10-4 was determined by PCR
+experiments followed by sequencing (3) and by denaturing gradient gel
+electrophoresis (9). T-C transitions are occurring more frequently than
+other misincorporation errors (6,10).34 Landgraf and Wolfes
+3. Polymerase Chain Reaction (PCR)
+The first publication concerning the polymerase chain reaction (PCR)
+appeared in 1985 (2). In this protocol, Klenow polymerase was used
+as the replicating enzyme, thus necessitating the addition of new polymerase
+after each denaturation step. In 1988, the first use of Taq polymerase
+for the PCR was reported (3), leading the way to an automation
+of the protocol. The application of Taq polymerase to the PCR was the
+basis for the success of the technique. The enzyme is extremely suitable
+for the following reasons:
+• Taq polymerase is stable up to 95°C; thus it is not necessary to replenish
+the enzyme after each PCR cycle;
+• The maximal enzyme activity is between the temperature range of 70-
+75°C, which minimizes secondary structures of the template, resulting
+in high polymerization yield; and
+• The annealing temperature can be chosen from 30-70°C, allowing an
+optimal adaptation of cycle parameters to appropriate annealing temperatures
+of the primers; therefore, byproducts are hardly generated.
+3.1. Fundamentals of the PCR
+The PCR is an enzymatic chain reaction that leads to the amplification
+of specific DNA sequences from a given template (11). In addition
+to the template, two primers (typically: oligodeoxynucleotides of 20
+nucleotides in length) are needed, whose sequence must be complementary
+to the template DNA. The amplification is performed in the
+presence of dNTPs as substrate and catalyzed by Taq polymerase. The
+sequence between the two regions complementary to the primers is
+doubled by repeating the cycle, which consists of a series of temperature
+steps in which the DNA is denatured, the primers are annealed,
+and the polymerization of the specific sequence occurs. The newly
+synthesized sequence is available as template in the next cycle; therefore,
+theoretically, a twofold increase of template is achieved in each
+step. In theory, 30 cycles should yield an amplification of a specific
+sequence by a factor of 230= 1 × 109, as long as substrates or enzyme
+is not limiting (Fig. 1).
+The PCR technique reaches outstanding results because of the fact
+that the chain reaction requires the specific annealing of two primers
+to a complementary sequence. Unspecific annealing of primers or
+nicks in the template does not lead to exponential, but only linearTaq Polymerase 35
+Cydel
+Cyde2
+Cycle 3
+t Dan~urea nd annealp dmere
+m
+m
+t Pdmeer 0dention
+t Danalurean d annealp dmers
+emm m
+m
+m
+t Primeer xtention
+t Denaturea nd annealp dmers
+m
+m
+w m
+m
+mm
+m e
+m
+m
+m
+t Palmer extention
+umm
+m
+m
+Fig. 1. Principle of the polymerase chain reaction.
+amplification. Therefore, this system offers an optimal ratio between
+specific and unspecific signal.
+Characteristically, <1 lag of template in a vol of 100 ilL is used in the
+PCR. In this experimental outline, a single copy gene of the human
+genome would be in a concentration of 2.5 fM. Primers and enzyme are
+used in large excess (1 pM and 1 nM, respectively). The efficiency of36 Landgraf and Wolfes
+log Primer
+incorporation
+Efllcienc,
+2
+1.8
+1.6
+1.4
+1.2
+1
+0,8
+Plateau phase
+f I I 1
+I I I I
+10 20 30 40
+Cycles
+Fig. 2. Typical PCR. Changes in efficiency and product yield. Graphs were calculated
+on the basis of: 1 IxM of each primer spanning a stretch of 300 bp, 200 ktM
+each dNTP, 2 U enzyme 1 nM (processing 10 templates/cycle, estimated enzyme
+degradation 5%/cycle); and 200-ng template (0.05 aMol single copy gene). Volume
+of 100 ~L.
+this reaction will be close to the theoretical value of 2, which means
+that the sequence is doubled in every cycle. After 20-30 cycles are
+completed, the product (and therefore the template) is amplified by a
+factor of 106 . Now the template concentration is in the same order as
+the enzyme concentration. The efficiency of the PCR decreases steadily,
+and exponential growth is no longer observed (Fig. 2). This phase of
+the reaction is called plateau phase (12). Hence, the product yield is
+dependent on the enzyme concentration (13) (Fig. 3).Taq Polymerase 37
+% primer incorporation
+1,2
+0,8
+0,6
+0,4
+0,2
+0
+I1"
+I I I I
+1 2 3 4
+U taq polymerase
+Fig. 3. Dependency of primer incorporation on enzyme amounts. O, 22 cycles;
+II, 24 cycles; A, 26 cycles.
+The initial template concentration hardly influences the product
+yield in the plateau phase. Even 1-10 copies of target sequence will be
+amplified to give the plateau concentration after 40-50 cycles. Under
+the experimental conditions mentioned earlier, incorporation of 10-
+100 nM primer can be expected, which corresponds to roughly 1 lag
+DNA. Therefore, the amplification has to reach the plateau phase, if
+the product is to be analyzed by gel electrophoresis and ethidium
+bromide staining.
+The PCR is applicable for quantitative determinations only prior to the
+onset of the plateau phase. Otherwise, quantitative analysis has to be
+performed using competing primer pairs in an experiment (Section 4.7.).
+The efficiency, defined as the amplification factor per cycle, has a
+theoretical value of 2, in accordance with the doubling of the sequence
+in every step. However, in practice, this is not achieved. The efficiency
+is dependent on the copy number of the template: The lower the copy
+number, down to a certain limit, the better the PCR works. An efficiency
+close to the theoretical value (> 1.9) can only be expected with
+copy numbers of the template in the range of 107-108 (14). Starting38 Landgraf and Wolfes
+from this limit, the yield of the reaction is restricted by too low enzyme
+concentration or by competitive reannealing of the fragments (12).
+For the amplification of long fragments, the reaction efficiency is very
+dependent on the fragment length: The efficiency of 1.9 for a fragment
+of 1000 nucleotides declines to 1.4 for a fragment of 7 kb (15).
+3.2. Application ofTaq Polymerase in the PCR
+The application of Taq polymerase in the PCR requires certain prerequisites
+to be fulfilled.
+3.2.1. Buffers
+The buffer used most commonly in the PCR consists of 10 mMTris-
+HC1, pH 8.4, 50 mM KC1, 1.5-2.5 mM MgC12, and 0.01% gelatin as
+stabilizer (2). The Mg 2÷ ion concentration influences predominantly
+the specificity of the PCR. With increasing Mg 2÷ concentrations, the
+amplification of unspecific sequences increases. At high dNTP concentrations,
+it should also be taken into account that the concentration
+of free ions is reduced as a result of Mg 2÷ binding to dNTPs and to
+DNA. It was reported that, in an incorporation experiment, high dNTP
+concentrations (4-6 mM) were inhibitory (8).
+A different widely used buffer system is composed of 67 mM Tris-
+HC1, pH 8.8, 6.7 mMMgCI 2, 16.6 mM [NH412SO4, 10 mM 13-mercaptoethanol,
+and 0.02% bovine serum albumin (BSA) or gelatine. In principle,
+gelatine should be given preference over BSA, because BSA is likely
+to denature. On the other hand, in some protocols the use of stabilizing
+proteins is totally abandoned (8). Sometimes 10% dimethylsulfoxide
+(DMSO) is added to the buffers mentioned above (10).
+The Michaelis Menten constant K m of Taq polymerase for each
+dNTP has a value of 10-15 laM (16). A normal PCR experiment contains
+50-200 1aM of each dNTP. This concentration is sufficient to
+amplify even large fragments to microgram yields without any limitation
+of dNTP substrate. Even after 60 cycles, a pool of about 50%
+dNTPs is still available (8). Sometimes the dNTP concentration is
+lowered to 10 kVk/in order to achieve an optimum incorporation of
+radioactive labeled deoxynucleotides (17). Modified nucleotides, e.g.,
+deoxynucleoside-t~-thiotriphosphates (dNTPaS) (18), 7-deaza-2'-
+deoxyguanosine-5'-triphosphate d(cTGTP) (8), 5-Biotin (11)-2'
+deoxyuridine-5'- triphosphate (Bio 1 1 dUTP) (16), are incorporated at
+high rates by Taq polymerase.Taq Polymerase 39
+3.2.2. Primer
+In theory, at least a 16 bp of primer are necessary for an unambiguous
+hybridization to a given stretch of DNA in the human genome (3
+× 109 bp). In practice, primers 20-25 nucleotides long are used in PCR
+experiments, with the G-C content varying from 40-60% in order to
+ensure specific amplification. Primers shorter than 20 nucleotides are
+used successfully for allele-specific hybridization (19). Except for
+this purpose, utilization of shorter primers should be avoided, since
+they might detach from the template at the high temperature where
+polymerization is effective.
+To determine the approximate melting temperatures of a primer-
+DNA duplex, the equation:
+Tm [°CI = 2[T + A] + 4[G + C]
+can be used (20). More exact numbers can be calculated by applying
+algorithms (21) that take the occurrence of intramolecular interactions,
+e.g., hairpin structures, into account.
+In established oligodeoxynucleotide synthesis, a product yield of
+more than 80% for short primers can be expected (20). Therefore, a
+purification of the crude synthesis products is most often not required.
+Depending on circumstances, which demand purification of the crude
+products, e.g., an oligodeoxynucleotide has to be labeled prior to the
+PCR, two methods are suitable for purification: (1) When little amounts
+of primers are needed, denaturing PAGE with 7M urea followed by
+detection by shadow casting (22) is a convenient method for purification.
+Several oligodeoxynucleotides can be purified in parallel. Since
+urea is an inhibitor of Taq polymerase, it must be removed by chromatographic
+techniques after elution from the gel slice. (2) Chromatographic
+procedures are a better choice for the purifications of large
+quantities of oligodeoxynucleotides. Reversed-phase HPLC techniques
+and ion-exchange chromatography are commonly used (23).
+Primers should always be stored lyophilized in aliquots at-20"C. It
+is convenient to prepare 10X stock solutions with 1-10 gM concentrations
+of the primer. A primer concentration of 0.1-1 laM is optimal for
+the PCR. An increase in the oligodeoxynucleotide concentration will
+produce a rise in nonspecific bands. One example of the production of
+an unspecific band is owing to partial primer duplex formation and polymerization
+and leads to a product of less than the length of the two primers.40 Landgraf and Wolfes
+/N
+Standard
+Mismatch (32)
+Ruorescent label (26)
+Biotin label (14)
+G G
+A A
+T T
+C C
+GC - stretch (33)
+consensus sequence (34,35)
+Fig. 4. Versatility of PCR primers.
+Apparently, primer pairs are formed and elongated by the enzyme (24).
+Biased primer concentration results in asymmetric amplification of one
+strand (25) (Section 4.3.).
+PCR is capable of dealing with many different problems by utilization
+of primers specifically designed for a particular purpose (Fig. 4). Primers
+carrying a chemical label at the 5' end, e.g., oligodeoxynucleotides substituted
+with a biotin or fluorescent dye, are well accepted by Taq polymerase.
+Oligodeoxynucleotides can be synthesized with a primary amino
+group (aminolink) at the 5' end, to which biotin (14) or fluorescent markers
+(26) may be coupled. As a consequence, 5' biotinylated primers offer
+the option to exploit avidin-coupled dye reactions as well as the immobilization
+of PCR products via an avidin (14) or streptavidin bridge (27) to
+a matrix. The use of fluorescent primers offers a variety of applications in
+qualitative and quantitative analysis, e.g., nonisotopic sequencing reactions
+(28,29) or color coupling tests (30).
+A perfect homology to the target sequence is not a conditio sine qua
+non for primers, although a high degree of sequence homology is
+necessary. Taking into account that the enzyme is working downstream
+from the 3' end of the primer, only the last three bases adjacent
+to this region need to be correctly base paired, in order to initiate
+polymerization (31). The 5' region of the primer is less sensitive toTaq Polymerase 41
+base mismatches. Therefore, new restriction sites can easily be introduced
+into an amplification product (32). It is also possible to use
+primers elongated by a stretch of 40 GC bp (33). Successful amplification
+of sequences derived from known amino acid sequences utilizing
+primers with mixed bases at one position has been reported (34, 35).
+3.2.3. Template
+Normally, very much less than 1 ktg DNA is used for an experiment.
+The sensitivity of the method allows a dilution of the sample down to
+the theoretical limit of 1 molecule/test, even for routine diagnostics
+(36,37). The requirements for DNA purity are rather modest. Intact
+cells may be used; they are lysed during the first denaturation step of
+the PCR procedure. Some authors recommend a proteinase K digest in the
+presence of nonionic detergents in order to render the DNA more accessible
+(38). However, there is no advantage to employing higher concentrations
+of template; this will make a contamination with inhibitors more
+likely. Without any DNA isolation, amplification of bacterial sequences
+is feasible directly by incubating 1 × 103 cells at 95°C for 10 min (39). At
+higher cell concentrations, the PCR is inhibited. Hematin (hemin) has also
+been found to inhibit the PCR at levels as low as 0.8 ~/(38). Therefore,
+only nuclear fractions from whole blood samples should be analyzed
+by the PCR. The sensitivity of the technique allows the amplification of
+degraded DNA from very old, but well-preserved samples (40). Apreceding
+reverse transcription in the same buffer system permits the direct
+amplification of RNA sequences (41,42) (Section 4.2.).
+3.2.4. Taq Polymerase
+Taq polymerase 1 is commercially available from several manufacturers
+at a concentration of 5 U/ktL. One unit corresponds to 50 fmol
+of enzyme (8). Taq polymerase lots from different suppliers may lead
+to considerably different quantitative results. One to four units per
+100-1aL reaction aliquot are sufficient to amplify a sequence to yield
+amounts of DNA detectable by ethidium bromide staining. Larger
+enzyme quantities will provoke the amplification of unspecific products
+(3). If the denaturation temperature for double-stranded DNA is
+optimal, enzyme damage can be minimized, and enzyme activity will
+be present in the reaction mixture even after 50 or more cycles. The
+enzyme dilution should always be made up freshly by pipeting from
+stock solution into incubation buffer (Section 3.2.6.).42 Landgraf and Wolfes
+9O
+temp
+[*c]
+70
+50
+Primer
+Template
+Denaturation Annealing
+/
+time [min]
+Fig. 5. Typical PCR temperature protocol.
+Polymerisation
+3.2.5. Thermocycler
+The PCR reaction requires a repeated cycling through temperature
+profiles (Fig. 5). Sample volumes of 20-100 lxL are used in small reaction
+tubes, which will facilitate the heat transfer from the incubation device.
+Temperature control is usually achieved by automated thermocyclers:
+• Water bath devices;
+• Heating blocks with conventional electrical heating and liquid cooling
+systems; or
+• Heating based on other technologies, e.g., Peltier elements or fan heating.
+It is the main feature of the devices to generate fast temperature
+shifts in the range of 30-95°C. Deviations concerning block uniformity
+or precision in repeated cycles of more than 1 °C are not tolerable.
+A prerequisite for allele-specific amplification experiments is a highly
+reproducible annealing temperature.
+With regard to the adaptation of published protocols to a specific
+thermocycler, it is very important to consider the way the actual temperature
+is determined and regulated. Three principles can be distinguished:Taq Polymerase 43
+• Temperature assessment in the heating block: (a) the time reading starts,
+when the desired value in the block is reached or (b) the time reading
+starts independently of the effective temperature of the block;
+• Temperature assessment in a reference vial: the time reading starts, when
+the rated temperature in the reference is reached; and
+• Temperature assessment in water baths: the time reading is independent
+of the actual sample temperature.
+Different from the programmed temperature profile of the heating
+block, the actual profile in the reaction vial is distinctly more shallow,
+since the heat transfer through the material of the vessel is fairly bad.
+For a successful PCR experiment, a set of defined temperatures
+must be adjusted:
+• To denature the template, 90-95°C must be reached for a short interval.
+Prolonged incubation times at this temperature will lead to severe enzyme
+losses by degradation. It was demonstrated (43) that complete strand separation
+is not a necessary condition for annealing, rather, a partial melting
+of the strands is sufficient to permit hybridization of the primers.
+• The annealing temperature must be attained for a few seconds only.
+At a primer concentration of 1 /aM, the half-life time of the templateprimer
+hybrid is not more than 0.4 s at a temperature 20°C below the
+T m value (44).
+• As mentioned earlier, the incorporation rate of the enzyme is 60-150
+nucleotides/s at 70-75°C; thus, a few seconds are adequate for the
+amplification of sequences shorter than 1000 nucleotides. An incubation
+time of 1 min/1000 nucleotides of sequence length is a good rule of
+thumb, when sequences exceeding a length of 1000 nucleotides or more
+are to be amplified (24).
+3.2.6. Standard PCR Protocol
+Following this protocol, a product band should be detectable from
+a single copy gene. Prepare the following solution in a final volume of
+30-100 lxl_,:
+• I lag Genomic DNA as template;
+• 1 ~tM Primers, 20-25 bp in length, flanking a sequence of 100-1000 bp;
+• 10 mM Tris-HCl, pH 8.4;
+• 50 mM KCI;
+• 1.5 mMMgCI2;
+• 0.01% Gelatine; and
+• 200 pM of each dNTP.44 Landgraf and Wolfes
+Top this mixture carefully with paraffin oil, incubate at 95°C for 3
+min, add 1-4 U of Taq polymerase/100 paL reaction vol, and repeat 30
+cycles (temperature measurement in the heating block) of:
+• 1 min at 74°C;
+• 1 min at 92°C; and
+• 1 min at 50°C.
+End the procedure with an incubation at 74°C for 3 min. Analyze a
+10-gL aliquot on an agarose or PAGE gel; stain with ethidium bromide.
+3.2. 7. Reliable PCR Experiments
+In clinical diagnosis, reliability is the most important criterion for the
+application of a test. The extreme sensitivity of the PCR requires high
+standards for the conditions of operation. Even minor contaminations
+with foreign DNA will render results uncertain. With this caveat in mind,
+some precautions are necessary to avert false positive results (30).
+• Separate all PCR materials and equipment from processes involved in
+DNA isolation.
+• Aliquot all buffer, dNTP, and primer stock solutions.
+• Pipet the DNA last.
+• Always process controls in parallel: (a) a negative control with all components,
+but lacking the template, and (b) a positive control with a control
+template in a concentration similar to the template under investigation.
+• Perform only the minimum number of amplification cycles necessary
+to detect the product. This is crucial for experiments in which the loss
+of a band (e.g., demonstration of the deletion of particular a sequence)
+has to be detected (45).
+Recently, it was reported (46) that irradiation at 254 nm for 5 min
+of the PCR mix lacking template and enzyme will reduce DNA contamination
+by a factor of 105.
+4. PCR Applications
+As an overview, the next paragraphs will deal with the application of
+the PCR. For more detailed information, see the literature cited (47--49).
+4.1. PCR as a Standard Method
+in Clinical Diagnosis
+The scope of PCR application in clinical diagnosis ranges from
+prenatal diagnosis for sickle cell anemia (2) to postmortem analysis ofTaq Polymerase 45
+tissues of cancer metastases. We would like to restrict this chapter to
+some examples with characteristic features of PCR application in
+clinical diagnosis.
+The reasons for the success of the PCR as a standard method in clinical
+diagnosis are its outstanding sensitivity, reliability, and versatility. Diagnostic
+screening for mutations by the PCR should always be complemented
+with a statistical analysis; the probability of false diagnosis is on
+the order of 1% for a single-locus analysis in single cells (50).
+The extreme sensitivity of the technique can trace one target sequence
+in a background of 105-106 cells (3). The PCR makes affirmative statements
+on the genetic information of single somatic or sperm cells possible
+(36). In a serial examination, 700 different sperms were typified, demonstrating
+a frequency of recombination of 0.16 in one individual (51). An
+extension of this test series could allow the detection of recombination
+frequencies <0.001; hence, data would be available that are more exact
+than information from linkage analysis of pedigree studies.
+Multiple gene loci can be amplified in parallel. Six domains of the
+Duchenne Muscle Dystrophy (DMD) gene were amplified in a single
+experiment (45). Thus, it is possible to monitor by PCR 70% of the
+deletions in the 700-kb DMD gene. A simple test for 13-thalassemia
+was developed by combining the PCR amplification with subsequent
+dot blot hybridization to allele specific oligodeoxynucleotides (52).
+The PCR was established to amplify fragments up to 3000 bp to amounts
+detectable by staining (24,53). The amplification of larger fragments
+is feasible, although with little efficiency: Hypervariable minisatellite
+alleles up to 5-10 kb were faithfully amplified (15). Up to several micrograms
+of product can be achieved by the PCR, amounts sufficient as
+substrate in binding experiments, e.g., footprint analysis (54).
+4.2. PCR Applications in Combination
+with Nonradioactive Detection Techniques
+The use of radioactive probes should be avoided in routine screening
+tests. Even DNA of low abundance can be analyzed by the PCR
+followed by restriction analysis of the products (55). The definite
+sequence is enhanced to high copy numbers; therefore, radioactive
+detection systems are dispensable. Product identification can be easily
+done, for example, by hybridization to biotinylated oligodeoxynucleotides
+and subsequent detection via avidin-linked enzymes (56).46 Landgraf and Wolfes
+Allele-specific oligodeoxynucleotide (ASO) PCR (57) is based on
+the fact that only fully complementary primers will initiate the reaction.
+Therefore, amplification will be prohibited, if the complementary
+sequence is deleted or mutated. A primer specific for the mutated
+sequence is used as positive control. Point mutations, deletions, and
+insertions in the a- 1-antitrypsin gene were monitored (58) with primers
+harboring a 3' base mismatch with respect to the unmutated gene.
+One 3' mismatch is necessary and sufficient to ensure reliable detection.
+Primers bearing a mismatch located in the center of the primer
+sequence are not suitable for allele-specific hybridization.
+A different technique to find point mutations is competitive
+oligodeoxynucleotide priming (COP)(19). When the annealing of a
+primer mixture is performed at low stringency, the perfectly matched
+primer will be favored with a level of discrimination greater than
+100:1. An extension of COP and ASO-PCR involves the use of oligodeoxynucleotides
+conjugated with a fluorescent dye marker; the products
+are analyzed in a fluorimeter, hence rendering the electrophoretic
+analysis obsolete (30,59).
+4.3. Application of Specifically Designed Primers
+For the reason that a primer needs to be complementary only at its
+3' end to the sequence to be analyzed, mismatched primers can be of
+advantage in introducing new restriction sites in the amplified product.
+The product can be traced by restriction enzyme analysis even at
+high background (55). Also, the fragment produced can be cloned
+readily, one more benefit of this method (32).
+Sometimes it is difficult to detect a single mutation in longer fragments
+using denaturation gradient gel electrophoresis (DGGE). This
+drawback can be overcome by attachment of a 40-bp GC-rich stretch
+to the primers (60). The analysis of the PCR product, melting at a
+higher temperature, will enhance the sensitivity of this method.
+Mixed oligodeoxynucleotide primers designed on the basis of the amino
+acid sequence of urate oxidase were used successfully to clone the gene
+for this enzyme (34). If the primers crosshybridize to repetitive sequences,
+even an optimal adaptation of the annealing temperature will not eliminate
+unspecific bands. In this case, the amplification products can be
+diluted and reamplified with a second set of primers (61,62). The use of
+dc7GTP in a ratio of 3:1 over GTP is recommended to improve the PCR
+of sequences with distinct secondary structures (8,63).Taq Polymerase 47
+Normally, it is a prerequisite for the PCR to know the sequences
+flanking the region to be amplified. Different methods were developed
+to circumvent this drawback: Circularization of DNA fragments and
+subsequent cleavage in one known site result in a constellation, where
+an unknown region is flanked by sequenced regions (64).
+Normally, the PCR is applied to generate well-defined sequences.
+Whole genome PCR involves the ligation of oligodeoxynucleotides
+prior to the amplification, and constitutes a pool of material for further
+manipulation (65). With this technique, possible pitfalls in microcloning
+of dissected chromosome fragments could also be bypassed. After the
+ligation of oligodeoxynucleotides to restriction fragments, the DNA
+was amplified and cloned in high yields (66, 67).
+Ligation of known sequences to chemically cleaved DNA templates
+and subsequent PCR amplification allows a specific in vivo footprint
+analysis (68) as well as detection of methylation patterns (69). The
+principles of this ligation-mediated PCR application are depicted in
+Fig. 6. Random cleavage sites are generated in genomic DNA using
+Maxam-Gilbert chemistry. The strands are denatured, and a genespecific
+primer is annealed and extended with DNA polymerase.
+Oligodeoxynucleotide linkers are blunt-end ligated to the doublestranded
+products. The linker-ligated fragments are amplified with the
+PCR and analyzed on sequencing gels.
+4.4. Amplification of mRNA
+The amplification of RNA is performed on a cDNA template produced
+by reverse transcriptase. A small and not very efficient reverse
+transcriptase activity was detected in Taq polymerase (70). Molony
+Murine Leukemia Virus (MMLV) reverse transcriptase requires buffer
+conditions similar to Taq polymerase. Therefore, after addition ofpoly
+dT or sequence-specific primers and reverse transcriptase, the PCR
+can be executed directly in the same vial (71). Avian Myeloblastosis
+Virus (AMV) reverse transcriptase and Taq polymerase may also be
+added together to the RNA; the reactions will be started subsequently
+by choosing the proper reaction temperatures (42).
+Starting with cDNA, fragments as long as 1.6 kb could be cloned (72).
+The extreme sensitivity of the PCR allows semiquantitative recordings on
+specific mRNA content of single cells (73). Eleven out of 12 patients
+suffering from chronic myelogenous leukemia (CML) who underwent
+bone marrow transplantation still produced transcripts specific for CML.48 Landgraf and Wolfes
+Single strand breaks are generated In a footprintlng experiment or
+using Maxam Gilbert chemistry
+I
+Annealing of gene specific pdmers and
+extenUon with DNA polymerase |
+V
+I
+T4 Iigase mediated blunt end Ilgatlon
+of ollgodeoxynucleotide linkers [
+t f~ ( I ' l
+I ( ( ( I
+PCR amplification I
+I { { i
+h" ( ¢ l
+i t c d
+i { ( 1 1
+| ¢ ( d
+I ( ¢ a
+l . . .. ,a
+Sequencing gel
+Fig. 6. Application of PCR to in vivo footprinting and detection of methylation pattern.
+Although the patients were cytogenetically inconspicious even 3-6 yr
+after surgery, CML-specific transcripts could be detected by PCR of the
+reverse transcribed RNA (74).
+If the boundaries of genes are not exactly known, ligation of specific
+sequences to the cDNA will render an amplification feasible. Primers
+complementary to the ligated oligodeoxynucleotides permit the PCRTaq Polymerase 49
+of unknown sequences. This method is termed "anchor PCR" (75-77).
+An alternative to eDNA synthesis is a combination of consecutive
+RNA-DNA hybridization, S 1 nuclease digest, and PCR. This technique
+was applied successfully to trace CML-specific transcripts (78).
+4.5. Sequencing of PCR Products
+Sequencing PCR-amplified products is a time-saving procedure in
+the analysis of genes. No time-consuming cloning of DNA is necessary.
+On the contrary, errors made by Taq polymerase will lead to false
+sequence information, if cloned PCR products are sequenced (3).
+Sequencing revealed that, in 22 clones created from amplified DNA,
+none had a faultless sequence (10). In a direct sequencing reaction of
+amplified DNA, on the average, these shortcomings will not become
+visible. Double-strand sequencing of a single copy gene was utilized
+to typify mutations in the globin gene (79).
+In order to increase the efficiency ot the sequencing reaction, diverse
+strategies were developed aimed at yielding single-stranded DNA (80).
+When biased primer concentrations are used, a phase of normal PCR will
+precede a reaction producing dominantly single-stranded DNA (8,25). A
+well-balanced ratio of the primer concentration is crucial. If the primer
+concentration is too low, too little DNA will be available for single-strand
+synthesis. On the other hand, the ratio of single-stranded to double-stranded
+product will be inferior at primer concentrations that are too high. In
+experiments working with asymmetric primer concentrations, the PCR
+efficiency decreases to a factor of 1.7 as compared to amplifications with
+stoichiometrlc concentrations.
+Single-stranded DNA can be recovered by affinity chromatographic
+purification after amplification with biotinylated primers (27). In an
+elegant experiment (81), a phage promoter was attached 5' onto at least
+one of the PCR primers. The amplified segments were transcribed into
+RNA and sequenced with reverse transcriptase. Another way to generate
+single-stranded DNA involves a 5'-phosphorylated primer and
+phage ~, exonuclease, which specifically attacks double-stranded DNA
+only if there is a 5' terminal phosphate (82). With the dideoxy sequencing
+method, single copy genes can easily be sequenced with fluorescent
+dye-labeled primers (29). As an alternative, Maxam-Gilbert sequencing
+of PCR products (83) or sequencing after incorporation of dNTPa~S
+during the PCR is possible (18). When fluorescent dye-labeled primers
+are utilized, the cleavage products can be sequenced directly (28).50 Landgraf and Wolfes
+In the plateau phase of the reaction, the processivity of Taq polymerase
+decreases at excess template concentrations. This phenomenon
+is exploited in a very simple DNA sequencing method, where
+phosphothioates are incorporated into the newly synthesized DNA.
+The product is digested with snake venom phosphodiesterase and
+analyzed on a sequencing gel. No product purification is necessary
+applying this technique (84).
+4.6. PCR and Site-Directed Mutagenesis
+High yields of the desired mutations can be produced, when mismatched
+primers are employed in the PCR (85). Deletions, insertions,
+and mutations were created in plasmids with the support of mismatched
+primers and PCR (86). Furthermore, these primers may generate a new
+restriction site, serving as an option to introduce amplified fragments
+with the cassette method.
+Amplification of the whole plasmid offers the opportunity to introduce
+mutations in the absence of restriction sites (53); partial deletions
+in the plasmid are also feasible (87). In 70% of the amplified plasmids,
+3' additions of one base not present in the template were observed.
+Prior to cloning, these protruding ends had to be removed by the Klenow
+fragment of DNA polymerase to restore the gene sequence (53). The
+PCR has proved useful in the precise gene fusion at any chosen location
+(88). Sequencing of mutant clones after mutagenesis is
+compulsory, given the relatively high error rate of Taq polymerase
+(1.1 × 10 -.4 [6], 2 x 10 -4 [3,9)1). At least 20% of the clones derived
+from a 250-bp fragment amplified 106-fold will contain one error in
+the sequence (cf Fig. 7).
+4. 7. Quantitative Interpretation of PCR Results
+Standard PCR in itself is not a quantitative method, when the plateau
+is reached. For a quantitative interpretation of PCR experiments,
+low cycle numbers and template concentrations below enzyme concentrations
+are optimal, i.e., conditions where amplification is not
+restricted by limiting parameters prevailing in the plateau phase.
+Hybridization of 32p-labeled oligodeoxynucleotides revealed a linear
+correlation between template DNA and detected signal, provided that
+500--4000 copies of DNA as template and 30 amplification cycles
+were used (17). In order to increase the incorporation rate, the dNTP
+concentration was lowered to 10 JaM (Section 3.2.1.).Taq Polymerase
+% faultless Sequences
+100
+51
+80
+60
+40
+20
+I I I I I
+1 2 3 4 5
+[log] Amplification
+Fig. 7. Dependence of error rate and fragment length.
+In a technique referred to as differential PCR, alterations of genes
+can be monitored when two genes are coamplified in one reaction
+vessel. In this method, the primers are competing for the limiting
+enzyme; therefore, gene copy numbers can be estimated semiquantitatively
+even in the plateau phase of the PCR (89).
+Quantitation of mRNA transcription in different cell types was
+successfully performed using Southern hybridization to an internal
+standard and to the amplified product (90). Monitoring antiviral therapy
+benefits from the exceptional sensitivity of the PCR as well (91).
+A test system where standards identical to the target sequence, except
+for one restriction site, are coamplified provides an elegant way for the
+absolute determination of mRNA amounts. Consequently, both signals
+are enhanced to the same extent; variations in the reaction efficiency
+will not influence the result. After completion of the PCR, the
+standard is cleaved and compared with the target sequence (43). An
+alternative to blotting techniques is the utilization ofbiotinylated primers;
+the PCR products are immobilized on avidin agarose and hybridized
+to specific probes (14).
+5. Sequencing with Taq Polymerase
+Although Taq polymerase is considered often to be only useful for
+the PCR, last but not least, it should be pointed out that the enzyme is
+ideal for dideoxy sequencing, the reasons being:CHAPTER 5
+Eukaryotic Nuclear RNA Polymerases
+(EC 2.7.7.6)
+Deborah tL Cook and Robert J. Slater
+1. Introduction
+DNA-dependent RNA polymerases (ribonucleoside triphosphate:
+RNA nucleotidyltransferase, EC 2.7.7.6) catalyze the synthesis of RNA
+from ribonucleoside triphosphates in the presence of a DNA template
+and divalent cation (1).
+ATP
+CTP
+GTP
+UTP n
+Mg 2+ or Mn 2÷
+> RNA + (PPi) n
+DNA template
+DNA-dependent RNA polymerase
+The RNA molecules are synthesized complementary and antiparallel
+to one of the DNA strands in a 5' to 3' direction. The ribonucleotides
+are covalentlyjoined together by internucleoside 3'to 5' phosphodiester
+bonds with concomitant release of inorganic pyrophosphate.
+In order for the polymerase to do this, it must "recognize" the beginning
+of the DNA sequence to be transcribed within the double-stranded
+template; insert the correct nucleotide residue into each position, as
+determined by the template sequence; carry out synthesis, so that RNA
+is synthesized from beginning to end as a consequence of one polymerase
+binding event; and recognize termination signals in order to
+end RNA synthesis at the appropriate point. To achieve all this, the
+polymerase must be able to recognize regulatory sites on the DNA
+From: Methods in Molecular Biology, Vol. 16: Enzymes of Molecular Biology
+Edited by: M. M. Burrell Copyright ©1993 Humana Press Inc., Totowa, NJ
+5960 Cook and Slater
+template and interact with protein factors that modulate the activity
+of the enzyme. Several reviews have appeared on eukaryotic RNA
+polymerases (2-4).
+2. Biological Function
+Bacterial RNA polymerase containing a single apo enzyme is responsible
+for all the synthesis of RNA in the cell. There are approx 7000
+RNA polymerase molecules present in an Escherichia coli cell, and
+many of these are involved in transcription, although the actual number
+depends on the growth conditions (5). The RNA polymerase best
+characterized is that of E. coli, but its structure is similar in all other
+bacteria studied. The holoenzyme has a mol mass of about 480,000 Da
+and is made up of five subunits, a, 13, 13', o, and m, there being two
+copies of o~ and one each of the others: ~x21313'o¢0. The holoenzyme can
+be separated into two components, the apo enzyme (a21313'o)) and the
+sigma factor (o). The sigma subunit of the E. coli polymerase has a
+specific role as an initiation factor for transcription: It enables the
+enzyme to find consensus promoter sequences. Only the holoenzyme
+can initiate transcription; the sigma "factor" is then released, leaving
+the core enzyme to undertake elongation. Thus, the core enzyme has
+the ability to synthesize RNA on a DNA template; its affinity for DNA
+is the result of electrostatic attractions, but is nonspecific. It is the
+sigma factor that ensures correct transcription initiation involving the
+stable binding of the RNA polymerase to the promoter (5). Eukaryotes,
+however, contain multiple DNA-dependent RNA polymerases.
+Those that transcribe nuclear genomes are generally referred to as
+RNA polymerases I, II, and III transcribing rRNA, mRNA and tRNA,
+and 5SrRNA, respectively (Table 1).
+2.1. Properties
+Eukaryotic RNA polymerases transcribe both double-stranded and
+single-stranded DNA templates in vitro, and single-stranded templates
+generally promote higher rates of transcription (6). RNA polymerases
+of plants and animals are capable of initiating transcription at nicks in
+the DNA template in vitro (3, 8). Purified eukaryotic RNA polymerases
+are capable of some degree of selective binding and initiation of RNA
+chains on deproteinized DNA templates (9,10), although this is nonspecific,
+and in no case has the selectivity been correlated with a
+promoter or initiation site. From a number of studies with animal cell-freeEukaryotic RNA Polymerases
+Table 1
+Properties of Eukaryotic RNA Polymerases a
+61
+Eukaryotic RNA polymerases
+I II III
+Cellular location
+Transcription product
+~-Amanitin sensitivity
+(lag/mL required for
+50% inhibition)
+Subunit structure
+Ionic strength optima
+(NH4)2SO 4 M
+Soluble enzyme
+Chromatin-bound
+enzyme
+Mn2+/Mg 2+ activity ratio
+Poly (dA/dT)/DNA activity
+ratio
+Chromatographic elution
+(NH4)2SO 4 M
+DEAE-Sephadex
+DEAE-cellulose
+Nucleolus Nucleoplasm Nucleoplasm
+rRNA hnRNA tRNA
+snRNA 5SrRNA
+Nonsensitive Very sensitive Moderately
+(0.01-0.05) sensitive
+(5-1000)
+Two large subunits 100,000-240,000
+and several small subunits 10,000-95,000
+0.03-0.05 0.025--0.1 0.04-0.01,
+0.18-0.3
+0.05-0.1 0.25-0.5 0.05-0.1
+~5:1 -7:1 ~3:1
+2:3 1:2 1:3
+~0.1 -0.2 0.2-0.3
+-0.1 -0.2 -0.1
+~I'aken from refs. 1,4,6,7.
+extracts, it is apparent that additional factors are required to obtain faithful
+transcription in vitro, so the enzymes are not often used in their pure state
+because they lack specificity. Eukaryotic RNApolymerases differ in subunit
+structure, type of genome transcribed, chromatographic properties, divalent
+cation, ionic strength optima, and ct-amanitin sensitivity. The poisonous
+mushroom Amanita phalloides produces ct-amanitin, a bicyclic
+octopeptide that blocks the elongation step of transcription by direct
+interaction with RNApolymerases that differ in their sensitivity (Table 1).
+RNA polymerase I is insensitive to the toxin, but is responsive to actinomycin
+D, which binds to DNA preventing elongation. RNA polymerase
+II is very sensitive and RNA polymerase III moderately so. Thus, the
+various RNApolymerases I, II, and III are readily distinguished (Table 1).
+Intact cells are not freely permeable to ot-amanitin; therefore, it is necessary
+to use a whole-cell or nuclear extract.62 Cook and Slater
+2.2. Ion Requirement
+The requirement for a divalent cation by RNA polymerases indicates
+binding of nucleotides to the enzyme as metal chelates, for example:
+MgATP (11). The optimum divalent cation concentration is generally
+in the range of 5-10 mM Mg 2÷ or 1-2 mM Mn 2÷ (2). In addition to the
+above requirements, RNA polymerase activity is stimulated by the
+inclusion of monovalent cations, such as (NH4)2SO 4, NH4C1, KC1, or
+NaC1. This is especially evident when engaged RNA polymerases are
+assayed in isolated nuclei or chromatin. With isolated plant or animal
+nuclei, RNA polymerase I and III activity is most active at 0.05-0.10M
+(NH4)2SO4, whereas RNA polymerase II activity is optimized at 0.25-
+0.50M (12-15).
+2.3. Structure
+The nuclear RNA polymerases have a complex subunit structure.
+Each has a mol mass of approx 500,000 Da and is made up of two large
+subunits, each having a mol mass >100,000 Da, which seem to be
+characteristic for each class of enzyme, and a number of smaller subunits,
+with mol wt from 10,000 Da to just less than 100,000 Da (2,4).
+The situation is further complicated by the phenomenon of
+microheterogeneity within RNA polymerase classes (7).
+3. Transcription Factors
+The basic components required for efficient and accurately regulated
+eukaryotic transcription initiation include two types of DNA
+elements known as promoters and upstream regulatory sequences;
+two sets of proteins known as general transcription factors and specific
+or regulatory proteins, and the RNA polymerase enzyme. Transcription
+can occur when the eukaryotic RNA polymerase recognizes
+a preexisting DNA-protein complex. RNA polymerase II has four
+general transcription factors associated with it; these have been partially
+purified and designated TFIIA, B, D, and E (16-19). TFIIA is
+required for the efficient interaction of TFIID with the promoter element
+known as the TATA box (20,21), which is found in nearly all
+eukaryotic promoters, with a consensus sequence "TATAAA" and
+located approx 25-30 bp upstream of the transcription start site in
+mammalian promoters (22-25). It has been shown that TFIIE specifiEukaryotic RNA Polymerases 63
+cally interacts with RNA polymerase II and TFIIB (26,27). These
+transcription factors range in mol mass from 25,000 Da for yeast (28)
+to 76,000 Da for TFIIE (24).
+Although promoters themselves are sufficient to direct basal level
+gene expression, specific transcription requires the assistance of additional
+transcription factors (29). These sequence-specific DNA binding
+proteins are directly involved in the recognition of mRNA
+transcription initiation in higher organisms; for example, CAT transcription
+factor (CTF) is responsible for selective recognition of eukaryotic
+promoters that contain the sequence CCAAT (30,31), whereas the
+Sp 1 protein binding regions contain one or more GC boxes (GGGCGG),
+which can be present in either orientation with respect to transcription.
+Not all GC boxes bind Sp 1 with equal affinity, and sequences outside
+the core hexanucleotide seem to modulate the efficiency of binding
+(for review, see refs. 25,32).
+In HeLa cell factor, termed the major late transcription factor or
+upstream stimulatory factor, MLTF/USF binds to an upstream consensus
+sequence GGCCACGTGACC, which functions in a bidirectional
+manner. MLTF/USF may act synergistically with TFIID, since binding of
+MLTF/USF enhances binding of TFIID (33, 34). The binding sequence
+occurs in a number of cellular promoters, for example, mouse and rat
+y-fibrinogen (35). Another promoter-specific transcription factor is
+the heat shock transcription factor (HSTF). All maj or heat shock genes
+contain multiple HSE (heat shock regulatory elements) with the consensus
+sequence C--GAA--TCC-----G (36). In HeLacells, heat shock causes
+more HSTF to bind to the HSE, whereas in yeast, HSTF binds constitutively
+and heat shock causes HSTF to become phosphorylated (37).
+3.1. In Vitro Transcription Systems
+The development of methods for preparing soluble whole-cell and
+nuclear extracts from mammalian cells (38-41) has led to a dramatic
+increase in our understanding of the mechanistic details of complex
+biochemical reactions, such as transcription, replication, and RNA
+processing.
+In vitro transcription systems were partially developed to study the
+biochemical mechanisms of DNA-protein interaction, gene expression,
+and regulation. To date, several cell-free transcription systems
+have been developed, the first by Wu in 1978 (42); which demon64 Cook and Slater
+strated accurate transcription of exogenous DNA by polymerase III,
+and others such as those developed by Weil et al. (38); Manley et al.
+(39); Dignam et al. (40); and Zerivitz and Akusjarvi (41).
+The major advantage of soluble cell-free transcription systems is
+that they can be fractionated by standard techniques in order to identify
+those components involved in the transcription process (43). The
+purified enzymes alone do not direct selective and accurate transcription
+from purified DNA templates, but they appear to initiate and terminate
+at a large number of sites, which may not be relevant to transcription
+in vivo (3,4). The most extensive use of in vitro transcription systems
+to date has been to study the structure of promoter sites and the transcription
+factors needed to bring about selective transcription (44).
+4. Experimental Procedures
+4.1. TCA Precipitation Assay
+This procedure can be used as an estimate of nucleoside triphosphate
+incorporation into trichloroacetic acid (TCA) precipitable products
+following an in vitro transcription reaction. 3H-UTP is usually the
+radiolabel of choice. The reaction (as detailed in Section 4.2., but for
+the substitution of 32p-labeled GTP with 1.0 ~tCi of 3H-UTP) is stopped
+by the addition of 10% TCA. Acid-insoluble material is then collected
+on glass fiber disks, washed twice with 5% TCA (with sodium pyrophosphate
+to reduce nonspecific binding of the radiolabel), and finally
+with alcohol to remove unincorporated radiolabel. The filters are dried
+and the radioactivity estimated by using a scintillation counter; hence,
+an estimation of nucleotide incorporation can be made (1).
+4.2. Run-Off Transcription
+RNA polymerase does not accurately terminate transcription in
+vitro. One procedure therefore is to use as template a cloned gene
+fragment that includes the promoter, but is truncated downstream.
+Using the "run-off" assay system, the whole-cell or nuclear lysate,
+DNA template, and radiolabeled (32p) nucleotide are incubated at 30°C
+for 60 min. RNA is synthesized from the truncated DNA template and
+analyzed electrophoretically to detect the species of RNA with the
+predicted length.
+A typical 50-]xL in vitro transcription reaction would contain the
+following:Eukaryotic RNA Polymerases 65
+• 20-30 gL Whole-cell or nuclear extract;
+• 1-2.5 lag Template DNA;
+• 500 I.tM each of ATP, CTP, and UTP;
+• 4 mM Creatine phosphate;
+• 50 ~tM Unlabeled nucleoside triphosphate (GTP)
+• 10 ~tCi Labeled nucleoside triphosphate (32p-GTP specific activity).
+The volume is made up to 50 ~L with sterile distilled water and incubated
+at 30°C for 1 h. Suitable controls include omission of template
+DNA or unlabeled nucleoside triphosphates, and addition of RNase or
+o~-amanitin.
+This system uses template DNA that has been cleaved by a restriction
+enzyme cutting downstream from its putative start site. RNA
+polymerases that transcribe this DNA will stop or "fall off" when they
+reach the end of the DNA. If a substantial number of enzymes initiate
+transcription at the same site, then a population of molecules will
+migrate as a single band during gel electrophoresis. If DNA segments
+cleaved by different restriction enzymes are used as templates in separate
+reaction mixtures, the transcription start site can be deduced by
+comparison of the sizes of RNAs produced; this can then be used for
+promoter mapping.
+4.3. Primer Extension
+This method is commonly used to measure the precise 5' end of
+transcripts, based on the fact that reverse transcriptase can transcribe
+RNA into DNA. Therefore, a single-strand oligonucleotide of DNA
+primer hybridized to RNA can be extended until the end of the RNA
+is reached. Primer extension utilizes a primer of specific sequence to
+determine the amount and length of a specific RNA. This sort of analysis
+has been widely used to characterize mRNA made both in vivo and
+in vitro (45).
+Primer extension is used to map the 5' termini of an RNA transcript;
+hence, the cap site of transcription can be determined. In addition, precursors
+and processing intermediates of mRNA can be detected. A short
+known fragment (30-80 bp) of DNA corresponding to a sequence near to
+the anticipated cap site of the gene of interest is labeled at the 5' terminus;
+this is termed the primer (a synthetic oligonucleotide or restriction fragment).
+The test RNA, which has been digested with RNase-free DNase to
+remove template DNA, can be synthesized in an in vitro transcription66 Cook and Slater
+system (with the omission of the radiolabeled triphosphate, as described
+in Section 4.2.) and hybridized with an excess of the single-stranded
+DNA primer. The primer and the RNA are then incubated at 85°C for
+10 min to denature the nucleic acids, and annealed by incubating at a
+suitable temperature, for example, 55°C for 8-12 h. The exact temperature
+needs to be optimized by preliminary experiments. The length
+and GC content of the primer are used to determine the temperature of
+annealing; the standard temperature of 55°C is suitable for a 20 base
+oligonucleotide sequence with a GC content of approx 50% (46,47).
+The primer:RNAhybrid is then dissolved in reverse transcriptase buffer,
+approx 50 U of reverse transcriptase added to extend the primer to
+produce a eDNA copy complementary to the RNA template and incubated
+at 42°C for 90 min. If analyzing more than 10 lag of RNA in order
+to prevent distortion of the sequencing gel, a RNase digestion is needed
+at this stage.When the reverse transcriptase reaches the end of the
+sequence (the cap site), it "falls off." The length of the resulting endlabeled
+eDNA is measured by denaturing gel electrophoresis usually
+on a DNA sequencing gel, hence, the sequence prior to the cap site can
+also be determined.
+Single-stranded DNA primers are preferred for experiments, since
+they eliminate the formation of DNA:DNA hybrids and can be designed
+to hybridize to specific sequences of the mRNA.
+4.4. Nuclease $1 RNA Mapping
+The enzyme S 1 nuclease degrades single-stranded DNA to yield 5'
+phosphoryl mono or oligonucleotide (48). Primer extension cannot be
+used to identify the 3' end of a transcript. Nuclease S 1 mapping is
+therefore the method of choice for this purpose. The procedure was
+originally described by Berk and Sharp in 1977 (49); it has been used
+to map the location of 5' and 3' termini of mRNA or DNA templates,
+and locate 5' and 3' splice points (50).
+End-labeled RNA or DNA probes derived from various segments of
+the genomic DNA are hybridized to mRNA favoring DNA:RNA hybrid
+formation (51). Products of the hybridization are digested with nuclease
+S 1 under conditions favoring single-stranded nucleic acid degradation
+only. Then the products are analyzed by gel electrophoresis to
+yield important quantitative and qualitative information about the
+mRNA structure. The basic method is as follows: Probe and RNA areEukaryotic RNA Polymerases 67
+mixed together, resuspended in hybridization buffer (40 mM PIPES
+[pH 6.4], 1 mM EDTA [pH 8.0], 0.4MNaC1 and 50% formamide), and
+incubated at 85°C for 10 min to denature the nucleic acids. Hybridization
+follows for 12-16 h, but again the temperature is dependent on the
+GC content of the DNA. Nuclease S 1 at 100-1000 U/mL and singlestranded
+carrier DNA at 20 Bg/mL are then added for single-strand
+digestion, but the temperature depends on the degree of digestion
+required. Loops of DNA will be degraded at 20°C, and 37-45°C will
+digest single-stranded regions of DNA:RNA hybrids. The reactions
+are cooled to 0°C and nuclease stop mixture (containing carrier RNA
+at 50 Bg/cm 3) added. The products can then be phenol:chloroform
+extracted, and the nuclease S 1-resistant hybrids analyzed by alkaline
+or neutral agarose gel electrophoresis. In the case where a radiolabeled
+DNA probe has been chosen, this can be analyzed by electrophoresis
+through a polyacrylamide/urea gel and an autoradiogram established.
+A detailed description of nuclease-S 1 mapping was presented in a
+review by Favalaro et al. in 1980 (52).
+5. Cell and Nuclear Extracts
+5. I. Soluble Cell Extract Transcription System
+for RNA Polymerase II
+A soluble transcription system is a cell extract that will faithfully
+transcribe an exogenous DNA as template. For this, the extract should
+contain all the necessary factors needed for the correct initiation and
+elongation of the RNA chain, and be low in nuclease activity to prevent
+degradation of the exogenous DNA template or transcription
+products during the incubation. Establishing soluble systems provides
+a starting point for the separation, isolation, and analysis of those
+factors required (in addition to RNA polymerase) for accurate transcription
+in vitro (45).
+To date, many eukaryotic and viral genes have been sequenced, and
+putative controlling sequences have been deduced. These observations
+can be verified by in vitro manipulation of the DNA template and
+then using the DNA in an in vitro transcription system to test the effect.
+Weil et al. in 1979 (38) prepared a high-speed supernatant (S100)
+cellular extract from cultured human cells. This S 100 extract can be
+used for transcription experiments once supplemented with purified68 Cook and Slater
+RNA polymerase II. RNA polymerase II from wheat germ does not
+function in this system, indicating that it is a combined effect of RNA
+polymerase II and specific factors that mediate accurate and selective
+transcription. Fractionated S 100 does contain multiple factors required
+for accurate transcription by purified RNA polymerase II (16,22).
+5.2. HeLa Whole Cell Lysate (39)
+The extract is prepared by gentle lysis of cells with a Dounce homogenizer.
+Ammonium sulfate is added to approx 20% saturation, and the
+nuclei lysed. Cell debris and broken nuclei are removed by centrifugation
+at 175,000g for 3 h. Proteins in the supernatant are resuspended
+and dialyzed for 12 h. The dialysate is centrifuged to remove insoluble
+material, and supernatant removed to form the extract. This can be
+stored in small aliquots with repeated thawing and refreezing for up to
+1 yr at -70°C. The extract normally contains 6-30 mg/mL of protein.
+The rate of RNA polymerase II elongation is approx 300 nucleotides/
+min approx 1/10th that in vivo (53). The in vitro temperature of 30°C
+should not be increased to 37°C, otherwise RNase degradation may
+become a problem (39). The reaction mixture is detailed in Section 4.2.
+Each whole cell extract must be characterized by DNA and extract
+titration, since there is a threshold DNA concentration below which no
+accurate transcription occurs and an inhibitory effect at high DNA
+concentrations. Specific transcription can be obtained when the final
+concentration of protein in the extract is in the range 6-18 mg/mL. The
+extract contains high levels of 18S and 28S rRNA. Therefore, following
+extraction, it is possible that only 50-75% of the sample may be loaded
+onto the gel to avoid overloading. Since the extract is made from whole
+cells, weak promoters may not be as easily detected, although this does
+depend on the level of background nonspecific transcription occurring.
+5.3. Nuclear Extracts from Human Cells (40)
+The extract is prepared by isolating nuclei in hypotonic buffer, lysis
+of cells with a Dounce homogenizer, extraction of the nuclei at 0.42M
+NaC1, high-speed centrifugation to clear the supernatant, and concentration
+of the extracted nucleic acids and various transcription factors
+by ammonium sulfate precipitation. Since the nuclei are isolated at
+very low ionic strength (0.01M KCI), retention of nuclear components
+is facilitated and contaminating cytoplasmic proteins are discarded in
+the supernatant following pelleting of the nuclei. Extraction at 0.42MEukaryotic RNA Polymerases 69
+NaC1 appears to release all of the nuclear components required for
+specific transcription, including RNA polymerase II, without releasing
+tightly bound nuclear proteins that can inhibit specific transcription (40).
+5.4. Nuclear Extract (41)
+This method uses lysolecithin (a natural membrane lipid--lysophosphatidylcholine)
+to disrupt plasma membranes and requires no detergents
+or lysis with a Dounce homogenizer. Lysolecithin nuclear extracts
+are said to be competent for RNA polymerase II and III transcription,
+DNA replication, pre-mRNA splicing, and sequence-specific DNAprotein
+binding. Nuclear extracts can be prepared on a small scale ( 107
+cells), as well as for preparative purposes by this method.
+Lysolecithin is highly toxic and cells lyse within 90 s. An extract
+made from HeLa cells at a density of 4-6 x 105/mL provides a suitable
+nuclear extract for in vitro transcription analysis. Using HeLa suspensions
+at 108 cells/mL, 100% lysis can be obtained with a concentration
+oflysolecithin at 300-800 gg/mL. In the protocol (41), a concentration
+of 400 gg/mL was chosen.
+References
+1. Slater, R. J. (1987) In vitro transcription, in Techniques in Molecular Biology,
+vol. 2 (Walker, J. M. and Gaastra, W., eds.), Groom Helm, London and Sidney,
+pp. 203-227.
+2. Jacob, S. T. (1973) Mammalian RNA polymerases. Prog. Nucleic Acids Res.
+Mol. Biol. 13, 93-126.
+3. Chambon, P. (1975)Eukaryotic nuclear RNA polymerases. Ann. Rev. Biochem.
+44, 613-638.
+4. Roeder, R. G. (1976) Eukaryotic nuclear RNA polymerases, in RNA Polymerase
+(Losick, R. and Chamberlin, M., eds.), Cold Spring Harbor Laboratory, Cold
+Spring Harbor, NY, pp. 285-329.
+5. Chamberlin, M. (1982) Bacterial DNA-dependent RNA polymerases, in The
+Enzymes, 3rd ed., vol. 15B (Boyer, P., ed.), Academic, New York, pp. 61-108.
+6. Guilfoyle, T. J. (1983) DNA-dependent RNA polymerases of plants and lower
+eukaryotes, in Enzymes of Nucleic Acid Synthesis and Modification, vol. 2 (Jacob,
+S. T., ed.), CRC, Cleveland, OH, pp. 1-41.
+7. Beebee, T. J. C. and Butterworth, P. H. W. (1981) Eukaryotic DNA-dependent
+RNA polymerases: An evaluation of their role in the regulation of gene expression,
+in Eukaryotic Gene Regulation, vol. 2 (Kolodny, G. M., ed.), CRC, Cleveland,
+OH, pp. 1-56.
+8. Chandler, D. W. and Gralla, J. (1980) Specific binding and protection of form II
+SV40 deoxyribonucleic acid by ribonucleic acid polymerase II from wheat germ.
+Biochemistry 19, 1604-1612.

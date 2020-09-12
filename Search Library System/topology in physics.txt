@@ -1,0 +1,4363 @@
+1 Lie Algebras a crash course
+Cyril Stark
+Supervisor Urs Wenger
+The goal of this paper is to give an introduction to the representation
+theory of Lie algebras. In the rst part, the fundamentals
+of Lie groups and their Lie algebras are presented in a very compact
+form. In the second and the third part, the representations
+of su(2) and su(3) are discussed and basic terms are introduced.
+In the forth part follows the generalization of the machinery introduced
+in the analysis of su(2) and su(3). The last part is
+related to the classication of complex simple Lie algebras. Most
+of the proofs are omitted in the rst, the forth and the fth part.
+1 Introduction
+Lie algebras are closely connected to symmetries. Their use in the description
+of physical systems allows to apply algebraical methods to get further insight.
+Concrete applications of Lie theory appear in the description of atomic, molecular
+and nuclear spectra or in gauge theories. Furthermore, Lie algebras are related to
+several algebraical structures like group algebras, Hopf algebras, quantum groups
+and vertex operator algebras which are used in mathematical physics. The goal
+of this paper is to provide an informal introduction to Lie theory. A detailed
+presentation of the subject is given in [1, 2].
+2 Fundamentals
+Denition of a Lie Group
+Denition (Lie Group). A Lie group G is a set G that has two structures
+that are compatible to each other the structure of a group and the structure
+of a C1-manifold. 'Compatible' means that the operations 'multiplication' and
+'inverse' associated to the group structure of G are dierentiable maps (C1).
+11 Lie Algebras a crash course
+Cyril Stark
+Supervisor Urs Wenger
+The goal of this paper is to give an introduction to the representation
+theory of Lie algebras. In the rst part, the fundamentals
+of Lie groups and their Lie algebras are presented in a very compact
+form. In the second and the third part, the representations
+of su(2) and su(3) are discussed and basic terms are introduced.
+In the forth part follows the generalization of the machinery introduced
+in the analysis of su(2) and su(3). The last part is
+related to the classication of complex simple Lie algebras. Most
+of the proofs are omitted in the rst, the forth and the fth part.
+1 Introduction
+Lie algebras are closely connected to symmetries. Their use in the description
+of physical systems allows to apply algebraical methods to get further insight.
+Concrete applications of Lie theory appear in the description of atomic, molecular
+and nuclear spectra or in gauge theories. Furthermore, Lie algebras are related to
+several algebraical structures like group algebras, Hopf algebras, quantum groups
+and vertex operator algebras which are used in mathematical physics. The goal
+of this paper is to provide an informal introduction to Lie theory. A detailed
+presentation of the subject is given in [1, 2].
+2 Fundamentals
+Denition of a Lie Group
+Denition (Lie Group). A Lie group G is a set G that has two structures
+that are compatible to each other the structure of a group and the structure
+of a C1-manifold. 'Compatible' means that the operations 'multiplication' and
+'inverse' associated to the group structure of G are dierentiable maps (C1).
+12 Topology in Physics
+Denition 1. Let G and H be two Lie groups. A homomorphism between Lie
+groups is a group homomorphism which is dierentiable. In the remainder of this
+section we will simply write 'homomorphism' instead of 'homomorphism between
+Lie groups'.
+Denition 2. Let G be a Lie group. A representation of G is a homomorphism
+between Lie groups from G to GL(V ).
+The matrix group GLn(R) is a basic example for a Lie group. This group
+is an open subset of the vector space of all n  n matrices and therefore a C1-
+manifold. Obviously, the multiplication is dierentiable as well as the inverseoperation
+(compare Cramer's rule).
+Whenever no basis is specied, the maps corresponding to the matrices in GLn(R)
+must be considered as automorphisms. The set of all automorphisms V ! V is
+denoted by GL(V ).
+Denition 3. A complex Lie group is a complex manifold endowed with a group
+structure in such a way that the operations 'product' and 'inverse' associated to
+the group structure are holomorphic maps.
+A complex manifold is a smooth manifold of dimension 2n such that the local
+charts (U; ) have the property that the change-of-coordinate map    are
+holomorphic.
+Denition and basic properties of Lie Algebras
+The ultimate goal is the study of representations of Lie groups. For that purpose
+one makes use of the dierentiable structure of the Lie group. More precisely,
+we will try to determine a characterization of   G ! H being a Lie group
+homomorphism expressed by maps between tangent spaces of G and H.
+The right idea is to look at the automorphisms of G given by conjugation
+	g  G ! G
+h ! 	g(h) = g  h  g??1,
+i.e.,
+	  G ! GL(G); (1.1)
+where GL(G) denotes the set of all automorphisms on G. We observe
+ group homomorphism )   g = (g)  ; (1.2)
+since
+  g(h) = (g)(h)??1(g) = (g)  (h)
+We are going to dierentiate (at the identity) two times, i.e., we use that  is
+dierentiable. After the second dierentiation we will deduce an identity based onLie Algebras a crash course 3
+the assumption that  is a group homomorphism that involves only the dierential
+of .
+Dierentiation at the identity of (1.2) yields
+de  d( g)e = d( (g))e  de
+We dene a new map to reformulate this result.
+Denition 4. The adjoint map Ad is dened as
+Ad  G ! GL(TeG)
+g 7! Ad(g) = d(	g)e  TeG ! TeG
+Thus, the adjoint map Ad realizes a representation of G called the adjoint representation
+of the Lie group G.
+Therefore,
+ group homomorphism ) de  Ad(g) = Ad((g))  de (1.3)
+This identity still explicitly depends on (g). Thus, we dierentiate a second
+time to get
+de  d(Ad)e(X)(Y ) = d(Ad)e(de(X); de(Y )) (1.4)
+Denition 5. One denes ad = d(Ad)e. The tangent space at GL(TeG) can be
+identied with the entire space End(TeG). Thus,
+ad  TeG ! End(TeG)
+X 7! ad(X) = d(Ad)e(X)  TeG ! TeG
+Therefore, we can consider the map ad to be a bilinear map
+TeG  TeG ! TeG
+Notation
+[X; Y ] = ad(X)(Y )
+Using this denition in identity (1.4) yields the following important identity
+(Assumption  is a homomorphism)
+de([X; Y ]) = [de(X); de(Y )] (1.5)
+We can even state the following two assertions which are much stronger (without
+proof)
+Theorem 1. Let G and H be two Lie groups, with G connected. Then Each
+homomorphism   G ! H is uniquely determined by its dierential de 
+TeG ! TeH at the identity.4 Topology in Physics
+Theorem 2. Let G and H be two Lie groups, with G connected and simply
+connected. Then A linear map L  TeG ! TeH is the dierential of a
+homomorphism   G ! H i it preserves the bracket operation, i.e.,
+L([X; Y ]) = [L(X);L(Y )]
+Observation 1. Properties of the bracket operation [; ] on TeG
+1. Skew-symmetry, i.e.,
+[X; Y ] = ??[Y;X]
+2. Satisfaction of the Jacobi identity, i.e.,
+[X; [Y;Z]] + [Z; [X; Y ]] + [Y; [Z;X]] = 0
+A general vector space with such a structure is called a Lie algebra
+Denition (Lie Algebra). A vector space V together with a skew-symmetric
+bilinear form
+[; ]  V  V ! V
+which satises the Jacobi identity is called a Lie algebra (usually denoted g).
+One can also show that the 'contrary' is true as well, i.e., that the tangent
+space at a Lie group has exactly the structure of a Lie algebra. That's the reason
+why the tangent space TeG of a Lie group G is called the Lie algebra g of the Lie
+group G.
+An even stronger assertion is (without proof)...
+Proposition 1. Every nite-dimensional (abstract) Lie algebra is the Lie algebra
+of a Lie group.
+A real (complex) Lie algebra is a Lie algebra whose vector space is a real
+(complex) vector space.
+Denition 6. A homomorphism L  g1 ! g2 between Lie Algebras g1 and g2
+is a linear map of vector spaces which preserves the bracket operation, i.e.,
+L([X; Y ]g1) = [L(X);L(Y )]g2 
+Denition 7. A Lie subalgebra is a linear subspace which is closed under the
+bracket.
+Let us try to explicitly compute the bracket operation for G = GLnR.Lie Algebras a crash course 5
+The Lie group GLn(R) is an open subset of the space End(Rn). Thus, we can
+identify End(Rn) with the tangent space TeGLn(R) and the conjugation 	g on
+GLn(R) extends naturally to End(Rn) = TeGLn(R), i.e.,
+Ad(g)(X)  d(	g)e(X) = g  X  g??1;
+for all X 2 TeGLn(R) = End(Rn).
+Let X and Y be two tangent vectors to GLn(R) and let   I  R ! GLn(R)
+be a curve such that (0) = e and such that 0(0) = X. Then
+[X; Y ]  ad(X)(Y )
+=
+d
+dt
+jt=0 Ad((t))(Y )
+=
+d
+dt
+jt=0 ((t)Y ??1(t))
+= 0(0)  Y  ??1(0) + (0)  Y  (??(0))  0(0)
+= X  Y ?? Y  X (1.6)
+Denition (Representation). A representation of a Lie algebra g on a vector
+space V is a homomorphism between Lie algebras
+  g ! gl(V ) = End(V );
+i.e.,  is a linear map form the vector space corresponding to g to the vector
+space corresponding to gl(V )such that
+([X; Y ]g) = [(X); (Y )]gl(V ) = (X)  (Y ) ?? (Y )  (X);
+for all X; Y 2 g.
+The last equation follows from our discussion about GLn(R) with the only
+dierence that this time gl(V ) is considered to be the space of automorphisms
+and not to be a space of matrices (i.e., no basis has been specied).
+As corollaries of theorem 1 and theorem 2 we can state the following crucial
+observation.
+Crucial Observation. The representations of a connected and simply connected
+Lie group are in one-to-one correspondence to the representations of its Lie algebra.
+Denition 8. Let V be a nite-dimensional real vector space. Then the complexi
+cation VC of the vector space V is the space of formal combinations
+v1 + iv2;
+with v1, v2 2 V . This is a real vector space and becomes a complex vector space,
+if we dene
+i(v1 + iv2)  iv1 ?? v26 Topology in Physics
+Proposition 2. Let g be a nite-dimensional real Lie algebra and gC its complexi
+cation to a complex vector space. Then there exists a unique extension of
+the bracket operation of the Lie algebra g to the vector space gC which becomes a
+Lie algebra.
+Proof. Since the extension of the bracket must still be bilinear, we have that
+[X1 + iX2; Y1 + iY2] = ([X1; Y1] ?? [X2; Y2]) + i([X1; Y2] + [X2; Y1])
+Therefore the extension is unique. To proof the existence of the extension of
+the Lie bracket we must check that the new bracket fullls the demands in the
+denition of a Lie bracket. The extension is obviously skew symmetric and real
+bilinear since this is true for the bracket on g.
+To check complex bilinearity we only have to check (think of skew-symmetry)
+that the new bracket is complex-linear in one argument
+[i(X1 + iX2); Y1 + iY2] = [iX1 ?? X2; Y1 + iY2]
+= (??[X1; Y2] ?? [X2; Y1]) + i([X1; Y1] ?? [X2; Y2])
+= i(([X1; Y1] ?? [X2; Y2]) + i([X1; Y2] + [X2; Y1]))
+= i[X1 + iX2; Y1 + iY2]
+What is left to check is the Jacobi identity. We rst observe (using bilinearity)
+that
+[X; [Y;Z]] + [Z; [X; Y ]] + [Y; [Z;X]] = 0;
+for all X 2 gC and Y;Z 2 g. The same argument applies to Y;Z and it follows
+that the Jacobi identity holds for the extended bracket on gC.
+Denition 9. The vector space gC together with the unique extension of the
+bracket operation of a real Lie algebra g is called the complexication gC of the
+real Lie algebra g.
+Proposition 3. Let g be a real Lie algebra and gC its complexication. Then
+an arbitrary nite-dimensional complex representation ~ of g can be extended
+uniquely to a complex-linear representation of gC given by
+(X + iY ) = ~(X) + i~(Y )
+for all X; Y 2 g.
+In addition we have that  is irreducible i ~ is irreducible.
+Proof. Existence and uniqueness are trivial.
+Let us prove the statement concerning the irreducibility.
+) Let ~ be irreducible and let W be a complex linear subspace invariant
+under . This implies that W is invariant under ~. Therefore W is equal to f0g
+or to the whole representation space )  is irreducible.Lie Algebras a crash course 7
+( Let  be irreducible and let W be a complex linear subspace invariant
+under ~. We deduce that (W)  ~(W) + i~(W)  W since W is a complex
+vector space. Therefore W is equal to f0g or is equal to the entire representation
+space ) ~ is irreducible.
+Lemma 1. su(n)C
+=
+sl(n;C)
+Proof. The complexication su(n)C of the real Lie algebra su(n) and sl(n;C)
+are subalgebras of the Lie algebra gl(n;C) (compare the denition of the complexi
+cation). The Lie algebra sl(n;C) is the space of complex and traceless
+n  n-matrices. We can write each element X of sl(n;C) (uniquely) in the form
+X =
+X ?? X
+2
++ i
+X + X
+2i
+;
+where (X??X)=2 and (X+X)=2i are both traceless and skew and are therefore
+elements of su(n). This implies the claim.
+The Exponential Map
+Let G be a Lie group with Lie algebra g, X 2 g and g 2 G. The map mg  G !
+G is the dieomorphism dened by left-multiplication with g, i.e., mg(h) = g  h
+for all h 2 G.
+Now we introduce a vector eld on the Lie group G dened by
+vX(g) = (mg)(X) (1.7)
+((mg)(X)  d(mg)mg??1X.) This is locally integrable. Thus, there exists I  R,
+  I ! G dierentiable with (0) = e, such that
+0
+X(t) = vX(X(t)) (1.8)
+for all t 2 I. Since (s+t) = (s)  (t) and since  is dened on a nite interval
+I, we can deduce that  extends uniquely to all of R
+X  R ! G (1.9)
+Denition 10. Let G be a Lie group with Lie algebra g. We dene the exponential
+map by
+exp  g ! G
+X 7! exp(X) = X(1)
+Properties of the exponential map8 Topology in Physics
+1. Let be a Lie group homomorphism. Then the following diagram commutes
+g
+ ??????! h yexp
+ yexp
+G
+??????! H
+2. The exponential map is dierentiable. Its derivative at the origin of g is the
+identity map. Thus, the exponential map realizes a dieomorphism from a
+neighborhood of the origin of TeG = g to a neighborhood of the identity
+element e 2 G. Such a neighborhood of e 2 G generates the identity
+component of G.
+3. Let G be a compact Lie group with Lie algebra g. Then exponentiation of
+a representation of g yields a representation of G.
+4. X(t) = exp(t  X)
+5. exp((t + t0)  X) = exp(t  X)  exp(t0  X)
+6. exp(??X) = (exp(X))??1
+7. Let G be a matrix Lie group. Then the exponential map is equal to the
+exponential map of matrices, i.e.,
+exp(X) =
+X1
+k=0
+Xk
+k!
+for all X 2 G.
+First Classication of Lie Algebras
+As it is usual in mathematics, we have started with the discussion of a certain
+mathematical structure (here the Lie algebra). Once one doesn't get any further
+in the general analysis, one tries to organize the dierent manifestations of the
+general structure, i.e., one tries to classify the original structure. The next step
+is the investigation of the dierent classes. The following classication reects
+how much a Lie algebra fails to be Abelian.
+Denition 11. Let g be a Lie algebra and let h  g be a subalgebra. The
+subalgebra is an ideal if
+[X; Y ] 2 h
+for all X 2 h and Y 2 g.Lie Algebras a crash course 9
+The bracket operation on g induces a bracket operation on the quotient space
+g=h i h is an ideal of g.
+Therefore, we make the next denition.
+Denition 12. A Lie algebra is called simple if dim g  1 and if it contains no
+nontrivial ideals.
+Denition 13. The lower central series Dkg of subalgebras is dened by
+D1g = [g; g]; Dkg = [g;Dk??1g]
+The subalgebras Dkg are ideals in g.
+Denition 14. The derived series Dkg of subalgebras is dened by
+D1g = [g; g]; Dkg = [Dk??1g;Dk??1g]
+The subalgebras Dkg are ideals in g and Dkg  Dkg for all k.
+Furthermore, D1g = D1g = Dg.
+Denition 15. Let g be a Lie algebra. Then
+1. g is called nilpotent if Dkg = 0 for some k.
+2. g is called solvable if Dkg = 0 for some k.
+3. g is called perfect if Dg = g.
+4. g is called semisimple if g has no nonzero solvable ideals.
+The term 'semisimple' will become clearer in the section about semisimple Lie
+algebras.
+The sum of two solvable ideals of a Lie algebra g is again solvable.
+Denition 16. The sum of all solvable ideals of g is a maximal solvable ideal,
+called the radical Rad(g) of g.
+The following proposition can be used to determine the radical of g (the
+denition of the Killing form follows in section 5).
+Proposition 4. Let g be a Lie algebra. Then the radical Rad(g) of g is the
+orthogonal complement to Dg with respect to the Killing form.
+The quotient g=Rad(g) is semisimple according to the denition of semisimplicity.
+A consequence of Lie's theorem (compare Fulton and Harris x9.2) is that
+any irreducible representation of a solvable Lie algebra is one-dimensional. One
+arrives at the following theorem which describes how to nd irreducible representations
+of an arbitrary complex Lie algebra g.10 Topology in Physics
+Theorem 3. Let g be an arbitrary complex Lie algebra and let gsemisimple =
+g=Rad(g) be its semisimple component.
+Then Every irreducible representation  of g is of the form
+ = semisimple 
+ L;
+where semisimple is an irreducible representation of gsemisimple (i.e., a representation
+of g that is trivial on Rad(g)), and L is a one-dimensional representation.
+Simple Lie Algebras
+As we will see in section 6, every simple complex Lie algebra is either isomorphic
+to sln(C), son(C), sp2n(C) (the symplectic Lie algebra) or to one of the so
+called exceptional Lie algebras.
+Semisimple Lie Algebras
+There are two fundamental problems concerning the representations of general
+Lie groups and general Lie algebras rst, the complete reducibility property of
+representations is not valid and second, the action of an element in a Lie group
+or in a Lie algebra can be diagonalizable under one representation and not under
+another. This problems vanish immediately as soon as we pass to semisimple Lie
+algebras.
+Theorem (Complete Reducibility). Let g be a semisimple Lie algebra and let
+ be an arbitrary representation of g with representation space V . Assume that
+W  V is an invariant subspace under the action of g.
+Then there exists a subspace W0  V complementary to W and invariant under
+the action of g.
+Recall that we can write any endomorphism X of a complex vector space V
+in the form
+X = Xs + Xn;
+where Xs is diagonalizable and Xn is nilpotent.
+Theorem (Preservation of Jordan Decomposition). Let g be a semisimple
+Lie algebra. Then there exist for any X 2 g elements Xs 2 g and Xn 2 g such
+that
+(X)s = (Xs); (X)n = (Xn)
+for any representation , where (X)s is diagonalizable and where (X)n is nilpotent.
+In addition, the following proposition holdsLie Algebras a crash course 11
+Proposition 5. The following is equivalent
+1. g is a semisimple Lie algebra.
+2. g is a direct sum of simple Lie algebras.
+3. The Killing form is non-degenerate (i.e., the set fx 2 V j  x; y Killing=
+0 for all y 2 V g is trivial).
+4. g has no nonzero Abelian ideals.
+5. The radical of g is zero.
+3 Representations of su(2)
+The goal of this section is to analyze the irreducible complex representations of
+su(2). Motivation First, in the analysis of the representations of general semisimple
+Lie algebras one uses the representations of sl(2;C) = su(2), second, su(2) is
+an easy example of how one uses commutation relations to get the representations
+of a Lie algebra and third, su(2) is of physical importance.
+In proposition 3 we saw that every nite-dimensional complex representation of
+su(2) extends uniquely to a complex-linear representation of the complexication
+su(2)C. According to Lemma 1 this complexication is isomorphic to sl(2;C).
+Therefore the extension of a representation  to sl(2;C) is irreducible i the representation
+ of su(2) is irreducible.
+We conclude that the study of the irreducible representations of su(2) is equivalent
+to the study of the irreducible complex-linear representations of sl(2;C).
+We prefer the analysis of sl(2;C) to the analysis of su(2) since we can work with
+the following nice basis in the case of sl(2;C) which will simplify our computations
+H =
+
+1 0
+0 ??1
+
+; X =
+
+0 1
+0 0
+
+; Y =
+
+0 0
+1 0
+
+; (1.10)
+with
+[H;X] = 2X; [H; Y ] = ??2Y; [X; Y ] = H (1.11)
+Assume that  is an arbitrary irreducible nite-dimensional representation of
+sl(2;C) on a vector space V .
+As a rst observation we have the following remark which is a result of the
+preservation of the Jordan decomposition under a representation (compare section
+2)
+Remark 1. (H) is diagonalizable and therefore
+V =
+M
+V;
+where the index  runs over the eigenvalues of (H) which are complex numbers.12 Topology in Physics
+With the decomposition of V into eigenspaces of (H) we have brought a rst
+structure (wrt the action of (H)) into the representation space V . As a result of
+the commutation relations (1.11) we will see in the following that this structure of
+V will be preserved under the action of (X) and (Y ) () the structure will be
+preserved under the action of (sl(2;C))). This will equip us with much insight
+into representations of sl(2;C).
+After this outlook let us try to answer the following question How do (X)
+and (Y ) act on the decomposition in Remark 1
+Remark 2. LetW =
+L
+W be a decomposition of a vectorspaceW into eigenspaces
+W of a linear Operator L acting on W with eigenvalues  2 C. Whenever one
+wants to determine in which eigenspace the vector K(w) (w 2 W; K being
+another linear Operator on W) lies, we simply apply L
+L(K(w)) = K(w);  2 C , K(w) 2 W
+Therefore the answer to the question above is given by the following calculation
+using the commutation relations (1.11)
+(H)  (X)(v) = (X)  (H)(v) + [(H); (X)](v)
+= (X)  (H)(v) + 2(X)(v)
+= ( + 2)  (X)(v); for v 2 V (1.12)
+Similarly,
+(H)  (Y )(v) = (Y )  (H)(v) + [(H); (Y )](v)
+= (Y )  (H)(v) ?? 2(Y )(v)
+= ( ?? 2)  (Y )(v); for v 2 V (1.13)
+We summarize these results in the following
+Lemma 2.
+(H)  V ! V (X)  V ! V+2 (Y )  V ! V??2
+From the 3 facts that
+1.  is irreducible () the only invariant subspaces are V and f0g),
+2. only those subspaces V and V are getting mapped into each other by the
+action of sl(2;C) i  ??  is an integer multiple of 2 and
+3. only nitely many linear subspaces can contribute to a direct-sum-decomposition
+of V (since the vector space V is nite-dimensional)Lie Algebras a crash course 13
+we deduce that
+Lemma 3. There exists  2 C and k 2 Z, such that
+V = V  V+2  V+4    V+2k
+Dene n =  + 2k 2 C.
+Lemma 4. Let v 2 Vn+2k. Then
+V = spanfv; (Y )(v); (Y )2(v); (Y )3(v); g
+Proof. Dene W  spanfv; (Y )(v); (Y )2(v); (Y )3(v); g. Recall that the
+representation  is irreducible by assumption. This implies that it is sucient to
+show that W is invariant under the action of X; Y and H. Again we will use the
+commutation relations (1.11).
+W is preserved under the action of Y since (Y )  (Y )m(v) = (Y )m+1(v) 2 W
+for all m 2 N.
+W is preserved under the action of H since all the basis elements of W lie in
+dierent eigenspaces of (H) which are all preserved under the action of H.
+It is left to show that
+(X)  (Y )m(v)) 2 W; 8v 2 W
+Consider the case m = 0
+(X)(v) = 0
+(compare Lemma 3).
+Consider the case m = 1
+(X)  (Y )(v) = (Y )  (X)(v) + [(X); (Y )](v)
+= 0 + (H)(v)
+= nv
+Consider the case m = 2
+(X)  (Y )((Y )(v)) = (Y )  (X)((Y )(v)) + [(X); (Y )]((Y )(v))
+= (Y )  (nv) + (H)((Y )(v))
+= n(Y )(v) + (n ?? 2)(Y )(v)
+= (n + (n ?? 2))  (Y )(v)
+Repeating these calculations yields
+(X)  (Y )m(v)) = [n + (n ?? 2) + (n ?? 4) +    + (n ?? 2(m ?? 1))]  (Y )(m??1)(v)
+= m(n ?? m + 1)  (Y )(m??1)(v) (1.14)14 Topology in Physics
+The last step can easily be proved by induction (m ) m+1, the cases m = 0; 1; 2
+have already been checked above)
+n + (n ?? 2) + (n ?? 4) +    + (n ?? 2(m + 1 ?? 1)) = n + (n ?? 2) + (n ?? 4) +   
++(n ?? 2(m ?? 1)) + n ?? 2m
+= m(n ?? m + 1) + n ?? 2m
+= mn ?? m2 + m + n ?? 2m
+= (m + 1)(n ?? (m + 1) + 1) ) X
+We have shown that (Y )m(v) is mapped to a multiple (Y )m??1(v) ) W is
+preserved under the action of X.
+) W = V and fv; (Y )(v); (Y )2(v); (Y )3(v); g forms a basis of V .
+Corollary 1. For each eigenspace V of (H) we have that
+dim V = 1
+Since we know how the basis elements H; X and Y act on the basis vector
+of each eigenspace V, we know how the representation  of sl(2;C) acts on the
+vector space V as linear maps. Thus, we know how the representation  of
+sl(2;C) acts on the whole vector space V =
+L
+V and we arrive at the second
+corollary of lemma 4
+Corollary 2. Every irreducible representation  of sl(2;C) is determined by the
+set f 2 CjV is an eigenspace of (H)g.
+Let m 2 N be the smallest non-negative integer such that (Y )m(v) = 0 with
+v 2 Vn. We apply (X) and use identity (1.14) to get
+0 = (X)  (Y )m(v) = m(n ?? m + 1)  (Y )(m??1)(v) (1.15)
+Since (Y )(m??1)(v) is by assumption not equal to zero we get
+0 = (n ?? m + 1) , m = n + 1 (1.16)
+But the integer m is also equal to the dimension of V . Thus, we deduce, that
+the representation space V is n+1-dimensional (compare lemma 2, lemma 3 and
+corollary 1).
+This implies that the direct decomposition V =
+L
+V of V into one-dimensional
+eigenspaces V of (H) consists of n + 1 terms. We deduce
+V = Vn  Vn??2      Vn??2n
+= Vn  Vn??2      V??n+2  V??n (1.17)
+We can summarize the former results in the following theorem.Lie Algebras a crash course 15
+Theorem 4. Let  be an irreducible representation of sl(2;C) with representation
+space V . Then the spectrum of (H) is a subset of Z of the form
+f??n; ??n + 2; ??n + 4;    ; ??2; 0; 2;    ; n ?? 2; ng
+or
+f??n; ??n + 2; ??n + 4;    ; ??1; 1;    ; n ?? 2; ng
+Each irreducible representation of sl(2;C) can be labeled by the largest eigenvalue
+n of (H). Each eigenspace of (n)(H) is one-dimensional and V (n) L =
+k2f??n; ??n+2; ; n??2; ng V (n)
+k .
+Corollary 3. The number of irreducible factors in an arbitrary representation 
+of sl(2;C) is equal to the multiplicities of 0 and 1 as eigenvalues of (H).
+4 Representations of su(3)
+Denitions and rst Observations
+As in the case of su(2) we observe that we are allowed to study the representations
+of sl(3;C) instead of su(3), since the representations of sl(3;C) are in one-to-one
+correspondence with the complex-linear representations of the complexication
+suC(3) = sl(3;C) (compare proposition 3 and lemma 1).
+The main result of our discussion about the irreducible representation of su(2)
+was that each irreducible representation  can be classied in term of the largest
+eigenvalue of (H).
+Thus, it arises the natural question, which element in (sl(3;C)) will take over
+the role of (H). The answer is that there isn't any such element in (sl(3;C)).
+But instead we will use a whole subspace h of (sl(3;C)).
+The main goal of this section is to classify the irreducible representations of
+sl(3;C) (as we have done it in the analysis of (sl(2;C))). We will prove that
+these representations are determined (up to equivalence) by their highest weight
+(to be dened later).
+The study of sl(3;C) will equip us with the concepts necessary to classify the
+nite-dimensional representations of all semisimple Lie algebras.
+We dene h  sl(3;C) to be the two-dimensional subspace of all diagonal
+matrices in sl(3;C) (this is the so called Cartan subalgebra for sl(3;C)).
+h = f
+0
+@
+a1 0 0
+0 a2 0
+0 0 a3
+1
+Aja1 + a2 + a3 = 0g (1.18)
+h = f1  L1 + 2  L2 + 3  L3 j 1; 2; 3 2 Cg=fL1 + L2 + L3 = 0g; (1.19)16 Topology in Physics
+with
+Li
+0
+@
+a1 0 0
+0 a2 0
+0 0 a3
+1
+A = ai (1.20)
+Denition 17. Let  be an arbitrary representation of sl(3;C) with representation
+space V . Then we dene
+1. A vector v 2 V is a weight vector if v is a simultaneous eigenvector for
+(H) for each H 2 h.
+2. Let v be a weight vector with corresponding eigenvalue (H) for H 2 h.
+This quantity (H) is a complex number depending linearly on H 2 h, i.e.,
+ 2 h. The linear functional  is called a weight of the representation.
+3. All the weight vectors corresponding to a weight  span a vector space V
+which is a so called weight space.
+4. The dimension of the weight space V is called the multiplicity of the weight
+.
+According to the preservation of the Jordan decomposition (compare section
+2) all elements in h are diagonalizable in any representation of sl(3;C).
+Additionally, all elements in h commute in any representation of sl(3;C) since
+they commute in sl(3;C). Recall that commuting, diagonalizable matrices are
+simultaneously diagonalizable.
+Remark 3. This implies that any nite-dimensional representation space V decomposes
+into a direct sum of weight spaces (i.e., simultaneous eigenspaces) V
+of all elements in h
+V =
+M
+V;
+where  2 h ranges over a nite subset of h since V is nite-dimensional by
+assumption.
+Now that we know how to 'replace' the basis element H from the discussion
+of sl(2;C) we should determine how to 'replace' the basis elements X and Y .
+Recall that
+ad(H)(X) = [H;X] = 2X; ad(H)(Y ) = [H; Y ] = ??2Y; (1.21)
+i.e., the elements X and Y 2 sl(2;C) are eigenvectors for the adjoint action
+of H 2 sl(2;C). Thus, to replace X and Y 2 sl(2;C) we have to look for
+simultaneous eigenvectors for the adjoint action of h (i.e., weight vectors in the
+case of the adjoint representation). This yields a decomposition
+sl(3;C) = h  (
+M
+g); (1.22)Lie Algebras a crash course 17
+where  ranges over a nite subset of h as explained in remark 3. The subspaces
+g  sl(3;C) are the analogue of the subspaces V appearing in remark 3, i.e.,
+ad(H)(X) = [H;X] = (H)  X; (1.23)
+for every H 2 h and X 2 g.
+Denition 18. In case of the adjoint representation weights are called roots,
+weight vectors are called root vectors and weight spaces are called root spaces.
+The nite set of all roots is denoted R  h.
+The next goal is to determine the subspaces g  sl(3;C) and to explicitly
+write down the corresponding weight  2 h.
+To determine the g's observe that
+[H;M]ij = [
+0
+@
+a1 0 0
+0 a2 0
+0 0 a3
+1
+A;
+0
+@
+m11 m12 m13
+m21 m22 m23
+m31 m32 m33
+1
+A]ij = (ai ?? aj)  mij (1.24)
+for every H 2 h and M 2 sl(3;C). Thus, M 2 sl(3;C) is a root vector i all
+but one entry of M are zero. We deduce that the root spaces g are spanned by
+matrices Ei;j which are dened to be the (3  3)-matrices whose (i; j)th entry is
+equal to 1 and whose other entries are equal to zero. In total we span six (Ei;j 2
+sl(3;C)) one-dimensional complex subspaces of sl(3;C) (recall that sl(3;C) is
+8-dimensional, that h is 2-dimensional and remember identity (1.22)).
+Example 1. We apply the above thoughts to E1;2, which spans a certain root
+space of sl(3;C)
+ad(H)(E1;2) = (H)  E1;2 = (a1 ?? a2)  E1;2 ) (H) = L1 ?? L2
+(Compare equation (1.20) for the last implication.)
+Therefore we arrive at the
+Observation 2. The root of the root space spanned by the matrix Ei;j is Li??Lj .
+We have seen that the representation space V decomposes into a direct sum of
+weight spaces and that sl(3;C) = h(
+L
+g). The subspace h  sl(3;C) acts on
+the dierent V's as scalar multiplication (by denition of the V's). To get more
+information about how the g's act on the V's, we proceed exactly as in (1.12)
+We use commutation relations. First, we have to consider the special case of the
+adjoint representation (recall the Jacobi identity)
+ad(H)  ad(X)(Y )  [H; [X; Y ]]
+= ??[Y; [H;X]] ?? [X; [Y;H]]
+= [[H;X]; Y ] + [X; [H; Y ]]
+= ((H) + (H))  ad(X)(Y ); (1.25)
+for every H 2 h, X 2 g and Y 2 g. This crucial calculation proves the following
+fundamental observation.18 Topology in Physics
+Observation 3.
+ad(g)  g ! g+
+Let us proceed to the general case (recall that the commutation relations are
+the same in every representation)
+(H)  (X)(v) = [(H); (X)](v) + (X)  (H)(v)
+= (H)  (X)(v) + (H)  (X)(v)
+= ((H) + (H))  (X)(v); (1.26)
+for all H 2 h, X 2 g and v 2 V. We deduce
+Observation 4.
+(g)  V ! V+
+As a consequence, the weights of an arbitrary irreducible representation dier
+only by integral linear combinations of Li ?? Lj , i.e., linear combinations with
+integer coecients (recall that there must not exists any other invariant subspace
+than V or f0g).
+Denition 19. The integral linear combinations of Li??Lj generate a lattice R
+called the root lattice.
+Consider again the adjoint representation. From the structure of the roots
+(i.e., the weights for the adjoint representation) one can deduce much knowledge
+about the Lie algebra. Thus, we introduce the following diagrammatical method
+Draw the six roots Li ?? Lj 2 h lying in the real subspace ~h with two real
+dimensions as in gure 1.1.
+The points symbolize the root space corresponding to each specic root. The
+'0' in the middle should be considered as the Cartan subalgebra h (which corresponds
+to the root '0' since its elements commute). The irreducibility of the
+adjoint representation implies that the subspace h and all the g's get mapped
+into each other under the action of sl(3;C) = h(
+L
+g) (recall that there must
+not be any invariant subspace dierent from f0g and the representation space
+V = sl(3;C)). We deduce that the only possibility to draw the six roots Li ?? Lj
+is the one shown in gure 1.1 (compare also observation 3). The locations of L1,
+L2 and L3 follow.
+In the discussion of sl(2;C) we discovered an 'extremal' eigenspace Vn for the
+action of H (by 'extremal' we mean that Vn is sent to f0g under the action of X,
+i.e. Vn is sent to f0g by half of the roots).
+To deduce an analog statement for the present discussion, we have to explain
+what we mean by 'extremal' in the context of sl(3;C).
+Seen from another point of view, the extremal eigenspace Vn of sl(2;C) is the
+eigenspace corresponding to the root n lying farthest away from the origin ofLie Algebras a crash course 19
+Figure 1.1 Root diagram for sl(3;C)
+the one-dimensional vector space h
+sl(2;C). In the present circumstances we are
+dealing with a 2-dimensional Cartan subalgebra h. Thus, we rst have to dene
+a specic direction (we will see that the specic choice doesn't aect the result).
+More concretely, we dene a linear functional
+l  R ! C; (1.27)
+such that l never vanishes on R, i.e., the kernel of l doesn't intersect any lattice
+point of R so that
+R = R+ [ R?? (1.28)
+(disjoint) with l()  0 for all  2 R+ and l()  0 for all  2 R??. A speci
+c example of the present circumstances is shown in gure 1.2 (the thick line
+visualizes the kernel of l).
+We call a root space g extremal, if  is the farthest root in the chosen specic
+direction.
+Observation 5. The extremal root space gL1??L3 (in case of the specic example
+shown in the gure above) is sent to f0g under the action of R+ = fL2??L3; L1??
+L3; L1 ?? L2; g. I.e., the elements in gL1??L3 are simultaneous eigenvectors for all
+elements in h and get killed by the action of half of the roots. Thus, we have
+arrived at a situation which is completely analogue to the one discussed in the
+case of sl(2;C).
+The explicit expression of l from our specic example is of the form
+l(1L1 + 2L2 + 3L3) = 1a + 2b + 3c (1.29)20 Topology in Physics
+Figure 1.2 Visualization of a specic kernel
+with a + b + c = 0 and a  b  c and 1; 2; 3 2 C.
+Note that the positive root spaces are generated by the matrices Ei;j for i  j
+and that the negative root spaces are generated by the matrices Ei;j for i  j.
+Let us pass over to the analysis of an arbitrary nite-dimensional representation
+ of sl(3;C) with representation space V . We summarize the observations
+above in the following lemma wrt the general irreducible representation.
+Lemma 5. One can always nd a vector v 2 V , such that
+1. v is a simultaneous eigenvector for all elements in h and such that
+2. v gets killed by the application (E2;3), (E1;3) or (E1;2) (i.e, by the action
+of all elements corresponding to the roots in R+).
+The vector v 2 V in the lemma is called a highest weight vector.
+In the analysis of sl(2;C) we proceeded at this point by claiming that the vectors
+v; Y (v); Y 2(v); Y 3(v);    (with v being a highest weight vector) would generate
+the whole representation.
+Claim 1. Let  be an irreducible representation of sl(3;C) with representation
+space V and highest weight vector v. Then the representation is generated by the
+successive application of (E2;1), (E3;1) and (E3;2) (which correspond to the
+roots in R??) on v.
+Proof. Let W be the subspace generated by the images of the highest weight
+vector v under the application of (E2;1), (E3;1) and (E3;2). We are going to
+show that W is invariant under the action of sl(3;C). Then irreducibility of Lie Algebras a crash course 21
+will imply that V = W.
+The short calculation [E2;1;E3;2] = ??E3;1 veries thatW is spanned by the images
+of successive applications of (E2;1) and (E3;2). Recall that
+sl(3;C) = h  C  E1;2  C  E1;3  C  E2;3  C  E2;1  C  E3;1  C  E3;2
+The vector space W is obviously invariant under (h) (the operators (E2;1),
+(E3;2) transform weight spaces into weight spaces; compare observation 4) and
+C  (E2;1), C  (E3;1), C  (E3;2)(true according to the denition of W).
+It is left to check the invariance under the application of C  (E1;2), C  (E1;3)
+and C  (E2;3)
+Since [E1;2;E2;3] = E1;3 it is enough to show that W is invariant under the
+successive application of (E1;2) and (E2;3). We prove this by induction over
+the number of factors (E1;2) and (E2;3) applied to the highest weight vector v.
+We start with only one factor First, we show that the vector (E2;1)(v) stays
+in W after the application of (E1;2) and (E2;3). We begin with the action of
+(E1;2)
+(E1;2)  (E2;1)(v) = [(E1;2); (E2;1)](v) + (E2;1)  (E1;2)(v)
+= [(E1;2); (E2;1)](v) + 0
+= ([(E1;2); (E2;1)])  v 2 W
+We have used that E1;2(v) = 0 (by denition of v) and that [(E1;2); (E2;1)] 2 h.
+On the other hand the action of (E2;3)
+(E2;3)  (E2;1)(v) = [(E2;3); (E2;1)](v) + (E2;1)  (E2;3)(v)
+= 0
+We have used that E2;3(v) = 0 (by denition of v) and that [(E2;3); (E2;1)] = 0.
+An analogue statement proves that (E3;2)(v) is invariant under the action of
+(E1;2) and (E2;3).
+For the remainder of this proof we dene wn(v) to be the image of v under an
+action which consists of a sequence of factors (E2;1) and (E3;2) with length n
+or less. Additionally, we dene Wn to be the vector space spanned by all possible
+vectors wn. Thus, W =
+S
+Wn
+Claim (E1;2) and (E2;3) map Wn into Wn??1.
+Proof of the claim Each wn is equal to (E2;1)(wn??1) or (E3;2)(wn??1).
+'Induction-step' Assume that (E1;2) and (E2;3) map Wn??1 into Wn??2. Note
+that wn??1 is a weight vector with some weight .
+Case 1  wn = (E2;1)(wn??1)
+(E1;2)(wn(v)) = (E1;2)  (E2;1)(wn??1(v))
+= [(E1;2); (E2;1)](wn??1(v)) + (E2;1)  (E1;2)(wn??1(v))
+= ([(E1;2); (E2;1)])  wn??1(v) + (E2;1)(wn??2(v))
+=  Wn??1;22 Topology in Physics
+Figure 1.3 120-sector which contains all weights.
+since [(E1;2); (E2;1)] 2 h. On the other hand we have that
+(E2;3)(wn(v)) = (E2;3)  (E2;1)(wn??1(v))
+= [(E2;3); (E2;1)](wn??1(v)) + (E2;1)  (E2;3)(wn??1(v))
+= 0 + (E2;1)(wn??2(v))
+=  Wn??1;
+since [E2;3;E2;1] = 0.
+Case 2  wn = (E3;2)(wn??1) Analogue calculation.
+This nishes the proof of the claim.
+Since the case 'n = 1' has been veried above the proof of the original claim is
+concluded.
+Corollary 4. 1. All the weights of an irreducible representation lie in 120-
+sector  h with vertex  (the highest weight). Compare the gure below.
+2. dim W = 1. Thus all the other weight spaces (generated as in claim 1)
+are at most one-dimensional.
+Proposition 6. Let  be an arbitrary representation of sl(3;C) with representation
+space V and highest weight vector v. Let W denote the vector space spanned
+by the images of v under the successive applications of the operators (E2;1),
+(E3;1) and (E3;2) (which correspond to the roots in R??). Then W is the
+representation space of an irreducible subrepresentation ~.
+Proof. Let  denote the so called 'highest weight' corresponding to the highest
+weight vector v. The proof of Claim 1 shows that W is the representation spaceLie Algebras a crash course 23
+of a subrepresentation ~ (i.e., W is closed under the action of sl(3;C)). We have
+to show that this subrepresentation is irreducible.
+Let us assume the contrary, i.e., let us assume that ~ is not irreducible. Therefore,
+~ = ~0  ~00 for some representations ~0 and ~00 with representation spaces W0
+and W00 (W = W0 W00). The operations 'projection to W0 or W00' and 'action
+of h' have simultaneous eigenspaces, since they commute. The eigenspaces of the
+projections are W0 and W00. Therefore, we arrive at the following decomposition
+of W
+W = W0 W00
+= W W1 W2     (decomposition into weight spaces)
+= W0
+ W00
+ W0
+1
+W00
+1
+   
+Claim 1 implies that W is one-dimensional. Thus, all the eigenspaces Wi are
+at most one-dimensional. We deduce that at least one of the spaces W0i or W00
+i
+is equal to f0g for each weight space 'i'. Let us assume without loss of generality
+that W00
+ = f0g. Therefore, (successive applications of sl(3;C))(W = W0)
+must reach the whole space W (compare the denition of W). Since the representations
+~0 and ~00 are not allowed to mix under the successive action of sl(3;C),
+this action applied to W0 can't reach any subspace of W00.
+I.e., W is spanned without any elements in W00  W ) W00 = f0g and W0 = W.
+) The representation ~ is irreducible.
+The Appearance of the Weight Diagram
+The next natural question we try to answer is How does a concrete weight
+diagram of sl(3;C) look like
+We will proceed as follows First, we try to determine the explicit form of the
+convex hull of the weights and second, we try to determine the interior of this
+convex hull.
+The convex Hull
+Let us have a second look at gure 1.3 to recall that there aren't any weights
+above the line 'generated' by the dots representing the weight spaces g, g+L2??L1 ,
+g+2(L2??L1),    and that there aren't any weights to the right of the line 'generated'
+by the dots representing the weight spaces g; g+L3??L2 ; g+2(L3??L2);    .
+We rst consider the line which is the upper boundary for the nite set of weights.
+Finite dimensionality of V implies that there exists an integer m, such that
+g+k(L2??L1) = f0g for all k  m (compare gure 1.4). To determine m we make the
+following important observation The elements E1;2, E2;1 and H1;2  [E1;2;E2;1]
+span a subalgebra (denoted sL1??L2) of sl(3;C) which is isomorphic to sl(2;C).24 Topology in Physics
+Figure 1.4 Upper boundary
+Observation 6. Let i 6= j. Then the elements Ei;j , Ej;i and Hi;j = [Ei;j ;Ej;i]
+span a subalgebra (denoted sLi??Lj ) of sl(3;C) which is isomorphic to sl(2;C).
+The subalgebra sL1??L2 shifts the weight spaces V parallel and antiparallel to
+the direction L1 ?? L2. Obviously, the subspace
+W =
+M
+k
+V+k(L2??L1)
+is preserved under the action of sL1??L2 . Thus, W is a representation space of a representation
+ of sL1??L2
+=
+sl(2;C). This representation is irreducible, since there
+are no invariant subspaces. We deduce that the eigenvalues of (H12) are integervalued
+and the spectrum of (H12) is symmetric about the origin of Z (compare
+theorem 4). This implies that the dots representing the spaces V+k(L2??L1) are
+symmetric to the line fL 2 hj  L;H1;2 = 0g, where ';' denotes the pairing
+between space and dual space. I.e., the dots representing the weight spaces
+V+k(L2??L1) are preserved under reection in the line fL 2 hj  L;H1;2 = 0g.
+See section 5 for the explicit proof.
+Exactly the same consideration applies to the analysis of sL2??L3 . The result is
+shown in gure 1.5.
+The weight  is the highest weight wrt the linear functional l given in equation
+(1.29). But this specic denition was arbitrary. We could have also dened
+l, such that b  a  c. As a consequence, the weight  (compare gure 1.5)
+would have been the highest weight instead of . Under this circumstances, the
+same considerations would have been applicable. Thus, we can update the line
+which will enclose all the weights compare gure 1.6.
+Now, we continue to apply these considerations for other denitions of the linear
+functional l (totally 6 possibilities), until the line forms a closed boundary.Lie Algebras a crash course 25
+Figure 1.5 Upper and right boundary
+Figure 1.6 Upper, right and left boundary26 Topology in Physics
+Figure 1.7 Convex hull
+Observation 7. Let  be a representation of sl(3;C) with representation space
+V and highest weight . Then the vertices of the convex hull of the weights
+are exactly the images of  under the reections in the three lines fL 2 hj 
+Hi;j ;L = 0g (compare gure 1.7). Thus, the convex hull forms a hexagon
+(if  =2 one of the three reection-lines) or a triangle (if  2 one of the three
+reection-lines).
+Claim 2. Every weight  is a linear combination of L2 and L3 (or equivalently
+of L1 and L3 or L1 and L2) with integer coecients.
+Proof. Observe that from theorem 4 we deduce that all the eigenvalues of (Hi;j)
+must be integer-valued, and that h = C  H1;2  C  H1;3. Consider the arbitrary
+weight  = 1L1 + 2L2 + 3L3 2 h together with a vector v 2 V.
+(H1;2)(v) = (H1;2)  v
+= [1L1(H1;2) + 2L2(H1;2) + 3L3(H1;2)]  v (i 2 C)
+= (1 ?? 2)  v
+(H1;3)(v) = (1 ?? 3)  v
+(H2;3)(v) = (2 ?? 3)  v
+Thus, (1 ?? 2) 2 Z, (1 ?? 3) 2 Z and (2 ?? 3) 2 Z and therefore 2 =
+1 + a; 3 = 1 + b, with a; b 2 Z. We deduce
+ = 1L1 + 2L2 + 3L3
+= 1  (L1 + L2 + L3) + a  L2 + b  L3 (a; b 2 Z)
+= a  L2 + b  L3Lie Algebras a crash course 27
+In the last step we have used identity (1.19).
+Here we see explicitly that the weights lie in a real subspace in h.
+The linear combinations of the Li's with integer coecients form a lattice W 
+h which is the so called weight lattice.
+In the case of irreducible representations we can state the following proposition
+as a consequence of the claim above.
+Proposition 7. All weights of an irreducible representation of sl(3;C) are elements
+of the weight lattice W and are congruent modulo the root lattice R (i.e.,
+they dier by an integral linear combination of Li ?? Lj).
+The Interior of the convex Hull
+Let us reveal the interior of the convex hull enclosing all weights of a certain
+representation.
+The subspace
+W =
+M
+k2Z
+V+k(Li??Lj )
+of V is a representation space of a representation of sL1??L2
+=
+sl(2;C). According
+to theorem 4, there exists an upper and lower bound k1 and k2 of k 2 Z, such
+that V+k(Li??Lj ) 6= f0g for all k 2 fk1; k1 + 1;    ; k2 ?? 1; k2g. If we choose 
+on the boundary of the convex hull, we recognize that there is a corresponding
+weight 'on the other side' of the convex hull (this is meant wrt. an arbitrary
+(i; j)-direction). It follows from the main theorem in the discussion of sl(2;C)
+that the weights of a representation of sl(2;C) form an unbroken string. The
+space in between of these two 'boundary-weights' has to be lled up with other
+weights (according to the remark before) such that the weights are congruent
+modulo R. We get the complete weight diagram (shown in gure 1.8) if we
+repeat this procedure for every 'boundary-weight' and every direction parallel to
+the lattice W.
+Thus, we have proven the following proposition.
+Proposition 8. Let  be an arbitrary irreducible representation of sl(3;C). Let
+ 2 h be an 'extremal weight' ('extremal' means that jl()j is maximal with l
+denoting an arbitrary linear functional as in (1.29)). Then all the weights lie in
+W, are congruent modulo R and are enclosed by the convex hull whose vertices
+are the images of  under the reections at the three lines fL 2 hj  Hi;j ;L =
+0g.
+The Highest Weight Theorem
+Assume that we are working with the specic form of the linear functional l
+given in (1.29). From the observation in the last subsection about the shape of28 Topology in Physics
+Figure 1.8 Complete weight diagram
+the convex hull enclosing all weights (compare observation 7), we know that all
+possible highest weights must lie in the 60-sector shown in gure 1.9. Thus,
+Observation 8. Every highest weight must be of the form (note that L2 = ??L1??
+L3)
+(a + b)L1 + bL2 = aL1 ?? bL3
+for a; b being non-negative integers.
+Before we continue, we have to state a basic proposition about products of
+representations of Lie algebras and about the dual representation of a Lie algebra.
+Proposition 9. Let 1, 2 and  be representations of a Lie algebra g with
+representation space V . Then
+ (1 
+ 2)(g) = 1(g) 
+ 1 + 1 
+ 2(g) (representation space V 
+ V ),
+ (1 ^ 2)(g) = 1(g) ^ 1 + 1 ^ 2(g) (representation space V ^ V ),
+ (1
+sym2)(g) = 1(g)
+sym1+1
+sym2(g) (representation space V 
+symV )
+ (g) = ??T (g) (representation space V ),
+for all g 2 g.
+This proposition is proven in the appendix.
+Corollary 5. Let 1, 2 and  be representations of a Lie algebra g with representation
+space V . ThenLie Algebras a crash course 29
+Figure 1.9 Locus of the highest weight vectors
+ The weights of the representation 1
+2 are the pairwise sum of the weights
+of the representations 1 and 2.
+ The weights of the representation 1 ^ 2 are the pairwise sum of distinct
+weights of the representations 1 and 2.
+ The weights of the representation 1 
+sym 2 are the pairwise sum of the
+weights of the representations 1 and 2.
+ The weights of the representation  are the negative weights of the representation
+.
+Proof. We conne us to the proof of the second assertion. Let w1 be an eigenvector
+for 1(g) with eigenvalue  and let w2 be an eigenvector for 2(g) with
+eigenvalue . Then
+(1 ^ 2)(g)(w1 ^ w2) = (1(g) ^ 1)(w1 ^ w2) + (1 ^ 2(g))(w1 ^ w2)
+= [1(g)(w1)] ^ w2 + w1 ^ [2(g)(w2)]
+=   w1 ^ w2 +   w1 ^ w2
+= [ + ]  w1 ^ w2
+Assume w2 = w2 ) w1 ^w2 = w1 ^w1 = 0. Thus, the weights of the representation
+1 ^ 2 are the pairwise sum of distinct weights of the representations
+1 and 2.
+Corollary 6. Let 1 and 2 be two representations of sl(3;C). Let v1 and v2 be
+the highest weight vectors with corresponding highest weights 1 and 2. Then
+v1 
+ v2 is a highest weight vector for 1 
+ 2 with highest weight 1 + 2.30 Topology in Physics
+Figure 1.10 Weight diagram for the standard representation 
+Let us examine the consequences for some specic representations which will
+be useful later on.
+Let  be the standard representation of sl(3;C) on C3. Since h is the space
+of diagonal matrices given in (1.19), the weight vectors are the standard basis
+vectors e1, e2 and e3 with corresponding weights L1, L2 and L3. This yields the
+diagram given in gure 1.10.
+The diagram for the dual representation  is shown in gure 1.11 (compare
+the corollary 5).
+We immediately deduce the form of the diagrams corresponding to Sym2(),
+Sym2(), Sym3(), Sym3(), ... (compare gure 1.12, gure 1.13, gure 1.14
+and 1.15). We recognize that the symmetric powers Symn() and Symm()
+yield exactly the triangular diagrams discussed in observation 7. Thus, Symn()
+and Symm() are irreducible, since all the weights have multiplicity 1 (i.e., they
+can't be a sum of irreducible diagrams).
+Furthermore, Symn() has highest weight n  L1 and Symm() has highest
+weight (??m)  L3.
+This enables us to construct representations of sl(3;C) with arbitrary highest
+weight aL1??bL3 by tensor products between Symn() and Symm() (compare
+observation 8 and corollary 6).
+We are ready now to state the following important theorem.
+Theorem (Highest Weight Theorem). Let a and b be two non-negative integers.
+Then there exists a unique irreducible, nite-dimensional representation
+??a;b of sl(3;C) with highest weight aL1 ?? bL3.
+Proof. We have to prove the existence and the uniqueness of the irreducible
+representation ??a;b.Lie Algebras a crash course 31
+Figure 1.11 Weight diagram for 
+Figure 1.12 Weight diagram for Sym2()32 Topology in Physics
+Figure 1.13 Weight diagram for Sym2()
+Figure 1.14 Weight diagram for Sym3()Lie Algebras a crash course 33
+Figure 1.15 Weight diagram for Sym3()
+Existence We have just learned that Syma()
+Symb() has the desired highest
+weight. According to proposition 6, Syma()
+Symb() contains an irreducible
+subrepresentation with the desired highest weight.
+Uniqueness Assume that there would exist another irreducible representation
+~??
+a;b with the same highest weight. Let v and ~v denote the highest weight vectors
+of ??a;b and ~
+??
+a;b respectively and with representation spaces V and ~ V respectively.
+Then (v; ~v) is a highest weight vector of ??a;b~
+??
+a;b with highest weight aL1??bL3.
+Let   ??a;b  ~
+??
+a;b be the irreducible representation with a representation space
+U generated by the highest weight vector (v; ~v) (compare proposition 6). The
+projections 1  U ! V and 2  U ! ~ V are non-zero linear maps. Furthermore,
+1   = ??a;b  1 and 2   = ~
+??
+a;b  2. Therefore, we can apply Schur's lemma
+to get that 1 and 2 are isomorphisms which implies that ??a;b
+=
+~??
+a;b (compare
+section 7).
+Corollary 7. The irreducible representation ??a;b is an irreducible subrepresentation
+of Syma() 
+ Symb().
+Let us now describe the relation between ??a;b and Syma() 
+ Symb().
+Proposition 10. Assume that b  a. Then
+Syma() 
+ Symb() =
+Mb
+i=0
+??a??i;b??i
+Observation 9. The multiplicities of ??a;b increase by one on each hexagon of
+the weight diagram and are constant on each triangle (without proof ).
+To nish this section we state an algorithm to decompose an arbitrary representation
+ of sl(3;C) into irreducible representations34 Topology in Physics
+1. Determine the decomposition of  into weight spaces.
+2. Find the highest weight  = aL1 ?? bL3 of .
+3. Dene ~ such that  = ~  ??a;b. The weight diagram of  'minus' the
+weight diagram of ??a;b is the weight diagram of ~.
+4. Repeat this process for ~.
+5 The Analysis of General Simple Lie Algebras
+The procedure carried out in the last section to analyze sl(3;C) can be generalized
+to an algorithm for the analysis of general complex semisimple Lie algebras. Each
+of the following subsections (until the subsection about the Killing form) stands
+for one step in the general algorithm. We will omit the general proofs.
+Verication of the semisimplicity of the Lie algebra
+Semisimplicity is crucial for the following discussion. If the Lie algebra g is not
+semisimple, one can restrict the analysis to the semisimple part of g to get the
+irreducible representations of g (compare theorem 3).
+Determination of the Cartan subalgebra h  g
+Denition (Cartan Subalgebra). Let g be a complex semisimple Lie algebra.
+Then a Cartan subalgebra h  g is a complex subalgebra which is maximally
+commuting and whose action is diagonalizable in an arbitrary faithful representation.
+The dimension of h is the so called rank of g.
+'Maximally commuting' means if we add only one element in g n h to h we
+loose the commutativity of h.
+A representation is called 'faithful', if its homomorphism is one-to-one. From the
+Jordan decomposition theorem in section 2 we deduce that the Cartan subalgebra
+is diagonalizable in every faithful representation. Especially, the action of h is
+diagonalizable in the adjoint representation.
+All elements in h are simultaneously diagonalizable since they commute.
+Decomposition of g into a direct sum of root spaces
+Compare denition 17 and denition 18 for the terms 'weight', 'weight space',
+'multiplicity', 'root', 'root space'.
+In regard of the adjoint representationLie Algebras a crash course 35
+The adjoint action of h on g is diagonalizable. Thus, g decomposes into the
+direct sum of its root spaces
+g = h  (
+M
+g)
+ad(H)(X) = (H)  X; (1.30)
+for all H 2 h and X 2 g. The index  in the direct sum ranges over the nite
+set R  h of all roots. Note that h = g0.
+The calculation (1.25) proves that
+ad(g)  g ! g+ (1.31)
+We state without general proof the following properties of the conguration of
+the roots in h
+Observation 10. 1. Every root space g is one-dimensional.
+2. The rank of the root lattice R  h generated by the roots is equal to the
+dimension of h.
+3. The set R of all roots is symmetric about the origin, i.e.  2 R ) ?? 2 R.
+In regard of a general representation
+Let  be an arbitrary representation of a Lie algebra g with representation
+space V . Then the representation space V decomposes into a direct sum of weight
+spaces V
+V =
+M
+V
+(H)(v) = (H)  v; (1.32)
+for all H 2 h and all v 2 V.
+The fundamental calculation (1.26) proves that
+(g)  V ! V+ (1.33)
+Let us assume that  is irreducible. Thus, there must not be any invariant subspace
+wrt. the action of g. Together with (1.26) we deduce that the weights of
+an irreducible representation are congruent modulo the root lattice R.
+Like in the discussion of sl(3;C) we can draw the so called weight diagram (compare
+for example gure 1.8).36 Topology in Physics
+Determination of subalgebras isomorphic to sl(2;C
+An important step in the discussion of sl(3;C) was the discovery of subalgebras
+of sl(3;C) which were isomorphic to sl(2;C). Dene
+s = g  g??  [g; g??] (1.34)
+Then s is a subalgebra of g which is isomorphic to sl(2;C) (without proof). Note
+that g, g?? are one-dimensional and that [g; g??] is at most one-dimensional
+(compare observation 10).
+We can chose a basis X 2 g, Y 2 g?? and H 2 [g; g??] satisfying the commutation
+relations of sl(2;C). This determines H (it must take the eigenvalues
+2 and (-2) on g and g?? respectively, i.e., (H) = 2).
+The weight lattice W
+In the discussion of sl(2;C) we learned that the eigenvalues of H are integervalued
+in any representation. In the present case of s this means that the
+eigenvalues of the action H are integer-valued in any representation of s.
+In particular, the eigenvalues of the action of all elements H 2 h found in
+subsection 5 must be integer-valued in any representation of g.
+Therefore, every weight  2 h of every representation of g must yield integers
+when evaluated on any of the H's. The weights with this property form a lattice
+in h called the weight lattice W of g.
+Note First, all weights of all representations of g lie in W and second, R 2
+W ) R  W.
+Symmetry under the Weyl group
+The pairing  H;   (H) between elements in h and elements in h can be
+considered as a scalar product between ,  2 h.
+We dene the reections W() in the plane 
+ = f 2 hj  H;  = 0g
+parallel to 
+W() =  ?? 2 
+ H;  
+ H;  
+ 
+=  ?? 2 
+(H)
+(H)
+ 
+=  ?? (H)   (1.35)
+(Recall from subsection 5 that (H) = 2.)
+Denition (Weyl Group). Let  be a weight of an arbitrary representation of
+g. Then all the reections
+W() =  ?? (H)  
+generate a group of reections in h called the Weyl group W.Lie Algebras a crash course 37
+Let us break up the set of weights into equivalence classes
+[] = fweights  j  =  + n  ; n 2 Zg (1.36)
+Similarly,
+V[] =
+M
+n2Z
+V+n (1.37)
+Each of these spaces V[] realizes a representation of the subalgebra s  g when
+we restrict the original representation space V to V[], since V[] is closed under
+the action of s (compare (1.33)).
+Proposition 11. The set of weights of any representation of g is invariant under
+the Weyl group W.
+Proof. It is possible to explicitly write down the whole string of weights that
+correspond to nonzero summands in (1.37)...
+When we shift the representant  of the equivalence class to 'the boundary' ~  of
+the string and write down the whole string as
+~ ; ~  + ; ~  + 2;    ; ~  + m
+for an integer m  0. Then we arrive at the following string of integers
+~ (H); ( ~  + )(H) = ~ (H) + 2;    ; ( ~  + m)(H) = ~ (H) + 2m
+According to theorem 4, this string of integers has to be symmetric about the
+origin of Z, i.e.,
+~ (H) = ??( ~ (H) + 2m) ) ~ (H) = ??m 2 Z (1.38)
+Thus, the whole string of weights corresponding to nonzero summands in (1.37)
+is
+~ ; ~  + ; ~  + 2;    ; ~  ?? ~ (H) (1.39)
+In particular,
+W( + k  )   + k ?? ( + k)(H)  H
+=  + (m ?? k)  
+The same consideration shows that the multiplicities are symmetric wrt. the
+action of the Weyl group. This implies that the set of weights is invariant under
+the Weyl group.
+At this point we can introduce the so called Killing form on g. The Killing
+form on g is an inner product on h with the characteristic property that it is
+the unique inner product on h which is preserved under the action of the Weyl
+group W (i.e., the Weyl group acts as a group of orthogonal transformations).
+Equivalently, we could say that the Killing form is the unique inner product for
+which the line in h spanned by  is perpendicular to the plane 
+. Thus, the
+Weyl group is the group of transformations generated by the reections in the
+planes 
+ perpendicular to the root .38 Topology in Physics
+Ordering of the roots; the highest weight vector
+As in the discussion of sl(3;C) we dene a linear functional l, such that its kernel
+doesn't intersect the root lattice R. This yields a decomposition
+R = R+ [ R??;
+where R+ = froots  j l()  0g and R?? = froots  j l()  0g.
+Denition 20. Let  be an arbitrary representation of g with representation
+space V . Then a vector v 2 V is called a highest weight vector if v is simultaneously
+a weight vector and gets killed by the action of (g) for all  2 R+. The
+weight  corresponding to v is called the highest weight.
+Proposition 12. Let g be a complex semisimple Lie algebra.
+1. There exists a highest weight vector for every nite-dimensional representation
+ of g.
+2. Let  be a nite-dimensional representation of g with representation space
+V and let W  V denote the vector space generated by the images of the
+highest weight vector v under successive application of (g) for all  2 R??.
+Then the restriction of the original representation  to the representation
+space W  V is an irreducible subrepresentation of g.
+3. The highest weight vector of an irreducible representation is unique (up to
+multiplication with scalars).
+A root  is called primitive of simple, if it can't be written as a sum of two
+positive (respectively negative) roots.
+Let us go over to the appearance of weight diagrams. As in the case of sl(3;C)
+we make the following observation
+Observation 11. The weights of a representation  are
+1. congruent to the highest weight  modulo the root lattice R and
+2. they lie in the convex hull with vertices being the images of  under the
+Weyl group.
+From what we have learned in (1.39) we deduce that the highest weight of a
+representation is a weight satisfying (H)  0 for all  2 R+.
+Denition 21. The set of points in the real span of the roots which satisfy the
+inequalities (H)  0 for every  2 R+ is called the Weyl chamber W associated
+to the specic ordering of the roots.
+In terms of the Killing form, this is the set of points making an angle between 0
+and 90 degrees with each positive root.Lie Algebras a crash course 39
+Classication of the irreducible representations
+We arrive at the fundamental theorem which we won't prove in general but it
+should be evident after what we have done so far.
+Theorem (Highest Weight Theorem). Let  2 h be a point in the intersection
+between the Weyl chamber W (which is associated to a specic ordering of
+the roots) and the weight lattice W.
+Then there exists a unique irreducible, nite-dimensional representation ?? of g
+with highest weight .
+The weights of ?? are the elements of W congruent to  modulo the root lattice
+R which are enclosed by the convex hull generated by the images of  under the
+action of the Weyl group.
+There always exist so called fundamental weights !1; !2;    !n, such that
+every highest weight can be expressed as a linear combination of the fundamental
+weights with non-negative, integer-valued coecients. (Geometrically these are
+the weights on the edges of the Weyl chamber.) One usually writes ??a1;  ; an
+instead of ?? if  = a1!1 +    + an!n.
+Before we nish this section, we should say a few words about the Killing form
+which we introduced in section 5.
+The Killing Form
+There are several dierent ways to dene the Killing form. We mention two
+possibilities.
+Denition (Killing Form (version 1)). The Killing form (; ) on g is the
+symmetric bilinear form (hence an inner product) on g dened by
+(X; Y ) = tr(ad(X)  ad(Y )  g ! g);
+for all X and Y in g. This induces inner products on h and h respectively which
+are denoted in the same way.
+Denition (Killing Form (version 2)). The Killing form (; ) on g is the symmetric
+bilinear form (hence an inner product) on g dened by the characteristic
+property that the Killing form is invariant under the group of automorphisms on
+g.
+Note that the decomposition
+g = h  (
+M
+2R
+g)
+is orthogonal according to the rst denition, since ad(g)  g ! g+.
+One reason why we introduce the Killing form is the following proposition40 Topology in Physics
+Proposition 13. The line in h spanned by a root  is perpendicular (wrt. the
+Killing form (; )) to the hyperplane 
+.
+From this proposition one can deduce that the Weyl chamber is the set of
+vectors in h which form an acute angle (wrt. (; )) with all positive roots.
+Now we state an explicit isomorphism between h and h which is determined
+by the Killing form.
+Proposition 14. The isomorphism between h and h, which is determined by the
+Killing form, maps an element  to
+T =
+2
+(H;H)
+ H
+Conversely, the inverse isomorphism maps
+H !
+2
+(; )
+ 
+Using this notation, we dene the induced Killing form on h
+(; ) = (T; T) (1.40)
+From the orthogonality of the action of the Weyl group and (1.38) one can deduce
+the next proposition.
+Proposition 15. Let  and  be two roots. Then
+2 
+(; )
+(; )
+= (H)
+is an integer.
+6 The Classication of Complex Semisimple Lie Algebras
+In the rst part of this section, we introduce and classify all Dynkin diagrams
+whereas in the second part, we try to recover the Lie algebra from its corresponding
+Dynkin diagram.
+Dynkin Diagrams and their Classication
+As we have already indicated, the roots span a real subspace of the Cartan
+subalgebra h. On this space the Killing form is positive denite (without proof).
+This real vector space together with the Killing form (; ) yields a Euclidean space
+E. A positive root is called simple if it is not the sum of two other positive roots.
+We list the central properties of a root systemLie Algebras a crash course 41
+Proposition 16. Let R be a root system. Then
+1. The root system R is a nite set and its elements span the Euclidean space
+E.
+2.  2 R ) ?? 2 R.
+3. k   =2 R for all k 2 Z n f1g
+4. The root system R is invariant under the action of the Weyl group W.
+5. The quantity
+n = 2 
+(; )
+(; )
+is an integer for every ;  2 R.
+6. Let  and  be two roots such that  6= . Then the -string through 
+(i.e.,  ?? p;    ; ;    ;  + q) consists of at most four elements. Additionally,
+p ?? q = n.
+7. Let  and  be two roots such that  6= . Then
+(; )  0 )  ??  is a root;
+(; )  0 )  +  is a root
+If (; ) = 0 , then  ??  and  +  are both roots or both aren't roots.
+8. The angle between distinct simple roots cannot be acute.
+9. The simple roots are linearly independent.
+10. The number of simple roots is equal to n = dimC h = dimR E.
+11. Every positive root can be written uniquely as a non-negative integral combination
+of simple roots.
+The integer n is called the rank of the Lie algebra or the root system.
+The fth property implies a strong restriction on the possible geometric con-
+gurations of the roots
+Let  be the angle (wrt. the Killing form) between two arbitrary roots  and .
+We deduce that
+n = 2 
+(; )
+(; )
+= 2 cos() 
+kk
+kk
+ (1.41)
+Thus,
+nn = 4 cos2() (1.42)42 Topology in Physics
+ =6 =4 =3 =2 2=3 3=4 5=6
+kk
+kk
+p
+3
+p
+2 1  1
+p
+2
+p
+3
+Table 1.1 The geometry of the root system
+is an integer between 0 and 4. All possible congurations are shown in the
+following table.
+We list all possible root systems of rank 1 and 2.
+Rank 1. The only possible root system is the root system corresponding to
+sl(2;C)
+Rank 2. The root system for sl(2;C)  sl(2;C) = so4(C) is A1  A1. The root
+system for sl(3;C) is A2. The root system for so5(C) = sp4(C) is B2. The root
+system for the exceptional Lie algebra g2 is G2.
+Denition 22. The direct sum of two root systems is a root system. A root
+system is called irreducible if it is not a direct sum of two other root systems.Lie Algebras a crash course 43
+Dynkin Diagrams. The Dynkin diagram for a certain root system is a diagram
+consisting of nodes  for each simple root and lines joining them. The number
+of lines between the nodes is dened by the angle  between the specic simple
+roots. When there is more than one line joining two nodes then the corresponding
+simple roots can have dierent length. In this case one includes an arrow into
+the diagram pointing from the longer to the shorter simple root.
+Note that a Dynkin diagram contains the knowledge of (i; j) for all i 6= j.
+Two Dynkin diagrams are isomorphic if there exists a one-to-one onto map
+of the nodes such that the number of lines between the nodes and such that the
+direction of the arrows are preserved. The root diagrams are independent of the
+specic ordering of the roots.
+Now we state the crucial classication theorem which classies every irreducible
+root system. Its proof is completely based on Euclidean geometry (compare
+table 1.1).
+Theorem (Classication of Dynkin Diagrams). The Dynkin diagrams given
+in gure 1.16 are all possible Dynkin diagrams of irreducible root systems. With
+the correspondences
+(An) $ sln+1(C)
+(Bn) $ so2n+1(C)
+(Cn) $ sp2n(C)
+(Dn) $ sl2n(C)
+To complete the classication of complex simple Lie algebras, we would have
+to prove the following theorem
+Theorem 5. 1. Let R1 and R2 be two root systems for two dierent Cartan
+subalgebras of the same complex semisimple Lie algebra. Then R1 and R2
+are isomorphic.44 Topology in Physics
+Figure 1.16 All irreducible Dynkin diagrams.
+2. A complex semisimple Lie algebra is simple i its root system is irreducible.
+3. Complex semisimple Lie algebras which have isomorphic root systems are
+isomorphic.
+4. Every root system arises as the root system of a complex semisimple Lie
+algebra.
+A semisimple Lie algebra is determined (up to isomorphisms) by the speci-
+cation of its simple summands.
+Reconstruction of a Lie Algebra from its Dynkin Diagram
+This section consists of two parts rst, we learn how to get the root system of a
+given Dynkin diagram and second, we learn how to recover the Lie algebra from
+its root system. Therefore, we will be able to reconstruct the Lie algebra from
+its Dynkin diagram.Lie Algebras a crash course 45
+Reconstruction of the root system from its Dynkin Diagram
+The simple roots follow directly from the diagram; we denote them 1;    ; n.
+According to 11th property of proposition 16, all positive roots can be written as
+an integral linear combination with non-negative coecients. In the following, we
+wPill try to answer the question Which non-negative integral linear combinations n
+i=0mii are roots The answer to this question determines all the positive
+roots and therefore the entire root system.
+Let  =
+Pn
+i=0mii be any positive root. Then
+Pn
+i=0mi is the so called level of
+.
+Claim 3. 1. Every positive root  can be written in the form
+ =  + j ;
+where  is a root or 0 and j is a simple root.
+2. Let  =
+Pn
+i=0mii be a positive root and let j be a simple root. Then
+ +  is a root i
+p  nj  2 
+(; j)
+(j ; j)
+=
+Xn
+i=0
+mi  nij ;
+where p is the lower bound for the j-string, i.e.,
+ ?? p;    ; ;    ;  + q
+Furthermore, p  mj .
+Proof. Let  =
+Pn
+i=1 rii be a positive root with level m + 1. Since the Killing
+form is positive denite on the root system, we have
+0  (; ) =
+X
+ri  (; i)
+Thus, (; i)  0 for some i with ri  0 (if all quantities (; i) and ri were
+negative, level m + 1 of  wouldn't be possible). Using the 7th property of
+proposition 16, we deduce that  ?? i is a root. Therefore,  was of the form
+ + j . This proves the rst statement.
+Assume we would know all positive roots with level  m and let  be any positive
+root with level m. Question Is  + j a root
+If  + j is a root it has to be contained in the j-string
+ ?? pj ;    ; ;    ;  + qj
+through , i.e., we have to demand qj??string  0. This is equivalent to p  nj
+(compare the 6th property of proposition 16).
+property 11 of proposition 16 says that no root can be written as a linear combination
+with mixed signs.  is a positive root by assumption. Therefore,  ?? p
+is a positive root ) p  mj46 Topology in Physics
+Reconstruction of the simple Lie Algebra from its root system
+The process of the reconstruction of the simple Lie Algebra from its root
+system can be divided into three steps
+1. Dene a basis of the Lie algebra.
+2. Compute the entire multiplication table of all elements in the basis.
+3. Check that the structure we have gotten (i.e., the vector space spanned by
+the basis together with the multiplication table) really denes a simple Lie
+algebra.
+What one would have to prove is the following
+1. The multiplication table is determined by the Dynkin diagram.
+2. Existence There exists a simple Lie algebra for each Dynkin diagram.
+3. Uniqueness The simple Lie algebra corresponding to a certain Dynkin
+diagram is unique up to isomorphisms.
+Now, we describe, how one can nd a basis of g.
+Let 1;    ; n denote the simple roots which follow directly from the root
+system. These simple roots realize a basis in h. After the discussion in the last
+subsection we know how to get the entire root system from the set of simple
+roots.
+Let  2 R+ be an arbitrary positive root. The goal is to nd a basis for the
+Cartan subalgebra h and every root space g (which are one-dimensional), since
+g = h  (
+M
+g)
+We need two ingredients to construct the basis. The rst one is the following
+lemma.
+Lemma 6. Let ,  6=  and  +  be roots. Then
+[g; g] = g+
+Proof. We have already seen that [g; g]  g+ and that all root spaces are
+one-dimensional. What is left to show is that [g; g] 6= 0.
+Consider the -string M
+k2Z
+g+kLie Algebras a crash course 47
+If  6=  the -string realizes an irreducible representation of sl(2;C), since all
+the root spaces in the string are one-dimensional.
+Assume that [g; g] = 0. Then the following two parts of the string
+M
+n2
+g+n
+M
+l0
+g??l
+wouldn't mix under the action of ad(g), i.e., they would realize subrepresentations
+which is a contradiction to the observation of irreducibility above.
+The second ingredient is the observation we made in the last subsection that
+we can write the arbitrary positive root  in the form (compare claim 3)
+ = i1 +    + ir ; (1.43)
+such that
+i1 +    + is (1.44)
+is a root for every s 2 f1;    ; rg.
+From these two ingredients we deduce the following
+Once we have found the basis elements for all root spaces corresponding to simple
+roots and for gi1+  +ir??1
+, the basis element for g  gi1+  +ir follows
+directly by the application of 'ad(basis of gir )', since
+ad(gir )  gi1+  +ir??1
+! gi1+  +ir
+ g
+Thus, to begin, we have to determine the basis for h and for all the simple root
+spaces gi 
+Choose Xi 2 gi and Yi 2 g??i arbitrarily. Dene Hi = [Xi; Yi]. Adjust Yi, such
+that
+[Hi;Xi] = 2  Xi and [Hi; Yi] = ??2  Yi
+Therefore, spanfHi; Xi; Yig = si
+=
+sl(2;C).
+We repeat this procedure for every simple root i. We nally get a basis for gi
+and g??i for every 1  i  n and a basis for h (since dim h = dim h). Then we
+can complete the basis of g as described above.
+7 Appendix
+Products of representations and dual representations
+Denition 23. Let G be a Lie group and let 1 and 2 be representations of G
+on vector spaces V1 and V2. Then
+ 1 
+ 2(g) = 1(g) 
+ 2(g)
+ 1 ^ 2(g) = 1(g) ^ 2(g)48 Topology in Physics
+ 1 
+sym 2(g) = 1(g) 
+sym 2(g)
+ 1 (g) = T (g??1)
+for all g 2 G.
+Proposition 17. Let 1, 2 and  be representations of a Lie algebra g with
+representation space V . Then
+ (1 
+ 2)(g) = 1(g) 
+ 1 + 1 
+ 2(g) (representation space V 
+ V ),
+ (1 ^ 2)(g) = 1(g) ^ 1 + 1 ^ 2(g) (representation space V ^ V ),
+ (1
+sym2)(g) = 1(g)
+sym1+1
+sym2(g) (representation space V 
+symV )
+ (g) = ??T (g) (representation space V ),
+for all g 2 g.
+Proof. We only prove the second assertion, because the proofs of the others follow
+in an analogue way.
+Let u(t) and v(t) be two general curves in a vector space V . Then
+d
+dt
+(u(t) ^ v(t)) = lim
+h!0
+u(t + h) ^ v(t + h) ?? u(t) ^ v(t)
+h
+= lim
+h!0
+u(t + h) ^ v(t + h) ?? u(t + h) ^ v(t)
+h
++
+u(t + h) ^ v(t) ?? u(t) ^ v(t)
+h
+= lim
+h!0
+u(t + h) ^
+v(t + h) ?? v(t)
+h
++
+u(t + h) ?? u(t)
+h
+^ v(t)
+= u(t) ^
+d
+dt
+v(t) +
+d
+dt
+u(t) ^ v(t)
+Let g be the Lie algebra of G, let X 2 g and let u; v 2 V . Then
+1 ^ 2(X)(u ^ v) 
+d
+dt
+jt=0(1 ^ 2)(etX)(u ^ v)
+=
+d
+dt
+jt=0(1(etX) ^ 2(etX))(u ^ v)
+= (
+d
+dt
+jt=01(etX)) ^ 2(etX)(u ^ v) + 1(etX) ^ (
+d
+dt
+jt=02(etX))(u ^ v)
+= (1(X) ^ 1)(u ^ v) + (1 ^ 2(X))(u ^ v)Lie Algebras a crash course 49
+Schur's Lemma
+Theorem (Schur's Lemma). 1. Let  and 0 be two irreducible representations
+of a group G with representation spaces V and V 0. Assume that
+L  (g) = 0(g)  L for a linear map L  V ! V 0 and all g 2 G.
+Then either L  0 or L is a vector space isomorphism.
+2. Let  be a nite-dimensional irreducible representation of a group G with
+representation space V , let L be a linear map L  V ! V such that L(g) =
+(g)  L for all g 2 G.
+Then L =   1 on V with  2 C.
+3. Let  be a nite-dimensional irreducible and Abelian representation of a
+group G with representation space V .
+Then V is one-dimensional.2 Goldstone bosons and the
+Higgs mechanism
+Stefan Pfenninger
+Supervisor Stefan Fredenhagen
+Starting with the fact that the Lagrangian of electrodynamics is
+locally invariant under the transformation group U(1), i.e.  !
+exp(i(x)), A ! A+ie@(x), the rst part of this report will
+consider the opposite question of how possible Lagrangians that
+have such an invariance might look like in general. Astonishingly,
+we get quite similar results by replacing the Abelian group U(1)
+with a general non-Abelian group G. Using these experiences,
+in the second part we will consider the concept of spontaneous
+symmetry breaking again in two parts. Firstly we will look at
+the case of a global symmetry to be broken what leads us to
+Goldstone's theorem and secondly we consider the case of a local
+symmetry breaking, what leads us to the Higgs mechanism. This
+important concept appears in many real physical problems and
+we discuss briey this appearance in the electroweak theory and
+in superconductivity. Write here a short summary of your talk. It
+should contain all important informations and catch the readers
+attention.
+5152 Topology in Physics
+1 Non-Abelian gauge invariance
+Motivation and conventions
+Considering the Lorentz invariant Lagrangian density for scalar electrodynamics1,
+one can see that it is locally gauge invariant under the group U(1), whereby
+local gauge invariance means that the transformation can depend on the spacetime
+point x, and global invariance would mean invariance under a constant
+transformation.
+In the rst section, we will derive the rather astonishing result that one can also
+derive the Lagrangian density for scalar electrodynamics by only assuming this
+local gauge invariance under U(1). This leads us to the idea that we might create
+other interesting theories by using more general groups. So we will rst have a
+look at the group SU(2) and then generalize the methods to a general symmetry
+group.
+We will use natural units (~ = 1 = c) and Einstein's sum convention in which
+Greek indices run from (0; ; 3) and roman indices from (1; ; 3). In this section,
+we follow [3] and [4].
+Abelian gauge invariance - U(1) gauge theory
+Starting with the complex-valued scalar eld , we assume that our theory has
+to be invariant under the transformation
+(x) ! V (x)(x) , V (x) = ei(x) 2 U(1) (2.1)
+The phase rotation (x) is an arbitrary real function, depending on the point of
+space-time, since we want to discuss a local gauge invariance. If we want to nd
+out what kind of Lagrangian matches our requirement of local U(1) invariance,
+we simply consider the dierent transformation behaviors of the possible terms
+that a Lagrangian can have. Of course, if we only take U(1) invariant terms to
+build a Lagrangian, we can ensure its local U(1) invariance.
+First, we consider a mass term
+m(x) (2.2)
+We see that such terms are invariant under both global and local U(1) transformation
+and do not need further considerations.
+1
+L(;D) = ??
+1
+4
+FF +
+1
+2
+(D)D ?? V () where
+D = @ + iA and A the Lorentz covariant potential.Goldstone bosons and the Higgs mechanism 53
+It becomes more interesting when we have a look at terms including derivatives
+of . While the behavior under a global transformation is
+@(x) ! V @(x),
+the one under a local transformation is
+@(x) ! V (x)@(x) + (x)@V (x)
+The reason of the appearance of a second term becomes more clear if we have a
+look at the denition of the derivative in a given direction n,
+n@(x) = lim
+!0
+1
+
+[(x + n) ?? (x)] (2.3)
+We can see that, since the transformation (2.1) depends on the point in spacetime,
+both summands have a completely dierent transformation under (2.1).
+One idea to solve this problem is to introduce a factor U(y; x) called comparator
+that compensates the dierence in phase transformations from one point to the
+next with the transformation law
+U(y; x) ! V (y)U(y; x)V (x)??1 (2.4)
+This ensures that (x) and U(x; y)(y) transform in the same way. Of course,
+the comparator has to ensure U(x; x) = 1. We can now dene an operator D
+called covariant derivative
+nD(x) = lim
+!0
+1
+
+[(x + n) ?? U(x + n; x)(x)] (2.5)
+Using the expansion for the two points to be close together, we get
+U(x + n; x) = 1 ?? ienA(x) + O(2); (2.6)
+in which the A is a new real vector eld called gauge eld or connection. Thus,
+the covariant derivative takes the form
+D(x) = @(x) + ieA(x)(x); (2.7)
+and by inserting(2.6) into (2.4) and comparing the -coecients
+U(x + n; x) ! ei(x+n)(1 ?? ienA(x) + O(2))e??i(x)
+= ei(x)+i@(x)n+O(2)e??i(x)(1 ?? ienA(x) + O(2))
+= (1 + i@(x)n)(1 ?? ien(A)(x)) + O(2)
+= 1 ?? ienA + i@(x)n + O(2)
+) A(x) ! A(x) ??
+1
+e
+@(x) (2.8)54 Topology in Physics
+?? ??
+??
+
+
+
+??
+??
+??
+
+
+
+??
+??
+??
+
+
+
+??
+??
+??
+
+
+
+x + oˆ1
+x + oˆ2
+x
+Figure 2.1 square in the (1,2)-plane of space-time, used for the construction of
+a eld strength
+If we check the behavior of D under the local symmetry transformation (2.1) we
+nd
+D(x) ! e(i(x))@(x) + (x)@e(i(x)) + (ieA(x) ?? i@(x))e(i(x))(x)
+= e(i(x))[@ + ieA](x);
+hence
+D(x) ! ei(x)D(x) (2.9)
+Note that the denition of the covariant derivative as well as the existence and
+the transformation law of the gauge eld A are a direct consequence of the
+condition of the local symmetry. Without these constructs we would not be able
+to write an invariant Lagrangian.
+To complete the construction, we also need to nd locally invariant terms
+that depend on A and its derivatives, but not on (x) itself. Once again, we
+consider the comparator U(y; x). To simplify we make some assumptions about
+U(y; x); it should be a pure phase U(y; x) = ei(y;x) with (y; x) an arbitrary real
+function, and U(x; y)y = U(y; x). For  small, this leads to an approximation 2
+U(x + n; x) = e??ienA(x+
+2n)+O(3) (2.10)
+Now consider a small square lying in the (1,2)-plane of the space-time with
+unit vectors ^1 and ^2 (see Fig. 2.1). Dene U(x) as the product of four U(y; x) -
+functions so that the new function U(x) is invariant under (2.1)
+U(x) = U(x; x+^2)U(x+^2; x+^1 +^2)U(x+^1 +^2; x+^1)U(x+^1; x) (2.11)
+2 Consider the equation U(y; x) = e
+??ie
+R
+Pxy
+d~xA(~x) which accomplish all the conditions
+on a comparator R and this for any line Pxy (Wilson line) running from x to y. Now x+n
+x A(~x)d~xn = nA(x + n
+2 ) + O(3) can be proved by integrating the well known
+equation f(x + ) = f(x + 
+2 ) + 
+2
+@
+@f(x + 
+2 ) + O(2) over  using the boundaries [0; ].Goldstone bosons and the Higgs mechanism 55
+Because U(x) is invariant under (2.1) even for  ! 0, and by using (2.10) we get
+a locally invariant function of A
+U(x) = exp(??ie[??A2(x +
+
+2
+^2)
+??A1(x +
+
+2
+^1
++ ^2) + A2(x + ^1 +
+
+2
+^2) + A1(x +
+
+2
+^1)] + O(3));
+and expanded
+U(x) = 1 ?? ie2[@1A2(x) ?? @2A1(x)] + O(3) (2.12)
+Since U(x) is locally invariant, F = @A(x) ?? @A(x) is so as well. F is
+called eld strength tensor. If we think of the Lagrangian of electrodynamics, we
+can see that F corresponds to the electromagnetic eld tensor.
+A shorter approach of nding the invariance of F starts with the covariant
+derivative since D(x) ! V (x)D(x)  [D;D](x) ! V (x)[D;D](x),
+what implies that [D;D] is invariant under (2.1) 3. A closer look at the commutator
+[D;D] shows that it is not a derivative at all
+[D;D](x) = [@; @](x) + ie([@;A] ?? [@;A])(x)
+??e2[A;A](x)
+= ie(@A(x) ?? @A(x))(x);
+and that with the denition of F we can write
+[D;D] = ieF (2.13)
+and that it is thus invariant.
+We can now create a Lagrangian out of , D and of F and its derivatives.
+When we assume that operators with dimension not larger than 4 make sure that
+the theory keeps renormalizable, only 5 terms can appear
+L = (D)D ??
+1
+4
+(F)2 ?? icFF ?? m + a()2, (2.14)
+where the ??1
+4 in the second term is just conventional. The U(1) group, which
+was a global symmetry has become a local symmetry group and is now called
+gauged.
+Note that we achieved this result only by assuming a local symmetry; furthermore,
+the existence of an electromagnetic vector potential appears naturally. If
+we insist on having a Lagrangian L that is also invariant under time reversal or
+parity, the third term disappears and our construction remind us on the Lorentz
+invariant Lagrangian density for scalar electrodynamics.
+3this argument is only true when V(x) and [D;D] do commute. In the U(1) case this is
+of course the case since V(x) is a scalar function. In the next section though, we will see that
+this invariance is no more true.56 Topology in Physics
+Non-Abelian Gauge Theory and the Yang-Mills Lagrangian
+In this section, we want to generalize the methods of the previous section in
+which we assumed the symmetry group to be the Abelian Group U(1). We now
+want to consider a general group G as a symmetry group which is in particular
+non-Abelian. Before we start to generalize the results from the previous section,
+we rst write down some conditions on the general group and very briey some
+facts about Lie algebras.
+Mathematical concepts As we have seen in the last section, our gauge theory
+is related to a symmetry group, which we had to gauge. In order to use similar
+methods like we did in the Abelian case, the symmetry group G must be at
+least a continuous group. We actually focus our attention only on continuously
+generated groups, which means that the group contains elements arbitrarily close
+to the identity. This condition allows us to write an innitesimal group element
+g in the form of
+g() = 1 + iaXa + O(2) , Xa 2 Lie(G) (2.15)
+The set of generators Xa span a vector space4, and so the commutator of generators
+Xa is a linear combination of generators,
+[Xa;Xb] = ifabcXc (2.16)
+in which the fabc are called structure constants.
+We can choose Xa to be a set of hermitian generators 5 and because of the Jacobi
+identity of the Xa , [Xa; [Xb;Xc]] + [Xb; [Xc;Xa]] + [Xc; [Xa;Xb]] = 0 we get
+fadefbcd + fbdefcad + fcdefabd = 0; (2.17)
+where it can be proved that fabc are totally antisymmetric.
+Another nice concept we will use is the irreducible representation ad of a
+Group G, called the adjoint representation whose denition is
+G ! Aut(V ) ; g 7! (v 7! gvg??1) (2.18)
+The representation matrices of the associated representation of the Lie algebra
+of G are given by the structure constants,
+((Xb))ac = ifabc ; Xb 2 Lie(G) (2.19)
+4Note that the denition of a generator A of a group element a is here the equation a = eiA
+and not eA.
+5We know that there is a scalar product in the representational vector space for every
+representation of the group G such that the representational matrix is unitary. According to
+this fact, the generators of G can be represented by hermitian matrices Xa.Goldstone bosons and the Higgs mechanism 57
+Methods of generalization illustrated by the group SU(2) We are now
+ready to generalize the methods to a general symmetry group G. Because SU(2)
+is a well known example for such a group, we will apply the results to this group
+to illustrate the eect more concretely.
+We start now with the more general situation using a set of N elds instead
+of a single eld
+(x) =
+0
+B@
+1(x)
+...
+N(x)
+1
+CA
+(2.20)
+For the SU(2) case, it is enough to have N = 2,
+(x) =
+1(x)
+2(x)
+!
+ (2.21)
+(x) transforms analogously to the Abelian case,
+(x) ! V (x) (x) , V (x) = exp(ia(x)Xa) 2 G (2.22)
+where Xa are the hermitian generators of the group G and the index a goes from
+1; ; dim(G).
+For G = SU(2), we have Xa = a
+2 with j ; (j = 1; 2; 3) the hermitian Pauli spin
+matrices. Expanding V (x) for a small  yields
+V (x) = 1 + ia(x)Xa + O(2) (2.23)
+Now we want to gauge the group by changing (2.22) into a local symmetry group.
+This can be ensured by insisting on the condition that the Lagrangian should be
+invariant under (2.22) for  = (x) an arbitrary function of x. We will now try
+to use the same methods as in the previous section, in which our symmetry group
+was U(1). One fundamental dierence is that the generators Xa do not have to
+commute as in the Abelian case. For G = SU(2) this is the case since the Pauli
+matrices do not commute.
+In general, the eld theory with a non-commuting local symmetry is called a
+non-Abelian gauge theory.
+Exactly as in the Abelian case, we introduce a comparator U(y; x), but since
+is a N component object, U(y; x) has to be a N  N matrix. Again we claim
+U(x; x) = id and the transformation law to be
+U(y; x) ! V (y)U(y; x)V (x)y (2.24)
+Assuming U(y; x) to be a unitary matrix, we can expand U(y; x) in terms of the
+hermitian generators of G, and for a small distance between the two points x and
+y, we have
+U(x + n; x) = id + ignA
+aXa + O(2) (2.25)58 Topology in Physics
+The constant g is extracted and we will use it later. As one can see, the new
+elds A are elements of the Lie algebra Lie(G),
+A = A
+aXa (2.26)
+and the A
+a are called Yang-Mills elds. For G = SU(2) we get analogously
+A = A
+j j
+2 . If we write the new expansion (2.25) in the old denition (2.5),
+then we get a new expression for the covariant derivative
+D = @ ?? igA
+aXa (2.27)
+Now we want to nd the gauge transformation law of the Yang-Mills elds A.
+Inserting (2.25) in (2.24)
+1 + ignA
+aXa ! V (x + n)(1 + ignA
+aXa)V y(x) (2.28)
+Using V (x+n) = (1+n@)V (x)+O(2) and @V (x) = ??@V y(x) one obtains
+by comparing the terms proportional to ign
+A
+a(x)Xa ! V (x)[A
+a(x)Xa +
+i
+g
+@]V y(x) (2.29)
+The innitesimal transformation laws for and A
+a are
+! (1 + iaXa) and (2.30)
+A
+a(x) ! A
+a(x) +
+1
+g
+@a + fabcA
+b(x)c
+In order to check that the new covariant derivative transforms as
+D (x) ! V (x)D (x) (2.31)
+one might use (2.29) and show it in a straight forward way. This calculation is
+not so easy, because there are lots of matrices that do not commute with each
+other. Since our construction (2.5) does not need such a verication, we leave
+the calculation to those who do not believe 6.
+Again, we need to nd gauge-invariant terms that depend only on A. Inspired
+by the Abelian case, we consider the commutator of covariant derivatives
+and its transformation
+[D;D] (x) ! V (x)[D;D] (x) (2.32)
+Just as in the Abelian case, we can show that [D;D] is not a dierential operator
+anymore but only a multiplicative factor in form of a N  N matrix which does
+not commute with the matrix V (x) anymore
+[D;D] = ??igF
+aXa (2.33)
+6For G = SU(2), this calculation is done in [3] but only for a small .Goldstone bosons and the Higgs mechanism 59
+where
+F
+aXa = @A
+aXa ?? @A
+aXa ?? ig[A
+aXa;A
+aXa] (2.34)
+This expression can be simplied if we remember the commutation relations (2.16)
+of the generators Xa,
+F
+aXa = @A
+aXa ?? @A
+aXa + gfabcA
+bA
+cXa (2.35)
+In the SU(2) case, we remember the commutation relations of the Pauli matrices,
+[j
+2 ; k
+2 ] = ijkl l
+2 ; with the antisymmetric structure constants jkl. As usual, the
+equation (2.35) for the SU(2) case looks the same, we only have to replace Xa
+by j
+2 .
+From the equations (2.24) (2.32) and (2.33) we can conclude that the new eld
+strength tensor transforms according to the adjoint representation
+F
+aXa ! V (x)F
+aXaV (x)y; (2.36)
+or in the innitesimal form
+F
+aXa ! F
+aXa + [iaXa;F
+bXb] , (2.37)
+F
+a ! F
+a ?? fabcbF
+c
+Note that the eld strength tensor is no longer gauge-invariant, since the factors
+(matrices!) in equation (2.36) do not commute anymore. However, in an appropriate
+normalization, we can still nd gauge-invariant terms out of the eld
+strength tensor, for example the term
+tr[(F
+aXa)2] =
+1
+2
+(F
+a)2 (2.38)
+Such a term in a Lagrangian would describe a nontrivial, interacting eld theory,
+because it contains cubic and quartic terms in A
+a. Such a theory is called Yang-
+Mills theory.
+Using the equations (2.30) and (2.37), it is possible to show that any globally
+symmetric function of , F
+a and their covariant derivatives is also locally
+symmetric, and might possibly appear in a Lagrangian.
+However, as we have already seen in equation (2.14), in a renormalizable theory,
+not so many terms are possible, and under the assumption that our Lagrangian
+preserves time reversal and parity, only four terms are allowed
+L = DD ??
+1
+4
+(F
+a)2 ?? m + a()2 (2.39)
+Using the Euler-Lagrange equations
+@
+@L
+@(@)
+??
+@L
+@ = 0; (2.40)60 Topology in Physics
+the corresponding classical equations of motion follow,
+@F
+a + gfabcAbFc
+ = ??gj
+a (2.41)
+where
+j
+a = ??i[(D)Xa ?? Xa(D)] (2.42)
+Now we want to adjust the covariant derivative on the adjoint representation,
+that means if a eld (x) does not transform the way equation (2.1) shows, but
+in the adjoint representation, we want D acting on (x) to respect that, in the way
+that the second term of D should act on the eld (x) according to the adjoint
+representation and its corresponding Lie algebra representation  respectively,
+(D)a = @a ?? igA
+b((Xb))acc = @a + gfabcA
+bc; (2.43)
+where we used equation (2.19). Together with equation (2.43) we can write
+equation (2.30) in the new form
+A
+a ! A
+a +
+1
+g
+(D)a (2.44)
+and equation (2.37) becomes
+(DF)a = ??gj
+a (2.45)
+One can see that with this generalization of the covariant derivative - now it
+respects the transformation behaviors of the elds it acts on - the strange-looking
+terms involving fabc are gone and even for a general symmetry group G we receive
+the same results as in the previous sections only by generalizing the covariant
+derivative.
+To nish this section, we want to show that there is, of course, an analogue
+of the homogeneous Maxwell equations in electrodynamics7 . We rst consider
+the antisymmetric double commutator of covariant derivatives
+[D; [D;D]] = 0 (2.46)
+The term vanishes because of its total antisymmetry8. Since we know that
+[D;D] = ??igF
+aXa, equation (2.46) can be reduced to
+(DF)a = 0 (2.47)
+which is the equation corresponding to the homogeneous Maxwell equation.
+7 Remember that also in the classical electrodynamic theory, the homogeneous Maxwell
+equation do not follow from the Euler-Lagrange equations. Because the eld strength tensor
+F is dened by the Lorentz invariant potential A, the homogeneous Maxwell equation follows
+automatically.
+8Since  is a total antisymmetric tensor with 1234 = 1, only 3! terms are non-zero when
+the rst component is xed. If for example we x the 4th coecient,
+4123 = 4231 = 4312 = ??1 , 4213 = 4132 = 4321 = 1 , and the rest all zero.Goldstone bosons and the Higgs mechanism 61
+2 Goldstone bosons and the Higgs mechanism
+Everything in this chapter will be done for classical eld theory except for the
+particle interpretation out of a Lagrangian density. Our results are therefore not
+completely correct, but one might see that what we derive can be interpreted as
+the rst terms in a quantum expansion. A discussion of quantum corrections is
+done in [4].
+Spontaneous symmetry breaking
+In the context of Lagrangians with scalar potentials, spontaneous symmetry
+breakdown is dened as follows
+Given that we have a rigid group G and a potential V () that is group invariant
+under this group, i.e.
+V (U(g)) = V () (2.48)
+for U(g) a unitary, continuous representation of G. If the point (x) = 0 where
+V () takes its minimum is not G invariant, i.e.
+U(g)0 6= 0 for g 2 G, (2.49)
+then the symmetry is said to be spontaneously broken.
+A visual example of the spontaneous breaking of a symmetry is given in [6]
+Imagine an innite crystalline array of spin-1
+2 magnetic dipoles that are interacting
+with their nearest neighbors. Even though the Hamiltonian is rotationally
+invariant, the ground state is not because it is a state in which all the dipoles
+are aligned in some arbitrary direction and is innitely degenerate for an innite
+ferromagnet 9 . Now imagine a little (i.e.  1) man living inside this huge
+crystal. He would denitely have a hard time to nd out that the laws of nature
+are rotational invariant. As long as his experiments interact even just a little
+bit with the background eld, he might detect rotational invariance only as an
+approximate symmetry. He would have no reasons to suspect that it was in fact
+an exact symmetry. The idea that the little man could check that he lives in
+a innitely degenerated ground state and therefore misses a symmetry is good
+but an impossible task for a little man, since he had to change the directions of
+innitely many spins at the time.
+Therefore
+4[D; [D;D]] = ??1f[D1; [D2;D3]]4 + [D2; [D3;D1]]4 + [D3; [D1;D2]]4g
++f[D2; [D1;D3]]4 + [D1; [D3;D2]]4 + [D3; [D2;D1]]4g
+= 0
+because of the Jacobi identity.
+9 Because the ferromagnet is innite, there are no special directions for the spins to align.
+Every direction is possible and so, there are innitely many ground states.62 Topology in Physics
+f
+VHfL
+Figure 2.2 potential for 2  0
+f
+VHfL
+Figure 2.3 potential for 2  0
+Like the little man who lives in the crystal, missing the rotational symmetry, we
+assume that our laws of nature may possess symmetries which are not manifest
+to us because our vacuum state is not invariant under them. With vacuum state
+is meant the state of lowest energy, and we characterize the spectra of small oscillations
+around the vacuum as particle masses.
+This idea that we might miss a symmetry is one of the main motivations for the
+further discussion.
+Example spontaneous symmetry breaking of a discrete symmetry
+group Consider the set of n real scalar elds (x), with the Lagrange density
+L =
+1
+2
+(@)(@) ?? V () (2.50)
+The energy density corresponding to (2.50) is
+H =
+1
+2
+(@0)2 +
+1
+2
+(r)2 + V () (2.51)
+We assume to have a potential
+V () =
+
+4!
+4 +
+2
+2
+2; (2.52)
+where  is a positive number and 2 might be positive or negative. We can easily
+see the symmetry
+ ! ?? (2.53)
+If 2 is positive, then the potential looks like the one in Fig. 2.4. The vacuum
+is then at 0 = 0 and the symmetry is not broken and the mass of the particle
+corresponding to the eld  is .
+If 2 is negative (see Fig. 2.5), it is convenient to introduce a quantity
+c2 = ??
+62
+
+(2.54)Goldstone bosons and the Higgs mechanism 63
+and the potential can be written as
+V () =
+
+4!
+(2 ?? c2)2 (2.55)
+plus an irrelevant constant. One can see from equation (2.55) that the potential
+has two minima,  = c. Which one we choose does not matter, the symmetry
+is spontaneously broken anyway. So we choose  = c and dene a new, shifted
+eld
+0 =  ?? c (2.56)
+In terms of this shifted eld, the potential is
+V () =
+
+4!
+(02 + 2c0)2 =
+
+4!
+04 +
+c
+6
+03 +
+c2
+6
+02 (2.57)
+We can see here, that the squared of the mass of the particle that corresponds to
+the eld 0 is c2
+3 and not 2 = c2
+6 as one might think by considering equation
+(2.50) and (2.52). Of course we have to be careful by interpreting particles out of
+a Lagrangian density, because our vacuum state might not be at 0 = 0. In such
+a case we need to expand the Lagrangian around 0 because in our denition of
+particles we consider the neighborhood of the vacuum state, just the way we did
+it here.
+Note also that a cubic  term appears, which makes it hard to detect the hidden
+symmetry
+0 ! ??(0 + 2c) (2.58)
+So here we can see, that for such a system with spontaneous symmetry breaking,
+we might have two Lagrangians (here (2.50) and (2.57)) describing the same
+system, but in one we can see easily the symmetry and in one the particles.
+Example spontaneous symmetry breaking of a continuous symmetry
+group This time, we choose  to be a complex scalar eld dened by the
+Lagrangian
+L0((x); @(x)) = @@ ?? V () (2.59)
+and its classical Hamiltonian
+H =
+Z
+d3x[ + rr + V ()] ;  =
+@
+@t
+ (2.60)
+L is invariant under the global gauge transformation
+(x) ! e??i(x) (2.61)
+One possible vacuum state is the constant (x) = 0, such that V (0) is at
+its smallest value. If 0 6= 0, then 0 is not invariant under a global phase64 Topology in Physics
+F F
+VHFFL
+Figure 2.4 potential for 2  0
+F F
+VHFFL
+Figure 2.5 potential for 2  0
+transformation, hence the symmetry is spontaneously broken. The lowest state
+is again innitely degenerated because the phase of 0 is arbitrary.
+We want to x a potential
+V () = 2 + ()2 + const (2.62)
+and get the equation of motion
+(@@ + 2) = ??22 (2.63)
+by using the Euler-Lagrange equations.
+If  = 0 and 2  0, the Lagrangian contains no terms representing interaction
+and we get the plane waves of wave vectors k with k2 = 2 corresponding to a
+single-particle state of mass .
+If   0 and 2  0 the potential looks like Fig. 2.2 and the lowest solution is
+(x) = 0 what corresponds to no spontaneous symmetry breaking.
+If   0 and 2  0 the potential looks like Fig. 2.3 and we can already see that
+the lowest solution (x) = 0 6= 0 and so the symmetry is spontaneously broken.
+We want to study this case now.
+The potential is dened only up to a constant, so that we can rewrite it in the
+form
+V () = ( ?? 20)2 + const ; 0 6= 0 (2.64)
+and the lowest state corresponds to  = 20
+, or
+(x) = 0ei0 (2.65)
+with 0 an arbitrary real constant.
+We expand (x) around the vacuum solution 0
+(x) = (0 + (x))ei(x) ; (0) = 0 (2.66)
+and the complex elds (x) and (x) are then replaced by real elds (x) and
+(x). The Lagrange density changes to
+L0 = @@ ?? (20 + )22 + (0 + )2@@ (2.67)Goldstone bosons and the Higgs mechanism 65
+??
+??
+??
+
+
+
+??
+??
+
+
+??
+??
+??
+
+
+
+mode
+massive
+massless mode
+V (*)
+I()
+R()
+Figure 2.6 Two possible modes in the scalar eld if the potential V implies a
+vacuum state that is not invariant under the symmetry U(1).
+Close to the vacuum state,  is small and we drop terms higher than second order
+in  10 
+L0 = [@@ ?? 420
+2] + 20
+@@ + O(3) (2.68)
+If we look at equation (2.68), we see that the terms in the brackets describe a
+particle of mass 20
+p
+. The next term describes a massless scalar particle because
+the -eld appears in the Lagrangian only by its derivatives. These modes
+are illustrated in Fig. 2.6.
+There exists a nice way in which we could have seen purely geometrically that
+there must enter a massless particle term in the Lagrangian. If our vacuum is not
+invariant under the symmetry group U(1) we have a curve in an abstract space of
+all states passing through all the possible vacuum states. In our case, the curve
+is a circle in the complex plane as drawn in Fig. 2.6. If we expand the potential
+around the vacuum, no terms involving the variable that measures displacement
+along this curve can appear, because the potential is constant along this curve.
+Since this curve is parametrized by the function (x), and (x) appears in the
+Lagrangian by its derivatives, we always have a massless particle.
+Such a massless particle is called a Goldstone boson, what leads us to the next
+section.
+10 If we drop the second order term in  as well, we will loose the information how the system
+behaves around the vacuum solution since the Euler-Lagrange equations kill one .66 Topology in Physics
+Goldstone's Theorem and Goldstone bosons
+In the last example of the previous section, we have seen that the spontaneous
+breakdown of a global symmetry implies the existence of a massless particle called
+Goldstone boson. One should remember that the symmetry that is spontaneously
+broken is still a symmetry of the system. It is manifested not through the invariance
+of the lowest state, but in the Goldstone mode - through the existence of
+a Goldstone boson.
+In this section we want to give an idea of the general version of that statement
+called Goldstone's theorem.
+We start with a Lagrangian that is globally invariant under the symmetry
+group G and assume to have a set of N real elds, and a potential V ( ) which
+is invariant under a group transformation
+(x) ! eiaXa
+(x) and so V ( ) = V (eiaXa
+(x)); (2.69)
+where the Xa are a set of N hermitian matrices and the a are arbitrary real
+parameters.
+Now we want to construct the subgroup H of G that contains all the elements
+of G that leave the vacuum state 0 of the Lagrangian invariant 11 . H does
+of course depend on the potential V () and may be anything from the trivial
+identity subgroup (all symmetries spontaneously broken) to the full group (no
+symmetries spontaneously broken). We want to choose the indices of the group
+generators so that this subgroup H is generated by the rst N ?? K generators
+where N  N ?? K  0. Formally, this means
+H = fh 2 Gjh 0 = 0g and Xa 0 = 0 8a 6 N ?? K (2.70)
+Now the K remaining generators do not leave 0 invariant, and according to the
+discussion at the end of the previous chapter, in the abstract space of all states,
+we have a K-dimensional surface of constant potential V ( ). Thus, by the same
+geometrical arguments as before 12 , the theory must contain K massless particles,
+one for each spontaneously broken symmetry. As we said before, these particles
+are called Goldstone Bosons and the statement we just proved is a special case
+(the classical case) of Goldstone's theorem, that can be proved in much greater
+generality in quantum eld theory13 .
+11 It is easy to see that this is in fact a subgroup (see also chapter little group).
+12 A more mathematical proof is done in [7], p.93.
+13See [6], p.120
+given a eld theory obeying the usual axioms (Lorentz invariance, locality, Hilbert space with
+positive-denite inner product, etc.), if there is a local conserved current (the axiomatic version
+of the statement that the Lagrangian is invariant under some continuous transformation) such
+that the space integral of its time component does not annihilate the vacuum state, then the
+theory necessarily contains a massless spinless meson, with the same internal symmetry and
+parity properties as the time component of the current.Goldstone bosons and the Higgs mechanism 67
+Higgs mechanism
+In the very beginning of this report, we have seen that there are certain Lagrangians
+that are invariant not only under a global symmetry transformation,
+but also under a local one. From the previous section we know that there are
+spontaneous symmetry breakings, but we discussed that phenomenon only in case
+of a global gauge invariance. In this section, we will discuss the case of a local
+gauge invariance in an Abelian and a non-Abelian example.
+Higgs mechanism in an Abelian model Consider the following Lagrangian
+with the complex, scalar eld , the covariant derivative D and the potential
+V ()
+L = ??
+1
+4
+FF + (D)D ?? V (); (2.71)
+D = (@ + ieA)
+V () = ( ?? 20
+)2 ; 0 6= 0
+The gauge eld A transforms according to equation (2.8) and the eld  according
+to equation (2.1).
+Using the Hamiltonian of the Lagrangian (2.71), it is possible to show 14 that a
+lowest energy solution is
+A(x) = 0 and (x) = 0ei0 (2.72)
+where 0 is an arbitrary constant, and since 0 6= 0 we see that there is a spontaneous
+symmetry breaking for all 0 and without loss of generality we choose
+0 = 0.
+Considering the close neighborhood of the vacuum state 0, we write (x) =
+0 + (x) with (x) = 1(x) + i2(x) and get the Lagrangian
+L(A; ) = ??
+1
+4
+FF + (D)D +
+1
+2
+e220
+AA + e201AA
+??e02(@A) ?? (420
+2
+1 + 401jj2 + jj4); (2.73)
+Now we take advantage of the fact that the Lagrangian is invariant under a local
+phase transformation and gauge away the phase of  such that we can assume 
+to be real,
+(x) = (x) ; 8x 2 R4  (x) 2 R (2.74)
+That leads us to the Lagrangian
+L(A; ) = ??
+1
+4
+FF + (@)2 + e2AA2 ?? (2 ?? 20
+)2 (2.75)
+14see [4], p.5468 Topology in Physics
+As in the previous section, we call the local gauge symmetry spontaneously broken
+when 0 6= 0. A vacuum solution is  = 0 and A = 0. This follows from the
+equations of motion (see equation (2.78)). Because 0 6= 0, we get a spontaneous
+symmetry breaking to discuss.
+Again we consider the eld (x) in a close neighborhood of the vacuum state 0,
+(x) = 0 + (x); (2.76)
+and the Lagrangian changes to the form
+L(A; ) = ??
+1
+4
+FF + (@)2 + e2AA20
+(2.77)
++e2AA2 ?? (420
+2 + 403 + 4)
+By comparing the two Lagrangians (2.73) and (2.77) we recognize that in (2.73),
+there appears a massless particle (Goldstone Boson) according to the eld 2 but
+there is no such massless particle in (2.77) anymore. Since the second Lagrangian
+(2.77) is reached by a local gauge transformation, we can see that the Goldstone
+boson can be gauged away.
+So the Goldstone Boson is just a so-called gauge phantom and by using the
+right gauge transformation, it disappears. Now we want to investigate the form
+of the gauge elds A in this gauge, because once we have chosen the gauge
+transformation for  it is xed for the elds A as well.
+Using the Euler-Lagrange equations, we get the equations of motion
+@F = ??2e22A ; (@ + ieA)(@ + ieA) = 2(20
+?? 2) (2.78)
+Expanding the equations of motion in the regime where  and A are small
+quantities leads us to the new equations of motion
+(@@ + 2e220
+)A = 0 ; @A = 0 and (2.79)
+(@@ + 420
+) = 0
+Here we can see that the massless particle appears no more but the gauge eld
+A has become massive because of the non-zero coecient 2e220
+that corresponds
+with the squared value of the mass. The conclusion can be shown in the following
+way at the beginning we can choose a xed gauge so that the original independent
+elds are A1;A2 and ; . With the expansion around the vacuum state
+and using the gauge which changes the eld  into a real eld , we replace the
+original elds by A1;A2;A3 and . Now we can see that the Goldstone boson,
+which is in fact just a gauge phantom, has been eaten by the gauge eld and
+that one gets a massive gauge eld. This magic trick was discovered by P.Higgs
+(and independently by other people) and it is called the Higgs mechanism. Some
+more discussion can be found at section 2 after we will have also considered the
+Higgs mechanism for a general non-Abelian gauge group.Goldstone bosons and the Higgs mechanism 69
+The little group Before we have a look at one example of the Higgs mechanism
+of a non-Abelian local gauge transformation, we want to discuss briey a
+useful concept called the little group.
+We assume that only some spin-0 elds, Higgs elds, can have non-vanishing vacuum
+values, and therefore cause spontaneous symmetry breaking. The reason is
+that higher-spin elds which cause spontaneous symmetry breaking would spontaneously
+break the Lorentz invariance in contradiction to experimental evidence.
+We will use the same Lagrangian (2.71) and write  for the Higgs elds. The
+potential V () has its minimum at (x) = 0 with the minimum value zero
+V (0) = 0; V 0(0) = 0; V 00(0)  0 (2.80)
+As we know, spontaneously symmetry breaking happens if 0 6= 0 and a vacuum
+solution is
+(x) = 0 and Aa
+(x) = 0 () D(x) = 0) (2.81)
+As we have seen earlier in the U(1) case, 0 is not the only possible vacuum state
+because ei0 for an arbitrary  would do it as well. The same happens for a
+spontaneously symmetry breaking in the non-Abelian gauge theory, and we want
+to discuss it the same way as in the Abelian case.
+First, we specify that 0 is constant 6= 0, which means that all the components of
+0 are independent of space-time points x. Since we assume the potential V to be
+independent of x, this is indeed possible. As we have seen in earlier sections, there
+might be certain elements h 2 G for that h0 builds another possible vacuum
+state. Consider now the elements ~h of G, that leave 0 invariant, such that
+the two vacuum states 0 and ~h0 do not dier. Because we assume to have a
+spontaneous symmetry breakdown, this must not hold for all the elements g of
+the local gauge transformation Group G. We call the set of the elements that
+leave the vacuum state invariant the little group, and say that the symmetry G
+is spontaneously broken down to H 15 .
+The Lie algebra of the little group is made of a subset of generators fxg of the
+generators fXag of G. Since
+e??iwaxa0 = 0 (2.82)
+for arbitrary wa, all the generators of the little group must hold the equation
+x0 = 0 (2.83)
+15 For an example take G = SU(2),  = (1; 2; 3) and V () = (21
++ 22
++ 23
+?? a2)2
+We can see the vacuum solution 0 = (01; 02; 03) with 2
+01 + 2
+02 + 2
+03 = a2. If we x
+a solution 0 pointing in the direction e1, it follows that a U0 = 0 for a rotation U with
+axis e1. Since we can write every such U in the Form U = exp(??iwX1) we see that SU(2) is
+spontaneously broken down to U(1).70 Topology in Physics
+Since the generators of G not in the set fxg cannot annihilate 0 we can divide
+the set fXag into two disjoint subsets
+fXag = fXj ; xg ; Xj0 6= 0 (j = 1; ;K) (2.84)
+x0 = 0 ( = 1; ;N ?? K)
+For convenience, we choose real antisymmetric generators fTjg instead of the
+hermitian fXjg,
+Tj = ??iXj (j = 1; ;K) and (2.85)
+t = ??ix ( = 1; ;N ?? K);
+and we assume 0 to be a real vector and therefore the representational vector
+space to be a real R-dimensional vector space.
+We can show that the vectors Tj0, (j = 1; ;K) are independent and therefore
+span a K-dimensional subspace of the R-dimensional representational vector
+space. For the little group to be non-empty, we need to satisfy the condition
+R ?? K  0 (2.86)
+We call the K-dimensional space spanned by Tj0 (j = 1; ;K) the Goldstone
+space and its complement the (R ?? K)-dimensional space, the Higgs space.
+It can be shown that for any vector  in the representational vector space and
+for any gauge group G, there is always a gauge transformation U0 2 G such that
+U0 is orthogonal to the Goldstone space
+(Tj0;U0) = 0 ; (j = 1; ;K); (2.87)
+where we use the standard scalar product (f; g) =
+PR
+n=1 fngn. This U0 is said
+to be in unitary gauge 16. Therefore we have
+(x) ! U0(x)(x)
+16 Proof
+For xed  and , consider the mapping
+f  G ! R
+f  U 7! (;U)
+Since G is compact, the function f has an extrema, let's say at position U0. A small variation
+of U around U0 therefore gives
+f = f(U0 + U) ?? f(U0) = 0
+By writing the element U = !aTaU0 and using the denition of f, we see
+0 = f = (; !aTaU0) = !a(; TaU0) = !a(Ta;U0)
+Since the !a are arbitrary, the last scalar product has to be zero and therefore the statement
+follows.Goldstone bosons and the Higgs mechanism 71
+U0(x)(x) =
+0
+~(x)
+!
+Goldstone space, K-dimensional
+Higgs space, (R ?? K)-dimensional.
+(2.88)
+Higgs mechanism in a non-Abelian model Using the results of the previous
+section, the vacuum solution can be written in the unitary gauge and has then
+the form
+(x) = 0 =
+0
+~ 0
+!
+; Aa
+ = 0 (2.89)
+We expand around this vacuum solution
+(x) =
+0
+~ 0 + (x)
+!
+; Aa
+ small (2.90)
+From equation (2.80) we can expand the potential
+V () =
+1
+2
+@@V (0) =
+1
+2
+(; V 00(0)) (2.91)
+For the matter eld current j of the Lagrangian
+L = ??
+1
+4
+Fa
+Fa + (D)(D) ?? V () (2.92)
+is already known from equation (2.42) and we can also expand it to 17
+ja
+ = ??g2(Ta0; Tb0)Ab
+ (2.93)
+Together with the following bloc matrices,
+(2)rs =
+
+0 0
+0 V 00(0)
+
+Goldstone space
+Higgs space
+; and (2.94)
+(M2)ab = g2(Ta0; Tb0) =
+
+(M2)ij 0
+0 0
+
+Goldstone space
+Higgs space,
+(2.95)
+the linearized equations of motion can be written in the form 18
+@@r + (2)rss = 0 ; (r = 1; ;R ?? K) (2.96)
+@@Ai
+ + (M2)ijAj
+ = 0 ; (@Ai
+ = 0); (i = 1; ;K) (2.97)
+@@A
+ ?? @(@A
+) = 0 ; ( = 1; ;N ?? K) (2.98)
+The rst equation describes massive particles called Higgs bosons, while the second
+one describes massive gauge bosons because the gauge elds of the spontaneously
+broken symmetry have eaten their Goldstone bosons. The third equation
+describes massless gauge bosons which are the gauge particles associated with the
+unbroken symmetry H.
+17see [4], p.78
+18see [4], p.7872 Topology in Physics
+Higgs bosons
+Higgs field global symmetry is spontaneously broken
+massive gauge bosons
+massless gauge bosons
+Higgs field
+Gauge field
+local symmetry is spontaneously broken
+local symmetry is spontaneously broken
+Higgs bosons
+Goldstone bosons K broken generators
+K broken generators
+(N - K) unbroken generators of the little group H
+(R - K) remaining dimensions
+(R - K) remaining dimensions
+Figure 2.7 Scheme of Goldstone's theorem and of the Higgs mechanism
+Conclusions
+So far we have done a lot of very theoretical work that is schematically shown
+in Fig. 2.7. In the upper part, the spontaneous symmetry breaking of a global
+symmetry is considered. We have seen, that for those generators of the global
+symmetry group that do not leave the vacuum state invariant exist corresponding
+Goldstone bosons (Goldstone's thm). For the other generators that leave the
+vacuum state invariant, we get the same massive particles as in the case of no
+spontaneous symmetry breaking.
+In the lower part of Fig. 2.7, we consider the case of spontaneous symmetry
+breaking of a local symmetry. As we have seen in the discussion of the Higgs
+mechanism, the Goldstone bosons associated to the K generators of the gauge
+group that do not leave the vacuum state invariant are only gauge phantoms
+, which means that they can be gauged away. Doing so, the same number of
+massless gauge bosons as the number of Goldstone bosons get massive. Considering
+the generators that leave the vacuum state invariant, as in the case of
+global symmetry breaking, they imply their Higgs bosons corresponding to them.
+When we have no Goldstone bosons to gauge away, the corresponding massless
+gauge bosons stay massless.
+Until now, we have ignored the experimental results in our discussion about
+what kind of particles we have been able to detect. If we want to reduce all
+possible theories to those that contain only the particles already measured, we
+may not have any massless particles except one, the photon. To achieve this, the
+entire gauge group must be spontaneously broken, except for a one parameter
+subgroup. The gauge eld corresponding to it remains then massless and we consider
+it to be corresponding with the electromagnetic potential that does indeed
+contain a massless particle, the photon.
+It might be useful to remember historically that the spontaneous symmetryGoldstone bosons and the Higgs mechanism 73
+breaking and the theory of non-Abelian gauge elds were considered to be independent.
+Since both of the theories contain massless particles, the Goldstone
+bosons and the massless gauge bosons, their physical relevance were thought to
+be little. It took some time (1959-1967) to realize, that these two problems cancel
+each other, in the way that the Goldstone bosons disappear and the massless
+gauge bosons gain mass.
+Two physical applications
+To see that the very theoretical work we have done until now has important
+applications in many experimentally proved theories, we want to have a look at
+two examples where our conclusions and the mechanisms we found are successfully
+used. Of course, we will discuss here only the very general results and give an
+idea how our results from the previous sections get important.
+Electroweak theory The weak interaction acts between all particles and is
+for example responsible for the -decay of certain particles. Its range is very
+small, i.e. much less than 1 fm and as the name says, it is weak compared to the
+other two fundamental interactions namely the strong and the electromagnetic
+interaction. The weak interaction is though stronger than the third fundamental
+interaction, the long ranged gravitation. However, it is possible to formulate a
+theory called electroweak theory that connects the electromagnetic and the weak
+interaction, thanks to the results of the gauge theory.
+Summarized, the results of the theory of the weak interaction are the following.
+Three massive particles, the two bosons W and the particle Z are responsible
+for the interaction and that the theory's symmetry group is SU(2). We also know
+that the massless photon is responsible for the electromagnetic interaction with
+its symmetry group U(1).
+The idea of the electroweak theory is now to consider the symmetry group
+SU(2)U(1) with the little group U(1) for a certain vacuum state that is spontaneously
+broken. The existing massless gauge boson is identied as the photon
+from the electromagnetic theory. The other three gauge elds get massive and
+the appearing particles are identied with the three massive particles W and Z.
+There also appears a massive Higgs eld.
+This method is exactly like the general one we described in the previous section.
+The results following from this theory do mostly agree very good with the results
+from experiments, except for the missing Higgs boson that has not been found
+yet.
+Superconductor As a second example where the Higgs mechanism actually
+takes place we want to consider the phenomenon of superconductivity. Again,
+the exact mathematical formulation would take too much time to formulate here
+and we focus on the general procedures.74 Topology in Physics
+In the ground state of a material, under a critical temperature Tc an important
+process might happen the condensation of the electrons to electron pairs
+called cooper pairs. This happens because of a small electron-electron attraction.
+The fermion property of one electron has disappeared because the cooper-pairs
+can be treated as spinless particles. Such a procedure does force the question if
+a symmetry of the system might be broken. To check that, we need some more
+mathematical formalism, which we can nd in the Landau-Ginzburg theory of
+superconductivity.
+The idea of the Landau-Ginzburg theory of superconductivity is to couple the
+Landau description of a (second order) phase transition to an external electromagnetic
+eld. The Lagrangian of this theory is quite similar to the one we used
+in the section 2 where we discussed an example of the Abelian Higgs mechanism,
+L(x) = ??
+1
+4
+FF + (D)D ?? ( ?? 20
+)2 (2.99)
+where the 20
+is proportional to the term (T ?? Tc)=Tc. This Lagrangian is valid
+only for temperatures below the critical temperature Tc because only boson and
+no fermion elds appear. We also know already that this Lagrangian is invariant
+under the local U(1) gauge transformation (see equation (2.1) and (2.8)) and
+that the vacuum state is spontaneously broken. One result we can use now is
+that the formerly massless gauge particle has got the mass m2
+A = 2e220
+. Since
+we consider the gauge eld A as corresponding to the vector potential from
+electrodynamics and the former massless particle to the photon, we see that the
+latter gets massive with the mass mA. From the theory of electrodynamics we
+know that a mass term for the elds appearing in the Lagrangian leads to the
+Proca Lagrange density. This generates elds that vanish within the scale of 1
+mA
+.
+This explains the Meissner eect that says that an external electromagnetic eld
+penetrates a superconductor only to the depth 1
+mA
+.3 Magnetic monopoles Dirac
+and Polyakov-t'Hooft
+Philip Grech
+Supervisor Urs Wenger
+Although not yet found in nature magnetic monopoles are of
+theoretical interest. In particular their existence would yield an
+explanation for the quantisation of electric charge.
+We will consider two dierent constructions The rst one was
+given by Dirac in 1931, who examined the consequences of a magnetic
+monopole if a consistent description in electrodynamics and
+quantum mechanics is required. We will use two approaches The
+rst one is based on the quantisation of the angular momentum
+in quantum mechanics, whereas the second uses gauge transformations
+of the electromagnetic eld.
+The second construction will follow 't Hooft and Polyakov, who
+were able to show that magnetic monopole solutions can also
+arise in non-Abelian gauge theories. We will not quantise the
+elds. Furthermore, we try to illuminate the connection between
+the 't Hooft-Polyakov monopole and the Dirac monopole.
+A lower bound on the monopole mass will be calculated and
+we see that under rather special assumptions the eld equations
+for the 't Hooft-Polyakov monopole can be solved analytically.
+The so obtained solution will dier from the Dirac monopole
+fundamentally.
+7576 Topology in Physics
+1 Dirac Monopole
+Covariant Formulation of Electrodynamics
+We will not deduce the fact that a covariant formulation of electrodynamics can
+be given, yet just repeat the principal results (for further information see [10] or
+[11]) The four-current and the four-potential
+(j) =
+
+e
+~j
+
+and (A) =
+
+
+~A
+
+(3.1)
+transform like four-vectors. e denotes the electric charge, ~je the corresponding
+current,  the scalar and ~A the vector potential.
+@j = 0 (3.2)
+is the continuity equation,
+A = j (3.3)
+is the wave equation for the potential. We use the signature (+ - - -) for the
+Minkowski metric ().  = @@ is the d'Alembert operator, a Lorentz
+scalar (Given that (j) is a four-vector it follows from (3.3) that (A) is a fourvector).
+The Lorentz gauge takes the form
+@A = 0 (3.4)
+We dene the antisymmetric eld tensor
+(F) = (@A ?? @A) =
+0
+BB@
+0 ??E1 ??E2 ??E3
+E1 0 ??B3 B2
+E2 B3 0 ??B1
+E3 ??B2 B1 0
+1
+CCA
+(3.5)
+and its dual tensor
+F =
+1
+2
+F (3.6)
+Maxwell's equations now take the simple form
+@F = j (3.7)
+@  F = 0 (3.8)
+Notice that the dual eld tensor is obtained from the original tensor by applying
+the duality transformations ~E ! ~B and ~B ! ??~E.
+Consider now the gauge transformation A0
+ = A??@, where  is an arbitrary
+function. Then we have
+(F0) = (@A ?? @@ ?? @A + @@) = (F)Magnetic monopoles Dirac and Polyakov-t'Hooft 77
+Thus the electromagnetic eld remains unchanged.
+This formalism will be used to be able to illustrate certain parallels between
+the Abelian and the non-Abelian case. In this chapter we shall content ourselves
+with the usual Maxwell equations, since the covariant formulation is not really
+needed for the arguments given.
+Generalised Duality in Electrodynamics
+We contemplate Maxwell's equations but introduce as well magnetic charges m
+and currents ~ jm
+~r
+ ~E = e ~r ^ ~E + @t~B = ??~jm (3.9)
+~r
+ ~B = m ~r ^ ~B ?? @t~E =~je (3.10)
+We assumed that the magnetic continuity equation has the same form as the one
+for the electric densities.19 Consider now the generalised duality transformation
+which rotates the electromagnetic eld and its charges and currents
+0
+BBBBBBB@
+~E
+0
+~B
+0
+0
+e
+0
+m
+~j0e
+~ j0m
+1
+CCCCCCCA
+=
+0
+BBBBBB@
+cos  ??sin  0 0 0 0
+sin  cos  0 0 0 0
+0 0 cos  ??sin  0 0
+0 0 sin  cos  0 0
+0 0 0 0 cos  ??sin 
+0 0 0 0 cos  cos 
+1
+CCCCCCA
+0
+BBBBBBB@
+~E
+~B 
+e
+m
+~je
+~ jm
+1
+CCCCCCCA
+
+(3.11)
+As an example we compute for the rst Maxwell equation
+~r
+ ~E0 = ~r  (cos   ~E ?? sin   ~B ) = cos   e ?? sin   m = 0
+e
+It is easy to verify that also the other equations are invariant under the above
+transformation. Assume that m
+e
+is equal for every particle in nature. Then there
+is an  2 R such that
+0
+m = e(sin  +
+m
+e
+cos ) = 0
+and
+~ j0m = 0
+accordingly.
+It is thus a convention when we choose qe = ??jej and qm = 0 for an electron.
+Therefore the crucial question is not whether non-vanishing magnetic charge densities
+exist but whether there are two particles with dierent ratios qm
+qe
+. We remark
+that when we talk about magnetic monopoles in this article, we always think of
+a particle which has a dierent ratio qm
+qe
+than what has been measured yet.
+19Alternatively we could have written @F = j and @  F = k with (k) = (m;~jm).78 Topology in Physics
+Angular Momentum Approach
+For the further discussion of the Dirac Monopole we refer to [12] and [13]. Dirac
+discovered a quantisation condition for the electric charge by requiring a consistent
+description of magnetic monopoles in electrodynamics and quantum mechanics.
+In this chapter we show how we can connect the magnetic charge to
+a certain angular momentum. The quantisation of the electric charge will then
+follow directly from the quantum mechanical quantisation of this angular momentum.
+Consider a particle at the point ~r with electric charge q and mass m in the eld
+of a magnetic monopole with magnetic charge g placed at the origin (r = j~rj)
+~B
+=
+g
+4r3~r (3.12)
+m~r = q_~
+r ^ ~B (3.13)
+Since this is no central force we cannot expect the orbital angular momentum
+to be preserved. Nevertheless ~B has a rotational symmetry and we may conjecture
+a conserved quantity. Thus compute
+d
+dt
+(~r ^ m_~
+r) = ~r ^ m~r
+=
+qg
+4r3~r ^ (_~
+r ^ ~r)
+=
+qg
+4r3
+h
+_~
+rr2 ??~r(_~
+r  ~r)
+i
+=
+d
+dt
+ qg
+4
+^r
+
+
+We set ^r = ~r
+r and used d
+dt
+~r
+r =
+_~
+r
+r ?? ~r(~r_~
+r)
+r3 . Now dene the total angular momentum
+as
+~ J = ~r ^ m_~
+r ??
+qg
+4
+^r; (3.14)
+which is indeed a conserved quantity. To understand the second term of ~ J remember
+that the construction of the Maxwell torsion tensor yields the identication
+of the eld momentum density with ~E ^ ~B . This leads to an expression for the
+angular momentum of the electromagnetic eld
+~ Jem =
+Z
+d3x(~x ^ (~E ^ ~B)) (3.15)Magnetic monopoles Dirac and Polyakov-t'Hooft 79
+~E
+denotes the eld of the electric charge q at ~r, ~B is given by (3.12).
+Ji
+em =
+Z
+d3xEj(ij ?? ^xi^xj)
+g
+4x
+=
+Z
+d3xEj @
+@xj (
+g^xi
+4
+)
+ibp
+= ??
+Z
+d3x~r  ~E
+g
+4
+^xi
+Using ~r  ~E = q  (~x??~r), (~x) is the Dirac delta, we get the angular momentum
+of the electric eld
+~ Jem = ??
+qg
+4
+^r (3.16)
+Thus we can argue that the total angular momentum for which we derived conservation
+is nothing but the sum of the orbital angular momentum of the particle
+and the angular momentum of the electromagnetic eld. Since
+^r  ~ J = ??
+qg
+4
+) cos  = ??
+qg
+4J
+(3.17)
+we see that the trajectory of the particle lies on a cone around the negative ~ Jaxis
+with semi-vertical angle arccos( qg
+4J ) and its apex at the monopole. The rst
+equation in (3.17) will lead us to our goal If we involve quantum mechanics it
+is reasonable to expect that the components of ~ J will satisfy the commutation
+relations of the angular momentum algebra (see also chapter (1)) and have thus
+eigenvalues being integer multiples of 1
+2~. We consider the component along the
+straight line connecting the monopoles and the charged particle and get
+qg
+4
+=
+1
+2
+n~; n 2 Z; (3.18)
+which is the Dirac quantisation condition. This, of course, is not a rigorous
+derivation but at least it makes things plausible.
+Quantisation of Charge
+To see that (3.18) is equivalent to the fact that charge is quantised consider the
+case of many particles with either a magnetic charge gi or an electric charge qi.
+Get
+qigj
+4
+=
+1
+2
+nij~ nij 2 Z (3.19)
+Fixing gj we get
+qi =
+2~
+gj
+nij 
+We calculate the highest common factor n0j of the fnijg and conclude that every
+electric charge is thus an integral multiple of q0 = 2~
+gj
+n0j . By Euclid's algorithm80 Topology in Physics
+(see e.g. [14]) n0j is a linear combination of the nij with integer coecients, thus
+q0 is a linear combination of the qi with integer coecients. Since the total charge
+of the system equals the sum of the charges of the involved particles, it is possible
+to really measure q0. The same reections lead to an elementary magnetic charge
+g0. Nota bene It suces a single magnetic monopole in the whole universe to
+guarantee the quantisation of electric charge.
+Forces
+In analogy to the force law we have for electric charges, we can assume that two
+magnetic charges g0 repel each other with g2
+0
+4r2 and we can compare the magnitude
+of these forces
+Fm
+Fe
+=
+g2
+0
+q2
+0
+=
+n20
+4
+(
+q2
+0
+4~
+)??2  5  103n20
+; (3.20)
+which is large even for n0 = 1. It is therefore expected to be quite dicult to pairproduce
+magnetic monopoles and that they are much heavier than electrically
+charged particles (we will calculate a lower bound on the mass in chapter 2).
+Quantisation of Motion
+In this section we want to analyse more precisely the quantum mechanical behaviour
+of our system given in 1. The Lagrangian of a particle in an electromagnetic
+eld is
+L =
+1
+2
+m_~
+r2 + q_~
+r  ~A ?? q (3.21)
+where (A) = (; ~A) is the electromagnetic four-potential (~r ^ ~A = ~B and
+??r = ~E ), since this leads to the correct equations of motion
+@L
+@rj
+= qr_i
+@Ai
+@rj
+?? q
+@
+@rj
+d
+dt
+@L
+@r_j
+=
+d
+dt
+(mr_j + qAj) = mrj + q
+@Aj
+@ri
+r_i + q
+@Aj
+@t
+) mrj = qr_i(
+@Ai
+@rj
+??
+@Aj
+@ri
+) ?? q
+@
+@rj
+?? q
+@Aj
+@t
+= q(_~
+r ^ ~B )j + qEj 
+A Legendre transformation gives the Hamiltonian
+H = ~p  _~
+r ?? L =
+1
+2m
+(~p ?? q~A)2 + q (3.22)
+with
+~p =
+@L
+@_~
+r
+= m_~
+r + q ~ A (3.23)Magnetic monopoles Dirac and Polyakov-t'Hooft 81
+Note that this Hamiltonian can also be obtained by translating the four-momentum
+of the Hamiltonian H = p2
+2m of a free particle p ! p+qA. Since the magnetic
+eld is not source-free, a vector potential ~A cannot exist everywhere. We will
+come back to this problem, yet ignore it for the moment.
+We dene the Poisson bracket by
+f; g =
+X3
+i=1
+(
+@
+@ri
+@
+@pi
+??
+@
+@pi
+@
+@ri ) (3.24)
+and get
+fri; rjg = fpi; pjg = 0 (3.25)
+fri; pjg = fri;mr_jg = ij (3.26)
+fmr_i;mr_jg = ??q(@iAj ?? @jAi) = qijkBk (3.27)
+Using the product rule f; g = f; g + f; g we compute expressions
+for Poisson brackets with the angular momentum ~L = ~r ^ m_~
+r
+fLi; rjg = ijkrk
+fLi;m_ rjg = ijkm_ rk + q(ij~r  ~B ?? Birj)
+in our case = ijkmr_k +
+qg
+4r
+(ij ?? ^ri^rj)
+= ijkmr_k + f
+qg
+4
+r^i;mr_jg;
+where ^ri denotes ri=r. We are now ready to derive expressions for the total
+angular momentum ~ J = ~r ^ m_~
+r ?? qg
+4 ^r
+fJi;mr_jg = ijkmr_k (3.28)
+fJi; rjg = ijkrk (3.29)
+fJi; Jjg = ijkJk (3.30)
+Since H = 1
+2m_~
+r2 we can re-derive the conservation of ~ J from the rst equation.
+We perform the transition to quantum mechanics by applying the correspondence
+principle
+f; g !
+1
+i~
+[; ] (3.31)
+~p ! ??i~~r (3.32)
+Equation (3.30) conrms that the total angular momentum (operator) does indeed
+fulll the requirements of an angular momentum algebra as we assumed in
+chapter 1.82 Topology in Physics
+We replace mr_i = pi ?? qAi by ??i~@i ?? qAi = ??i~Di. The operator
+D = @ + ieA (3.33)
+(e = q=~) is called covariant derivative. We will see that this concept can be
+extended to the case of non-Abelian gauge theories. The gauge elds which form
+the connection of the covariant derivative are then Lie algebra-valued.
+The Schrodinger equation for the wavefunction of a charged particle is
+?? ~2
+2m
+D2 + q = i~
+@
+@t
+(3.34)
+where denotes the wavefunction.
+It can easily be shown that this equation is not invariant under a gauge
+transformation A ! A0
+ = A + @. However, we can guarantee that the
+equation is gauge-covariant if we specify that under a gauge transformation
+! 0 = e??ie  (3.35)
+In this section we have fortied the assumption that we could assume an angular
+momentum algebra in section (1). Still it remains the problem that the existence
+of the vector potential ~A cannot be assumed. By using the covariance of
+Schrodinger's equation, we will see in the next section an approach which avoids
+these diculties.
+Vector Potential Approach
+Construction of the Potential It is a classical theorem of vector analysis
+(named after Helmholtz) that if we have a vector eld ~B with ~r  ~B = 0 then
+there exists another vector eld ~A satisfying ~r ^ ~A = ~B . ~A is the so called
+vector potential. Since in the case of magnetic monopoles the divergence of ~B is
+non-zero at the origin, it is not possible to nd a vector potential that is dened
+on every point in R3. The best we can get is a vector potential being dened
+everywhere except on a line - the Dirac string S - from the origin to innity. To
+be precise, we consider the magnetic eld of the monopole and attach a solenoid
+along the negative z-axis, which corresponds to the Dirac string
+~B
+sol =
+g
+4r2 ^r + g(??z)(x)(y)^z (3.36)
+where (x) denotes the Heaviside function. From electrostatics we know that the
+rst term is the gradient of the fundamental solution for the Laplace operator.
+Therefore we can easily compute
+~r
+ ~Bsol = 0 (3.37)Magnetic monopoles Dirac and Polyakov-t'Hooft 83
+Thus by Helmholtz' theorem, ~Bsol can be represented by a vector potential ~A
+such that ~Bsol = ~r ^ ~A. For the monopole eld we nd
+g
+4r2 ^r = ~r ^ ~A ?? g(??z)(x)(y)^z (3.38)
+We will now construct the vector potential explicitly. Since the magnetic eld
+is radial, only the radial part of the rotation operator is of interest
+(~r ^ ~A)r =
+1
+r sin 
+(
+@
+@
+(sin A) ??
+@A
+@
+) (3.39)
+Thus by symmetry we can expect the vector potential to have the form ~A(~r) =
+A(r; ) ^ where ^ denotes the vector (cos ; sin ; 0). Consider a sphere with center
+at the origin. The magnetic ux through a circle C that intersects the sphere is
+spherically symmetric and is therefore proportional to the solid angle subtended
+by the circle C and the origin. This solid angle corresponds to the surface M of
+the sphere cap that has been cut o by C
+M = (a2 + h2) = (r2 sin2  + r2 ?? 2r2 cos  + r2 cos2 ) = (2r2 ?? 2r2 cos )
+where a is the radius of C and h is the height of the cap. The magnetic ux is
+gM
+4r2 =
+g  ((2r2 ?? 2r2 cos ))
+4r2 =
+g
+2
+(1 ?? cos )
+Finally, we get
+g
+2
+(1 ?? cos ) =
+Z
+~B
+ d~S =
+Z
+~r
+^ ~A  d~S =
+Z
+~A
+ d~l = 2A(r; )r sin 
+and
+~A
+(~r) =
+g
+4r
+(1 ?? cos )
+sin 
+^  (3.40)
+Notice that for  =  the vector potential becomes singular. This is not surprising
+since we are then evaluating ~A on the Dirac string.
+With the so obtained vector potential it is possible to describe a quantum
+mechanically behaving particle in a magnetic eld ~B . From the requirement that
+for dierent choices of the Dirac string, we should be led to equivalent equations,
+we can deduce Dirac's quantisation condition.
+Gauge Transformation and Dirac Condition Imagining a Dirac string on
+the positive z-axis we can deduce { with the construction we used in the previous
+chapter { another expression for the vector potential
+~A
+S = ??
+g
+4r
+(1 + cos )
+sin 
+^  (3.41)84 Topology in Physics
+~A
+S has a singularity on the north pole of the two-sphere S2 of radius 1 with
+center at the origin. For clarity, we shall denote the eld from equation (3.40) by
+~A
+N.
+On a region where both ~AN and ~AS are well dened and generate the same
+magnetic eld, they may only dier by a gauge transformation. Such a region
+would be the equator E and there we have
+~A
+N ?? ~AS = ??r
+=
+g
+2
+^ )  = ??
+g
+2
+ (3.42)
+The gauge function  is not continuous. We could not avoid this fact as we
+see by a calculation of the enclosed magnetic charge (N northern hemisphere
+(0 6  6 =2); S southern hemisphere (=2 6  6 ))
+g =
+Z
+S2
+~B
+ d~S =
+Z
+N
+~B
+N  d~S +
+Z
+S
+~B
+S  d~S
+Stokes =
+Z
+E
+(~AN ?? ~AS)  d~l = (0) ?? (2) (3.43)
+Reconsidering equations (3.34) and (3.35) we see that the only requirement for
+continuous physical quantities is the continuity of the phase factor e??ie. Thus
+e??ie(0) !=
+e??ie(2) ) ge = 2n , gq = 2n~ (3.44)
+So the more rigorous approach via the vector potential leads again to the Dirac
+condition (3.18).
+2 't Hooft-Polyakov Monopole
+Brief Review of General Gauge Theory Formalism
+We follow the introduction into the matter of gauge theory given in [15] and [12].
+Consider a Lie group G with Hermitian generators fTag. L(G) is the Lie algebra
+of G, the tangent space for the Lie group at the unit element. So, any C1-curve
+g(t) in G can be written as
+g(t) = 1 + At + O(t2) (3.45)
+where 1 denotes the unity element of G and A is an element of L(G). Let D be
+a representation of G and  be a Lorentz scalar eld transforming under D
+ ! D(g) where g 2 G (3.46)
+If g = g(x), this is a local gauge transformation. With D we can associate a
+representation of the Lie algebra which { since there cannot be any confusion {
+we will also denote by D
+D(1 + A) = 1 + D(A) (3.47)Magnetic monopoles Dirac and Polyakov-t'Hooft 85
+where  is a small parameter. It is not too hard to show that D as a function on
+L(G) preserves the Lie brackets and is linear.
+We introduce Lie algebra-valued gauge elds W 
+a such that
+W = W 
+a Ta (3.48)
+The usual derivative does not transform properly, since
+@ ! D(g)@ + @D(g); (3.49)
+and we replace it by the covariant derivative D for which we postulate that
+D ! D(g)D. Such a derivative indeed exists if we specify that the gauge
+elds transform according to
+W ! gWg??1 +
+i
+e
+(@g)g??1; (3.50)
+because
+D = @ + ieD(W)
+! D(g)@ + @D(g) + ieD(gWg??1 +
+i
+e
+(@g)g??1)D(g)
+= D(g)@ + @D(g) + ieD(g)D(W) ?? @D(g)
+= D(g)D (3.51)
+Here, we used the identities D(@gg??1) = @D(g)D(g??1),
+D(gWg??1) = D(g)D(W)D(g??1) and linearity of D() as a function on the Lie
+algebra. We compute the commutator of the covariant derivative and see that it
+is no dierential operator
+[D;D]  =   
+= iefD(@W) ?? D(@W) + ieD([W;W])g (3.52)
+and dene the antisymmetric gauge eld tensor by
+G = G 
+a Ta = @W ?? @W + ie [W;W] (3.53)
+so that we have
+[D;D]  = ieD(G) (3.54)
+This equation shows the behavior of G under a gauge transformation
+G ! gGg??1 (3.55)
+We conclude this chapter with some useful formulas The covariant derivative
+obeys the Jacobi identity
+[D; [D;D]] + [D; [D;D]] + [D; [D;D]] = 0 (3.56)86 Topology in Physics
+Applying this to an arbitrary  and using equation (3.54) yields
+[D; [D;D]] = ie[D;D(G)]
+= ieD(DG) (3.57)
+where
+DG = @G + ie[W;G] (3.58)
+is the covariant derivative for the adjoint representation  ! gg??1 (g 2 G),
+which has this form due to equation (3.55). The Jacobi identity produces the
+Bianchi identity
+DG + DG + DG , D  G (3.59)
+The Georgi-Glashow Model
+We follow [12] and [16]. Consider a SO(3) gauge eld interacting with a Higgs
+eld . The Lagrangian is
+L = ??
+1
+4
+G 
+a Ga +
+1
+2
+D  D ?? V (); (3.60)
+where
+V () =
+1
+4
+(21
++ 22
++ 23
+?? a2) (3.61)
+The gauge eld strength G 
+a is given by
+G 
+a = @W 
+a ?? @W 
+a ?? eabcW 
+b W 
+c  (3.62)
+W 
+a is the gauge potential. We set (Ta)ij = ??iaij . The covariant derivative,
+D = @ + ieD(W), of  is then given by
+(D)a = @a ?? eabcW 
+b c (3.63)
+The conditions for the action S =
+R
+M4 Ld4x to be stationary are (we applied the
+Euler-Lagrange equations)
+(DG)a = ??eabcb(D)c (3.64)
+(DD)a = ??a(2 ?? a2) (3.65)
+Furthermore, by construction the Bianchi identities are automatically valid
+D  G = 0 (3.66)
+The energy density corresponds to the (0,0)-component of the energy-momentum
+tensor for this theory
+00 =
+1
+2
+f(E i
+a )2 + (B i
+a )2 + (a)2 +
+
+Dia
+2g + V () (3.67)Magnetic monopoles Dirac and Polyakov-t'Hooft 87
+where
+G 0i
+a = ??E i
+a ; G ij
+a = ??ijkB k
+a and a = (D0)a (3.68)
+We observe that 00 vanishes if and only if
+G 
+a = 0 (3.69)
+(D)a = 0 (3.70)
+V () =
+1
+4
+(2 ?? a2)2 = 0 (3.71)
+A eld conguration satisfying equations (3.69), (3.70) and (3.71) is called
+vacuum conguration. An example is
+a = aa3 W 
+a = 0; (3.72)
+where ab denotes the Kronecker delta. A conguration satisfying equations (3.70)
+and (3.71) is called Higgs vacuum conguration. The introduction of a Higgs eld
+is of great importance To reach a state of nite energy, we have to ensure that
+our system reaches the Higgs vacuum state. The condition V () = 0 implies that
+aa = a2. Alternatively stated
+ 2M0 where M0 = f  V () = 0g (3.73)
+M0 is a two-dimensional sphere of radius a. Since  assumes a certain value in
+M0, it is not invariant under all rotations of SO(3) but only under those around
+the -axis. They form a subgroup H of SO(3). Of course, for each position
+of  this group is isomorphic to SO(2), or equivalently U(1), and we will call it
+simply H. H is the exact symmetry group of the theory. By the introduction
+of the Higgs eld  the SO(3) symmetry of our model is spontaneously broken
+down to U(1).20
+It is reasonable to identify H with the electromagnetic gauge group. The generator
+of this group is given by the orthogonal projection of a SO(3) generator T
+onto the -axis T  =a.
+We will see that in the Higgs vacuum we can naturally obtain a correspondence
+with Maxwell's elds. If equations (3.70) and (3.71) do not hold, fundamentally
+new solutions can occur, such as magnetic monopoles.
+From gauge eld theory it is known that if we expand the Lagrangian about a
+vacuum conguration 0, (h(x) = 0 +(x)), the term in the Lagrangian that
+is proportional (x)2 corresponds to the square of the mass divided by 2~.
+20In other words Spontaneous symmetry breaking is the situation where the ground state
+of the theory has less symmetries than the Lagrangian itself.88 Topology in Physics
+Table 3.1 Particle Attributes
+Mass Spin Electric charge
+Higgs particle  = a(2)1=2~ 0 0
+Photon 0 ~ 0
+Massive gauge particles M = ae~ = aq ~ q = e~
+To obtain the electric charge, compare the covariant derivatives
+@ + ieW 
+a Ta and @ + i
+Q
+~
+A (3.74)
+The second equation results from (3.33). This comparison can be done by performing
+a canonical projection for the connection of the SO(3)-covariant derivative
+ieW ! ie(
+
+a
+W)  (
+
+a
+ T) (3.75)
+Taking the previously mentioned projection in L(G), it is natural to identify
+A with =a W. We nd an electric charge operator
+Q = e~
+
+a
+ T (3.76)
+This expression is valid in any representation. Let us quickly look at this
+more closely In Maxwell's theory, the U(1) generator is essentially given by the
+electric charge Q. A possible explanation for its quantisation would be that Q
+actually results from a larger gauge group, say SO(3). Q is then also a generator
+of SO(3) and element of the angular momentum algebra, so it has quantised
+eigenvalues.
+Up to now, no magnetic monopoles are involved. Yet we need a mechanism, that
+tells us how to select the right directions within so(3). This is given by the Higgs
+eld (which cannot vanish in the vacuum in order to provide a distinct direction
+in the Lie algebra) and automatically yields magnetic monopoles. If extra elds
+are added to the model, Ta may even have any eigenvalue which is half an integer.
+Thus we are nally led to the condition that Q can only assume values that are
+integer multiples of q0 = 1
+2e~.
+Monopole Solution
+We are looking for simple {yet non-trivial { solutions for the model. A general
+solution for equations (3.64) and (3.65) is not known. We can expect the solutionMagnetic monopoles Dirac and Polyakov-t'Hooft 89
+with the lowest non-zero energy to be time-independent and highly symmetric.
+Several symmetry considerations lead to the ansatz (see [12])
+a(~r) = H(aer)ra=ar2 W 0
+a (~r) = 0 (3.77)
+W i
+a (~r) = ??aij
+rj
+er2 [1 ?? K(aer)]  (3.78)
+To obtain nite energy we have to ensure that asymptotically, (3.71) is valid
+1a(~r) = lim
+r!1
+a(r^r) = a^ra (3.79)
+Thus  denes a map from a two-sphere at spatial innity to M0, which is
+essentially S2
+  S2
+homeo = S21
+!M0
+homeo = S2 (3.80)
+Note that it is impossible to transform conguration (3.79) into the vacuum
+conguration (3.72) in a continuous way For every   0 there is a neighborhood
+U of the south pole of S21
+, such that two values of  that are assumed on U
+exist that would have to be mapped by two rotations with rotation axis diering
+by =2. Since this dierence cannot be made arbitrarily small, the deformation is
+not continuous. Therefore we can expect the monopole to be stable in the sense
+that it will not fall into the vacuum state.
+It exists a simpler way to obtain the equations of motion than to just plug our
+ansatz into equations (3.64) and (3.65). Faddeev ([17]) and Coleman ([18]) have
+found a principle which roughly states the following Suppose we have a function
+(or as in our case a functional) F dened on a set X. Let G0 be the group
+describing the symmetry operations of F on X. We denote the set of xed points
+with respect to all symmetry operations by X0. Then the stationary points of F
+over X0 are also stationary points of F over X.
+It is a fact that our ansatz (3.77) and (3.78) consists of those congurations
+which form the set X0, since it was obtained by symmetry considerations.
+We could also argue that we are looking for those congurations which minimize
+the energy ( = aer)
+E = ??
+Z
+Ld3r
+=
+4a
+e
+Z 1
+0
+d
+2 (2(
+dK
+d
+)2 +
+1
+2
+(
+dH
+d
+?? H)2
++
+1
+2
+(K2 ?? 1)2 + K2H2 +
+
+4e2 (H2 ?? 2)2) (3.81)
+Applying the Euler-Lagrange equations leads to
+2 d2K
+d2 = KH2 + K(K2 ?? 1) (3.82)90 Topology in Physics
+2 d2H
+d2 = 2K2H +
+
+e2H(H2 ?? 2) (3.83)
+Since we require nite energy, equation (3.81) implies certain boundary conditions.
+As  goes to zero we should be able to compensate the divergence resulting
+from the pole of 1=2. The rst term of the integrand does not cause any problems.
+The second term gives the condition
+H 6 O() ( ! 0) (3.84)
+For the third term
+K2 ?? 1 = (K ?? 1)(K + 1) ) K ?? 1 6 O() ( ! 0) (3.85)
+These boundary conditions are also enough stringent for the two remaining terms.
+As  goes to innity we need to ensure that the integrand vanishes fast enough
+K ! 0 and H   ( ! 1) (3.86)
+The existence of solutions of (3.82) and (3.83) with boundary conditions (3.85)-
+(3.86) has been proven by Schwarz (see [19]) and was rst conjectured by a
+numerical analysis.
+Equations (3.77) and (3.78) will (in the regime where  ! 1) asymptotically
+take the form
+a =
+ra
+er2 aer and W i
+a = ??aij
+rj
+er2 (3.87)
+leading to a eld strength tensor
+G ij
+a = @iW j
+a ?? @jW i
+a ?? eabcW i
+b W j
+c
+
+1
+er4 ijkrark 
+1
+aer3 ijkrka (3.88)
+After a projection on the -axis we obtain
+Fij =
+
+a
+ Gij =
+1
+er3 ijkrk
+) Bi = ??
+ri
+er3 ; since Fij = ??ijkBk (3.89)
+Comparing this result with equation (3.12) gives the magnitude of the magnetic
+charge
+g = ??
+4
+e
+= ??
+4~
+q
+ (3.90)Magnetic monopoles Dirac and Polyakov-t'Hooft 91
+This is consistent with the Dirac condition (3.18). By (3.76) it follows that the
+smallest possible charge that may enter the theory is q0 = 1
+2q because the possible
+electric charges are related to the eigenvalues of T. We get
+q0g
+4~
+= ??
+1
+2
+(3.91)
+and g assumes the smallest value allowed by the Dirac condition.
+The set of equations (3.82) and (3.83) can be solved in the limit where  ! 1.
+Thus we can make a statement of how fast the asymptotic values of the boundary
+conditions (3.85)-(3.86) are assumed. We expand (3.82)
+d2K
+d2 = K
+H2
+2
+{z}
+1
++
+K(K2 ?? 1)
+2
+ {z }
+0
+ K (3.92)
+and (3.83)
+d2H
+d2 =
+1
+2 2K2H
+ {z }
+0
++
+1
+2
+
+e2H(H2 ?? 2) 
+
+e2
+(H{+z })
+2
+(H ?? )
+
+2
+e2
+=h z } {
+(H ?? ) )
+d2h
+d2
+
+2
+e2 h (3.93)
+The equations of motion are now decoupled linear dierential equations and as
+such easy to solve. Finally, we get
+K = O[exp(??)] = O[exp(??Mr=~)] (3.94)
+H ??  = O[exp(??=M] = O[exp(??r=~)] (3.95)
+where  = (2)1=2a~ and M = ae~ are the masses of the Higgs and the massive
+gauge particles respectively as introduced in chapter (2). Thus by this result
+(i.e. by the at least exponential decay), we can consider the 't Hooft-Polyakov
+monopole to have nite size, principally determined by the Compton wavelengths
+~=M and ~=
+Inside we have a smooth structure; outside we obtain a eld conguration
+indistinguishable from that of the Dirac monopole.
+Connection with Maxwell's Equations
+In chapter 2 we have seen that outside a radius R0, which is determined by the
+Compton wavelengths of the heavy particles in the theory, our eld is exponentially
+close to the Higgs vacuum (3.70) & (3.71). This was based on an analysis92 Topology in Physics
+of the eld conguration with the lowest non-zero energy.
+We will now assume that any nite-energy solution will be very close to the Higgs
+vacuum except for a nite number of areas, which we will regard as monopoles.
+With a given , the general form of W satisfying (3.70) and (3.71) is
+W =
+1
+a2e
+ ^ @ +
+1
+a
+A (3.96)
+where A is an arbitrary smooth four-vector function (see [20]). We shall content
+ourselves with the following calculation, which shows that (3.96) is indeed in the
+Higgs vacuum
+D = @ ?? (
+1
+a2 ^ @) ^  + (
+e
+a
+A) ^ 
+= @ +
+1
+a2  (  @) ?? @
+1
+a2
+ (  ) = 0 (3.97)
+The second term in the second line vanishes due to the Leibniz rule
+0 = @(  ) = (  @) + (@  ) = 2  (@  )
+Furthermore we get
+G =
+1
+a
+F
+with F =
+1
+a3e
+  (@ ^ @) + @A ?? @A (3.98)
+This result is derived in the appendix. The eld tensor points in the direction
+of . So the only non-vanishing component of G is exactly the one associated
+with the U(1) gauge group of rotations about , which we can identify with the
+electromagnetic eld strength tensor.
+0 = DG = @G ?? eW ^ G
+= @(
+1
+a
+F) ?? e(
+1
+a2e
+ ^ @ +
+1
+a
+A) ^ (
+1
+a
+F)
+=
+1
+a
+@F +
+1
+a
+ @F +
+1
+a3F ^ ( ^ @)
+=
+1
+a
+@F +
+1
+a
+@F ??
+1
+a3F@a2
+=
+1
+a
+@F (3.99)
+Since the modulus of  is nite, this equation only holds if @F = 0. Analogously,
+we can transform the Bianchi identity D G = 0 into the homogeneous
+Maxwell equations @ F. So outside the monopole our SO(3) theory coincides
+with Maxwell's U(1) theory.Magnetic monopoles Dirac and Polyakov-t'Hooft 93
+Generalised Quantisation Condition for the 't Hooft-Polyakov Monopole
+We proceed with our analysis of a eld in the Higgs vacuum by regarding the
+magnetic ux, g, through a surface . Since outside the monopole the elds obey
+Maxwell's equations, it is only possible to receive a non-zero ux by integrating
+over a surface that surrounds a region where (3.70) and (3.71) are not satised,
+namely around a monopole region
+g =
+Z
+
+~B
+ d~S
+=
+Z
+
+??
+1
+2
+ijkFjk  dSi
+(398)
+=
+Z
+
+??
+1
+2
+ijk
+1
+a3e
+  (@j ^ @k)dSi (3.100)
+The last term in equation (3.98) vanishes due to Stokes' theorem (@S = ;). If 
+has the shape of a sphere (as we had it before take e.g. S21
+) we see immediately
+that the derivatives @i are tangential to S2
+a. Thus the magnetic charge only
+depends on the values that  assumes on .
+Furthermore consider a variation of the eld
+ +     = 0 (3.101)
+The variation of the integrand is then given by
+
+
+  (@j ^ @k)
+
+= 3  (@j ^ @k) + @j 
+  ( ^ @k)
+
+??@k 
+  ( ^ @j)
+
+(3.102)
+using @i = @i and the cyclic permutations of ~a  (~b ^ ~c). As we consider
+three spatial dimensions, @j ^ @k is orthogonal to  and the rst term vanishes.
+Again, we can apply Stokes' theorem and the last two terms vanish when
+integrated over .
+Thus the magnetic ux is stable against small deformations (homotopies) of
+the Higgs eld. Physically, homotopies are generated by
+ time development of ,
+ continuous gauge transformations of ,
+ deformations of the surface  within the Higgs vacuum.
+Thus g is time- and gauge-independent and does not vary under continuous
+deformations of . In particular, g is an additive 'quantum number' as made
+plausible in the gure 3.1
+g12
+= g1
++ g2
+ (3.103)94 Topology in Physics
+Figure 3.1 Continuous deformation of the surface 12 into the surfaces 1 and
+2.
+The quantisation comes from the fact that we can write g = ??4N where N
+indicates the so called Kronecker index of the map    ! M0. To be more
+precise, continue with (3.100)
+g = ??
+1
+2a3e
+Z
+
+ijkaabc@jb@kcdSi (3.104)
+ is a two-manifold and can thus (locally) be parametrised by two parameters 
+( 2 f1; 2g)
+xi = xi()
+With elementary calculus we derive
+dSi =
+1
+2
+imn
+@xm
+@
+@xn
+@ d2 and @jb =
+@
+@xj
+@b
+@
+and get
+g = ??
+1
+2a3e
+Z
+
+1
+2
+ijkaabcimn
+@
+@xj
+@b
+@
+@
+@xk
+@c
+@
+@xm
+@
+@xn
+@ d2
+(using ijkimn = jmkn ?? jnkm and the chain rule)
+= ??
+1
+a3e
+Z
+
+1
+2
+abca
+@b
+@
+@c
+@ d2
+= ??
+1
+2e
+Z
+
+abc ^a
+@ ^b
+@
+@ ^c
+@ d2 (3.105)
+For the square of the integrand we compute
+(abc ^a
+@ ^b
+@
+@ ^c
+@ )2 = (^a(^ ^ ^)a)2
+= 4G(
+@^
+@ ;
+@^
+@ ) (3.106)Magnetic monopoles Dirac and Polyakov-t'Hooft 95
+where G denotes Gram's determinant (we used the fact that ^ has unit length
+and is parallel to @
+@ ^ @
+@ ). Thus we are integrating over 2
+p
+G. While (; )
+covers the sphere S21
+once, ^ covers S2 N+ times with the positive sign of
+p
+G and
+N?? times with the negative sign. Since the a are supposed to be single-valued
+functions the dierence N+ ?? N?? has to be an integer N, thus
+g = ??
+4N
+e
+ (3.107)
+Considering the map
+N(~r) = a(cosN sin ; sinN sin ; cos ); (3.108)
+we see immediately that indeed every N can be realised. We obtain the beautiful
+result that the magnetic charge is quantised by topological reasons. The smallest
+electric charge entering the theory is q0 = 1
+2e~ and we deduce
+gq0
+4~
+= ??
+1
+2
+N; (3.109)
+which is identical to the Dirac quantisation condition (3.18)!
+Topological Aspects
+In what comes next, we will see three further approaches to characterise a smooth
+map ^ between two spheres (see [21], [22] or [16]), that emerges from the map 
+induced by the Higgs eld. In the end of this section we will see the implications
+of these three viewpoints.
+Brouwer Degree Reconsider the mapping induced by the Higgs eld ^ 
+S21
+! S2 and introduce also in the target space local coordinates, say 
+( 2 f1; 2g), such that  = (). Fix a regular value = ( 1; 2) (i.e.
+the Jacobian of ^ does not vanish at any point in ^??1( )).
+The Brouwer degree of the map ^ at the point is dened as
+d(^; ) =
+X
+2??1( )
+sgn det(
+@
+@ ) (3.110)
+It can be shown that d does not depend on the particular choice of a regular
+point in S2. Thus we can write d(^; ) = d(^).
+Homotopy Classes A continuous map  X ! Y , where X and Y are
+topological spaces, is called a based map, if we can identify two base points x0; y096 Topology in Physics
+in X and Y respectively such that (x0) = y0. Two based maps 0 and 1 are
+called homotopic if and only if there is a continuous map
+~  X  [0; 1] ! Y (3.111)
+with a parameter  2 [0; 1], such that ~ j=0 = 0 and ~ j=1 = 1 and ~ (x0;  ) =
+y0 8 2 [0; 1]. It can be shown that homotopic denes an equivalence relation.
+For the special case where X=Sn the set of homotopy classes of based maps
+ Sn ! Y is denoted by n(Y ). For n  1, n forms a group, where the
+group multiplication of two equivalence classes is realised as follows Consider a
+representative of a class. Due to the stereographic projection such a map can be
+characterised by 1  (In; @In) ! (Y; y0), where I = [0; 1] and the homotopies
+1 are required to satisfy 1 (@In) = y0 8 . It can be shown that
+1  2(s1; s2;    ; sn) = f
+1(2s1; s2;    ; sn) s1 2 [0; 1=2]
+2(2s1 ?? 1; s2;    ; sn) s1 2 [1=2; 1]
+ (3.112)
+does indeed dene a group operation.
+An interesting result of algebraic topology is
+n(Sn) = Z 8n  1 (3.113)
+Thus in our case, every homotopy class is uniquely characterised by an integer
+number.
+Poincare-Hopf Index Let ~x0 be an isolated zero of the Higgs eld . Introduce
+a small two sphere S2
+ with center ~x0. The Brouwer index of the normalized
+eld
+~^
+ S2
+ ! S2 is called Poincare-Hopf index i of the zero ~x0.
+Implications Now we illuminate the connections between these three denitions
+Firstly, it is a special case of a general theorem of Hopf that two smooths
+maps 0 and 1 are homotopic if and only if they have the same Brouwer degree.
+Secondly, if  has only nondegenerate zeros, the Brouwer degree of ^ equals the
+sum of the Poincare-Hopf indices of all zeros of . Thirdly, the Brouwer degree
+d(^) is equal to the Kronecker index N^ .
+These facts enable us to determine the magnetic charge of a eld conguration
+by topological analysis of the Higgs eld.
+Relation between the Dirac and the 't Hooft-Polyakov Monopole
+See also [16] and [13]. It seems rather amazing that we receive the same quantisation
+condition for the Dirac and for the 't Hooft-Polyakov monopole. There is
+indeed a connection between these two.Magnetic monopoles Dirac and Polyakov-t'Hooft 97
+Notwithstanding certain technical assumptions, we can write MH = G=H
+where MH is the vacuum manifold, G the original gauge group and H the gauge
+group after symmetry breaking. Thus the magnetic charge can by the previous
+chapter be characterised by 2(G=H).
+Furthermore, in the case of the Dirac monopole, the gauge transformations
+e??ie() between the gauge elds on the two hemispheres of S2 (see chapter (1))
+are paths in U(1) = S1 and can be classied by 1(U(1)) = 1(S1) = 1(H).
+The integer n has again the meaning of a winding number in this context.
+It is a remarkable result of algebraic topology that
+2(G=H) = 1(H); (3.114)
+or in our special case
+2(SO(3)=U(1)) = 2(S2) = 1(S1) (3.115)
+This corresponds with equation (3.113) and yields a link between the Dirac and
+the 't Hooft-Polyakov point of view.
+To be more concrete, let us try to gauge ^ such that it points in the direction
+of T3. Of course, if ^ has a non-vanishing winding number, we cannot transform
+it smoothly into the constant map. However, this can be done on the northern
+(we denote the group element of the associated gauge transformation by g(1)) and
+southern hemisphere (g(2)) of S2 respectively. On the overlap region (=equator),
+g(1)g(2)??1
+preserves ^0 = T3 and therefore lies in the U(1) subgroup of SU(2)
+generated by T3 g(1)g(2)??1
+= exp(i()T3).
+The gauge transformations g(1) and g(2) are well dened on their respective
+regions (2) = (0) + 2 ~N ; ~N 2 Z. Consider now the two abelianised gauge
+elds that we get after the transformation (which, for the Higgs eld, looks as
+follows ^(1) = D(g(1)g(2)??1
+)^(2) = g(1)g(2)??1^(2))
+A(1) ?? A(2) = ??
+1
+e
+~r
+ (3.116)
+Since the Higgs eld is now constant, equation (3.98) exactly simplies to
+the case of the Dirac monopole the total magnetic ux is determined in the
+same way and does only depend on the amount by which  increases around the
+equator. One can show that ~N = N.
+Bogomolny Bound on the Monopole Mass
+In the remaining part of this article we refer to [12]. Contrary to the Dirac
+monopole, which we have to regard as an external source and for which it is
+therefore impossible to calculate the mass, we can give an estimate for the lower
+bound on the mass of the 't Hooft-Polyakov monopole.98 Topology in Physics
+From dierential geometry we have the following formula holding for covariant
+derivatives
+X  hY;Zi = hDXY;Zi + hY;DXZi
+where the connection of D is compatible with h ; i and X,Y,Z denote smooth
+vector elds. Thus (without proving the compatibility of D with h ; i), it follows
+that
+@k(Bk
+aa) = DkB k
+ {za}
+=0
+a + B k
+a (Dk)a (3.117)
+The rst term vanishes due to the Bianchi identity. We compute the magnetic
+charge
+g =
+Z
+S21
+~B
+ d~S =
+Z
+@kBkd3r =
+1
+a
+Z
+@k(B k
+a a)d3r
+=
+1
+a
+Z
+B k
+a (Dk)ad3r (3.118)
+Similarly we receive an expression for the electric charge
+q =
+Z
+S21
+~E
+ d~S =
+1
+a
+Z
+E k
+a (Dk)ad3r (3.119)
+using the equations of motion (3.64). Consider the center-of-mass frame of the
+monopole. Einstein's relation E2 = M2 + ~p2 (E is the energy and ~p the momentum)
+simplies to E = M and we get
+M = E =
+Z
+d3rf
+1
+2
+
+(E k
+a )2 + (B k
+a )2 + (D0)2 + (Di)2
++ V ()g
+
+Z
+d3r
+1
+2
+f(E k
+a )2 + (B k
+a )2 + (Di)2g
+=
+1
+2
+Z
+d3rfE k
+a ?? (Dk)a sin g2 +
+1
+2
+Z
+d3rfB k
+a ?? (Dk)a cos g2
++a(q sin  + g cos )
+ a(q sin  + g cos ) (3.120)
+where the non-trivial step is the third equality. The estimate holds for any  2 R
+and we can interpret the last line as the standard scalar product of the vector
+~ = (aq; ag) and the unit vector ~e = (cos ; sin ). Since  is arbitrary, we choose
+~e parallel to ~. The last line then equals the norm of ~ and we get the most
+stringent inequality, the Bogomolny bound on the monopole mass
+M  a(q2 + g2)1=2 (3.121)
+For the 't Hooft-Polyakov monopole (equation (3.119) would not have been
+needed)
+M  ajgj (3.122)Magnetic monopoles Dirac and Polyakov-t'Hooft 99
+Choosing the smallest possible magnetic charge jgj (3107)
+= 4=e we can compare
+the monopole mass Mg with the mass Mq = ae~ = qa of the heavy gauge bosons
+in the theory (see table 3.1)
+Mg  4~
+q2 Mq =
+
+
+Mq (3.123)
+ 2 f1; 1=4g depending on whether the electron charge is q or q=2 and  is the
+ne-structure constant. In any case, Mg is is much larger than Mq. This makes
+it impossible to observe magnetic monopoles with contemporary technologies.
+Bogomolny-Prasad-Sommereld (BPS-) Monopole
+In this chapter we will see that for the special case of a vanishing potential
+V () analytic solutions of our problem exist, which saturate the bound (3.122).
+Thus the inequalities in the Bogomolny estimate have to become equalities. This
+implies the following conditions (q=0)
+D0 = 0 E i
+a = 0 (3.124)
+B i
+a = (Di)a as g 
+ 0 (3.125)
+V () = 0 (3.126)
+These equations can only be simultaneously realised in the limit  ! 0+ for
+the proportionality constant of the potential V .
+Although V vanishes ultimately, we will keep the boundary condition
+jj ! a as r ! 1 (3.127)
+such that the charges are still dened and quantised. The equations of motion
+now take the form
+DG = e ^ D DD = 0 (3.128)
+Equation (3.125) is called the Bogomolny equation and is a rst order dierential
+equation. While the equations of motion give a condition for stationary points
+of the energy, the Bogomolny equation yields a global minimum of the energy
+for a given N. With a straightforward computation, it can be shown that such a
+minimum is indeed a stationary point.
+Using our ansatz (3.77) & (3.78) we get
+
+dK
+d
+= ??KH 
+dH
+d
+= H ?? (K2 ?? 1) (3.129)100 Topology in Physics
+By dierentiating the one and substituting it into the other equation we would
+get the original equations (3.82) and (3.83). The change of variables H = ??1??h
+and K = k yields the equations (' denotes the derivative)
+k0 = hk and h0 = k2 (3.130)
+This system can be decoupled
+h00 = 2kk0 = 2hk2 = 2hh0 = (h2)0 ) h0 = h2 + A; A 2 R (3.131)
+The boundary conditions (3.85)-(3.86) yield that h ! ??1 and h0 ! 0. This
+leads {by substitution in the dierential equation{ to A = ??1. So we can integrate
+equation (3.131)
+ + B = ??
+Z
+dh
+1
+1 ?? h2 = ??coth??1(h); B 2 R
+) h = ??coth( + B) (3.132)
+B has to be zero since this is the only value for which H = ??h??a is continuous
+(only then the divergence of coth( + B) at  = ??B can be compensated) and k
+is now easily obtained
+k = 
+p
+h0 = 
+1
+sinh 
+ (3.133)
+Since K ?? 1
+!6
+O() as  ! 0 we choose the positive sign and nally obtain a
+solution in terms of elementary functions
+H() =  coth  ?? 1 (3.134)
+K() =
+
+sinh 
+(3.135)
+The massless Higgs eld is now long range because as r ! 1
+a ! a^ra ??
+^ra
+er
+(3.136)
+With long range we mean that in addition to the previously derived exponential
+decay we have a much slower algebraic decay. Due to the Bogomolny equation
+the contribution of the gauge and the Higgs eld to the mass density are equal.
+This results in a twice as big density in the tail of the monopole as we had it in
+the constructions by 't Hooft-Polyakov (for   0) or Dirac. This should yield
+observable consequences if we analyse interactions with a gravitational eld.
+Furthermore, the long range force exerted by the Higgs eld is always attractive
+and has been found to be equal in magnitude (see [23]) to the magnetic forceMagnetic monopoles Dirac and Polyakov-t'Hooft 101
+law induced by equation (3.12) Oppositely charged monopoles experience an
+enforcement of the attraction but in the case of equally charged monopoles the
+two forces exactly cancel. We conclude with the remark that the BPS-monopole
+shows that the 't Hooft-Polyakov construction can dier essentially from the one
+given by Dirac and that it is therefore more general.102 Topology in Physics
+3 Appendix
+Field Strength Tensor in the Higgs Vacuum
+We obtain this form by straightforward computation
+G = @W ?? @W + ie [W;W]
+=
+1
+a2e
+(@ ^ @ +  ^ @@) +
+1
+a
+@A +
+1
+a
+@A
+??
+1
+a2e
+(@ ^ @ +  ^ @@) ??
+1
+a
+@A ??
+1
+a
+@A
++ie
+
+1
+a2e
+ ^ @ +
+1
+a
+A;
+1
+a2e
+ ^ @ +
+1
+a
+A
+
+=
+2
+a2e
+@ ^ @ +
+1
+a
+(@A ?? @A) +
+1
+a
+(@A ?? @A)
++ie
+
+1
+a2e
+ ^ @;
+1
+a2e
+ ^ @
+
++ ie
+
+1
+a2e
+ ^ @;
+1
+a
+A
+
++ie
+
+1
+a
+A;
+1
+a2e
+ ^ @
+
++ ie
+
+1
+a
+A;
+1
+a
+A
+
+=
+2
+a2e
+@ ^ @ +
+1
+a
+(@A ?? @A) +
+1
+a
+(@A ?? @A)
++
+??1
+a4e
+( ^ @) ^ ( ^ @) +
+??1
+a3 ( ^ @) ^ (A)
++
+??1
+a3 A ^ ( ^ @)
+=
+2
+a2e
+@ ^ @ +
+1
+a
+(@A ?? @A) +
+1
+a
+(@A ?? @A)
+??
+1
+a2e
+(@ ^ @) ??
+1
+a
+@A +
+1
+a
+@A
+=
+1
+a2e
+@ ^ @ +
+1
+a
+(@A ?? @A)
+=
+1
+a
+F
+with F =
+1
+a3e
+  (@ ^ @) + @A ?? @A (3.137)

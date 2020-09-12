@@ -1,0 +1,4078 @@
+1. Review
+Success in calculus depends on your background in algebra, trigonometry, analytic geometry
+and functions. In this chapter, we review many of the concepts you will need to know to
+succeed in this course.
+1.1 Algebra
+1.1.1. Sets and Number Systems
+A set can be thought of as any collection of distinct objects considered as a whole. Typically,
+sets are represented using set-builder notation and are surrounded by braces. Recall that
+(, ) are called parentheses or round brackets; [, ] are called square brackets; and {, } are called braces or curly brackets.
+Example 1.1: Sets
+The collection {a, b, 1, 2} is a set. It consists of the collection of four distinct objects,
+namely, a, b, 1 and 2.
+Let S be any set. We use the notation x ? S to mean that x is an element inside of the
+set S, and the notation x 6? S to mean that x is not an element of the set S.
+Example 1.2: Set Membership
+If S = {a, b, c}, then a ? S but d 6? S.
+The intersection between two sets S and T is denoted by S n T and is the collection
+of all elements that belong to both S and T. The union between two sets S and T
+is denoted by S?T and is the collection of all elements that belong to either S or T (or both).
+Example 1.3: Union and Intersection
+Let S = {a, b, c} and T = {b, d}. Then S n T = {b} and S ? T = {a, b, c, d}. Note
+that we do not write the element b twice in S ? T even though b is in both S and T.
+Numbers can be classified into sets called number systems.
+N the natural numbers {1, 2, 3, . . .}
+Z the integers {. . . ,-3,-2,-1, 0, 1, 2, 3, . . . }
+Q the rational numbers Ratios of integers:
+n
+p
+q : p, q ? Z, q 6= 0
+o
+R the real numbers Can be written using a finite or infinite decimal expansion
+C the complex numbers These allow us to solve equations such as x2 + 1 = 0
+3CHAPTER 1. REVIEW
+In the table, the set of rational numbers is written using set-builder notation. The colon,
+:, used in this manner means such that. Often times, a vertical bar | may also be used to
+mean such that. The expression
+n
+p
+q : p, q ? Z, q 6= 0
+o
+can be read out loud as the set of all
+fractions p over q such that p and q are both integers and q is not equal to zero.
+Example 1.4: Rational Numbers
+The numbers -3
+4 , 2.647, 17, 0.¯7 are all rational numbers. You can think of rational
+numbers as fractions of one integer over another. Note that 2.647 can be written as a
+fraction:
+2.647 = 2.647 ×
+1000
+1000
+=
+2647
+1000
+.
+Also note that in the expression 0.¯7, the bar over the 7 indicates that the 7 is repeated
+forever:
+0.77777777 . . . =
+7
+9
+.
+All rational numbers are real numbers with the property that their decimal expansion
+either terminates after a finite number of digits or begins to repeat the same finite sequence
+of digits over and over. Real numbers that are not rational are called irrational.
+Example 1.5: Irrational Numbers
+Some of the most common irrational numbers include:
+? v2. Can you prove this is irrational? (The proof uses a technique called con-
+tradiction.)
+? p. Recall that p (pi) is defined as the ratio of the circumference of a circle to
+its diameter and can be approximated by 3.14159265.
+? e. Sometimes called Euler’s number, e can be approximated by 2.718281828459.
+We will review the definition of e in a later chapter.
+Let S and T be two sets. If every element of S is also an element of T, then we say S is
+a subset of T and write S ? T. Furthermore, if S is a subset of T but not equal to T, we
+often write S ? T. The five sets of numbers in the table give an increasing sequence of sets:
+N ? Z ? Q ? R ? C.
+That is, all natural numbers are also integers, all integers are also rational numbers, all
+rational numbers are also real numbers, and all real numbers are also complex numbers.
+1.1.2. Law of Exponents
+The Law of Exponents is a set of rules for simplifying expressions that governs the combination
+of exponents (powers). Recall that nv denotes the nth root. For example v3 8 = 2
+41.1. ALGEBRA
+represents that the cube root of 8 is equal to 2.
+Definition 1.6: Law of Exponents
+Definitions
+If m, n are positive integers, then:
+1. xn = x · x · . . . · x (n times).
+2. x0 = 1, for x 6= 0.
+3. x-n =
+1
+xn , for x 6= 0.
+4. xm/n = nvxm or ( nvx)m, for x = 0.
+Combining
+1. xaxb = xa+b. 2.
+xa
+xb = xa-b, for x 6= 0. 3. (xa)b ?? = xab = xba =
+xb
+a.
+Distributing
+1. (xy)a = xaya, for x = 0, y = 0. 2.
+
+x
+y
+a
+=
+xa
+ya , for x = 0, y > 0.
+In the next example, the word simplify means to make simpler or to write the expression
+more compactly.
+Example 1.7: Laws of Exponents
+Simplify the following expression as much as possible assuming x, y > 0:
+3x-2y3x
+y2vx
+.
+Solution. Using the Law of Exponents, we have:
+3x-2y3x
+y2vx
+=
+3x-2y3x
+y2x
+1
+2
+, since vx = x
+1
+2 ,
+=
+3x-2yx
+x
+1
+2
+, since
+y3
+y2 = y,
+=
+3y
+x
+3
+2
+, since
+x-2x
+x
+1
+2
+=
+x-1
+x
+1
+2
+= x-3
+2 =
+1
+x
+3
+2
+,
+=
+3y
+vx3
+, since x
+3
+2 = vx3.
+An answer of 3yx-3/2 is equally acceptable, and such an expression may prove to be computationally
+simpler, although a positive exponent may be preferred. ?
+5CHAPTER 1. REVIEW
+1.1.3. The Quadratic Formula and Completing the Square
+The technique of completing the square allows us to solve quadratic equations and also
+to determine the center of a circle/ellipse or the vertex of a parabola.
+The main idea behind completing the square is to turn:
+ax2 + bx + c
+into
+a(x - h)2 + k.
+One way to complete the square is to use the following formula:
+ax2 + bx + c = a
+
+x +
+b
+2a
+2
+-
+b2
+4a2 + c.
+But this formula is a bit complicated, so some students prefer following the steps outlined
+in the next example.
+Example 1.8: Completing the Square
+Solve 2x2 + 12x - 32 = 0 by completing the square.
+Solution. In this instance, we will not divide by 2 first (usually you would) in order to
+demonstrate what you should do when the ‘a’ value is not 1.
+2x2 + 12x - 32 = 0 Start with original equation.
+2x2 + 12x = 32 Move the number over to the other side.
+2(x2 + 6x) = 32 Factor out the a from the ax2 + bx expression.
+6 ? 6
+2 = 3 ? 32 = 9 Take the number in front of x,
+divide by 2,
+then square it.
+2 (x2 + 6x + 9) = 32 + 2 · 9 Add the result to both sides,
+taking a = 2 into account.
+2(x + 3)2 = 50 Factor the resulting perfect square trinomial.
+You have now completed the square!
+(x + 3)2 = 25 ? x = 2 or x = -8 To solve for x, simply divide by a = 2
+and take square roots.
+?
+Suppose we want to solve for x in the quadratic equation ax2 + bx + c = 0, where a 6= 0.
+The solution(s) to this equation are given by the quadratic formula.
+61.1. ALGEBRA
+The Quadratic Formula
+The solutions to ax2 + bx + c = 0 (with a 6= 0) are x = -b ± vb2 - 4ac
+2a
+.
+Proof. To prove the quadratic formula we use the technique of completing the square. The
+general technique involves taking an expression of the form x2 + rx and trying to find a
+number we can add so that we end up with a perfect square (that is, (x+n)2). It turns out
+if you add (r/2)2 then you can factor it as a perfect square.
+For example, suppose we want to solve for x in the equation ax2 + bx + c = 0, where
+a 6= 0. Then we can move c to the other side and divide by a (remember, a 6= 0 so we can
+divide by it) to get
+x2 +
+b
+a
+x = -
+c
+a
+.
+To write the left side as a perfect square we use what was mentioned previously. We have
+r = (b/a) in this case, so we must add (r/2)2 = (b/2a)2 to both sides
+x2 +
+b
+a
+x +
+
+b
+2a
+2
+= -
+c
+a
++
+
+b
+2a
+2
+.
+We know that the left side can be factored as a perfect square
+
+x +
+b
+2a
+2
+= -
+c
+a
++
+
+b
+2a
+2
+.
+The right side simplifies by using the exponent rules and finding a common denominator
+
+x +
+b
+2a
+2
+= -4ac + b2
+4a2 .
+Taking the square root we get
+x +
+b
+2a
+= ±
+r
+-4ac + b2
+4a2 ,
+which can be rearranged as
+x = -b ± vb2 - 4ac
+2a
+.
+In essence, the quadratic formula is just completing the square. ?
+1.1.4. Inequalities, Intervals and Solving Basic Inequalities
+Inequality Notation
+Recall that we use the symbols <,>,=,= when writing an inequality. In particular,
+? a < b means a is to the left of b (that is, a is strictly less than b),
+7CHAPTER 1. REVIEW
+? a = b means a is to the left of or the same as b (that is, a is less than or equal to b),
+? a > b means a is to the right of b (that is, a is strictly greater than b),
+? a = b means a is to the right of or the same as b (that is, a is greater than or equal to
+b).
+To keep track of the difference between the symbols, some students use the following mnemonic.
+Mnemonic
+The < symbol looks like a slanted L which stands for “Less than”.
+Example 1.9: Inequalities
+The following expressions are true:
+1 < 2, -5 < -2, 1 = 2, 1 = 1, 4 = p > 3, 7.23 = -7.23.
+The real numbers are ordered and are often illustrated using the real number line:
+-4 -3 -2 -1 0 1 2 3 4
+-2.5
+Intervals
+Assume a, b are real numbers with a < b (i.e., a is strictly less than b). An interval is a
+set of every real number between two indicated numbers and may or may not contain the
+two numbers themselves. When describing intervals we use both round brackets and square
+brackets.
+(1) Use of round brackets in intervals: ( , ). The notation (a,b) is what we call the open
+interval from a to b and consists of all the numbers between a and b, but does not include
+a or b. Using set-builder notation we write this as:
+(a, b) = {x ? R : a < x < b}.
+We read {x ? R : a < x < b} as “the set of real numbers x such that x is greater than a
+and less than b” On the real number line we represent this with the following diagram:
+a b
+Note that the circles on a and b are not shaded in, we call these open circles and use them
+to denote that a,b are omitted from the set.
+(2) Use of square brackets in intervals: [ , ]. The notation [a,b] is what we call the
+closed interval from a to b and consists of all the numbers between a and b and including
+a and b. Using set-builder notation we write this as
+[a, b] = {x ? R| a = x = b}.
+81.1. ALGEBRA
+On the real number line we represent this with the following diagram:
+a b
+Note that the circles on a and b are shaded in, we call these closed circles and use them
+to denote that a and b are included in the set.
+To keep track of when to shade a circle in, you may find the following mnemonic useful:
+Mnemonic
+The round brackets (, ) and non-shaded circle both form an “O” shape which stands
+for “Open and Omit”.
+Taking combinations of round and square brackets, we can write different possible types
+of intervals (we assume a < b):
+(a, b) = {x ? R : a < x < b} [a, b] = {x ? R : a = x = b} [a, b) = {x ? R : a = x < b}
+a b a b a b
+(a, b] = {x ? R : a < x = b} (a,8) = {x ? R : x > a} [a,8) = {x ? R : x = a}
+a b a a
+(-8, b) = {x ? R : x < b} (-8, b] = {x ? R : x = b} (-8,8) = R = all real numbers
+b b
+Note: Any set which is bound at positive and/or negative infinity is an open interval.
+Inequality Rules
+Before solving inequalities, we start with the properties and rules of inequalities.
+9CHAPTER 1. REVIEW
+Inequality Rules
+Add/subtract a number to both sides:
+? If a < b, then a + c < b + c and a - c < b - c.
+Adding two inequalities of the same type:
+? If a < b and c < d, then a + c < b + d.
+Add the left sides together, add the right sides together.
+Multiplying by a positive number:
+? Let c > 0. If a < b, then c · a < c · b.
+Multiplying by a negative number:
+? Let c < 0. If a < b, then c · a > c · b.
+Note that we reversed the inequality symbol!
+Similar rules hold for each of =, > and =.
+Solving Basic Inequalities
+We can use the inequality rules to solve some simple inequalities.
+Example 1.10: Basic Inequality
+Find all values of x satisfying
+3x + 1 > 2x - 3.
+Write your answer in both interval and set-builder notation. Finally, draw a number
+line indicating your solution set.
+Solution. Subtracting 2x from both sides gives x + 1 > -3. Subtracting 1 from both sides
+gives x > -4. Therefore, the solution is the interval (-4,8). In set-builder notation the
+solution may be written as {x ? R : x > -4}. We illustrate the solution on the number
+line as follows:
+-4
+?
+Sometimes we need to split our inequality into two cases as the next example demonstrates.
+Example 1.11: Double Inequalities
+Solve the inequality
+4 > 3x - 2 = 2x - 1.
+101.1. ALGEBRA
+Solution. We need both 4 > 3x - 2 and 3x - 2 = 2x - 1 to be true:
+4 > 3x - 2 and 3x - 2 = 2x - 1,
+6 > 3x and x - 2 = -1,
+2 > x and x = 1,
+x < 2 and x = 1.
+Thus, we require x = 1 but also x < 2 to be true. This gives all the numbers between 1 and
+2, including 1 but not including 2. That is, the solution to the inequality 4 > 3x-2 = 2x-1
+is the interval [1, 2). In set-builder notation this is the set {x ? R : 1 = x < 2}. ?
+Example 1.12: Positive Inequality
+Solve 4x - x2 > 0.
+Solution. We provide two methods to solve this inequality.
+First method. Factor 4x - x2 as x(4 - x). The product of two numbers is positive when
+either both are positive or both are negative, i.e., if either x > 0 and 4-x > 0, or else x < 0
+and 4-x < 0. The latter alternative is impossible, since if x is negative, then 4-x is greater
+than 4, and so cannot be negative. As for the first alternative, the condition 4-x > 0 can be
+rewritten (adding x to both sides) as 4 > x, so we need: x > 0 and 4 > x (this is sometimes
+combined in the form 4 > x > 0, or, equivalently, 0 < x < 4). In interval notation, this says
+that the solution is the interval (0, 4).
+Second method. Write 4x - x2 as -(x2 - 4x), and then complete the square, obtaining
+-
+
+(x - 2)2 - 4
+
+= 4 - (x - 2)2.
+For this to be positive we need (x - 2)2 < 4, which means that x - 2 must be less than 2
+and greater than -2: -2 < x - 2 < 2. Adding 2 to everything gives 0 < x < 4.
+Both of these methods are equally correct; you may use either in a problem of this type.
+?
+We next present another method to solve more complicated looking inequalities. In the
+next example we will solve a rational inequality by using a number line and test points. We
+follow the guidelines below.
+11CHAPTER 1. REVIEW
+Guidelines for Solving Rational Inequalities
+1. Move everything to one side to get a 0 on the other side.
+2. If needed, combine terms using a common denominator.
+3. Factor the numerator and denominator.
+4. Identify points where either the numerator or denominator is 0. Such points are
+called split points.
+5. Draw a number line and indicate your split points on the number line. Draw
+closed/open circles for each split point depending on if that split point satisfies
+the inequality (division by zero is not allowed).
+6. The split points will split the number line into subintervals. For each subinterval
+pick a test point and see if the expression in Step 3 is positive or negative. Indicate
+this with a + or - symbol on the number line for that subinterval.
+7. Now write your answer in set-builder notation. Use the union symbol ? if you
+have multiple intervals in your solution.
+Example 1.13: Rational Inequality
+Write the solution to the following inequality using interval notation:
+2 - x
+2 + x = 1.
+Solution. One method to solve this inequality is to multiply both sides by 2+x, but because
+we do not know if 2+x is positive or negative we must split it into two cases (Case 1: 2+x > 0
+and Case 2: 2 + x < 0).
+Instead we follow the guidelines for solving rational inequalities:
+Start with original problem:
+2 - x
+2 + x = 1
+Move everything to one side:
+2 - x
+2 + x - 1 = 0
+Find a common denominator:
+2 - x
+2 + x -
+2 + x
+2 + x = 0
+Combine fractions:
+(2 - x) - (2 + x)
+2 + x = 0
+Expand numerator:
+2 - x - 2 - x
+2 + x = 0
+Simplify numerator: -2x
+2 + x = 0 (*)
+Now we have the numerator and denominator in fully factored form. The split points are
+121.1. ALGEBRA
+x = 0 (makes the numerator 0) and x = -2 (makes the denominator 0). Let us draw a
+number line with the split points indicated on it:
+-2 0
+The point x = 0 is included since if we sub x = 0 into (*) we get 0 = 0 which is true.
+The point x = -2 is not included since we cannot divide by zero. We indicate this with
+open/closed circles on the number line (remember that open means omit):
+-2 0
+Now choosing a test point from each of the three subintervals we can determine if the
+expression -2x
+2+x is positive or negative. When x = -3, it is negative. When x = -1, it is
+positive. When x = 1, it is negative. Indicating this on the number line gives:
+-2 0
+- + -
+Since we wish to solve -2x
+2+x = 0, we look at where the + signs are and shade that area on the
+number line:
+-2 0
+- + -
+Since there is a closed circle at 0, we include it. Therefore, the solution is (-2, 0]. ?
+Example 1.14: Rational Inequality
+Write the solution to the following inequality using interval notation:
+2
+x + 2
+> 3x + 3.
+Solution. We provide a brief outline of the solution. By subtracting (3x + 3) from both
+sides and using a common denominator of x + 2, we can collect like terms and simplify to
+get:
+-(3x2 + 9x + 4)
+x + 2
+> 0.
+The denominator is zero when x = -2. Using the quadratic formula, the numerator is
+zero when x = -9±
+v33
+6 (these two numbers are approximately -2.46 and -0.54). Since the
+inequality uses “>” and 0 > 0 is false, we do not include any of the split points in our
+solution. After choosing suitable test points and determining the sign of -(3x2+9x+4)
+x+2 we have
+-2.46 -2
+- + -
+-0.54
++
+Looking where the + symbols are located gives the solution:
+ 
+-8, -9 - v33
+6
+!
+[
+ 
+-2, -9 + v33
+6
+!
+.
+When writing the final answer we use exact expressions for numbers in mathematics, not
+approximations (unless stated otherwise). ?
+13CHAPTER 1. REVIEW
+1.1.5. The Absolute Value
+The absolute value of a number x is written as |x| and represents the distance x is from
+zero. Mathematically, we define it as follows:
+|x| =
+
+x, if x = 0,
+-x, if x < 0.
+Thus, if x is a negative real number, then -x is a positive real number. The absolute
+value does not just turn minuses into pluses. That is, |2x - 1| 6= 2x + 1. You should be
+familiar with the following properties.
+Absolute Value Properties
+1. |x| = 0.
+2. |xy| = |x||y|.
+3. |1/x| = 1/|x| when x 6= 0.
+4. | - x| = |x|.
+5. |x + y| = |x| + |y|. This is called the triangle inequality.
+6. vx2 = |x|.
+Example 1.15: vx2 = |x|
+Observe that
+p
+(-3)2 gives an answer of 3, not -3.
+When solving inequalities with absolute values, the following are helpful.
+Case 1: a > 0.
+? |x| = a has solutions x = ±a.
+? |x| = a means x = -a and x = a (that is, -a = x = a).
+? |x| < a means x < -a and x < a (that is, -a < x < a).
+? |x| = a means x = -a or x = a.
+? |x| > a means x < -a or x > a.
+Case 2: a < 0.
+? |x| = a has no solutions.
+? Both |x| = a and |x| < a have no solutions.
+? Both |x| = a and |x| > a have solution set {x|x ? R}.
+Case 3: a = 0.
+? |x| = 0 has solution x = 0.
+141.1. ALGEBRA
+? |x| < 0 has no solutions.
+? |x| = 0 has solution x = 0.
+? |x| > 0 has solution set {x ? R|x 6= 0}.
+? |x| = 0 has solution set {x|x ? R}.
+1.1.6. Solving Inequalities that Contain Absolute Values
+We start by solving an equality that contains an absolute value. To do so, we recall that if
+a = 0 then the solution to |x| = a is x = ±a. In cases where we are not sure if the right side
+is positive or negative, we must perform a check at the end.
+Example 1.16: Absolute Value Equality
+Solve for x in |2x + 3| = 2 - x.
+Solution. This means that either:
+2x + 3 = +(2 - x) or 2x + 3 = -(2 - x)
+2x + 3 = 2 - x or 2x + 3 = -2 + x
+3x = -1 or x = -5
+x = -1/3 or x = -5
+Since we do not know if the right side “a = 2 - x” is positive or negative, we must perform
+a check of our answers omit any that are incorrect.
+If x = -1/3, then we have LS = |2(-1/3) + 3| = | - 2/3 + 3| = |7/3| = 7/3 and
+RS = 2 - (-1/3) = 7/3. In this case LS = RS, so x = -1/3 is a solution.
+If x = -5, then we have LS = |2(-5)+3| = |-10+3| = |-7| = 7 and RS = 2-(-5) =
+2 + 5 = 7. In this case LS = RS, so x = -5 is a solution. ?
+We next look at absolute values and inequalities.
+Example 1.17: Absolute Value Inequality
+Solve |x - 5| < 7.
+Solution. This simply means -7 < x - 5 < 7. Adding 5 to each gives -2 < x < 12.
+Therefore the solution is the interval (-2, 12). ?
+In some questions you must be careful when multiplying by a negative number as in the
+next problem.
+15CHAPTER 1. REVIEW
+Example 1.18: Absolute Value Inequality
+Solve |2 - z| < 7.
+Solution. This simply means -7 < 2 - z < 7. Subtracting 2 gives: -9 < -z < 5. Now
+multiplying by -1 gives: 9 > z > -5. Remember to reverse the inequality signs! We can
+rearrange this as -5 < z < 9. Therefore the solution is the interval (-5, 9). ?
+Example 1.19: Absolute Value Inequality
+Solve |2 - z| = 7.
+Solution. Recall that for a > 0, |x| = a means x = -a or x = a. Thus, either 2 - z = -7
+or 2-z = 7. Either 9 = z or -5 = z. Either z = 9 or z = -5. In interval notation, either z
+is in [9,8) or z is in (-8,-5]. All together, we get our solution to be: (-8,-5] ? [9,8).
+?
+In the previous two examples the only difference is that one had < in the question and
+the other had =. Combining the two solutions gives the entire real number line!
+Example 1.20: Absolute Value Inequality
+Solve 0 < |x - 5| = 7.
+Solution. We split this into two cases.
+(1) For 0 < |x - 5| note that we always have that an absolute value is positive or zero
+(i.e., 0 = |x-5| is always true). So, for this part, we need to avoid 0 = |x-5| from occurring.
+Thus, x cannot be 5, that is, x 6= 5.
+(2) For |x - 5| = 7, we have -7 = x - 5 = 7. Adding 5 to each gives -2 = x = 12.
+Therefore the solution to |x - 5| = 7 is the interval [-2, 12].
+To combine (1) and (2) we need combine x 6= 5 with x ? [-2, 12]. Omitting 5 from the
+interval [-2, 12] gives our solution to be: [-2, 5) ? (5, 12]. ?
+Exercises for 1.1
+Exercise 1.1.1. Find the constants a, b, c if the expression
+4x-1y2v3 x
+2xvy
+is written in the form axbyc.
+Exercise 1.1.2. Find the roots of the quadratic equation
+x2 - 2x - 24 = 0.
+161.2. ANALYTIC GEOMETRY
+Exercise 1.1.3. Solve the equation
+x
+4x - 16 - 2 =
+1
+x - 3
+.
+Exercise 1.1.4. Solve the following inequalities. Write your answer as a union of intervals.
+a) 3x + 1 > 6 d) x2 + 1 > 0
+b) 0 = 7x - 1 < 1 e) x2 + 1 < 0
+c)
+x2(x - 1)
+(x + 2)(x + 3)3 = 0. f) x2 + 1 > 2x
+Exercise 1.1.5. Solve the equation |6x + 2| = 1.
+Exercise 1.1.6. Solve the equation v1 - x + x = 1.
+1.2 Analytic Geometry
+In what follows, we use the notation (x1, y1) to represent a point in the (x, y) coordinate
+system, also called the (x, y)-plane. Previously, we used (a, b) to represent an open interval.
+Notation often gets reused and abused in mathematics, but thankfully, it is usually clear
+from the context what we mean.
+In the (x, y) coordinate system we normally write the x-axis horizontally, with positive
+numbers to the right of the origin, and the y-axis vertically, with positive numbers above the
+origin. That is, unless stated otherwise, we take “rightward” to be the positive x-direction
+and “upward” to be the positive y-direction. In a purely mathematical situation, we normally
+choose the same scale for the x- and y-axes. For example, the line joining the origin to the
+point (a, a) makes an angle of 45? with the x-axis (and also with the y-axis).
+In applications, often letters other than x and y are used, and often different scales are
+chosen in the horizontal and vertical directions.
+Example 1.21: Data Plot
+Suppose you drop a coin from a window, and you want to study how its height above
+the ground changes from second to second. It is natural to let the letter t denote
+the time (the number of seconds since the object was released) and to let the letter h
+denote the height. For each t (say, at one-second intervals) you have a corresponding
+height h. This information can be tabulated, and then plotted on the (t, h) coordinate
+plane, as shown in figure 1.1.
+We use the word “quadrant” for each of the four regions into which the plane is divided
+by the axes: the first quadrant is where points have both coordinates positive, or the
+“northeast” portion of the plot, and the second, third, and fourth quadrants are counted off
+counterclockwise, so the second quadrant is the northwest, the third is the southwest, and
+the fourth is the southeast.
+Suppose we have two points A and B in the (x, y)-plane. We often want to know the
+change in x-coordinate (also called the “horizontal distance”) in going from A to B. This is
+171.2. ANALYTIC GEOMETRY
+Exercise 1.1.3. Solve the equation
+x
+4x - 16 - 2 =
+1
+x - 3
+.
+Exercise 1.1.4. Solve the following inequalities. Write your answer as a union of intervals.
+a) 3x + 1 > 6 d) x2 + 1 > 0
+b) 0 = 7x - 1 < 1 e) x2 + 1 < 0
+c)
+x2(x - 1)
+(x + 2)(x + 3)3 = 0. f) x2 + 1 > 2x
+Exercise 1.1.5. Solve the equation |6x + 2| = 1.
+Exercise 1.1.6. Solve the equation v1 - x + x = 1.
+1.2 Analytic Geometry
+In what follows, we use the notation (x1, y1) to represent a point in the (x, y) coordinate
+system, also called the (x, y)-plane. Previously, we used (a, b) to represent an open interval.
+Notation often gets reused and abused in mathematics, but thankfully, it is usually clear
+from the context what we mean.
+In the (x, y) coordinate system we normally write the x-axis horizontally, with positive
+numbers to the right of the origin, and the y-axis vertically, with positive numbers above the
+origin. That is, unless stated otherwise, we take “rightward” to be the positive x-direction
+and “upward” to be the positive y-direction. In a purely mathematical situation, we normally
+choose the same scale for the x- and y-axes. For example, the line joining the origin to the
+point (a, a) makes an angle of 45? with the x-axis (and also with the y-axis).
+In applications, often letters other than x and y are used, and often different scales are
+chosen in the horizontal and vertical directions.
+Example 1.21: Data Plot
+Suppose you drop a coin from a window, and you want to study how its height above
+the ground changes from second to second. It is natural to let the letter t denote
+the time (the number of seconds since the object was released) and to let the letter h
+denote the height. For each t (say, at one-second intervals) you have a corresponding
+height h. This information can be tabulated, and then plotted on the (t, h) coordinate
+plane, as shown in figure 1.1.
+We use the word “quadrant” for each of the four regions into which the plane is divided
+by the axes: the first quadrant is where points have both coordinates positive, or the
+“northeast” portion of the plot, and the second, third, and fourth quadrants are counted off
+counterclockwise, so the second quadrant is the northwest, the third is the southwest, and
+the fourth is the southeast.
+Suppose we have two points A and B in the (x, y)-plane. We often want to know the
+change in x-coordinate (also called the “horizontal distance”) in going from A to B. This is
+17CHAPTER 1. REVIEW
+seconds 0 1 2 3 4
+meters 80 75.1 60.4 35.9 1.6
+20
+40
+60
+80
+0 1 2 3 4
+t
+h
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+..........
+.......
+......
+....
+....
+....
+...
+...
+...
+...
+...
+...
+...
+...
+..
+...
+...
+..
+..
+...
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+• •
+•
+•
+•
+Figure 1.1: A data plot, height versus time.
+often written x, where the meaning of  (a capital delta in the Greek alphabet) is “change
+in”. Thus, x can be read as “change in x” although it usually is read as “delta x”. The
+point is that x denotes a single number, and should not be interpreted as “delta times
+x”. Similarly, the “change in y” is written y and represents the difference between the
+y-coordinates of the two points. It is the vertical distance you have to move in going from
+A to B.
+Example 1.22: Change in x and y
+If A = (2, 1) and B = (3, 3) the change in x is
+x = 3 - 2 = 1
+while the change in y is
+y = 3 - 1 = 2.
+The general formulas for the change in x and the change in y between a point (x1, y1)
+and a point (x2, y2) are:
+x = x2 - x1, y = y2 - y1.
+Note that either or both of these might be negative.
+1.2.1. Lines
+If we have two distinct points A(x1, y1) and B(x2, y2), then we can draw one and only one
+straight line through both points. By the slope of this line we mean the ratio of y to x.
+The slope is often denoted by the letter m.
+181.2. ANALYTIC GEOMETRY
+Slope Formula
+The slope of the line joining the points (x1, y1) and (x2, y2) is:
+m =
+y
+x
+=
+(y2 - y1)
+(x2 - x1)
+=
+rise
+run
+.
+Example 1.23: Slope of a Line Joining Two Points
+The line joining the two points (1,-2) and (3, 5) has slope m =
+5 - (-2)
+3 - 1
+=
+7
+2
+.
+The most familiar form of the equation of a straight line is:
+y = mx + b.
+Here m is the slope of the line: if you increase x by 1, the equation tells you that you have
+to increase y by m; and if you increase x by x, then y increases by y = mx. The
+number b is called the y-intercept, because it is where the line crosses the y-axis (when
+x = 0). If you know two points on a line, the formula m = (y2 - y1)/(x2 - x1) gives you
+the slope. Once you know a point and the slope, then the y-intercept can be found by
+substituting the coordinates of either point in the equation: y1 = mx1+b, i.e., b = y1-mx1.
+Alternatively, one can use the “point-slope” form of the equation of a straight line: start
+with (y - y1)/(x - x1) = m and then multiply to get
+(y - y1) = m(x - x1),
+the point-slope form. Of course, this may be further manipulated to get y = mx-mx1 +y1,
+which is essentially the “y = mx + b” form.
+It is possible to find the equation of a line between two points directly from the relation
+m = (y - y1)/(x - x1) = (y2 - y1)/(x2 - x1), which says “the slope measured between the
+point (x1, y1) and the point (x2, y2) is the same as the slope measured between the point
+(x1, y1) and any other point (x, y) on the line.” For example, if we want to find the equation
+of the line joining our earlier points A(2, 1) and B(3, 3), we can use this formula:
+m =
+y - 1
+x - 2
+=
+3 - 1
+3 - 2
+= 2, so that y - 1 = 2(x - 2), i.e., y = 2x - 3.
+Of course, this is really just the point-slope formula, except that we are not computing m in
+a separate step. We summarize the three common forms of writing a straight line below:
+Slope-Intercept Form of a Straight Line
+An equation of a line with slope m and y-intercept b is:
+y = mx + b.
+19CHAPTER 1. REVIEW
+Point-Slope Form of a Straight Line
+An equation of a line passing through (x1, y1) and having slope m is:
+y - y1 = m(x - x1).
+General Form of a Straight Line
+Any line can be written in the form
+Ax + By + C = 0,
+where A,B,C are constants and A,B are not both 0.
+The slope m of a line in the form y = mx + b tells us the direction in which the line is
+pointing. If m is positive, the line goes into the 1st quadrant as you go from left to right. If
+m is large and positive, it has a steep incline, while if m is small and positive, then the line
+has a small angle of inclination. If m is negative, the line goes into the 4th quadrant as you
+go from left to right. If m is a large negative number (large in absolute value), then the line
+points steeply downward. If m is negative but small in absolute value, then it points only a
+little downward.
+If m = 0, then the line is horizontal and its equation is simply y = b.
+All of these possibilities are illustrated below.
+There is one type of line that cannot be written in the form y = mx+b, namely, vertical
+lines. A vertical line has an equation of the form x = a. Sometimes one says that a vertical
+line has an “infinite” slope.
+It is often useful to find the x-intercept of a line y = mx + b. This is the x-value when
+y = 0. Setting mx + b equal to 0 and solving for x gives: x = -b/m.
+Example 1.24: Finding x-intercepts
+To find x-intercept(s) of the line y = 2x - 3 we set y = 0 and solve for x:
+0 = 2x - 3 ? x =
+3
+2
+.
+Thus, the line has an x-intercept of 3/2.
+It is often necessary to know if two lines are parallel or perpendicular. Let m1 and m2
+be the slopes of the nonvertical lines L1 and L2. Then:
+201.2. ANALYTIC GEOMETRY
+? L1 and L2 are parallel if and only if m1 = m2.
+? L1 and L2 are perpendicular if and only if m2 = -1
+m1
+.
+In the case of perpendicular lines, we say their slopes are negative reciprocals. Below is a
+visual representation of a pair of parallel lines and a pair of perpendicular lines.
+x
+y
+Parallel Lines Perpendicular Lines
+90
+x
+y
+Example 1.25: Equation of a Line
+For each part below, find an equation of a line satisfying the requirements:
+(a) Through the two points (0, 3) and (-2, 4).
+(b) With slope 7 and through point (1,-2).
+(c) With slope 2 and y-intercept 4.
+(d) With x-intercept 8 and y-intercept -3.
+(e) Through point (5, 3) and parallel to the line 2x + 4y + 2 = 0.
+(f) With y-intercept 4 and perpendicular to the line y = -
+2
+3
+x + 3.
+Solution. (a) We use the slope formula on (x1, y1) = (0, 3) and (x2, y2) = (-2, 4) to find m:
+m =
+(4) - (3)
+(-2) - (0)
+=
+1
+-2
+= -
+1
+2
+.
+Now using the point-slope formula we get an equation to be:
+y - 3 = -
+1
+2
+(x - 0) ? y = -
+1
+2
+x + 3.
+(b) Using the point-slope formula with m = 7 and (x1, y1) = (1,-2) gives:
+y - (-2) = 7(x - 1) ? y = 7x - 9.
+(c) Using the slope-intercept formula with m = 2 and b = 4 we get y = 2x + 4.
+(d) Note that the intercepts give us two points: (x1, y1) = (8, 0) and (x2, y2) = (0,-3). Now
+follow the steps in part (a):
+m = -3 - 0
+0 - 8
+=
+3
+8
+21CHAPTER 1. REVIEW
+. Using the point-slope formula we get an equation to be:
+y - (-3) =
+3
+8
+(x - 0) ? y =
+3
+8
+x - 3
+.
+(e) The line 2x + 4y + 2 = 0 can be written as:
+4y = -2x - 2 ? y = -
+1
+2
+x -
+1
+2
+.
+This line has slope -1/2. Since our line is parallel to it, we have m = -1/2. Now we have
+a point (x1, y1) = (5, 3) and slope m = -1/2, thus, the point-slope formula gives:
+y - 3 = -
+1
+2
+(x - 5) .
+(f) The line y = -
+2
+3
+x + 3 has slope m = -2/3. Since our line is perpendicular to it, the
+slope of our line is the negative reciprocal, hence, m = 3/2. Now we have b = 4 and m = 3/2,
+thus by the slope-intercept formula, an equation of the line is
+y =
+3
+2
+x + 4.
+Example 1.26: Parallel and Perpendicular Lines ?
+Are the two lines 7x+2y+3 = 0 and 6x-4y+2 = 0 perpendicular? Are they parallel?
+If they are not parallel, what is their point of intersection?
+Solution. The first line is:
+7x + 2y + 3 = 0 ? 2y = -7x - 3 ? y = -
+7
+2
+x -
+3
+2
+.
+It has slope m1 = -7/2. The second line is:
+6x - 4y + 2 = 0 ? -4y = -6x - 2 ? y =
+3
+2
+x +
+1
+2
+.
+It has slope m2 = 3/2. Since m1 ·m2 6= -1 (they are not negative reciprocals), the lines are
+not perpendicular. Since m1 6= m2 the lines are not parallel.
+We find points of intersection by setting y-values to be the same and solving. In particular,
+we have
+-
+7
+2
+x -
+3
+2
+=
+3
+2
+x +
+1
+2
+.
+Solving for x gives x = -2/5. Then substituting this into either equation gives y = -1/10.
+Therefore, the lines intersect at the point (-2/5,-1/10). ?
+221.2. ANALYTIC GEOMETRY
+1.2.2. Distance between Two Points and Midpoints
+Given two points (x1, y1) and (x2, y2), recall that their horizontal distance from one another
+is x = x2 - x1 and their vertical distance from one another is y = y2 - y1. Actually, the
+word “distance” normally denotes “positive distance”. x and y are signed distances, but
+this is clear from context. The (positive) distance from one point to the other is the length
+of the hypotenuse of a right triangle with legs |x| and |y|, as shown in figure 1.2. The
+Pythagorean Theorem states that the distance between the two points is the square root of
+the sum of the squares of the horizontal and vertical sides:
+...........................................................................................................................................................................................................................................................
+(x1, y1)
+(x2, y2)
+x
+y
+Figure 1.2: Distance between two points (here, x and y are positive).
+Distance Formula
+The distance between points (x1, y1) and (x2, y2) is
+distance =
+p
+(x)2 + (y)2 =
+p
+(x2 - x1)2 + (y2 - y1)2.
+Example 1.27: Distance Between Two Points
+The distance, d, between points A(2, 1) and B(3, 3) is
+d =
+p
+(3 - 2)2 + (3 - 1)2 = v5.
+As a special case of the distance formula, suppose we want to know the distance of a
+point (x, y) to the origin. According to the distance formula, this is
+p
+(x - 0)2 + (y - 0)2 =
+p
+x2 + y2.
+A point (x, y) is at a distance r from the origin if and only if
+p
+x2 + y2 = r, or, if we square
+both sides: x2 + y2 = r2. As illustrated in the next section, this is the equation of the circle
+of radius, r, centered at the origin.
+Furthermore, given two points we can determine the midpoint of the line segment joining
+the two points.
+Midpoint Formula
+The midpoint of the line segment joining two points (x1, y1) and (x2, y2) is the point
+with coordinates:
+midpoint =
+
+x1 + x2
+2
+,
+y1 + y2
+2
+
+.
+23CHAPTER 1. REVIEW
+Example 1.28: Midpoint of a Line Segment
+Find the midpoint of the line segment joining the given points: (1, 0) and (5,-2).
+Solution. Using the midpoint formula on (x1, y1) = (1, 0) and (x2, y2) = (5,-2) we get:
+
+(1) + (5)
+2
+,
+(0) + (-2)
+2
+
+= (3,-1).
+Thus, the midpoint of the line segment occurs at (3,-1). ?
+1.2.3. Conics
+In this section we review equations of parabolas, circles, ellipses and hyperbolas. We will give
+the equations of various conics in standard form along with a sketch. A useful mnemonic
+is the following.
+Mnemonic
+In each conic formula presented, the terms ‘x-h’ and ‘y -k’ will always appear. The
+point (h, k) will alway represent either the centre or vertex of the particular conic.
+Vertical Parabola: The equation of a vertical parabola is:
+y - k = a(x - h)2
+x
+y
+x
+y
+? (h, k) is the vertex of the parabola.
+? a is the vertical stretch factor.
+? If a > 0, the parabola opens upward.
+? If a < 0, the parabola opens downward.
+Horizontal Parabola: The equation of a horizontal parabola is:
+x - h = a(y - k)2
+x
+y
+x
+y
+241.2. ANALYTIC GEOMETRY
+? (h, k) is the vertex of the parabola.
+? a is the horizontal stretch factor.
+? If a > 0, the parabola opens right.
+? If a < 0, the parabola opens left.
+Circle: The equation of a circle is:
+(x - h)2 + (y - k)2 = r2
+x
+y
+? (h, k) is the centre of the circle. ? r is the radius of the circle.
+Ellipse: The equation of an ellipse is:
+(x - h)2
+a2 +
+(y - k)2
+b2 = 1
+x
+y
+? (h, k) is the centre of the ellipse.
+? a is the horizontal distance from the centre to the edge of the ellipse.
+? b is the vertical distance from the centre to the edge of the ellipse.
+Horizontal Hyperbola: The equation of a horizontal hyperbola is:
+(x - h)2
+a2 -
+(y - k)2
+b2 = 1
+? (h, k) is the centre of the hyperbola.
+? a, b are the reference box values. The
+box has a centre of (h, k).
+? a is the horizontal distance from the
+centre to the edge of the box.
+? b is the vertical distance from the centre
+to the edge of the box.
+25CHAPTER 1. REVIEW
+Given the equation of a horizontal hyperbola, one may sketch it by first placing a dot
+at the point (h, k). Then draw a box around (h, k) with horizontal distance a and vertical
+distance b to the edge of the box. Then draw dotted lines (called the asymptotes of the
+hyperbola) through the corners of the box. Finally, sketch the hyperbola in a horizontal
+direction as illustrated below.
+x
+y
+x
+y
+x
+y
+x
+y
+Vertical Hyperbola: The equation of a vertical hyperbola is:
+(x - h)2
+a2 -
+(y - k)2
+b2 = -1
+? (h, k) is the centre of the hyperbola.
+? a, b are the reference box values. The
+box has a centre of (h, k).
+? a is the horizontal distance from the
+centre to the edge of the box.
+? b is the vertical distance from the centre
+to the edge of the box.
+Given the equation of a vertical hyperbola, one may sketch it by following the same steps
+as with a horizontal hyperbola, but sketching the hyperbola going in a vertical direction.
+x
+y
+x
+y
+x
+y
+x
+y
+261.2. ANALYTIC GEOMETRY
+Determining the Type of Conic
+An equation of the form
+Ax2 + Bxy + Cy2 + Dx + Ey + F = 0
+gives rise to a graph that can be generated by performing a conic section (parabolas,
+circles, ellipses, hyperbolas). Note that the Bxy term involves conic rotation. The
+Dx, Ex, and F terms affect the vertex and centre. For simplicity, we will omit the
+Bxy term. To determine the type of graph we focus our analysis on the values of A
+and C.
+? If A = C, the graph is a circle.
+? If AC > 0 (and A 6= C), the graph is an ellipse.
+? If AC = 0, the graph is a parabola.
+? If AC < 0, the graph is a hyperbola.
+Example 1.29: Center and Radius of a Circle
+Find the centre and radius of the circle y2 + x2 - 12x + 8y + 43 = 0.
+Solution. We need to complete the square twice, once for the x terms and once for the y
+terms. We’ll do both at the same time. First let’s collect the terms with x together, the
+terms with y together, and move the number to the other side.
+(x2 - 12x) + (y2 + 8y) = -43
+We add 36 to both sides for the x term (-12 ? -12
+2 = -6 ? (-6)2 = 36), and 16 to both
+sides for the y term (8 ? 8
+2 = 4 ? (4)2 = 16):
+(x2 - 12x + 36) + (y2 + 8y + 16) = -43 + 36 + 16
+Factoring gives:
+(x - 6)2 + (y + 4)2 = 32.
+Therefore, the centre of the circle is (6,-4) and the radius is 3. ?
+Example 1.30: Type of Conic
+What type of conic is 4x2 - y2 - 8x + 8 = 0? Put it in standard form.
+Solution. Here we have A = 4 and C = -1. Since AC < 0, the conic is a hyperbola. Let
+us complete the square for the x and y terms. First let’s collect the terms with x together,
+the terms with y together, and move the number to the other side.
+(4x2 - 8x) - y2 = -8
+Now we factor out 4 from the x terms.
+4(x2 - 2x) - y2 = -8
+27CHAPTER 1. REVIEW
+Notice that we don’t need to complete the square for the y terms (it is already completed!).
+To complete the square for the x terms we add 1 (-2 ? -2
+2 = -1 ? (-1)2 = 1), taking
+into consideration that the a value is 4:
+4 (x2 - 2x + 1) - y2 = -8 + 4 · 1
+Factoring gives:
+4(x - 1)2 - y2 = -4
+A hyperbola in standard form has ±1 on the right side and a positive x2 on the left side,
+thus, we must divide by 4:
+(x - 1)2 -
+y2
+4
+= -1
+Now we can see that the equation represents a vertical hyperbola with centre (1, 0) (and
+with a value v1 = 1, and b value v4 = 2). ?
+Example 1.31: Equation of Parabola
+Find an equation of the parabola with vertex (1,-1) that passes through the points
+(-4, 24) and (7, 35).
+Solution. We first need to determine if it is a vertical parabola or horizontal parabola.
+See figure 1.3 for a sketch of the three points (1,-1), (-4, 24) and (7, 35) in the xy-plane.
+Note that the vertex is (1,-1). Given the location of the vertex, the parabola cannot open
+x
+y
+Figure 1.3: Figure for Example 1.31
+downwards. It also cannot open left or right (because the vertex is between the other two
+points - if it were to open to the right, every other point would need to be to the right of the
+vertex; if it were to open to the left, every other point would need to be to the left of the
+vertex). Therefore, the parabola must open upwards and it is a vertical parabola. It has an
+equation of
+y - k = a(x - h)2.
+As the vertex is (h, k) = (1,-1) we have:
+y - (-1) = a(x - 1)2
+281.2. ANALYTIC GEOMETRY
+To determine a, we substitute one of the points into the equation and solve. Let us substitute
+the point (x, y) = (-4, 24) into the equation:
+24 - (-1) = a(-4 - 1)2 ? 25 = 25a ? a = 1.
+Therefore, the equation of the parabola is:
+y + 1 = (x - 1)2.
+Note that if we substituted (7, 35) into the equation instead, we would also get a = 1. ?
+Exercises for 1.2
+Exercise 1.2.1. Find the equation of the line in the form y = mx + b:
+a) through (1, 1) and (-5,-3),
+b) through (-1, 2) with slope -2,
+c) through (-1, 1) and (5,-3).
+Exercise 1.2.2. Change the following equations to the form y = mx+b, graph the line, and
+find the y-intercept and x-intercept.
+a) y-2x = 2
+b) x+y = 6
+c) x = 2y-1
+d) 3 = 2y
+e) 2x+3y+6 = 0
+Exercise 1.2.3. Determine whether the lines 3x + 6y = 7 and 2x + 4y = 5 are parallel.
+Exercise 1.2.4. Suppose a triangle in the (x, y)-plane has vertices (-1, 0), (1, 0) and (0, 2).
+Find the equations of the three lines that lie along the sides of the triangle in y = mx + b
+form.
+Exercise 1.2.5. Let x stand for temperature in degrees Celsius (centigrade), and let y stand
+for temperature in degrees Fahrenheit. A temperature of 0?C corresponds to 32?F, and a
+temperature of 100?C corresponds to 212?F. Find the equation of the line that relates tem-
+perature Fahrenheit y to temperature Celsius x in the form y = mx + b. Graph the line,
+and find the point at which this line intersects y = x. What is the practical meaning of this
+point?
+Exercise 1.2.6. A car rental firm has the following charges for a certain type of car: $25
+per day with 100 free miles included, $0.15 per mile for more than 100 miles. Suppose you
+want to rent a car for one day, and you know you’ll use it for more than 100 miles. What
+is the equation relating the cost y to the number of miles x that you drive the car?
+Exercise 1.2.7. A photocopy store advertises the following prices: 5c per copy for the first
+20 copies, 4c per copy for the 21st through 100th copy, and 3c per copy after the 100th copy.
+Let x be the number of copies, and let y be the total cost of photocopying. (a) Graph the cost
+as x goes from 0 to 200 copies. (b) Find the equation in the form y = mx + b that tells you
+the cost of making x copies when x is more than 100.
+29CHAPTER 1. REVIEW
+Exercise 1.2.8. Market research tells you that if you set the price of an item at $1.50, you
+will be able to sell 5000 items; and for every 10 cents you lower the price below $1.50 you
+will be able to sell another 1000 items. Let x be the number of items you can sell, and let P
+be the price of an item. (a) Express P linearly in terms of x, in other words, express P in
+the form P = mx + b. (b) Express x linearly in terms of P.
+Exercise 1.2.9. An instructor gives a 100-point final exam, and decides that a score 90 or
+above will be a grade of 4.0, a score of 40 or below will be a grade of 0.0, and between 40 and
+90 the grading will be linear. Let x be the exam score, and let y be the corresponding grade.
+Find a formula of the form y = mx + b which applies to scores x between 40 and 90.
+Exercise 1.2.10. Find the distance between the pairs of points:
+a) (-1, 1) and (1, 1),
+b) (5, 3) and (-7,-2),
+c) (1, 1) and the origin.
+Exercise 1.2.11. Find the midpoint of the line segment joining the point (20,-10) to the
+origin.
+Exercise 1.2.12. Find the equation of the circle of radius 3 centered at:
+a) (0, 0) d) (0, 3)
+b) (5, 6) e) (0,-3)
+c) (-5,-6) f) (3, 0)
+Exercise 1.2.13. For each pair of points A(x1, y1) and B(x2, y2) find an equation of the
+circle with center at A that goes through B.
+a) A(2, 0), B(4, 3) b) A(-2, 3), B(4, 3)
+Exercise 1.2.14. Determine the type of conic and sketch it.
+a) x2+y2+10y = 0
+b) 9x2-90x+y2+81 = 0
+c) 6x+y2-8y = 0
+Exercise 1.2.15. Find the standard equation of the circle passing through (-2, 1) and tan-
+gent to the line 3x - 2y = 6 at the point (4, 3). Sketch. (Hint: The line through the center
+of the circle and the point of tangency is perpendicular to the tangent line.)
+1.3 Trigonometry
+In this section we review the definitions of trigonometric functions.
+1.3.1. Angles and Sectors of Circles
+Mathematicians tend to deal mostly with radians and we will see later that some formulas
+are more elegant when using radians (rather than degrees). The relationship between degrees
+and radians is:
+p rad = 180?.
+301.3. TRIGONOMETRY
+Using this formula, some common angles can be derived:
+Degrees 0? 30? 45? 60? 90? 120? 135? 150? 180? 270? 360?
+Radians 0
+p
+6
+p
+4
+p
+3
+p
+2
+2p
+3
+3p
+4
+5p
+6
+p
+3p
+2
+2p
+Example 1.32: Degrees to Radians
+To convert 45? to radians, multiply by
+p
+180?
+to get
+p
+4
+.
+Example 1.33: Radians to Degrees
+To convert
+5p
+6
+radians to degrees, multiply by
+180?
+p
+to get 150?.
+From now on, unless otherwise indicated, we will always use radian measure.
+In the diagram below is a sector of a circle with central angle ? and radius r subtending
+an arc with length s.
+When ? is measure in radians, we have the following formula relating ?, s and r:
+? =
+s
+r
+or s = r?.
+Sector Area
+The area of the sector is equal to:
+Sector Area =
+1
+2
+r2?.
+31CHAPTER 1. REVIEW
+Example 1.34: Angle Subtended by Arc
+If a circle has radius 3 cm, then an angle of 2 rad is subtended by an arc of 6 cm
+(s = r? = 3 · 2 = 6).
+Example 1.35: Area of Circle
+If we substitute ? = 2p (a complete revolution) into the sector area formula we get
+the area of a circle:
+A =
+1
+2
+r2(2p) = pr2.
+1.3.2. Trigonometric Functions
+There are six basic trigonometric functions:
+? Sine (abbreviated by sin)
+? Cosine (abbreviated by cos)
+? Tangent (abbreviated by tan)
+? Cosecant (abbreviated by csc)
+? Secant (abbreviated by sec)
+? Cotangent (abbreviated by cot)
+We first describe trigonometric functions in terms of ratios of two sides of a right angle
+triangle containing the angle ?.
+Hypotenuse (hyp)
+Adjacent (adj)
+Opposite
+(opp)
+With reference to the above triangle, for an acute angle ? (that is, 0 = ? < p/2), the six
+trigonometric functions can be described as follows:
+sin ? =
+opp
+hyp
+csc ? =
+hyp
+opp
+cos ? =
+adj
+hyp
+sec ? =
+hyp
+adj
+tan ? =
+opp
+adj
+cot ? =
+adj
+opp
+321.3. TRIGONOMETRY
+Mnemonic
+The mnemonic SOH CAH TOA is useful in remembering how trigonometric functions
+of acute angles relate to the sides of a right triangle.
+This description does not apply to obtuse or negative angles. To define the six basic
+trigonometric functions we first define sine and cosine as the lengths of various line segments
+from a unit circle, and then we define the remaining four basic trigonometric functions in
+terms of sine and cosine.
+Take a line originating at the origin (making an angle of ? with the positive half of
+the x-axis) and suppose this line intersects the unit circle at the point (x, y). The x- and
+y-coordinates of this point of intersection are equal to cos ? and sin ?, respectively.
+1
+For angles greater than 2p or less than -2p, simply continue to rotate around the circle. In
+this way, sine and cosine become periodic functions with period 2p:
+sin ? = sin (? + 2pk) cos ? = cos (? + 2pk)
+for any angle ? and any integer k.
+Above, only sine and cosine were defined directly by the circle. We now define the
+remaining four basic trigonometric functions in terms of the functions sin ? and cos ?:
+tan ? =
+sin ?
+cos ?
+sec ? =
+1
+cos ?
+csc ? =
+1
+sin ?
+cot ? =
+cos ?
+sin ?
+1.3.3. Computing Exact Trigonometric Ratios
+The unit circle is often used to determine the exact value of a particular trigonometric
+function.
+33CHAPTER 1. REVIEW
+Reading from the unit circle one can see that cos 5p/6 = -v3/2 and sin 5p/6 = 1/2
+(remember the that the x-coordinate is cos ? and the y-coordinate is sin ?). However, we don’t
+always have access to the unit circle. In this case, we can compute the exact trigonometric
+ratios for ? = 5p/6 by using special triangles and the CAST rule described below.
+The first special triangle has angles of 45?, 45?, 90? (i.e., p/4, p/4, p/2) with side lengths
+1, 1,v2, while the second special triangle has angles of 30?, 60?, 90? (i.e., p/6, p/3, p/2) with
+side lengths 1, 2,v3. They are classically referred to as the 1 - 1 - v2 triangle, and the
+1 - 2 - v3 triangle, respectively, shown below.
+341.3. TRIGONOMETRY
+Mnemonic
+The first triangle should be easy to remember. To remember the second triangle,
+place the largest number (2) across from the largest angle (90? = p/2). Place the
+smallest number (1) across from the smallest angle (30? = p/6). Place the middle
+number (v3 ˜ 1.73) across from the middle angle (60? = p/3). Double check using
+the Pythagorean Theorem that the sides satisfy a2 + b2 = c2.
+The special triangles allow us to compute the exact value (excluding the sign) of trigonometric
+ratios, but to determine the sign, we can use the CAST rule.
+The CAST Rule
+The CAST rule says that in quadrant I all three of sin ?, cos ?, tan ? are positive. In
+quadrant II, only sin ? is positive, while cos ?, tan ? are negative. In quadrant III, only
+tan ? is positive, while sin ?, cos ? are negative. In quadrant IV, only cos ? is positive,
+while sin ?, tan ? are negative. To remember this, simply label the quadrants by the
+letters C-A-S-T starting in the bottom right and labelling counter-clockwise.
+C
+S A
+T
+II I
+III IV
+Example 1.36: Determining Trigonometric Ratios Without Unit Circle
+Determine sin 5p/6, cos 5p/6, tan 5p/6, sec 5p/6, csc 5p/6 and cot 5p/6 exactly by
+using the special triangles and CAST rule.
+Solution.We start by drawing the xy-plane and indicating our angle of 5p/6 in standard position
+(positive angles rotate counterclockwise while negative angles rotate clockwise). Next,
+35CHAPTER 1. REVIEW
+we drop a perpendicular to the x-axis (never drop it to the y-axis!).
+Notice that we can now figure out the angles in the triangle. Since 180? = p, we have an
+interior angle of p - 5p/6 = p/6 inside the triangle. As the angles of a triangle add up to
+180? = p, the other angle must be p/3. This gives one of our special triangles. We label it
+accordingly and add the CAST rule to our diagram.
+C
+S A
+T
+From the above figure we see that 5p/6 lies in quadrant II where sin ? is positive and cos ?
+and tan ? are negative. This gives us the sign of sin ?, cos ? and tan ?. To determine the
+value we use the special triangle and SOH CAH TOA.
+Using sin ? = opp/hyp we find a value of 1/2. But sin ? is positive in quadrant II,
+therefore,
+sin
+5p
+6
+= +
+1
+2
+.
+Using cos ? = adj/hyp we find a value of v3/2. But cos ? is negative in quadrant II,
+therefore,
+cos
+5p
+6
+= -
+v3
+2
+.
+Using tan ? = opp/adj we find a value of 1/v3. But tan ? is negative in quadrant II,
+therefore,
+tan
+5p
+6
+= -
+1
+v3
+.
+361.3. TRIGONOMETRY
+To determine sec ?, csc ? and cot ? we use the definitions:
+csc
+5p
+6
+=
+1
+sin 5
+6
+= +2, sec
+5p
+6
+=
+1
+cos 5
+6
+= -
+2
+v3
+, cot
+5p
+6
+=
+1
+tan 5
+6
+= -
+v3.
+?
+Example 1.37: CAST Rule
+If cos ? = 3/7 and 3p/2 < ? < 2p, then find cot ?.
+Solution. We first draw a right angle triangle. Since cos ? = adj/hyp = 3/7, we let the
+adjacent side have length 3 and the hypotenuse have length 7.
+adj = 3
+hyp = 7
+opp = ?
+Using the Pythagorean Theorem, we have 32 + (opp)2 = 72. Thus, the opposite side has
+length v40.
+adj = 3
+hyp = 7
+opp =
+To find cot ? we use the definition:
+cot ? =
+1
+tan ?
+.
+Since we are given 3p/2 < ? < 2p, we are in the fourth quadrant. By the CAST rule, tan ?
+is negative in this quadrant. As tan ? = opp/adj, it has a value of v40/3, but by the CAST
+rule it is negative, that is,
+tan ? = -
+v40
+3
+.
+Therefore,
+cot ? = -
+3
+v40
+.
+?
+37CHAPTER 1. REVIEW
+1.3.4. Graphs of Trigonometric Functions
+The graph of the functions sin x and cos x can be visually represented as:
+Both sin x and cos x have domain (-8,8) and range [-1, 1]. That is,
+-1 = sin x = 1 - 1 = cos x = 1.
+The zeros of sin x occur at the integer multiples of p, that is, sin x = 0 whenever x = np,
+where n is an integer. Similarly, cos x = 0 whenever x = p/2 + np, where n is an integer.
+The six basic trigonometric functions can be visually represented as:
+-3
+-2
+-1
+0
+1
+2
+3
+-4 -3 -2 -1 0 1 2 3 4
+sine
+cosine
+tangent
+secant
+cosecant
+cotangent
+Both tangent and cotangent have range (-8,8), whereas cosecant and secant have
+range (-8,-1] ? [1,8). Each of these functions is periodic. Tangent and cotangent have
+period p, whereas sine, cosine, cosecant and secant have period 2p.
+1.3.5. Trigonometric Identities
+There are numerous trigonometric identities, including those relating to shift/periodicity,
+Pythagoras type identities, double-angle formulas, half-angle formulas and addition formulas.
+We list these below.
+381.3. TRIGONOMETRY
+1. Shifts and periodicity
+sin(? + 2p) = sin ? cos(? + 2p) = cos ? tan(? + 2p) = tan ?
+sin(? + p) = -sin ? cos(? + p) = -cos ? tan(? + p) = tan ?
+sin(-?) = -sin ? cos(-?) = cos ? tan(-?) = -tan ?
+sin
+p
+2 - ?
+
+= cos ? cos
+p
+2 - ?
+
+= sin ? tan
+p
+2 - ?
+
+= cot ?
+2. Pythagoras type formulas
+? sin2 ? + cos2 ? = 1
+? tan2 ? + 1 = sec2 ?
+? 1 + cot2 ? = csc2 ?
+3. Double-angle formulas
+? sin(2?) = 2 sin ? cos ?
+?
+cos(2?) = cos2 ? - sin2 ?
+= 2 cos2 ? - 1
+= 1 - 2 sin2 ?.
+4. Half-angle formulas
+? cos2 ? =
+1 + cos(2?)
+2
+? sin2 ? =
+1 - cos(2?)
+2
+5. Addition formulas
+? sin(?+f) = sin ? cos f+cos ? sin f
+? cos(?+f) = cos ? cos f-sin ? sin f
+? tan(? + f) =
+tan ? + tan f
+1 - tan ? tan f
+? sin(?-f) = sin ? cos f-cos ? sin f
+? cos(?-f) = cos ? cos f+sin ? sin f
+Example 1.38: Double Angle
+Find all values of x with 0 = x = p such that sin 2x = sin x.
+Solution. Using the double-angle formula sin 2x = 2 sin x cos x we have:
+2 sin x cos x = sin x
+2 sin x cos x - sin x = 0
+sin x(2 cos x - 1) = 0
+Thus, either sin x = 0 or cos x = 1/2. For the first case when sin x = 0, we get x = 0 or
+x = p. For the second case when cos x = 1/2, we get x = p/3 (use the special triangles and
+CAST rule to get this). Thus, we have three solutions: x = 0, x = p/3, x = p. ?
+39CHAPTER 1. REVIEW
+Exercises for 1.3
+Exercise 1.3.1. Find all values of ? such that sin(?) = -1; give your answer in radians.
+Exercise 1.3.2. Find all values of ? such that cos(2?) = 1/2; give your answer in radians.
+Exercise 1.3.3. Compute the following:
+a) sin(3p) d) csc(4p/3)
+b) sec(5p/6) e) tan(7p/4)
+c) cos(-p/3) f) cot(13p/4)
+Exercise 1.3.4. Use an angle sum identity to compute cos(p/12).
+Exercise 1.3.5. Use an angle sum identity to compute tan(5p/12).
+Exercise 1.3.6. Verify the following identities
+a) cos2(t)/(1-sin(t)) = 1+sin(t)
+b) 2 csc(2?) = sec(?) csc(?)
+c) sin(3?)-sin(?) = 2 cos(2?) sin(?)
+Exercise 1.3.7. Sketch the following functions:
+a) y = 2 sin(x)
+b) y = sin(3x)
+c) y = sin(-x)
+Exercise 1.3.8. Find all of the solutions of 2 sin(t) - 1 - sin2(t) = 0 in the interval [0, 2p].
+402. Functions
+2.1 What is a Function?
+A function y = f(x) is a rule for determining y when we’re given a value of x. For example,
+the rule y = f(x) = 2x + 1 is a function. Any line y = mx + b is called a linear function.
+The graph of a function looks like a curve above (or below) the x-axis, where for any value
+of x the rule y = f(x) tells us how far to go above (or below) the x-axis to reach the curve.
+Functions can be defined in various ways: by an algebraic formula or several algebraic
+formulas, by a graph, or by an experimentally determined table of values. In the latter
+case, the table gives a bunch of points in the plane, which we might then interpolate with a
+smooth curve, if that makes sense.
+Given a value of x, a function must give at most one value of y. Thus, vertical lines are
+not functions. For example, the line x = 1 has infinitely many values of y if x = 1. It is also
+true that if x is any number (not 1) there is no y which corresponds to x, but that is not a
+problem—only multiple y values is a problem.
+One test to identify whether or not a curve in the (x, y) coordinate system is a function
+is the following.
+Theorem 2.1: The Vertical Line Test
+A curve in the (x, y) coordinate system represents a function if and only if no vertical
+line intersects the curve more than once.
+In addition to lines, another familiar example of a function is the parabola y = f(x) = x2.
+We can draw the graph of this function by taking various values of x (say, at regular intervals)
+and plotting the points (x, f(x)) = (x, x2). Then connect the points with a smooth curve.
+(See figure 2.1.)
+The two examples y = f(x) = 2x+1 and y = f(x) = x2 are both functions which can be
+evaluated at any value of x from negative infinity to positive infinity. For many functions,
+however, it only makes sense to take x in some interval or outside of some “forbidden” region.
+The interval of x-values at which we’re allowed to evaluate the function is called the domain
+of the function.
+41CHAPTER 2. FUNCTIONS
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.....
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+y = f(x) = x2
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+..
+...
+...
+..............................................................................................................................
+y = f(x) = vx
+..................................................................................................
+...
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+..
+.
+.
+..
+.
+.
+..
+.
+..
+.
+..
+..
+.
+..
+..
+..
+..
+..
+..
+...
+..
+...
+...
+...
+.
+...
+...
+...
+..
+...
+..
+..
+..
+..
+..
+..
+..
+..
+.
+..
+.
+..
+.
+..
+.
+..
+.
+.
+..
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+..
+..................................................................................................
+y = f(x) = 1/x
+Figure 2.1: Some graphs.
+Example 2.2: Domain of the Square-Root Function
+The square-root function y = f(x) = vx is the rule which says, given an x-value,
+take the nonnegative number whose square is x. This rule only makes sense if x = 0.
+We say that the domain of this function is x = 0, or more formally {x ? R : x = 0}.
+Alternately, we can use interval notation, and write that the domain is [0,8). The
+fact that the domain of y = vx is [0,8) means that in the graph of this function (see
+figure 2.1) we have points (x, y) only above x-values on the right side of the x-axis.
+Another example of a function whose domain is not the entire x-axis is: y = f(x) = 1/x,
+the reciprocal function. We cannot substitute x = 0 in this formula. The function makes
+sense, however, for any nonzero x, so we take the domain to be: {x ? R : x 6= 0}. The
+graph of this function does not have any point (x, y) with x = 0. As x gets close to 0 from
+either side, the graph goes off toward infinity. We call the vertical line x = 0 an asymptote.
+To summarize, two reasons why certain x-values are excluded from the domain of a function
+are the following.
+Restrictions for the Domain of a Function
+1. We cannot divide by zero, and
+2. We cannot take the square root of a negative number.
+We will encounter some other ways in which functions might be undefined later.
+Another reason why the domain of a function might be restricted is that in a given
+situation the x-values outside of some range might have no practical meaning. For example,
+if y is the area of a square of side x, then we can write y = f(x) = x2. In a purely
+mathematical context the domain of the function y = x2 is all of R. However, in the storyproblem
+context of finding areas of squares, we restrict the domain to positive values of x,
+because a square with negative or zero side makes no sense.
+In a problem in pure mathematics, we usually take the domain to be all values of x at
+which the formulas can be evaluated. However, in a story problem there might be further
+restrictions on the domain because only certain values of x are of interest or make practical
+sense.
+422.1. WHAT IS A FUNCTION?
+In a story problem, we often use letters other than x and y. For example, the volume V
+of a sphere is a function of the radius r, given by the formula V = f(r) = 4
+3pr3. Also, letters
+different from f may be used. For example, if y is the velocity of something at time t, we
+may write y = v(t) with the letter v (instead of f) standing for the velocity function (and t
+playing the role of x).
+The letter playing the role of x is called the independent variable, and the letter
+playing the role of y is called the dependent variable (because its value “depends on”
+the value of the independent variable). In story problems, when one has to translate from
+English into mathematics, a crucial step is to determine what letters stand for variables. If
+only words and no letters are given, then we have to decide which letters to use. Some letters
+are traditional. For example, almost always, t stands for time.
+Example 2.3: Open Box
+An open-top box is made from an a×b rectangular piece of cardboard by cutting out
+a square of side x from each of the four corners, and then folding the sides up and
+sealing them with duct tape. Find a formula for the volume V of the box as a function
+of x, and find the domain of this function.
+Solution. The box we get will have height x and rectangular base of dimensions a - 2x by
+b - 2x. Thus,
+V = f(x) = x(a - 2x)(b - 2x).
+Here a and b are constants, and V is the variable that depends on x, i.e., V is playing the
+role of y.
+This formula makes mathematical sense for any x, but in the story problem the domain
+is much less. In the first place, x must be positive. In the second place, it must be less than
+half the length of either of the sides of the cardboard. Thus, the domain is
+
+x ? R : 0 < x <
+1
+2
+(minimum of a and b)
+
+.
+In interval notation we write: the domain is the interval (0,min(a, b)/2). You might think
+about whether we could allow 0 or (the minimum of a and b) to be in the domain. They
+make a certain physical sense, though we normally would not call the result a box. If we
+were to allow these values, what would the corresponding volumes be? Does that volume
+make sense? ?
+Example 2.4: Circle of Radius r Centered at the Origin
+Is the circle of radius r centered at the origin the graph of a a function?
+Solution. The equation for this circle is usually given in the form x2 + y2 = r2. To write
+the equation in the form y = f(x) we solve for y, obtaining y = ±vr2 - x2. But this is not
+a function, because when we substitute a value in (-r, r) for x there are two corresponding
+values of y. To get a function, we must choose one of the two signs in front of the square root.
+If we choose the positive sign, for example, we get the upper semicircle y = f(x) = vr2 - x2
+(see figure 2.2). The domain of this function is the interval [-r, r], i.e., x must be between
+43CHAPTER 2. FUNCTIONS
+-r and r (including the endpoints). If x is outside of that interval, then r2 -x2 is negative,
+and we cannot take the square root. In terms of the graph, this just means that there are
+no points on the curve whose x-coordinate is greater than r or less than -r. ?
+-r r
+. . . . . .
+. . . . . . . .
+. . . . .
+. . . .
+. . . .
+. . .
+. .
+. . .
+. .
+. .
+. .
+. .
+. .
+. .
+. .
+.
+. .
+. .
+.
+. .
+.
+.
+. .
+.
+.
+. .
+.
+.
+. .
+.
+.
+.
+.
+.
+.
+.
+. .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+..
+..
+..
+..
+..
+..
+...
+...
+....
+......
+........................................................................................................................................................................................................................................................................................................... ............ ...... ..... ... ... ... .. .. .. .. .
+.......
+....
+..
+..
+.
+..
+..
+..
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+..
+.
+.
+.
+..
+.
+.
+..
+.
+..
+.
+..
+..
+.
+..
+..
+..
+..
+..
+..
+...
+..
+...
+...
+...
+.....
+.....
+............
+Figure 2.2: Upper semicircle y = vr2 - x2.
+Example 2.5: Domain
+Find the domain of
+y = f(x) =
+1
+v4x - x2
+.
+Solution. To answer this question, we must rule out the x-values that make 4x-x2 negative
+(because we cannot take the square root of a negative number) and also the x-values that
+make 4x - x2 zero (because if 4x - x2 = 0, then when we take the square root we get 0,
+and we cannot divide by 0). In other words, the domain consists of all x for which 4x - x2
+is strictly positive. The inequality 4x - x2 > 0 was solved in Example 1.12. In interval
+notation, the domain is the interval (0, 4). ?
+A function does not always have to be given by a single formula as the next example
+demonstrates.
+Example 2.6: Piecewise Velocity
+Suppose that y = v(t) is the velocity function for a car which starts out from rest
+(zero velocity) at time t = 0; then increases its speed steadily to 20 m/sec, taking 10
+seconds to do this; then travels at constant speed 20 m/sec for 15 seconds; and finally
+applies the brakes to decrease speed steadily to 0, taking 5 seconds to do this. The
+formula for y = v(t) is different in each of the three time intervals: first y = 2x, then
+y = 20, then y = -4x + 120. The graph of this function is shown in figure 2.3.
+442.2. TRANSFORMATIONS AND COMPOSITIONS
+10 25 30
+0
+10
+20
+.
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+..
+............................................................................................................................................................................................................................................................................................................................................................................................................................................
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. t
+v
+Figure 2.3: A velocity function.
+Exercises for 2.1
+Exercise 2.1.1. Find the domain of each of the following functions:
+a) y = x2 + 1 h) y = f(x) = v4 x
+b) y = f(x) = v2x - 3 i) y = v1 - x2
+c) y = f(x) = 1/(x + 1) j) y = f(x) =
+p
+1 - (1/x)
+d) y = f(x) = 1/(x2 - 1) k) y = f(x) = 1/
+p
+1 - (3x)2
+e) y = f(x) =
+p
+-1/x l) y = f(x) = vx + 1/(x - 1)
+f) y = f(x) = v3 x m) y = f(x) = 1/(vx - 1)
+g) y = f(x) =
+p
+r2 - (x - h)2 , where r and h are positive constants.
+Exercise 2.1.2. A farmer wants to build a fence along a river. He has 500 feet of fencing
+and wants to enclose a rectangular pen on three sides (with the river providing the fourth
+side). If x is the length of the side perpendicular to the river, determine the area of the pen
+as a function of x. What is the domain of this function?
+Exercise 2.1.3. A can in the shape of a cylinder is to be made with a total of 100 square
+centimeters of material in the side, top, and bottom; the manufacturer wants the can to hold
+the maximum possible volume. Write the volume as a function of the radius r of the can;
+find the domain of the function.
+Exercise 2.1.4. A can in the shape of a cylinder is to be made to hold a volume of one liter
+(1000 cubic centimeters). The manufacturer wants to use the least possible material for the
+can. Write the surface area of the can (total of the top, bottom, and side) as a function of
+the radius r of the can; find the domain of the function.
+2.2 Transformations and Compositions
+45CHAPTER 2. FUNCTIONS
+2.2.1. Tranformations
+Transformations are operations we can apply to a function in order to obtain a new
+function. The most common transformations include translations, stretches and reflections.
+We summarize these below.
+Function Conditions How to graph F(x) given the graph of f(x)
+F(x) = f(x) + c c > 0 Shift f(x) upwards by c units
+F(x) = f(x) - c c > 0 Shift f(x) downwards by c units
+F(x) = f(x + c) c > 0 Shift f(x) to the left by c units
+F(x) = f(x - c) c > 0 Shift f(x) to the right by c units
+F(x) = -f(x) Reflect f(x) about the x-axis
+F(x) = f(-x) Reflect f(x) about the y-axis
+F(x) = |f(x)| Take the part of the graph of f(x) that lies
+below the x-axis and reflect it about the x-axis
+For horizontal and vertical stretches, different resources use different terminology and
+notation. Use the one you are most comfortable with! Below, both a, b are positive numbers.
+Note that we only use the term stretch in this case:
+Function Conditions How to graph F(x) given the graph of f(x)
+F(x) = af(x) a > 0 Stretch f(x) vertically by a factor of a
+F(x) = f(bx) b > 0 Stretch f(x) horizontally by a factor of 1/b
+In the next case, we use both the terms stretch and shrink. We also split up vertical
+stretches into two cases (0 < a < 1 and a > 1), and split up horizontal stretches into two
+cases (0 < b < 1 and b > 1). Note that having 0 < a < 1 is the same as having 1/c with
+c > 1. Also note that stretching by a factor of 1/c is the same as shrinking by a factor c.
+Function Conditions How to graph F(x) given the graph of f(x)
+F(x) = cf(x) c > 1 Stretch f(x) vertically by a factor of c
+F(x) = (1/c)f(x) c > 1 Shrink f(x) vertically by a factor of c
+F(x) = f(cx) c > 1 Shrink f(x) horizontally by a factor of c
+F(x) = f(x/c) c > 1 Stretch f(x) horizontally by a factor of c
+Some resources keep the condition 0 < c < 1 rather than using 1/c. This is illustrated in
+the next table.
+Function Conditions How to graph F(x) given the graph of f(x)
+F(x) = df(x) d > 1 Stretch f(x) vertically by a factor of d
+F(x) = df(x) 0 < d < 1 Shrink f(x) vertically by a factor of 1/d
+F(x) = f(dx) d > 1 Shrink f(x) horizontally by a factor of d
+F(x) = f(dx) 0 < d < 1 Stretch f(x) horizontally by a factor of 1/d
+462.2. TRANSFORMATIONS AND COMPOSITIONS
+Example 2.7: Transformations and Graph Sketching
+In this example we will use appropriate transformations to sketch the graph of the
+function y = |vx + 2 - 1| - 1.
+Solution. We start with the graph of a function we know how to sketch, in particular,
+y = vx: To obtain the graph of the function y = vx + 2 from the graph y = vx, we must
+shift y = vx to the left by 2 units. To obtain the graph of the function y = vx + 2-1 from
+the graph y = vx + 2, we must shift y = vx + 2 downwards by 1 unit.
+x
+y
+-3 -2 -1 3
+0.5
+1
+2
+1.5
+-0.5
+-1
+-1.5
+-2
+x
+y
+-3 -2 -1 1 2 3
+0.5
+1
+2
+1.5
+-0.5
+-1
+-1.5
+-2
+To obtain the graph of the function y = |vx + 2 - 1| from the graph y = vx + 2 - 1, we
+must take the part of the graph of y = vx + 2 - 1 that lies below the x-axis and reflect it
+(upwards) about the x-axis. Finally, to obtain the graph of the function y = |vx + 2-1|-1
+from the graph y = |vx + 2 - 1|, we must shift y = |vx + 2 - 1| downwards by 1 unit:
+x
+y
+-3 -2 -1 1 2 3
+0.5
+1
+2
+1.5
+-0.5
+-1
+-1.5
+-2
+x
+y
+-3 -2 -1 1 2 3
+0.5
+1
+2
+1.5
+-0.5
+-1
+-1.5
+-2
+?
+2.2.2. Combining Two Functions
+Let f and g be two functions. Then we can form new functions by adding, subtracting,
+multiplying, or dividing. These new functions, f + g, f - g, fg and f/g, are defined in the
+usual way.
+Operations on Functions
+(f + g)(x) = f(x) + g(x) (f - g)(x) = f(x) - g(x)
+(fg)(x) = f(x)g(x)
+
+f
+g
+
+(x) =
+f(x)
+g(x)
+47CHAPTER 2. FUNCTIONS
+Suppose Df is the domain of f and Dg is the domain of g. Then the domains of f + g,
+f - g and fg are the same and are equal to the intersection Df n Dg (that is, everything
+that is in common to both the domain of f and the domain of g). Since division by zero is
+not allowed, the domain of f/g is {x ? Df n Dg : g(x) 6= 0}.
+Another way to combine two functions f and g together is a procedure called composition.
+Function Composition
+Given two functions f and g, the composition of f and g, denoted by f ?g, is defined
+as:
+(f ? g)(x) = f(g(x)).
+The domain of f ? g is {x ? Dg : g(x) ? Df}, that is, it contains all values x in the
+domain of g such that g(x) is in the domain of f.
+Example 2.8: Domain of a Composition
+Let f(x) = x2 and g(x) = vx. Find the domain of f ? g.
+Solution. The domain of f is Df = {x ? R}. The domain of g is Dg = {x ? R : x = 0}.
+The function (f ? g)(x) = f(g(x)) is:
+f(g(x)) =
+??vx
+2 = x.
+Typically, h(x) = x would have a domain of {x ? R}, but since it came from a composed
+function, we must consider g(x) when looking at the domain of f(g(x)). Thus, the domain
+of f ? g is {x ? R : x = 0}. ?
+Example 2.9: Combining Two Functions
+Let f(x) = x2 +3 and g(x) = x-2. Find f +g, f -g, fg, f/g, f ? g and g ? f. Also,
+determine the domains of these new functions.
+Solution. For f + g we have:
+(f + g)(x) = f(x) + g(x) = (x2 + 3) + (x - 2) = x2 + x + 1.
+For f - g we have:
+(f - g)(x) = f(x) - g(x) = (x2 + 3) - (x - 2) = x2 + 3 - x + 2 = x2 - x + 5.
+For fg we have:
+(fg)(x) = f(x) · g(x) = (x2 + 3)(x - 2) = x3 - 2x2 + 3x - 6.
+For f/g we have: 
+f
+g
+
+(x) =
+f(x)
+g(x)
+=
+x2 + 3
+x - 2
+.
+48CHAPTER 2. FUNCTIONS
+Suppose Df is the domain of f and Dg is the domain of g. Then the domains of f + g,
+f - g and fg are the same and are equal to the intersection Df n Dg (that is, everything
+that is in common to both the domain of f and the domain of g). Since division by zero is
+not allowed, the domain of f/g is {x ? Df n Dg : g(x) 6= 0}.
+Another way to combine two functions f and g together is a procedure called composition.
+Function Composition
+Given two functions f and g, the composition of f and g, denoted by f ?g, is defined
+as:
+(f ? g)(x) = f(g(x)).
+The domain of f ? g is {x ? Dg : g(x) ? Df}, that is, it contains all values x in the
+domain of g such that g(x) is in the domain of f.
+Example 2.8: Domain of a Composition
+Let f(x) = x2 and g(x) = vx. Find the domain of f ? g.
+Solution. The domain of f is Df = {x ? R}. The domain of g is Dg = {x ? R : x = 0}.
+The function (f ? g)(x) = f(g(x)) is:
+f(g(x)) =
+??vx
+2 = x.
+Typically, h(x) = x would have a domain of {x ? R}, but since it came from a composed
+function, we must consider g(x) when looking at the domain of f(g(x)). Thus, the domain
+of f ? g is {x ? R : x = 0}. ?
+Example 2.9: Combining Two Functions
+Let f(x) = x2 +3 and g(x) = x-2. Find f +g, f -g, fg, f/g, f ? g and g ? f. Also,
+determine the domains of these new functions.
+Solution. For f + g we have:
+(f + g)(x) = f(x) + g(x) = (x2 + 3) + (x - 2) = x2 + x + 1.
+For f - g we have:
+(f - g)(x) = f(x) - g(x) = (x2 + 3) - (x - 2) = x2 + 3 - x + 2 = x2 - x + 5.
+For fg we have:
+(fg)(x) = f(x) · g(x) = (x2 + 3)(x - 2) = x3 - 2x2 + 3x - 6.
+For f/g we have: 
+f
+g
+
+(x) =
+f(x)
+g(x)
+=
+x2 + 3
+x - 2
+.
+482.3. EXPONENTIAL FUNCTIONS
+For f ? g we have:
+(f ? g)(x) = f(g(x)) = f(x - 2) = (x - 2)2 + 3 = x2 - 4x + 7.
+For g ? f we have:
+(g ? f)(x) = g(f(x)) = g(x2 + 3) = (x2 + 3) - 2 = x2 + 1.
+The domains of f + g, f - g, fg, f ? g and g ? f is {x ? R}, while the domain of f/g is
+{x ? R : x 6= 2}. ?
+As in the above problem, f ? g and g ? f are generally different functions.
+Exercises for 2.2
+Exercise 2.2.1. Starting with the graph of y = vx, the graph of y = 1/x, and the graph of
+y = v1 - x2 (the upper unit semicircle), sketch the graph of each of the following functions:
+a) f(x) = vx - 2 g) f(x) = -4 +
+p
+-(x - 2)
+b) f(x) = -1 - 1/(x + 2) h) f(x) = 2
+p
+1 - (x/3)2
+c) f(x) = 4 + vx + 2 i) f(x) = 1/(x + 1)
+d) y = f(x) = x/(1 - x) j) f(x) = 4 + 2
+p
+1 - (x - 5)2/9
+e) y = f(x) = -v-x k) f(x) = 1 + 1/(x - 1)
+f) f(x) = 2 +
+p
+1 - (x - 1)2 l) f(x) =
+p
+100 - 25(x - 1)2 + 2
+Exercise 2.2.2. The graph of f(x) is shown below. Sketch the graphs of the following
+functions.
+1 2 3
+-1
+0
+1
+2
+. .
+. . . .
+. . .
+. . . .
+. . . .
+. . . .
+. . .
+. . . .
+. . .
+. . . .
+. . .
+. . . .
+. . .
+. . .
+. . . .
+. . .
+. . .
+. . .
+. . .
+. . .
+. . .
+. . . .
+. . .
+. . .
+. . .
+. .
+. . .
+. . .
+. . .
+. . .
+. . .
+. .
+. . .
+. . .
+. .
+. . .
+. .
+. . .
+. .
+. . .
+. .
+. .
+. . .
+. .
+. .
+. .
+. .
+. . .
+. .
+. .
+. .
+. .
+. .
+. .
+. .
+. .
+. .
+. .
+. .
+. .
+.
+. .
+. .
+. .
+.
+. .
+. .
+.
+. .
+.
+. .
+.
+. .
+.
+. .
+.
+. .
+.
+. .
+.
+.
+. .
+.
+.
+.
+.
+. .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+...............
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+..
+...........................
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+..............
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+..
+.
+.
+..
+.
+.
+..
+.
+..
+.
+..
+.
+..
+.
+..
+.
+..
+..
+..
+.
+..
+..
+.
+a) y = f(x - 1) e) y = 2f(3(x - 2)) + 1
+b) y = 1 + f(x + 2) f) y = (1/2)f(3x - 3)
+c) y = 1 + 2f(x) g) y = f(1 + x/3) + 2
+d) y = 2f(3x) h) y = |f(x) - 2|
+Exercise 2.2.3. Suppose f(x) = 3x - 9 and g(x) = vx. What is the domain of the
+composition (g ? f)(x)?
+2.3 Exponential Functions
+An exponential function is a function of the form f(x) = ax, where a is a constant.
+Examples are 2x, 10x and (1/2)x. To more formally define the exponential function we look
+at various kinds of input values.
+49CHAPTER 2. FUNCTIONS
+It is obvious that a5 = a·a·a·a·a and a3 = a·a·a, but when we consider an exponential
+function ax we can’t be limited to substituting integers for x. What does a2.5 or a-1.3 or
+a mean? And is it really true that a2.5a-1.3 = a2.5-1.3? The answer to the first question is
+actually quite difficult, so we will evade it; the answer to the second question is “yes.”
+We’ll evade the full answer to the hard question, but we have to know something about
+exponential functions. You need first to understand that since it’s not “obvious” what 2x
+should mean, we are really free to make it mean whatever we want, so long as we keep the
+behavior that is obvious, namely, when x is a positive integer. What else do we want to be
+true about 2x? We want the properties of the previous two paragraphs to be true for all
+exponents: 2x2y = 2x+y and (2x)y = 2xy.
+After the positive integers, the next easiest number to understand is 0: 20 = 1. You have
+presumably learned this fact in the past; why is it true? It is true precisely because we want
+2a2b = 2a+b to be true about the function 2x. We need it to be true that 202x = 20+x = 2x,
+and this only works if 20 = 1. The same argument implies that a0 = 1 for any a.
+The next easiest set of numbers to understand is the negative integers: for example,
+2-3 = 1/23. We know that whatever 2-3 means it must be that 2-323 = 2-3+3 = 20 = 1,
+which means that 2-3 must be 1/23. In fact, by the same argument, once we know what 2x
+means for some value of x, 2-x must be 1/2x and more generally a-x = 1/ax.
+Next, consider an exponent 1/q, where q is a positive integer. We want it to be true that
+(2x)y = 2xy, so (21/q)q = 2. This means that 21/q is a q-th root of 2, 21/q = vq 2 . This is all
+we need to understand that 2p/q = (21/q)p = ( vq 2 )p and ap/q = (a1/q)p = (vq a )p.
+What’s left is the hard part: what does 2x mean when x cannot be written as a fraction,
+like x = v2 or x = p? What we know so far is how to assign meaning to 2x whenever
+x = p/q. If we were to graph ax (for some a > 1) at points x = p/q then we’d see something
+like this:
+x
+y
+This is a poor picture, but it illustrates a series of individual points above the rational
+numbers on the x-axis. There are really a lot of “holes” in the curve, above x = p, for
+example. But (this is the hard part) it is possible to prove that the holes can be “filled in”,
+and that the resulting function, called ax, really does have the properties we want, namely
+502.3. EXPONENTIAL FUNCTIONS
+that axay = ax+y and (ax)y = axy. Such a graph would then look like this:
+x
+y
+Three Types of Exponential Functions
+There are three kinds of exponential functions f(x) = ax depending on whether a > 1,
+a = 1 or 0 < a < 1:
+x
+y
+x
+y
+x
+y
+Properties of Exponential Functions
+The first thing to note is that if a < 0 then problems can occur. Observe that if a = -1
+then (-1)x is not defined for every x. For example, x = 1/2 is a square root and gives
+(-1)1/2 = v-1 which is not a real number.
+Exponential Function Properties
+? Only defined for positive a: ax is only defined for all real x if a > 0
+? Always positive: ax > 0, for all x
+? Exponent rules:
+1. axay = ax+y
+2.
+ax
+ay = ax-y
+3. (ax)y = axy = ayx = (ay)x
+4. axbx = (ab)x
+? Long term behaviour: If a > 1, then ax ? 8 as x ? 8 and ax ? 0 as x ? -8.
+The last property can be observed from the graph. If a > 1, then as x gets larger and
+larger, so does ax. On the other hand, as x gets large and negative, the function approaches
+51CHAPTER 2. FUNCTIONS
+the x-axis, that is, ax approaches 0.
+Example 2.10: Reflection of Exponential
+Determine an equation of the function after reflecting y = 2x about the line x = -2.
+Solution. First reflect about the y-axis to get y = 2-x. Now shift by 2 × 2 = 4 units to the
+left to get y = 2-(x+4). Side note: Can you see why this sequence of transformations is the
+same as reflection in the line x = -2? Can you come up with a general rule for these types
+of reflections? ?
+Example 2.11: Determine the Exponential Function
+Determine the exponential function f(x) = kax that passes through the points (1, 6)
+and (2, 18).
+Solution. We substitute our two points into the equation to get:
+x = 1, y = 6 ? 6 = ka1
+x = 2, y = 18 ? 18 = ka2
+This gives us 6 = ka and 18 = ka2. The first equation is k = 6/a and subbing this into the
+second gives: 18 = (6/a)a2. Thus, 18 = 6a and a = 3. Now we can see from 6 = ka that
+k = 2. Therefore, the exponential function is
+f(x) = 2 · 3x.
+?
+There is one base that is so important and convenient that we give it a special symbol.
+This number is denoted by e = 2.71828 . . . (and is an irrational number). Its importance
+stems from the fact that it simplifies many formulas of Calculus and also shows up in other
+fields of mathematics.
+Example 2.12: Domain of Function with Exponential
+Find the domain of f(x) =
+1
+vex + 1
+.
+Solution. For domain, we cannot divide by zero or take the square root of negative numbers.
+Note that one of the properties of exponentials is that they are always positive! Thus,
+ex + 1 > 0 (in fact, as ex > 0 we actually have that ex + 1 is at least one). Therefore, ex + 1
+is never zero nor negative, and gives no restrictions on x. Thus, the domain is R. ?
+522.4. INVERSE FUNCTIONS
+Exercises for 2.3
+Exercise 2.3.1. Determine an equation of the function y = ax passing through the point
+(3, 8).
+Exercise 2.3.2. Find the domain of y = e-x + e
+1
+x .
+2.4 Inverse Functions
+In mathematics, an inverse is a function that serves to “undo” another function. That is,
+if f(x) produces y, then putting y into the inverse of f produces the output x. A function
+f that has an inverse is called invertible and the inverse is denoted by f-1. It is best to
+illustrate inverses using an arrow diagram:
+a
+b
+c
+d
+1
+2
+3
+4
+?
+?
+?
+?
+1
+2
+3
+4
+?
+?
+?
+?
+a
+b
+c
+d
+Notice how f maps 1 to a, and f-1 undoes this, that is, f-1 maps a back to 1. Don’t confuse
+f-1(x) with exponentiation: the inverse f-1 is different from 1
+f(x) .
+Not every function has an inverse. It is easy to see that if a function f(x) is going to have
+an inverse, then f(x) never takes on the same value twice. We give this property a special
+name.
+A function f(x) is called one-to-one if every element of the range corresponds to exactly
+one element of the domain. Similar to the Vertical Line Test (VLT) for functions, we have
+the Horizontal Line Test (HLT) for the one-to-one property.
+Theorem 2.13: The Horizontal Line Test
+A function is one-to-one if and only if there is no horizontal line that intersects its
+graph more than once.
+Example 2.14: Parabola is Not One-to-one
+The parabola f(x) = x2 it not one-to-one because it does not satisfy the horizontal
+line test. For example, the horizontal line y = 1 intersects the parabola at two points,
+when x = -1 and x = 1.
+We now formally define the inverse of a function.
+53CHAPTER 2. FUNCTIONS
+Definition 2.15: Inverse of a Function
+Let f(x) and g(x) be two one-to-one functions. If (f ? g)(x) = x and (g ? f)(x) = x
+then we say that f(x) and g(x) are inverses of each other. We denote g(x) (the
+inverse of f(x)) by g(x) = f-1(x).
+Thus, if f maps x to y, then f-1 maps y back to x. This gives rise to the cancellation
+formulas:
+f-1(f(x)) = x, for every x in the domain of f(x),
+f(f-1(x)) = x, for every x in the domain of f-1(x).
+Example 2.16: Finding the Inverse at Specific Values
+If f(x) = x9 + 2x7 + x + 1, find f-1(5) and f-1(1).
+Solution. Rather than trying to compute a formula for f-1 and then computing f-1(5),
+we can simply find a number c such that f evaluated at c gives 5. Note that subbing in
+some simple values (x = -3,-2, 1, 0, 1, 2, 3) and evaluating f(x) we eventually find that
+f(1) = 19 + 2(17) + 1 + 1 = 5 and f(0) = 1. Therefore, f-1(5) = 1 and f-1(1) = 0. ?
+To compute the equation of the inverse of a function we use the following guidelines.
+Guidelines for Computing Inverses
+1. Write down y = f(x).
+2. Solve for x in terms of y.
+3. Switch the x’s and y’s.
+4. The result is y = f-1(x).
+Example 2.17: Finding the Inverse Function
+We find the inverse of the function f(x) = 2x3 + 1.
+Solution. Starting with y = 2x3 + 1 we solve for x as follows:
+y - 1 = 2x3 ?
+y - 1
+2
+= x3 ? x = 3
+r
+y - 1
+2
+.
+Therefore, f-1(x) = 3
+r
+x - 1
+2
+. ?
+This example shows how to find the inverse of a function algebraically. But what about
+finding the inverse of a function graphically? Step 3 (switching x and y) gives us a good
+graphical technique to find the inverse, namely, for each point (a, b) where f(a) = b, sketch
+542.5. LOGARITHMS
+the point (b, a) for the inverse. More formally, to obtain f-1(x) reflect the graph f(x) about
+the line y = x.
+x
+y
+Exercises for 2.4
+Exercise 2.4.1. Is the function f(x) = |x| one-to-one?
+Exercise 2.4.2. If h(x) = ex + x + 1, find h-1(2).
+Exercise 2.4.3. Find a formula for the inverse of the function f(x) =
+x + 2
+x - 2
+.
+2.5 Logarithms
+Recall the three kinds of exponential functions f(x) = ax depending on whether 0 < a < 1,
+a = 1 or a > 1:
+x
+y
+x
+y
+x
+y
+So long as a 6= 1, the function f(x) = ax satisfies the horizontal line test and therefore has
+an inverse. We call the inverse of ax the logarithmic function with base a and denote
+it by loga. In particular,
+loga x = y ?? ay = x.
+55CHAPTER 2. FUNCTIONS
+The cancellation formulas for logs are:
+loga(ax) = x, for every x ? R,
+aloga(x) = x, for every x > 0.
+Since the function f(x) = ax for a 6= 1 has domain R and range (0,8), the logarithmic
+function has domain (0,8) and range R. For the most part, we only focus on logarithms
+with a base larger than 1 (i.e., a > 1) as these are the most important.
+x
+y
+Notice that every logarithm passes through the point (1, 0) in the same way that every
+exponential function passes through the point (0, 1).
+Some properties of logarithms are as follows.
+Logarithm Properties
+Let A,B be positive numbers and b > 0 (b 6= 1) be a base.
+? logb(AB) = logb A + logb B,
+? logb
+
+A
+B
+
+= logb A - logb B,
+? logb(An) = n logb A, where n is any real number.
+Example 2.18: Compute Lorarithms
+To compute log2(24) - log2(3) we can do the following:
+log2(24) - log2(3) = log2
+
+24
+3
+
+= log2(8) = 3,
+562.5. LOGARITHMS
+since 23 = 8.
+The Natural Logarithm
+As mentioned earlier for exponential functions, the number e ˜ 2.71828 . . . is the most
+convenient base to use in Calculus. For this reason we give the logarithm with base e a
+special name: the natural logarithm. We also give it special notation:
+loge x = ln x.
+You may pronounce ln as either: “el - en”, “lawn”, or refer to it as “natural log”. The
+above properties of logarithms also apply to the natural logarithm.
+Often we need to turn a logarithm (in a different base) into a natural logarithm. This
+gives rise to the change of base formula.
+Change of Base Formula
+loga x =
+ln x
+ln a
+.
+Example 2.19: Combine Logarithms
+Write lnA + 2 lnB - lnC as a single logarithm.
+Solution. Using properties of logarithms, we have,
+lnA + 2 lnB - lnC = lnA + lnB2 - lnC
+= ln(AB2) - lnC
+= ln
+AB2
+C
+?
+Example 2.20: Solve Exponential Equations using Logarithms
+If ex+2 = 6e2x, then solve for x.
+Solution. Taking the natural logarithm of both sides and noting the cancellation formulas
+57CHAPTER 2. FUNCTIONS
+(along with ln e = 1), we have:
+ex+2 = 6e2x
+ln ex+2 = ln(6e2x)
+x + 2 = ln 6 + ln e2x
+x + 2 = ln 6 + 2x
+x = 2 - ln 6
+?
+Example 2.21: Solve Logarithm Equations using Exponentials
+If ln(2x - 1) = 2 ln(x), then solve for x.
+Solution. “Taking e” of both sides and noting the cancellation formulas, we have:
+eln(2x-1) = e2 ln(x)
+(2x - 1) = eln(x2)
+2x - 1 = x2
+x2 - 2x + 1 = 0
+(x - 1)2 = 0
+Therefore, the solution is x = 1. ?
+Exercises for 2.5
+Exercise 2.5.1. Expand log10((x + 45)7(x - 2)).
+Exercise 2.5.2. Expand log2
+x3
+3x - 5 + (7/x)
+.
+Exercise 2.5.3. Write log2 3x + 17 log2(x - 2) - 2 log2(x2 + 4x + 1) as a single logarithm.
+Exercise 2.5.4. Solve log2(1 + vx) = 6 for x.
+Exercise 2.5.5. Solve 2x2
+= 8 for x.
+Exercise 2.5.6. Solve log2(log3(x)) = 1 for x.
+582.6. INVERSE TRIGONOMETRIC FUNCTIONS
+2.6 Inverse Trigonometric Functions
+The trigonometric functions frequently arise in problems, and often it is necessary to invert
+the functions, for example, to find an angle with a specified sine. Of course, there are many
+angles with the same sine, so the sine function doesn’t actually have an inverse that reliably
+“undoes” the sine function. If you know that sin x = 0.5, you can’t reverse this to discover x,
+that is, you can’t solve for x, as there are infinitely many angles with sine 0.5. Nevertheless,
+it is useful to have something like an inverse to the sine, however imperfect. The usual
+approach is to pick out some collection of angles that produce all possible values of the sine
+exactly once. If we “discard” all other angles, the resulting function does have a proper
+inverse.
+The sine takes on all values between -1 and 1 exactly once on the interval [-p/2, p/2].
+If we truncate the sine, keeping only the interval [-p/2, p/2], then this truncated sine has
+an inverse function. We call this the inverse sine or the arcsine, and write it in one of two
+common notation: y = arcsin(x), or y = sin-1(x).
+Recall that a function and its inverse undo each other in either order, for example,
+(v3 x)3 = x and v3 x3 = x. This does not work with the sine and the “inverse sine” because
+the inverse sine is the inverse of the truncated sine function, not the real sine function. It
+is true that sin(arcsin(x)) = x, that is, the sine undoes the arcsine. It is not true that the
+arcsine undoes the sine, for example, sin(5p/6) = 1/2 and arcsin(1/2) = p/6, so doing first
+the sine then the arcsine does not get us back where we started. This is because 5p/6 is not
+59CHAPTER 2. FUNCTIONS
+in the domain of the truncated sine. If we start with an angle between -p/2 and p/2 then
+the arcsine does reverse the sine: sin(p/6) = 1/2 and arcsin(1/2) = p/6.
+Example 2.22: Arcsine of Common Values
+Compute sin-1(0), sin-1(1) and sin-1(-1).
+Solution. These come directly from the graph of y = arcsin x:
+sin-1 (0) = 0 sin-1(1) =
+p
+2
+sin-1(-1) = -
+p
+2
+?
+We can do something similar for the cosine function. As with the sine, we must first
+truncate the cosine so that it can be inverted, in particular, we use the interval [0, p].
+Note that the truncated cosine uses a different interval than the truncated sine, so that if
+y = arccos(x) we know that 0 = y = p.
+602.6. INVERSE TRIGONOMETRIC FUNCTIONS
+Example 2.23: Arccosine of Common Values
+Compute cos-1(0), cos-1(1) and cos-1(-1).
+Solution. These come directly from the graph of y = arccos x:
+cos-1 (0) =
+p
+2
+cos-1(1) = 0 cos-1(-1) = p
+?
+Finally we look at the tangent; the other trigonometric functions also have “partial
+inverses” but the sine, cosine and tangent are enough for most purposes. The truncated
+tangent uses an interval of (-p/2, p/2).
+Reflecting the truncated tangent in the line y = x gives the arctangent function.
+61CHAPTER 2. FUNCTIONS
+Example 2.24: Arctangent of Common Values
+Compute tan-1(0). What value does tan-1 x approach as x gets larger and larger?
+What value does tan-1 x approach as x gets large (and negative)?
+Solution. These come directly from the graph of y = arctan x. In particular, tan-1(0) = 0.
+As x gets larger and larger, tan-1 x approaches a value of 
+2 , whereas, as x gets large but
+negative, tan-1 x approaches a value of -
+2 . ?
+The cancellation rules are tricky since we restricted the domains of the trigonometric
+functions in order to obtain inverse trig functions:
+Cancellation Rules
+sin(sin-1 x) = x, x ? [-1, 1] sin-1(sin x) = x, x ?
+h
+-
+p
+2
+,
+p
+2
+i
+cos(cos-1 x) = x, x ? [-1, 1] cos-1(cos x) = x, x ? [0, p]
+tan(tan-1 x) = x, x ? (-8,8) tan-1(tan x) = x, x ?
+
+-
+p
+2
+,
+p
+2
+
+Example 2.25: Arcsine of 1/2
+Find sin-1 (1/2).
+Solution. Since sin-1(x) outputs values in [-p/2, p/2], the answer must be in this interval.
+Let ? = sin-1(1/2). We need to compute ?. Take the sine of both sides to get sin ? =
+sin(sin-1(1/2)) = 1/2 by the cancellation rule. There are many angles ? that work, but we
+want the one in the interval [-p/2, p/2]. Thus, ? = p/6 and hence, sin-1
+
+1
+2
+
+=
+p
+6
+. ?
+Example 2.26: Arccosine and the Cancellation Rule
+Compute cos-1(cos(0)), cos-1(cos(p)), cos-1(cos(2p)), cos-1(cos(3p)).
+Solution. Since cos-1(x) outputs values in [0, p], the answers must be in this interval. The
+first two we can cancel using the cancellation rules:
+cos-1(cos(0)) = 0 and cos-1(cos(p)) = p.
+The third one we cannot cancel:
+cos-1(cos(2p)) is NOT equal to 2p.
+But we know that cos(2p) = cos(0):
+cos-1(cos(2p)) = cos-1(cos(0)) = 0
+Similarly with the fourth one, we can NOT cancel yet. Using cos(3p) = cos(3p - 2p) =
+cos(p):
+cos-1(cos(3p)) = cos-1(cos(p)) = p
+?
+622.7. HYPERBOLIC FUNCTIONS
+Example 2.27: The Triangle Technique
+Rewrite the expression cos(sin-1 x) without trig functions. Note that the domain of
+this function is all x ? [-1, 1].
+Solution. Let ? = sin-1 x. We need to compute cos ?. Taking the sine of both sides gives
+sin ? = sin(sin-1(x)) = x by the cancellation rule. We then draw a right triangle using
+sin ? = x/1:
+If z is the remaining side, then by the Pythagorean Theorem:
+z2 + x2 = 1 ? z2 = 1 - x2 ? z = ±
+v1 - x2
+and hence z = +v1 - x2 since ? ? [-p/2, p/2]. Thus, cos ? = v1 - x2 by SOH CAH TOA,
+so, cos(sin-1 x) = v1 - x2. ?
+Example 2.28: The Triangle Technique 2
+For x ? (0, 1), rewrite the expression sin(2 cos-1 x). Compute sin(2 cos-1(1/2)).
+Solution. Let ? = cos-1 x so that cos ? = x. The question now asks for us to compute
+sin(2?). We then draw a right triangle using cos ? = x/1:
+To find sin(2?) we use the double angle formula sin(2?) = 2 sin ? cos ?. But sin ? = v1 - x2
+and cos ? = x. Therefore, sin(2 cos-1 x) = 2xv1 - x2. When x = 1/2 we have sin(2 cos-1(1/2)) = v3
+2
+. ?
+2.7 Hyperbolic Functions
+The hyperbolic functions appear with some frequency in applications, and are quite similar
+in many respects to the trigonometric functions. This is a bit surprising given our initial
+definitions.
+63CHAPTER 2. FUNCTIONS
+Definition 2.29: Hyperbolic Sine and Cosine
+The hyperbolic cosine is the function
+cosh x =
+ex + e-x
+2
+,
+and the hyperbolic sine is the function
+sinh x =
+ex - e-x
+2
+.
+Notice that cosh is even (that is, cosh(-x) = cosh(x)) while sinh is odd (sinh(-x) =
+-sinh(x)), and cosh x + sinh x = ex. Also, for all x, cosh x > 0, while sinh x = 0 if and only
+if ex - e-x = 0, which is true precisely when x = 0.
+Theorem 2.30: Range of Hyperbolic Cosine
+The range of cosh x is [1,8).
+Proof. Let y = cosh x. We solve for x:
+y =
+ex + e-x
+2
+2y = ex + e-x
+2yex = e2x + 1
+0 = e2x - 2yex + 1
+ex =
+2y ±
+p
+4y2 - 4
+2
+ex = y ±
+p
+y2 - 1
+From the last equation, we see y2 = 1, and since y = 0, it follows that y = 1.
+Now suppose y = 1, so y ±
+p
+y2 - 1 > 0. Then x = ln(y ±
+p
+y2 - 1) is a real number,
+and y = cosh x, so y is in the range of cosh(x). ?
+Definition 2.31: Hyperbolic Functions
+We can also define hyperbolic functions for the other trigonometric functions as you
+would expect:
+tanh x =
+sinh x
+cosh x
+cschx =
+1
+sinh x
+sechx =
+1
+cosh x
+cothx =
+1
+tanh x
+642.7. HYPERBOLIC FUNCTIONS
+The graph of sinh x is shown below:
+The graph of cosh x is shown below:
+Example 2.32: Computing Hyperbolic Tangent
+Compute tanh(ln 2).
+Solution. This uses the definitions of the hyperbolic functions.
+tanh(ln 2) =
+sinh(ln 2)
+cosh(ln 2)
+=
+eln 2 - e-ln 2
+2
+eln 2 + e-ln 2
+2
+=
+2 - (1/2)
+2
+2 + (1/2)
+2
+=
+2 - (1/2)
+2 + (1/2)
+=
+3
+5
+?
+Certainly the hyperbolic functions do not closely resemble the trigonometric functions
+graphically. But they do have analogous properties, beginning with the following identity.
+Theorem 2.33: Hyperbolic Identity
+For all x in R, cosh2 x - sinh2 x = 1.
+65CHAPTER 2. FUNCTIONS
+Proof. The proof is a straightforward computation:
+cosh2 x - sinh2 x =
+(ex + e-x)2
+4 -
+(ex - e-x)2
+4
+=
+e2x + 2 + e-2x - e2x + 2 - e-2x
+4
+=
+4
+4
+= 1.
+?
+This immediately gives two additional identities:
+1 - tanh2 x = sech2x and coth2x - 1 = csch2x.
+The identity of the theorem also helps to provide a geometric motivation. Recall that
+the graph of x2 - y2 = 1 is a hyperbola with asymptotes x = ±y whose x-intercepts are
+±1. If (x, y) is a point on the right half of the hyperbola, and if we let x = cosh t, then
+y = ±
+vx2 - 1 = ±
+p
+cosh2 x - 1 = ±sinh t. So for some suitable t, cosh t and sinh t are the
+coordinates of a typical point on the hyperbola. In fact, it turns out that t is twice the area
+shown in the first graph of figure 2.4. Even this is analogous to trigonometry; cos t and sin t
+are the coordinates of a typical point on the unit circle, and t is twice the area shown in the
+second graph of figure 2.4.
+Figure 2.4: Geometric definitions. Here, t is twice the shaded area in each figure.
+Since cosh x > 0, sinh x is increasing and hence one-to-one, so sinh x has an inverse,
+arcsinhx. Also, sinh x > 0 when x > 0, so cosh x is injective on [0,8) and has a (partial)
+inverse, arccoshx. The other hyperbolic functions have inverses as well, though arcsechx is
+only a partial inverse.
+Exercises for 2.7
+Exercise 2.7.1. Show that the range of sinh x is all real numbers. (Hint: show that if
+y = sinh x then x = ln(y +
+p
+y2 + 1).)
+662.7. HYPERBOLIC FUNCTIONS
+Exercise 2.7.2. Show that the range of tanh x is (-1, 1). What are the ranges of coth, sech,
+and csch? (Use the fact that they are reciprocal functions.)
+Exercise 2.7.3. Prove that for every x, y ? R, sinh(x + y) = sinh x cosh y + cosh x sinh y.
+Obtain a similar identity for sinh(x - y).
+Exercise 2.7.4. Prove that for every x, y ? R, cosh(x + y) = cosh x cosh y + sinh x sinh y.
+Obtain a similar identity for cosh(x - y).
+Exercise 2.7.5. Show that sinh(2x) = 2 sinh x cosh x and cosh(2x) = cosh2 x + sinh2 x for
+every x. Conclude also that (cosh(2x) - 1)/2 = sinh2 x.
+Exercise 2.7.6. What are the domains of the six inverse hyperbolic functions?
+Exercise 2.7.7. Sketch the graphs of all six inverse hyperbolic functions.
+67

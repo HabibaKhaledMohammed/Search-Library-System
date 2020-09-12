@@ -1,0 +1,3387 @@
+CHAPTER I
+Rectangular Coordinates
+The material of this chapter has the twofold purpose of sharpening algebraic
+manipulation and laying a foundation of analytic geometry, on which calculus calls
+heavily for illustration and interpretation. Work with inequalities reviews the
+algebraic laws hidden behind such terms as "transpose" and "cross multiply," but
+inequalities are indispensable for basic understanding of limits. The beginning of
+set theory is given even though the amount included is now taught in many high
+schools. Set theory is a relatively new discipline in elementary mathematics, but its
+clarifying and unifying features assure it a prominent and lasting place. The notions
+and notations of set theory reappear throughout the book wherever it is advantageous
+to use them.
+At the risk of seeming to de-emphasize other topics, we recommend that the
+definition of a function and functional notation (Sec. 8) be given especially careful
+study. Also, the axiom stated in Sec. 4 might seem to have little importance as it
+appears here, but this axiom will be used repeatedly.
+1. Inequalities and Absolute Values
+The product of two numbers is zero if and only if at least one of the
+numbers is zero. Thus
+(1) (x + 2)(3x - 5) = 0
+if x = -2 or else x = and there is no other number satisfying (1).
+Only real numbers will be considered in this book, and the properties of
+real numbers sufficient for arithmetic and algebra involving equations will be
+assumed. Some work on inequalities will now be given.
+To state that x represents a negative number, we write x < 0 or 0 > x.
+Hence, 1 /x < 0 if and only if x < 0. Also y > 0 or 0 < y means that y
+represents a positive number.
+DEFINITION. The symbolism s < t will be used if and only if s and t represent
+numbers such that s - t < 0. Alternatively t > s if and only if t - s > 0.
+The symbol "<" is read "less than" and ">" is read "greater than".
+THEOREM 1.1 . Let x, y, and a represent numbers.
+1. Then x + .a < y + a if and only if x < y.
+12 Rectangular Coordinates Chap. 1
+2. ' In case a > 0, then ax < ay if and only if x < y.
+3. Incasea<0, then ax >ay ifand only ifx<y.
+PROOF of 3 (As an illustration of a method of proof, we shall prove only 3).
+First take a < 0 and x < y. By definition, x < y means that x -'Y < 0.
+Now a and x - y are both negative so their product is positive; that is,
+a(x - y) > 0. Thus, ax - ay > 0 which by the alternative in the definition
+means that ax > ay, as we wished to show.
+For the "only if" portion of 3 above, take a < 0 and ax > ay. Then
+1 /a < 0 and ay < ax. Hence, by the first part of the proof we have (1 /a)ay >
+(1/a)ax. Thus, y > x so that x < y, as we wished to prove.
+Notice that the above theorem gives rules for inequalities analogous to
+the rules for equations referred to as "transposition" and "cross multiplication."
+One must be careful, however, to reverse the sense of inequality if
+and only if both sides of an inequality are multiplied by a negative number.
+For example, if
+Ix+3<5,
+we "transpose 3 to the other side" by adding -.3 to both sides:
+-1x+3-3<5-3; i.e.,-jx<2.
+Now multiply both sides by
+2
+(notice the change of the sense of inequality)
+(-z)(-*x) > (-J)2; i.e., x > -3.
+The inequality (-*)x + 3 < 5 is said to have solution x > -3.
+The statement "a, b, and x are numbers such that a < x and x < b" is
+written a < x < b.
+Example 1. Solve the inequalities
+(2) 2<-i-2x<5.
+Solution. Consider the two inequalities 2 < -2 2x and -2 - 2x < 5
+separately. From the first of these 2x .< ,-2 .- 2 = -'z and therefore x < -4,
+but from the second - 2 - 5 < 2x and therefore - < x. Thus, both inequalities
+in (2) will hold if and only if x is a number such that x < -land also x.
+The solution of (2) is therefore written as
+- 4 < X < 4.
+Example 2. Solve the inequality 3x2 + x - 10 > 0.
+Solution. Sincet 3x2 + x - 10 = (3x - 5)(x + 2) the inequality may be
+t The symbol is read "identically equal" and means, as used here, that both sides
+have the same value for each value of x. In contrast "=" signifies a conditional equality.
+For example 3x2.+ x - 10 * -(x + 2) since 3x2 + x - 10 = -(x + 2) if and only if
+x is either ; or -2.Sec. 1 Inequalities and Absolute Values 3
+written as (3x - 5)(x + 2) > 0. Either these two factors must both be positive or
+else both must be negative so two cases are to be considered.
+CASE 1. Both factors positive. Hence, consider separately
+3x-5>0 and x+2>0.
+From the first x > a and from the second x > -2. Thus, a number x will make
+both factors positive if and only if x is such that both x > a and also x > -2.
+Thus, both factors are positive if and only if x >
+CASE 2. Both factors negative. Hence, consider separately
+3x-5<0 and x+2<0.
+In this case it must be that both x < s and x < -2. But x satisfies both of these
+inequalities if and only if x < -2.
+Thus, a number x will satisfy the given inequality if either x > a or else if
+x < -2. The answer is: Either x a or else x < -2.
+Example 3. Solve the inequality 2x2 - x - 15 < 0.
+Solution. 2x2 - x - 15 - (x - 3)(2x + 5) < 0. Since the product of two
+numbers is negative if and only if one is negative and the other positive, we consider
+two cases as follows:
+CASE 1
+x-3>0 and 2x+5<0.
+x>3 and x<-121
+Impossible, since no number is both
+greater than 3 and less than -.
+CASE 2
+x-3<0 and 2x+5>0.
+x < 3 and x > -§ .
+Both of these inequalities hold if and
+only if x is such that -I < x < 3.
+or
+Thus, the answer is: "The given inequality holds if and only if < x < 3."
+DEFINITION. The absolute value Jul of a number u is defined by
+uifu>0
+(3) Jul = 1-u ifit<0.
+For example, 131 = 3 and 1-31 = -(-3) = 3.
+THEOREM 1.2. For u any number
+(4) - Jul < u < Jul.
+PROOF. If u >- 0 then (top line of (3)), -Iul = -u < 0 <- ul= lul,;
+but if u < 0 then (bottom line of (3)), - Jul = -(-a) = u 0 < -u = ful.
+Hence in-both cases - Jul S u < Jul so that (4) is estal5lished.Sec. 1 Inequalities and Absolute Values 3
+written as (3x - 5)(x + 2) > 0. Either these two factors must both be positive or
+else both must be negative so two cases are to be considered.
+CASE 1. Both factors positive. Hence, consider separately
+3x-5>0 and x+2>0.
+From the first x > a and from the second x > -2. Thus, a number x will make
+both factors positive if and only if x is such that both x > a and also x > -2.
+Thus, both factors are positive if and only if x >
+CASE 2. Both factors negative. Hence, consider separately
+3x-5<0 and x+2<0.
+In this case it must be that both x < s and x < -2. But x satisfies both of these
+inequalities if and only if x < -2.
+Thus, a number x will satisfy the given inequality if either x > a or else if
+x < -2. The answer is: Either x a or else x < -2.
+Example 3. Solve the inequality 2x2 - x - 15 < 0.
+Solution. 2x2 - x - 15 - (x - 3)(2x + 5) < 0. Since the product of two
+numbers is negative if and only if one is negative and the other positive, we consider
+two cases as follows:
+CASE 1
+x-3>0 and 2x+5<0.
+x>3 and x<-121
+Impossible, since no number is both
+greater than 3 and less than -.
+CASE 2
+x-3<0 and 2x+5>0.
+x < 3 and x > -§ .
+Both of these inequalities hold if and
+only if x is such that -I < x < 3.
+or
+Thus, the answer is: "The given inequality holds if and only if < x < 3."
+DEFINITION. The absolute value Jul of a number u is defined by
+uifu>0
+(3) Jul = 1-u ifit<0.
+For example, 131 = 3 and 1-31 = -(-3) = 3.
+THEOREM 1.2. For u any number
+(4) - Jul < u < Jul.
+PROOF. If u >- 0 then (top line of (3)), -Iul = -u < 0 <- ul= lul,;
+but if u < 0 then (bottom line of (3)), - Jul = -(-a) = u 0 < -u = ful.
+Hence in-both cases - Jul S u < Jul so that (4) is estal5lished.Sec. 1 Inequalities and Absolute Values 3
+written as (3x - 5)(x + 2) > 0. Either these two factors must both be positive or
+else both must be negative so two cases are to be considered.
+CASE 1. Both factors positive. Hence, consider separately
+3x-5>0 and x+2>0.
+From the first x > a and from the second x > -2. Thus, a number x will make
+both factors positive if and only if x is such that both x > a and also x > -2.
+Thus, both factors are positive if and only if x >
+CASE 2. Both factors negative. Hence, consider separately
+3x-5<0 and x+2<0.
+In this case it must be that both x < s and x < -2. But x satisfies both of these
+inequalities if and only if x < -2.
+Thus, a number x will satisfy the given inequality if either x > a or else if
+x < -2. The answer is: Either x a or else x < -2.
+Example 3. Solve the inequality 2x2 - x - 15 < 0.
+Solution. 2x2 - x - 15 - (x - 3)(2x + 5) < 0. Since the product of two
+numbers is negative if and only if one is negative and the other positive, we consider
+two cases as follows:
+CASE 1
+x-3>0 and 2x+5<0.
+x>3 and x<-121
+Impossible, since no number is both
+greater than 3 and less than -.
+CASE 2
+x-3<0 and 2x+5>0.
+x < 3 and x > -§ .
+Both of these inequalities hold if and
+only if x is such that -I < x < 3.
+or
+Thus, the answer is: "The given inequality holds if and only if < x < 3."
+DEFINITION. The absolute value Jul of a number u is defined by
+uifu>0
+(3) Jul = 1-u ifit<0.
+For example, 131 = 3 and 1-31 = -(-3) = 3.
+THEOREM 1.2. For u any number
+(4) - Jul < u < Jul.
+PROOF. If u >- 0 then (top line of (3)), -Iul = -u < 0 <- ul= lul,;
+but if u < 0 then (bottom line of (3)), - Jul = -(-a) = u 0 < -u = ful.
+Hence in-both cases - Jul S u < Jul so that (4) is estal5lished.Sec. 2 Linear Coordinate System 5
+It should be seen that a point x1 precedes a point x2 if and only if the
+numbers x1 and x2 are such that x1 < x2. Also, with x1 and x2 numbers such
+that x1 < x2, the distance between the point x1 and the point x2 is (x2 - x1)
+units; that is:
+To find the distance between two points on the line subtract the lesser
+coordinate from the greater coordinate.
+For example, the distance between the point 2 and the point -3 is 2 - (-3)
+= 5 units.
+Since x2 - x1 = -(x1 - x2) it follows that:
+The distance between a point x1 and a point x2 is jx2 - x1j units.
+Example. With a and b numbers such that a < b, find the coordinate of the
+point which is two-fifths of the way from the point a to the point b.
+Solution. The length of the interval with end points a and b is b - a units. Thus,
+from point a proceed toward b the distance 5(b - a) units and reach the point whose
+coordinate is
+2 3a + 2b
+5
+As a different problem notice that the point two-fifths of the way from point b
+to point a has coordinate
+b-5(b-a)= 2a + 3b
+5
+PROBLEMS
+1. Solve each of the inequalities:a.2x-I<0. 2-x x+l c. 3 +3<0. e. 4
+b.4- 32 x>-0. d.x4+ 3 -x 6 >0. f. 0.3x < 0.8.
+2. What conditions must x satisfy if:
+a. x2+x-12=0? C. x2+x-12<0? e. 12 +5x-2x2>0?
+b. x2+x-12>0? d. 2x2-5x-12>0? f. x2-4>-0?
+3. Solve the inequalities:
+2x+1 2x+1 1
+a. x-3 >0. c. x+4 <0. e. x+1 >0.
+2x+1 1 1
+b. x-3 <_0. d.z+1>_0. f.-<1.6 Rectangular Coordinates
+4. Find conditions x must satisfy whenever:
+a. Ix - 101 <1. c. j2x-31 < 1.
+b. Ix + 101 <0.5. d. 12x + 51 <0.4.
+5. Prove each of the following
+a. If x1 < x2 then x1 <
+xl x2
+< x2 and xi < 2x13 x2 < X2-
+2
+C. JXl -- X21
+(0 if x < 0.
+- (xl - x2 if x1 ? x2
+X2 - x1 if X1 < X2.
+a+b+ja-bi
+d. 2 = the larger of a and b.
+Chap. 1
+6. Find the coordinate of the point which is:
+a. Two-thirds of the way from point -1 to point 5.
+b. Two-thirds of the way from point 5 to point -1.
+c. Such that the point 5 is two-thirds of the way from the point -1 to this point.
+d. Such that the point -1 is two-thirds of the way from the point 5 to this point.
+e. Twenty four-twenty fifths of the way from the point 1492 to the point 1965.
+7. In each of the following, solve the equation, check the answers, and give an
+interpretation.
+a. Ix+11 =2Ix-5I. c. 412-xj =5Ix+31.
+b. 31x + 11 = 21x - 51. d. 91x - a! = lOIx - bl.
+3. Intervals, Half-lines, and Linear Motion
+Let a and b be numbers such that a < b and consider the point a and
+the-point b.
+The sett of all points actually between point a and point b is called the
+a, b open interval with end points a and b. This open
+closed interval is represented by I(a,b). Thus, a point x lies
+a b on I(a,b) if and only if the number x is such that
+open a < x < b.
+Figure 3.1 The set of all points whose coordinates satisfy
+a < x is called the open half-line with lower end
+point a and is represented by I(a, oo). The open half-line with upper end
+point b is represented by I(- oo,b) and is the collection of all points- whose
+coordinates satisfy x < b.
+If a < b, notice that the set common to both I(a, oo) and I(- oo,b) is
+t The word "collection" may be used instead of "set."Sec. 3 Intervals, Half-lines, and Linear Motion 7
+I(a,b), since a point x* belongs to both of these half-lines if and only if
+a<x<b.
+The set of all points x such that a < x < b is said to be a closed interval
+and is represented by I[a, b]. Thus a closed interval includes both of its end
+points and all points between them.
+An interval I[a, b) which includes its lower end point, but not its upper
+end point, is said to be closed on the left and open on
+the right. In a similar way an interval I(a, b], open on
+the left and closed on the right, is defined. a b
+The intervals I(a,b), I[a,b], I[a,b), and I(a,b] all have Figure 3.2
+the same end points and thus the same length; namely,
+b - a units. For each of these intervals the mid-point has coordinate
+(1)
+a + b
+2
+For the distance between the mid-point and either end of any of these intervals
+is (b - a)12 units, and thus the coordinate of the mid-point may be obtained
+either as
+a-l 1(b-a)=a+b or as b-1(b-a)=a+b.
+2 2 2 2
+Many problems are concerned with, or may be interpreted as, the motion
+of a particle on a line. Say, for example, that a particle moves on a line
+according to the law
+(2) s= t2-5t+3, 0 <t 510.
+This means that some instant (probably the beginning of an experiment)
+has been selected as zero time, and for the next 10 units of time (seconds,
+minutes, months) a particle moves on the line in such a way that t time units
+after zero time, the position of the particle on the line is obtained by squaring
+t, subtracting 5 times t, and adding '3. Presumably, the experiment stops
+when t = 10 or some other law applies from then on. Thus
+s=02-5(0)+3=3 when t=0,
+s=12-5(1)+3=-1 when t=1,
+s=22-5(2)+3=-3 when t=2,
+s=32-5(3)+3=-3 when t=3,
+s=42-5(4)-3=-1 when t=4,
+etc., up to s = 102 - 5(10) + 3 = 53 when t = 10.
+One way of visualizing the motion of the particle is to mark its position on
+the coordinate system at several different times, as in Fig. 3.3. This motion
+is illustrated more realistically by Fig. 3.4. The location of the exact place8 Rectangular Coordinates Chap. 1
+at which the particle changes direction and the determination of the velocity
+of the particle at any designated times are problems of calculus that are
+t=2 t=1 t=0
+and and and
+t=3 t=4 t=5 t=6
+F M I- I---.-I- I I I I I I I--I-
+-4 -3 -2 -1 0 1 2 3 4 5 6 7 8 9
+Figure 3.3
+t-2 t-1 t-0
+I E I 4 I
+i I I- -I I- I- F I I I- +- I- I
+-4 -3 -2 -1 0 1 2 3 4 5 6 7 8 9
+Figure 3.4
+considered later. Assuming that a particle is moving on a line according to
+a law which gives the coordinate s of the particle at each time t in a certain
+range, we give the following definition.
+DEFINITION. The average velocity of the particle from time t1 to time t2 is
+defined to be
+(s at t2) - (s at t1) (linear units)l(time unit).
+t2 - t1
+For the particle moving according to the law (2),
+when t1 = 1, then s = 12 - 5(1) + 3 -1,
+when t2 = 1.1, then s = (1.1)2 - 5(1.1) + 3 = -1.29
+and then during the time interval from t1 = 1 to t2 = 1.1 the average velocity
+is
+-1.29 - (-1) = -0.29 =-
+1.1 - 1 0.1
+2.9 (linear units)/(time unit).
+The minus sign in -2.9 means that at time t2 = 1.1 the position of the
+particle precedes its position at time t1 = 1.
+PROBLEMS
+1. Find the coordinates of the points which divide the given interval into n subintervals
+of equal length.
+a. I(-1,5), n = 6. c. 1(-3,12), n = 10. e. I(-12,-3), n = 100.
+b. 1(-2,10), n = 6. d. I(3,12), n = 10. f. I(a,b) with a < b, n = 100.Sec. 3 Problems 9
+2. Given that a particle moves on a line according to the law
+s=3+6t-t2, 0<t<10.
+a. Locate the particle when t = 0, t = 2, t = 4, and t = 7.
+b. At what times will the coordinate of the particle be 3 ?
+c. At what times will the coordinate of the particle be -3?
+d. Does the particle ever have coordinate 13 ?
+e. During what time intervals is the particle on I[3,11]?
+f. Represent the motion of the particle by a diagram.
+g. Find the average velocity of the particle in the time intervals between tl = 5
+and t2 = 5.1; between tl = 5 and t2 = 4.9; between tl = 5 and t2 = 5 + h
+where h = 0.
+3. A ball is thrown into the air and t seconds later it is
+s = 6 + 65t - l6t2 ft
+in the air; the law holding until the ball returns to earth.
+a. Find the height of the ball when t = 0, 1, 2, 3, and 4 sec.
+b. Find the average velocity of the ball during the time interval between
+tl = 2 sec and t2 = 2.1 see; between tl = 2 sec and t2 = 1.9 sec; between
+tl = 3 sec and t2 = 3.01 sec; between tl sec and (t1 + h) sec.
+4. Find the average velocity during the time interval from tl to tl + h for each of
+the following laws of motion:
+a.s=2t3-4t+5. C. s= V3t+4. e.s=5/t2,t>0.
+b. s=t+t,t>0. d. s=3t-1/t2+1. f. s=10/Vt2+1.
+4. Sets of Numbers and Sets of Points
+A set A and a set B are said to be equal, and A = B is written, if each
+element of A is also an element of B and each element of B is also an element
+of A; that is, if and only if A and B are merely different names for the same
+set. A B means there is at least one element in one of the sets which is
+not in the other.
+It has become quite standard to use
+(1) {x I statement about x}
+to mean, "The set of all entities which when substituted for x makes the
+statement true." Also (1) is read, "The set of all x for which the statement
+about x is true." Thus, the set R defined by
+(2) R = {x I x is a rational number}
+is "The set of all rational numbers" and hence R contains all those numbers
+and only those numbers which can be written as the ratio of two integers.10 Rectangular Coordinates Chap. 1
+The set
+(3) S = {x I x < 0, or else both x > 0 and x2 < 2}
+consists of all negative numbers and zero together with all those positive
+numbers whose squares are less than 2. For example, -1, -2.5, -200 are
+in S and also 1, 1.4, 1.41, and 1.414 are in S.
+Notice that the sets
+(4) T={xl-1<x<3} and T'={xI-1<xS3}
+both have a smallest number, T has no largest number, but 3 is the largest
+number in V.
+A set A of numbers is said to be bounded above if there is a number b
+such that whenever x is in A, then x < b. Such a number b is said to be an
+upper bound of A. Hence, if b is an upper bound of A, then any number
+greater than b is also an upper bound of A. Similar definitions may be made
+for bounded below and lower bound.
+Considering the sets R, S, T, and T' defined above; R is neither bounded
+above nor bounded below; S is bounded above, for example, by 2 and also
+by 1.415; T and T' are both bounded above and 3 is the smallest upper
+bound of both T and V.
+A statement about x need not be true of any number x. For example,
+"x < 1 and x > 2" does not hold for any number x. Thus,
+E = {xIx<1andx>2}
+is the empty set. The phrase "C is a non-empty set of numbers" means that
+the statement which defines C is true for at least one number.
+In addition to the usual properties of numbers (which are either stated as
+axioms or taken as intuitive), we state the following axiom.
+1L AXIOM. If A is a set of numbers which is non-empty and bounded above and if
+B = {x I x is an upper bound of A},
+then in B there is a smallest number; that is, every non-empty set of numbers
+which is bounded above has a smallest upper bound. Also, every non-empty set
+of numbers which is bounded below has a greatest lower bound.
+Knowing that 1/2 means the positive number whose square is 2, we see
+that is not in the set S defined in (3), but that 1/2 is the least upper bound
+of this set S.
+Any set A of numbers may be visualized as a set of points on a line by
+putting a point in the point set if and only if the coordinate of the point is a
+number in A.Sec. 4 Sets of Numbers and Sets of Points 11
+Given two sets A and B, then the union of these sets is defined to be the
+set consisting of all those elements which belong either to A or to B or to
+both. The union of sets A and B is denoted by
+(5) A U B.
+For example, if A is the set of points on the closed interval joining -1
+to 1, and if B is the set of points of the closed interval from 0 to 2; that is, if
+(6) A = I[-1,1] and B = I[0,2],
+then the union A U B is the set of points of the closed interval from -1 to 2:
+A U B = I[-1,2].
+The intersection of two sets A and B is defined to be the set consisting of
+all elements which belong both to A and to B. The intersection of sets
+A and B is denoted by.
+(7) A n B.
+Thus, for the particular sets A and B given in (6),
+A n B = I[0,1],
+since a number x belongs to both of these sets if and only if x satisfies
+OSxSl.
+Notice that an element belongs to A U B if and only if this element
+belongs to A or to B, or to both, but belongs to A r) B if and only if it belongs
+to A and to B. Thus, in the definition of union the key word is "or," but for
+the intersection the key word is "and."
+If two sets A and B have no common elements at all, then a convenient
+descriptive expression is, "The intersection of these sets is empty."
+Thus, givenA={xl-1 <x<l}and B={xl2<x<3},then
+A 0 B is empty.
+As another example, I[-l,l) r) I[1,3] is also empty.
+PROBLEMS
+1. For each of the following sets, tell whether the set is bounded above, and if it is
+bounded above, find its least upper bound; also, tell whether it is bounded
+below, and if it is, find its greatest lower bound.
+a. {x I x2 < 9). f. {x I 'fix > 3}.
+b. {x I x2 < 41. g. {x I 31.
+c. {x x3 < 27). h. {x x = sin a for some angle a}.
+d. {x v'x < 2}. i. {x x = sect a for some angle a}.
+e. {x x < 2}. j. {x x = log t for some number t > 0).12 Rectangular Coordinates Chap. 1
+2. For each of the following pairs of sets A and B, find the union A u B and the
+intersection A n B.
+a. A = {x -3 < x < 4}, B = {x 12 < x < 10}.
+b. A={x -3 <x <4}, B={xIx>2}.
+c.A={x -2<x<-3},
+d. A = {x 4< x2}, B= {x l x< 1}.
+e. A = {x x3 < 27}, B = {x I x2 < 25).
+3. Find:
+a. {xIx2 <9}n{xI -1 <x <4}.
+b. {x x3 >- 27} n {x -1 < x < 4}.
+c. {x I 'vx < 1.4} u I[-2,1].
+d. {x V x % 1.4} u I[ -2,2].
+e. {xix3 <8}n{xI x2 4}.
+f. (x x3 > 8} n {x I x2 < 4}.
+g. {x /x > j;} n {x I 'fix <}.
+h. {x ''/x > 2) n {x I '"x < 21.
+i. sint for some number t}U{xI -2 <x <1}.
+j. {x I x = 2 sin c for some angle a} u {x I -3 < x < 1}.
+k. {x I x = sin (2o) for some angle a) u {x -2 < x < 1}.
+5. Plane Rectangular Coordinates
+In a plane draw two perpendicular lines. On each of these lines take a
+linear coordinate system with the point of intersection as the origin of each
+system. With x a number, the point on one of
+these lines that would be called "the point x"
+if only one line were involved will now be called
+N a "the point (x,0)." This line is called the axis of
+4031 o abscissas and is usually represented as horizontal
+with the point (1,0) to the right of the origin
+(0,0) . The other line is called the axis of -A -
+(0,1) "w
+of abscissas ates, and there is an analogous correspondence
+(1,0) x-axis between points of this line and pairs of numbers
+(O,y), the first of which is 0.
+Figure 5.1 A pair of numbers with one of them selected
+as the first is called an ordered pair of numbers.
+The ordered pair of numbers "x first and y second" is denoted by (x,y). For
+example, the pair of numbers 2 and 3 may be used in either the ordered pair
+(2,3) or the different ordered pair (3,2).Sec. 5 Plane Rectangular Coordinates 13
+A one-to-one correspondence between points of the plane and ordered
+pairs of numbers is established by using (x,y) to label a point if and only if
+the projections of this point on the axis of
+abscissas and the axis of ordinates are the
+points (x,0) and (O,y), respectively. With x and (x b) _____ (0,1,)
+y numbers, the point labeled by the ordered (0,1)
+pair (x,y) is said to have abscissa x, ordinate y;
+and together, x and y in this order are called
+the coordinates of the point. (x,0) (0,0) (1,0)
+The point (x,y) illustrated in Fig. 5.2 has Figure 5.2
+abscissa negative, since the point (x,0) precedes
+the origin on the axis of abscissas. The ordinate of this point is positive.
+Example. Find the coordinates of the point which is two-thirds of the way from
+the point (5,1) to the point (-2,9).
+2,9) S l i Th t o ut on. e line segmen joining the points (5,1)
+and (-2,9) projected into the axis of abscissas is the
+interval joining the points (5,0) and (-2,0). By similar
+triangles (see Fig. 5.3) the desired point has the same
+abscissa as the point two-thirds of the way from the
+point (5,0) to the point (-2,0), and this abscissa is
+i-- +----- (5,1) 2( - 15 - 14 - 1 , 5 -3 5 - (-2))
+_90) (5.0) 3 3
+In a similar way, the points (5,1) and (-2,9) project onto
+the points (0,1) and (0,9) of the axis of ordinates and, for
+each of these pairs of points, the point two-thirds of the way from the former to
+the latter has ordinate
+I+3(9-1) 31.
+Thus, the desired point is (J,-131 II (0,1) I
+In Fig. 5.4 the regions marked I, IT, III, and TV
+are called the first, second, third, and fourth quad- (1,0)
+rants, respectively. To be more specific, the first
+quadrant is {(x,y) I x > 0 and y > 0) with similar iii Iv
+definitions, using actual inequalities, for the other
+three quadrants. Figure 5.4
+The axis of abscissas is also referred to as
+"the x-axis" and the axis of ordinates as "the y-axis."
+THEOREM 5. The line segment having end points (x1,y1) and (x2,y2) has
+mid point
+(x1--'x2 Y1±Y2
+2 ' 214 Rectangular Coordinates Chap. 1
+PROOF. The points (x1,0) and (x2,0) are the projections of the points
+(x1,y1) and (x2,y2) into the axis of abscissas. The point midway between
+these projections has (see (1) of Sec. 3) abscissa
+x1 ± x2
+2
+which is therefore the abscissa of the point midway between points (x1,y1)
+and (x2,y2). By projecting into the axis of ordinates the desired mid-point
+is seen to have ordinate
+Y1 + Y2
+2
+6. Slope and Equations of a Line
+A line segment which is not parallel to the y-axis and has end points
+(x1,y1) and (x2,y2) is said to have
+slope m where
+(1)
+or equivalently
+m = Y2 - Yl
+'x2 - X1
+m=Y1-Y2
+x1 - x2
+Notice that the difference of the
+ordinates is divided by the difference
+in the same order of the abscissas.
+Since the line segment is not parallel
+to the y-axis, the abscissas xl and
+x2 are not equal, so the denominator
+in (1) is not zero.
+Two line segments, neither parallel to the y-axis, which have at least one
+point in common, are on the same line if and only if both segments have the
+same slope. As an illustration, in Fig. 6
+Y2-Y1-Y1-Y2- 8-3 _ 3-8 -5
+x2-x1 x1-x2 -1-2 2-(-1) 3
+Thus, if any one segment on a line has slope m, then all segments of this line
+have the same slope m.
+A line not parallel to the y-axis is said to have slope m where m is the slope
+of any line segment of the line. For lines parallel to the y-axis, the notion of
+slope is not defined.Sec. 6 Slope and Equations of a Line 15
+THEOREM 6.1. Let points (x1,y1) and (x2,y2) be given with xl x2. Then
+a point (x,y) is on the line through these points if and only if
+(2) y yl = Y2 -Y i x2 - xl (x - x1)
+PROOF. Since xl 0 x2 the line is not parallel to the y-axis and has slope
+(Y2 - Y1)/(x2 - x1). In case x = x1 the point (x,y) is on the line if and only if
+y = yl and (2) also holds; both sides being zero. In case x x1, the point
+(x,y) is on the line if and only if the slope of the line segment with end points
+(x,y) and (xl,yl) is the same as the slope of the line segment with end points
+(xl,y1) and (x2,y2); that is, if and only if
+Y-Yi_-Y2-Yl
+x - x1 x2 - x1
+and this equation is equivalent to (2) if x x1.
+COROLLARY 1. With xl, yl, and m given numbers, a point (x,y) lies on the
+line through the point (xl,yl) with slope m if and only if
+(3) y - Yl = m(x - x1).
+For with (x2,y2) a point on the line other than the point (x1,y1), then
+x2 x1, m = (y2 - yl)/(x2 - x1), and (3) follows from (2).
+COROLLARY 2. With b and m given numbers, a point (x,y) lies on the line
+through the point (O,b) with slope m if and only if
+(4) y = mx + b.
+For in (3) set x1 = 0 and yl = b to obtain y - b = mx which is equivalent
+to (4).
+Let a line and an equation involving x and y be given. The equation is
+said to be an equation of the line if each point (x,y) whose coordinates satisfy
+the equation lies on the line and the coordinates of each point on the line
+satisfy the equation.
+It is usual to refer to (2) as a two-point equation of a line, to (3) as a
+point-slope equation of a line, and to (4) as the slope-y-intercept equation
+of a line.
+(5)
+THEOREM 6.2. If A, B, and C are numbers with A and B not both zero, then
+Ax + By + C = 0
+is an equation of a line. Also, any line has an equation in the form (5).
+PROOF. First let A, B, and C be given numbers with A and B not both
+zero. In case B = 0, then A 0 and numbers x and y satisfy (5) if and only if16 Rectangular Coordinates Chap. 1
+x = -CIA; that is, if and only if the point (x,y) lies on the line perpendicular
+to the x-axis at the point (-C/A,0). In case B 0 0, then numbers x
+and y satisfy (5) if and only if
+Y=--A x --C
+B
+that is (compare this equation with (4)), if and only if the point (x,y) is on
+the line through the point (0,-C/B) with slope m = -A/B.
+Next, consider any line in the plane. In case the line is parallel to the
+y-axis, it cuts the x-axis at a point (a,0) and a point (x,y) lies on the line if
+and only if x = a, which may be written
+and this is in the form (5) with A = 1, B = 0, and C = -a. In case the line
+is not parallel to the y-axis, it has a slope m and cuts the y-axis at a point
+(0,b). In this case a point (x,y) lies on the line if and only if y = mx + b, and
+this equation may be written as
+which is in the form (5) with A = m, B = -1, and C = b.
+Equation (5) is called a general equation of a line.
+It should be seen that:
+Two lines neither of which is parallel to the y-axis are parallel to each
+other if and only if they have the same slope.
+Example. Find a general equation of the line which passes through the point
+(-1,5) and is parallel to the line having equation 6x + 8y - 7 = 0.
+Solution. The given equation is equivalent to
+y = -fix +i,
+showing (from (4)) that the second line has slope m = -1. Hence, the parallel line
+through the point (-1,5) also has slope m = - and (from (3)) has
+y - 5 = -*(x+1)
+as an equation. This equation is equivalent to
+.3x + 4y - 17 = 0;
+an equation of the line in general form with A = 3, B = 4, and C = -17.Sec. 6 Slope and Equations of a Line 17
+PROBLEMS
+1. On a plane rectangular coordinate system locate:
+a. The points (-1,0), (0,-1), (3,-2), (3,2), and (J,1).
+b. The point with abscissa -4 and ordinate j.
+c. The point with abscissa -2 and ordinate the square of the abscissa.
+d. The point with ordinate 3 and abscissa minus the ordinate.
+e. The points each with abscissa -5.
+f. The points each with ordinate half of the abscissa.
+2. In the fourth quadrant select a point and label it (x,y), thus determining a
+number x and number y.
+a. Is x positive or negative? Is y positive or negative?
+b. With x and y determined above, locate the points
+(-x,y), (x, -y), (y,x), and (-y,x).
+3. Find the ordered pair representing the point midway between the points:
+a. (-3,2), (5,2). c. (10,5), (-10,8).
+b. (-3,2), (5,1). d. (1492,0), (1962,0).
+4. Find the coordinates of the point which is:
+a. Two-thirds of the way from the point (-3,2) to the point (9,8).
+b. Two-thirds of the way from the point (9,8) to the point (-3,2).
+c. Seven-tenths of the way from the point (4,5) to the point (-6,10).
+d. Reached by going from the point (2,-4) to the point (-3,5) and then
+proceeding an equal distance along the line joining these points.
+5. Find an equation of the line which passes through the points:
+a. (-5,1) and (2,3). d. (-1,2) and (1, -2).
+b. (-5,1) and (-5,27). e. (3,5) and (3.01,4.98).
+c. (-5,1) and (2,1). f. (-4,2) and (-3.996,2.004).
+6. Find a general equation of the line which:
+a. Passes through the point (-1,4) with slope -2.
+b. Has no slope and passes through the point (-5,4).
+c. Has slope zero and passes through the point (-5,4).
+d. Passes through the point (2, -3) and is parallel to the line having 2x + y = 6
+as an equation.
+7. Let a and b be numbers neither of which is zero. Show that a line passes through
+the points (a,0) and (0,b) if and only if an equation of the line is
+a+6=1.
+8. a. Show that x3 - x2y + 4x2 + 2x - 2y + 8 = 0 is an equation of a line.
+b. Do the same for -y3 + 2(x + 2)y2 + 6x - 3y + 12 = 0.
+9. Find the slope and y-intercept of the line whose equation is:
+a. 2x-4y+10=0. c. x=3y+5.
+b. 2(x - 1) = 3(y + 2). d. x sin 30° + y cos 30° = 5.18 Rectangular Coordinates
+7. Sets and Ordered Pairs
+Chap. 1
+A set is said to be well defined whenever there is a criterion which determines
+whether a given entity does or does not belong to the set. Thus, the
+set of all ordered pairs of numbers such that each pair has its second number
+the square of its first number is a well-defined set. For example (2,4) is an
+element of this set, as is (-2,4); but (3,8) is not an element of this set. We
+shall use
+(1) {(x>Y) I Y = x2}
+to describe this particular set of ordered pairs.
+This is an illustration of the standard
+notation
+{(x,y) I statement about x and y}
+to mean, "The set of all (x,y) for which
+the statement about x and y is true." By
+the graph of a set A of ordered pairs of
+numbers is meant the set of all those
+points of the plane each of whose points
+is represented by an ordered pair in A.
+Thus, the set described by (1) has the
+(l,o) f
+Figure 7.1
+curve of rig. 7.1 as its graph. A set o
+ordered pairs of numbers and its graph
+may be thought of interchangeably. Thus,
+we may speak of "The line {(x,y) 12y = x}" meaning, of course, "The
+line consisting of the set of all points each with abscissa twice its ordinate."
+Also,
+{(x,y) 12y > x}
+is the half-plane consisting of the set of all points (see Fig. 7.2) on and above
+A
+Figure 7.2 Figure 7.3
+the line {(x,y) 12y = x}. The line segment {(x,y) 12y = x and IxI < 2} joins
+the points (-2,-1) and (2,1) as shown in Fig. 7.3.Sec. 7 Sets and Ordered Pairs 19
+The letters x and y have been used in describing sets of ordered pairs, but
+any two symbols whatever may be used. For example
+{(s,t) 12t = s} = {(x,y) 12y = x}
+since each gives the same criterion for testing whether any given ordered pair
+of numbers belongs to the set.
+Example. Show that {(x,y 10 <_ x < 2 and 0 < y < Jx} may also be expressed
+in the form {(x,y) 0 < y < I and 2y < x < 2}.
++(0,1)
+(2,1)
+(2,Y)
+Figure 7.4
+Solution. Considering the first expression, let x be a specific number such that
+0 < x < 2, and at the point (x,0) erect a vertical line segment of length x/2. The
+totality of all points on such segments is the interior and edges of the triangle with
+vertices (0,0), (2,0), and (2,1).
+Considering the second set, let y be a specific number such that 0 < y < 1, note
+the points (2y,y) and (2,y), and join these points by a line segment. The totality of
+points on such segments is the same triangle and its interior as before. Thus, the
+two expressions describe the same set of ordered pairs.
+8. Functions
+Given a point on the curve of Fig. 8.1, there may be a different point with
+the same abscissa; in particular, there are three points with abscissa zero.
+On the other hand, Fig. 8.2 indicates a set of points such that whatever point
+Figure 8.1 Figure 8.2
+is taken in the set, then no other point in the set has the same abscissa; that is,
+in the corresponding set of ordered pairs of numbers no two ordered pairs
+have the same first number.20 Rectangular Coordinates Chap. 1
+DEFINITION. A set of ordered pairs is said to be a function if no two
+distinct ordered pairs in the set have the some first element. The set of first
+elements of a function is called the domain (of definition) of the function, and
+the set. of second elements is called the range of the function.
+A letter or symbol may be used in referring to a function. Thus, upon
+using f for a function, then f is a set of ordered pairs such that: "If (a,b) and
+(a,c) are in the set, then b = c." Also, for f a function and x in the domain
+off, then the ordered pair in f with first element x is denoted by (x,f (x)) and
+f (x) is read fat x."
+A specific example of a function is the set of ordered pairs
+(-1,2), (0,3), (1,3), and (2,4).
+The domain of this function consists of the set of numbers -1, 0, 1, 2, whereas
+the set of numbers 2, 3, 4 constitutes the range. Upon denoting this set of
+ordered pairs by g, then
+g(-1) = 2, g(0) = 3, g(1) = 3, and g(2) = 4,
+but g(3), for example, is not defined, nor is g(1.5).
+The set (-1,2), (-1,3), (0,3), (1,4) of ordered pairs is not a function,
+since two of these have the same first element, namely - 1.
+Another example of a function is
+f = {(s,t) jt = 3s2 - 4}.
+This function has domain the set of all numbers and given any number x,
+then (x,3x2 - 4) is an ordered pair in f and
+f (x) = 3x2 - 4.
+Thus, for this function f(2) = 8,f(2.1) = 9.23, and
+f(2.1)-f(2)=9.23-8=12.3.
+2.1 - 2 0.1
+Hence, the points (2,8) and (2.1,9.23) are in the graph off, and the line joining
+these points has slope 12.3. Also, for x a number and h 0, the points
+(x,3x2 - 4) and (x + h,3(x + h)2 - 4) are on the graph of f and the line
+joining these points has slope m where
+m-[3(x+h)2-4]-[3x2-4]=6xh+3h2=6x-{-3h.
+(x+h)-x h
+Given a function (and its domain), a symbol used to represent an arbitary
+element of the domain is called the independent variable, and a symbol usedSec. 8 Functions 21
+to represent an arbitrary element in the range is called the dependent variable.
+Thus, for a function f established by telling what its domain is and a rule for
+finding f (x) whenever x is in that domain, it is customary to set
+Y =AX)
+and to call x the independent variable and y the dependent variable.
+Moreover, a symbol used to represent an arbitrary element of a set (even
+though no function is mentioned) is called a variable. A symbol which is to
+be assigned one and only one value throughout a discussion is called a
+constant. Upon seeing
+ax+by=c,
+x and y are considered to be variables and a, b, and c constants.
+9. Some Special Functions
+For later use we review some common functions.
+A. ABSOLUTE-VALUE FUNCTION. The set of ordered
+pairs
+{(x,Y) I Y = Ix1}
+is a function whose domain consists of all numbers, Z but whose range is the set of non-negative numbers.
+The graph of this function is the two half-lines shown Figure 9.1
+in Fig. 9.1.
+450
+The absolute-value function may be used in the
+definition of other functions. For example, let
+.f = {(x,y) I y =
+x
++ 1"I}.
+2
+Figure 9.2 The graph of this function f is the negative x-axis together
+with the "450 half-line" shown in Fig. 9.2.
+B. SQUARE-ROOT FUNCTION. For x a non-negative number, means the
+non-negative number whose square is x. Thus, ''4 = 2 and not -2. Hence,
+{(x,y) I x > 0 and y =1/x}
+is a function whose domain and range both consist
+of the non-negative numbers. Fig. 9.3 indicates the I/ Half of v2=x
+graph of this function.
+It may seem unnatural, but we emphasize that
+1/x2 x if x < 0, Figure 9.3
+since for x < 0, then 1/x2 is positive but x is negative; so \/x2 and x cannot22 Rectangular Coordinates
+be equal if x < 0. It does, however, follow that
+A/ x2 = I XI
+whether x is positive, negative, or zero.
+Chap. 1
+Notice that if Ixl < lyl, then Ixl Ixl < lxi lyl <_ lyl lyl and x2 < y2. If,
+however, Ixl > lyl, then lxl > 0, lyl >- 0 and lxl lxi > lxl Iyi ? Iyl lyl so that
+x2 > y2. Thus :
+if x2 < y2, then Ixi <- lyi.
+This fact will be used in establishing the inequality
+(1) la+bl <lal+Ibl
+for a and b any numbers whatever. To see this, note that ab < Jai Ibi.
+2ab S 21al lbl and, by adding a2 + b2 to both sides
+a2 + 2ab + b2 < Ia12 + 21al Ibl + lb12,
+(a + b)2 < (Jai + Ibl)2 and hence
+Ia + bl < I lal + Ibl I as noted above.
+Since I lal + lbl = lal + Ibl the inequality (1) is seen to hold.
+C. GREATEST-INTEGER FUNCTION. For x a number, the notation [x] is
+sometimes used to mean the greatest integer less than or equal to x, or briefly
+the greatest integer in x. For example,
+[2.5]=2,[-2.5]=-3,[rr]=3,[-ir]=-4,-[rr]=-3.
+Also,
+(2,2)t- if 2 < x < 3, then [x] = 2;
+'
+0) -+ if 1 < x < 2, then [x] = 1; , if 0 < x < 1, then [x] = 0;
+if -1 S x < 0, then [x] = -1.
+(-2,,-2) Thus, the se t
+Figure 9.4 1(x,y) I y = [x]}
+is a function whose domain consists of all numbers but whose range consists
+of all integers. The graph of this function (see Fig. 9.4) is a "stair-step" of
+unit intervals which are closed on the left and open on the right. Notice,
+for example, that [2] = 2 whereas 999 and if e is oy positive
+number (no matter how small), then _and.{2 - e] differ by at least 1.Sec. 9 Some Special Functions 23
+The set {(x,y) I y = x - [x]} is a function whose range is {y I 0 < y < 1}.
+In particular among all the values of this function there is no largest value.
+See Fig. 9.5.
+Figure 9.5
+D. SINE AND COSINE FUNCTIONS. For x a number, then sin x means "The
+sine of an angle of x radians." (See page 578.) Thus,
+S = {(x,y) I y = sin x}
+is a function whose domain consists of all numbers and whose range is given
+as {y I -1 < y < 1). This function is "the sine function." The cosine
+function :
+C = {(x,y) I y = cos x}
+Figure 9.6
+has the same domain and range as the sine function. The graphs of the sine
+and cosine functions are indicated in Fig. 9.6.
+As in trigonometry, for A and B numbers, then (see page 575)
+sin (A + B) = sin A cos B + cos A sin B,
+sin (A - B) - sin A cos B - cos A sin B,
+and sin (A + B) - sin (A - B) - 2 cos A sin B.
+Hence, with b, x, and h any numbers whatever, then upon setting
+b(x+h)=A+B
+and bx = A - B24 Rectangular Coordinates Chap. 1
+it follows that A = bx + jbh and B = Lbh. Upon substituting these relations
+for A + B, A - B, A, and B above, the result is
+(2) sin b(x + h) - sin bx = 2 cos (bx + ibh) sin 1bh
+which is an identity that will be used later.
+E. ANOTHER SINE RELATION. Let f be the function defined by
+f= ((x,y) I x 0 0 and y= sin2 1
+x)
+This function has {x I x 0) for domain and {y 10 5 y < 1} for range.
+Since sin A = 0 if and only if A = mr
+ko'ln-- for some integer n, it follows for x 0 that
+11 sin21= 0
+x
+if and only if x= 1,n 0
+I _L1 _L I
+2,r 2 a
+ysine s 2 2
+5a 37r
+Figure 9.7
+sin2 1 = 1
+x
+Since sin A = 1 or sin A = -1 if and
+only if A = (2n + 1)2 for some integer
+n, it follows for x 0 0 that
+if and only if x = 2
+(2n + 1)7r
+Hence, above any interval of the x-axis, which includes the origin, the graph
+of f (indicated in Fig. 9.7) oscillates infinitely many times.
+PROBLEMS
+1. Sketch each of the following sets:
+a. {(x,y) y = Ix + 21}. e. {(x,y) I Ixl + lyl = 1).
+b. {(x,y) I x = lyl}. f. {(x,y) I IxI - IYI = 1}.
+c. {(x,y) I Y + Ixl = 1). g. {(x,y) I ly - xl = 1).
+d. {(x,y) I IYI - x = 1}, h. {(x,y) I ly - xl = 0}.
+2. Which of the sets in Prob. I are functions? In each case where the set is a function,
+give the domain and range.Sec. 9 Some Special Functions 25
+3. In Prob. 1 replace absolute value notation by the greatest integer notation [ l
+and sketch the resulting sets.
+4. Let f = (xq) I y = x - x. Find:
+a. f(J),f(a),f(-J),f(-2). d. {f(1) +f(2) +f(2) +f(2)}J.
+b. f(2 + 2) - f(2). e. f f(12) + f(2) + f(2) + f(3)}2.
+f(3.1) - f(3) f(3 + h) -f(3) f h 0 0 C. 3.1 -3 (3 +h) -3 or .
+5. Let x and h be any numbers with h # 0. For each of the following definitions
+of a function f, obtain.the given expression for the slope m of the line joining the
+points (x, f (x)) and (x + h, f (x + h)).
+a. f ={{(t,s)Is = 3t2 - 4t +5}; m = 6x + 3h - 4.
+b. m=x(x+h)' for x+h 0,x 0.
+l 11111
+C. m= 1 ,x>0,x+h>0. Vx -+h + -,/x
+sink
+d. f = {(t,s) I s = sin t}; m = cos (x + 2h)h .
+6. Relying mainly on la f bI -< Ial + lbl, then for c and d such that:
+a. Ic-2I <2 and ld-2I <J, show that Ic - d( <2.
+Hint: Ic-dl=l(c-2)-(d-2)I <Ic-2I+Id-2I.
+b. Ic + 21 < ?} and ld + 2I <J, show that I c - dl <
+c. Ic -dl <J and Ic+21 <2, show that Id+21 <
+d. Icl < J and Idl < }, show that Ic + dl < e and Ic - dl <
+e. Ic -21 <J, show that 2 < c < 2. [Recall: -Jul <- u < Jul]
+f. Ic - dl < 2, show that d - J < c < d + J.
+7. Let f and g be functions such that:
+if 0 < Ix - 21 < 0.1, then I f(x) - 31 < 0.25 and
+if 0 < Ix - 21 < 0.3, then Ig(x) - 41 < 0.2.
+Show that if 0 < Ix - 21 < 0.1, then
+a. I f (x) + g(x) - 71 < 0.45. b. I f (x)g(x) - 121 < 1.65.
+10. Distance Formula, Circles
+The distance between the origin (0,0) and the point (0,1) will now be
+taken the same as the distance between the origin (0,0) and the point (1,0) and26 Rectangular Coordinates Chap. 1
+will be called the unit distance, i.e., the same unit will be used on both axes.
+Figure 10.1
+The distance between the points (-2,1) and
+(4,9) is therefore 10 units. For (see Fig. 10.1)
+the segment joining these points is the hypotenuse
+of a right -triangle with sides 6 units
+and 8 units long and, by the Pythagorean
+Theorem, A/62 = 10 units is the length
+of the hypotenuse.
+With x, y, x1, and yl numbers, it follows
+that:
+The distance between the points (x,y) and
+(x1,y1) is
+(1) '/(x - x1)2 + (y - y1)2 units.
+For, as illustrated in Fig. 10.2, there is a right
+triangle with the segment joining the points (x,y) and (xl,yl) as hypotenuse
+and sides Ix - x11 units and Iy - ylI
+units long. Hence, this hypotenuse has
+length Ix - x112 + Iy - yll2 units.
+But Ix - x1j 2 = (x - x1)2 and Iv - V,12
+, (y - yl)2, and hence the distance iy
+yI
+il
+may be written as in (1). i
+Example. Show that the triangle with
+vertices (1,-2), (4,1), and (-1,3) is an
+isosceles triangle. Find the area of this
+triangle.
+Solution. The lengths of the sides of this triangle are
+V(1 - 4)2 + (-2 - 1)2 = X32 + 32 = 3V2 units,
+V'(l + 1)2 + (-2 - 3)2 = V'22 + 52 = x/29 units,
+V(4 + 1)2 + (1 - 3)2 = .x/52 + 22 = V29 units,
+and since two of these distances are equal, the triangle is isosceles with equal sides
+meeting at the point (-1,3). The altitude from this point to the side joining the
+points (1,-2) and (4,1) is perpendicular to that side at its mid-point
+(1 + 4 -2 + 11 = (5 ' _ 1)
+Thus the altitude h is
+2 2 J 2' 2
+h = v'(-1 - 2)2 + (3 + J)2 = /(2E)2 + (''2)2 = z V2 units.
+The base is, as computed above, 3 V'2 units long, so the area is
+J(3 V-2)(12 V2) = 21- units2.
+Figure 10.2Sec. 10 Distance Formula, Circles 27
+With h and k numbers and r a positive number, the set of points
+(2) {(x,y) I (x - h)2 + (y - k)2 = r2}
+is a circle with center the point (h,k) and radius r.
+For a point (x,y) is on the circle with center at the point (h,k) and radius r
+if and only if v'(x - h)2 + (y - k)2 = r and, thus, if and only if (x - h)2 +
+(y - k)2 = r2.
+Example. Show that
+{(x,y)12x2-8x+2y2+12y1}
+is a circle and find the center and radius of the circle.
+Solution. First write the equation in the form
+2(x2 - 4x ) + 2(y2 + 6y ) = 1
+where the space is left for "completing the square":
+2(x2 - 4x + 22) + 2()2 + 6y + 32) = I + 2.4 + 2-9 = 27,
+and this is equivalent to (x - 2)2 + (y + 3)2 = L. . Thus,
+{(x,y) 12x2 - 8x + 2y2 + 12y = 1) = {(x,y) I (x - 2)2 + (y + 3)2 = 2 }
+and from this second form, the set is a circle with center the point (2, -3) and radius
+-Vzunits.
+A set A is said to be a subset of a set B and the notation
+A c B
+is used if every element of A is also an element of B. For example,
+{xIIx-21<J}c {xI Ix-2I<1}.
+Example. Show that
+{(x,y) I Ix -11 < 1 and ly - 21 < J} - {(x,y) I x2 + y2 < 9}.
+Solution. The first set is all points inside
+the rectangle with corners (4,3)+ (a ,a)
+and (-J,.31), whereas the second set is the
+interior of the circle with center at the origin
+and radius 3. Geometrically, the point is
+farthest from the origin and its distance to the
+origin is j(4)2+ (3)2 16 + 99
+(49)(25) 35
+144 12 < 3'
+(3,0)
+so the whole rectangle lies inside the circle. Figure 10.328 Rectangular Coordinates
+Algebraically, for (x,y) in the first set
+- '- < x < 4 and 3 <y< 3
+so that 0 < x2 < 16 , e < y2 < 99 and hence
+a <x2+Y2<is +4s <9.
+PROBLEMS
+Chap. 1
+1. Find the distance between each of the following pairs of points:
+a. (6,3), (2,1). c. (-2,7), (3,-5).
+b. (-6,1), (2,5). d. (-2,-5), (-8,-3).
+2. Show that the three given points are vertices of a right triangle. Find the area
+of the triangle.
+a. (2,1), (4,2), (-1,7). c. (- 1, -2), (4,2), (6, -i).
+b. (2,1), (4,2), (2,6). d. (-0.5,3.5), (1,0.5), (2,1).
+3. Express in the form (2) the set which is the circle having:
+a. Center (-2,3) and radius 2.
+b. Center (-2,3) and passing through (1,-1).
+c. Center (12,-5) and passing through the origin.
+d. Radius h and center (h,k).
+e. Radius r, tangent to both axes, and center in the second quadrant.
+f. The points (-2,4) and (3,9) as end points of a diameter.
+4. Describe each of the sets:
+a. {(x,y) x2 - 4x +y2 + 6y = 3).
+b. {(x,y) x2 + 6x + y2 - 2y = -1).
+c. {(x,y) 4x2 + 4y2 - 4x + 16y + 13 = 0).
+d. {(x,y) 4x2 +.4y2 - 24x + 12y = 551.
+e. {(x,y) I x2 + y2 - 2x + 4y + 5 = 0}.
+f. {(x,y) 9x2 + 9y2 - 72x + 3y + 145 = 0).
+5. Describe each of the sets:
+a. {(X,y) I X2 + y2 + 6x - 8y < 0}.
+b. {(x,y) I x2 + y2 + 8x + joy > -32}.
+c. {(x,y) x2 + y2 < 25) n {(x,y) I x2 + y2 < lox}.
+d. {(x,y) x2 + y2 < 251 n {(x,y) 12(x2 + y2) < 10(x + y)}.
+e. {(x,y) x2 + y2 < 25} U {(x,y) I V2(x2 + y2) < 10(x + y)}.
+f. {(x,y) I x2 + y2 >_ 25} U {(x,y) I x2 + y2 >- lOx).
+g. {(x,y) x2 + y2 < 100) n {(x,y) I x2 + y2 < 8y - 6x}.
+h. {(x,y) I x2 + y2 <- 100} n {(x,y) I x2 + y2 >- 8y - 6x}.Sec. 10 Distance Formula, Circles 29
+6. Establish each of the following:
+a. {(x,y) I -1 < x < 3 and -4 < y < 1} c {(x,y) x2 +y2 < 52).
+b. {(x,y) (x - 3)2 + (y - 4)2 < 52} {(x,y) I xs + y2 < 102}.
+c. {(x,y) Ix - 21 < 1 and y = x/2} {(x,y) I Ix - 21 < 1 and Iy - I I < }.
+d. {(x,y) I Ix - 21 < 1 and y = x/2} c {(x,y) x2 + y2 - 4x - 2y < 1}.
+7. With A 0 0, D, E, and F given numbers show that
+a. {(x,y) I Ax2 + Ay2 + Dx + Ey + F = 01
+(xI (x,+ D\2
++
+(y E)2D2+E2-4AFJ
+,y)
+2A J + 2A 4A2
+b. Show that the set in a:
+1. Is empty if D2 + E2 - 4AF < 0.
+2. Consists of a single point if D2 + E2 - 4AF = 0.
+3. Is a circle if D2 + E2 - 4AF > 0.
+11. Properties in the Large
+An elementary way of plotting a graph is to obtain specific points on the
+graph and then join these points by a curve. This method is essentially one of
+approximation; the closer together the points on the graph are taken, the
+more trust one is likely to place on the form of the graph between and near
+these points. Using this method in plotting
+(1) {(x,y) I x2 + y2 - 6x - 7 = 01,
+the equation is first solved for y:
+y=± 7+6x-x2
+and then a corresponding table made:
+x ...1 -31 -2 -1 0 1 2 3 4 5 6 7 81 91...
+y no values 0 ±2.6 ±3.5 ±3.9 ±4 ±3.9 ±3.5 ±2.6 0 no values
+Upon plotting the points (-1,0), (0,2.6), (0,-2.6),; , they seem to arrange
+themselves in a circular array, but with only this to go on one could not say
+with confidence that (1) is indeed a circle with center (3,0) and radius 4.
+Sometimes properties in the large (i.e., overall properties) of a graph may
+not be revealed even by a great many points on the graph. Some such
+properties. are discussed below for graphs of sets of ordered pairs defined by
+means of equations.
+A. SYMMETRY. Two points are said to be symmetric to a line if the line is
+the perpendicular bisector of the segment joining the points. A graph is30 Rectangular Coordinates Chap. I
+symmetric to a line if all points of the graph occur in pairs symmetric to the
+line; the line itself is called an axis of symmetry of the graph.
+If all points of a graph can be arranged in pairs so that the line segments
+joining such pairs are all bisected by the same point, then the graph is said
+to be symmetric to that point; the point itself is said to be a point of symmetry
+of the graph.
+A graph defined by means of an equation may be tested for symmetry to
+the coordinate axes or the origin by noting: If an equivalentfi equation is
+obtained upon replacing
+(i) y by -y, then the graph is symmetric to the x-axis.
+(ii) x by -x, then the graph is symmetric to the y-axis.
+(iii) x by -x and y by -y, then the graph is symmetric to the origin.
+For example, since x2 - xy = 1 is equivalent to (-x)2 - (-x)(-y) = 1,
+but is not equivalent to either x2 - x(-y) = 1 or to (-x)2 - (-x)y = 1,
+then
+{(x,y)Ix2-xy=1}
+is symmetric to the origin, but is not symmetric to either axis.
+From the equivalence of the equation involved, it follows that:
+{(x,Y) I x2y2 = x2 - 1} = {(x,Y) x2(-Y), = x2 - 1}
+= {(x,Y) I (-x)2y2 = (-x)2 - 1)
+= {(x,Y) (-x)2(-y)2 = (-x)2 - 1}.
+Consequently, this set of points is symmetric to the x-axis, to the y-axis, and
+to the origin.
+B. EXTENT. The x-extent and y-extint of a graph are
+{x I there is a y such that the point (x,y) is on the graph}, and
+{y I there is an x such that the point (x,y) is on the graph},
+respectively. Thus, a number xo is in the x-extent of a graph if and only if
+the projection of the graph on the x-axis contains the point (xo,0).
+For example, note that
+{(x,Y) I x2y2 =x2 {(x,y) I Y = f x2 - 1}
+2
+Thus, if a point (xo,yo) is in this set, then one observation is that xo 0 0 but
+furthermore xo - 1 - 0. Hence, for this graph the x-extent is
+{x I either x > 1 or else x < -1}.
+t Two equations in x and y are said to be "equivalent" if whenever an ordered pair of
+numbers satisfies either equation it also satisfies the other.Sec. 11 Properties in the Large 31
+This same set may also be expressed as
+(x,Y) I x =
+_1
+.
+ll Vy2
+Hence, the restriction is now 1 - y2 > 0 and the y-extent is
+{y-1 <y<1}.
+The general procedure is to solve the equation for y in terms of x, and
+then to note what restrictions on x are necessary to ensure that:
+(i) No denominator is zero.
+(ii) No negative number occurs under a square root sign (or any radical sign
+with even index).
+Next, solve for x in terms of y and note restrictions on y to ensure (i) and (ii).
+C. HORIZONTAL AND VERTICAL ASYMPTOTE. The set
+2x + 10 ((x,y) 1 Y= J x
+contains the points (10,3), (100,2.1), (1000,2.01), (10000,2.001), and for e any
+positive number
+<2+e if x> 10 .
+x x e
+The fact that "(2x + 10)lx may be made to differ from 2 to within any stated
+accuracy merely by choosing x sufficiently large" is denoted' by
+lim2x+10-2.
+X_co x
+DEFINITION. For f a junction and L a number, we write
+(2) lim f(x) = L
+z_oo
+if to each positive number e there corresponds a positive number G such that
+whenever x > G, then l f(x) - LI < e.
+If, however, for each e > 0 there is a number G > 0 such that
+whenever x < - G, then J f(x) - LI < e
+we write
+lim f(x) = L.
+The symbolism x -> oo is read, according to preference, "x becomes
+positively infinite" or "x approaches positive infinity" or "x increases without
+bound." For the specific functions we meet for some time, it will be intuitively
+evident whether the limits exist as x --> oo or x - oo. For example,
+lim
+x2 - 1 = 1, lim Jx2 - 1 = 1, and lim Jx2 - 1 = 1
+z-.oo X2 X-.W X2 z---co x232 Rectangular Coordinates
+but lim (x - x-1) does not exist nor does lim sin x although
+x--. co Z- CO
+sin x
+lim exists and is equal to 0.
+x-.00 X
+Chap. 1
+Also, there is no sense in writing lim 1 - y2 since whenever y > 1,
+then 1 - y2 < 0 and VT---;2 is not a real number.
+DEFINITION. Given a graph, if there is a function f and a number L such that
+the graph off is a part (or all) of the given graph and if
+lim f (x) = L,
+X- cc
+then the line {(x,y) l y = L) is said to be a horizontal asymptote in the positive
+direction of the given graph. By replacing x -,- co by x - - co, the definition
+of a horizontal asymptote in the negative direction is obtained.
+For example, {(x,y) I x2y2 = x2 - 1) contains
+x2 - 1 x2 - 1 x2 7- 1
+j(x,y) I y = 2 whereas lim J = 1 and lim = 1,
+`` x2 x-. cc x2 x-.-CO x2
+so that the line {(x,y) I y =1} is a horizontal asymptote in both directions.
+Similarly, the line {(x,y) I y = -l} is also a horizontal asymptote in both
+directions.
+DEFINITION. Given a graph, if there is a function g and a number L such
+that the given graph contains
+{(x,y) I x.= g(y)} and if lim g(y) = L,
+then the line represented by {(x,y) I x = L} is said to be a vertical asymptote
+(in the positive direction) of the given graph.
+For example, {(x,y) x2y2 = x2 - 1} has no vertical asymptote, since
+(as noted earlier) the y-extent is {y I -1 < y < 1}.
+Example. Sketch {(x,y) I x2y2 = x2 - 1}.
+Solution. Had we not already done so, we would now find the graph to :
+1. Be symmetric to the x-axis, the y-axis, and the origin.
+2. Have x-extent = {x x 1 or x < -1 }, y-extent = {y -1 < y < 1}.
+3. Have lines {(x,y) I y = ±1} as horizontal asymptotes in both directions,
+but no vertical asymptote.
+By setting x = 1 in the equation, the point (1,0) is the point on the graph with
+smallest positive abscissa. With this information, we can hardly fail to sketch fairlySec. 11 Properties in the Large 33
+accurately the portion of the graph in the first quadrant and then the portions in the
+other quadrants by using the symmetry properties.
+(0,1i---- ------------
+(110)
+Figure 11.1
+PROBLEMS
+Discuss the properties in the large given above for
+{(x,y) I E(x,y)} where E(x,y) is replaced by the equation:
+the graph and sketch
+1. xy - 2y = 1. 6. 4xy - 3y = 3x - 2. 11. 2x2 + 5y2 = 10.
+2. xy - 2x =1. 7. y = sine x. 12. 9x2 + 16y2 = 144.
+3.x2y=1. 8.y=2x. 13.9x2+16y2=1.
+x2
+4. x2y2 =y2 - 1. 9. 1xI +lyl =1. 14. 1 + 52 =1.
+5. x2y - 2y = 3. 10. x2is + y2i3 = 1.
+D. GEOMETRIC ADDITION. The set {(x,y) I x2 - xy = 1 } is also the set
+(1) ((x,y) y = x -z).
+First {(x,y) I y = x} and {(x,y I y = -1/x}
+are easily drawn, and then from these
+two the desired set (1) may be obtained
+by so-called "Geometric Addition" as
+shown in Fig. 11.2. For example, the
+point P of the desired graph was obtained
+by taking the distance RS and locating
+P such that PQ = RS with P below Q
+since S is below the x-axis.
+Figure 11.3 illustrates how geometric
+addition of the sine curve (dotted) and Figure 11.2
+'the line {(x,y) I y = x/2} were used in sketching
+((x1Y)IY
+=:x
+2
++ sin x34 Rectangular Coordinates
+Figure 11.3
+Chap. 1
+E. OBLIQUE ASYMPTOTES. A graph may have asymptotes which are
+neither horizontal nor vertical.
+DEFINITION. Let a graph be defined by means of an equation. If there are
+numbers m and c and a function f such that the given graph contains (or is)
+(2) {(x,y) I y = mx + c + f (x)} and if lim f (x) = 0,
+x-CO
+then the line {(x,y) I y = mx + c} is said to be an asymptote in the positive
+direction. A similar definition may be given for an asymptote in the negative
+direction.
+For example, {(x,y) I x2 - 2xy + 2x - 1 = 0} is also
+{(x,Y)IY=2x+1-
+and, hence, the line {(x,y) I y = jx + 1} is an asymptote. The graph may be
+drawn by using geometric addition.
+THEOREM 11. For a > 0 and b > 0 the graphs
+(3) {(x,y)
+each has the lines
+x2 y
+a2 - b2 = 1 and {(x,y)
+{(x,y) I Y = + b x}
+a
+bZ2 ax22 = 1
+as asymptotes in both directions.
+PROOF. By solving the first equation in (3) for y, the given graph contains
+((x,y) I y = a2} , and this by adding and subtracting b x) may be
+a -aSec. 11 Properties in the Large
+written as
+{(xy) I Y = b x + b (1/x2 - a2 - x)}
+a a
+(x,Y) I Y = b x + b (V X2 - a2 - x) VX2 - a2 + x
+a a "Vx2- a2+x
+2 - 2 2
+(x,Y)IY=bX+b(x a)-x
+a a%/X2-a2+x
+(X'Y) I Y = b -ab
+a \/X2 - a2 + X
+which is in the form (2) with m = b/a,
+c = 0 and
+f(x) _ -ab
+Vx2-a2+x
+The denominator can be made as large
+Figure 11.4
+35
+as we please (and the absolute value of the fraction as small as we please)
+merely by choosing x sufficiently large. Consequently lim f (x) = 0 and,
+X-CO
+as defined above, the given graph has the line ((x,y) I y = bx/a} as an
+asymptote in the positive direction. Since the given graph is symmetric to
+both the x-axis and to the y-axis, the further asymptotic properties of the
+graph hold.
+In a similar way, the second set in (3) may be shown to have the same
+asymptotes.
+Example. Sketch {(x,y) 13x2 - 4y2 = 12}.
+Solution- A. The graph is symmetric to the x-axis, to the y-axis, and, hence,
+also to the origin.
+. B. Since the graph is also
+{(x,y)Iy='±/3x2_4} or
+we have x-extent = {x I x > 2 or x <- -2}, but there
+is no limitation on the y-extent.
+C. There are no horizontal or vertical asymptotes.
+D. Geometric addition is not readily applicable.
+E. The graph is also
+x2 y2 l
+1436 Rectangular Coordinates
+which is in the form (3), and thus the lines
+v'3
+1 {(x+y) I y = - z XI
+are asymptotes in both directions.
+Chap. 1
+Upon checking that the points (2,0) and (-2,0) are on the graph, we obtain
+Fig. 11.5.
+PROBLEMS
+1. Use geometric addition to sketch each of the following sets:
+a. (x,y) I y = x + x2
+. e. {(x,y) I xy - y - x2 + x = 1}.
+b. t(x,y)Ix y + }. f. {(x,y) xy + x2 - x = 1).
+y1
+c. {(x,y) x2y + x2 + 1 = 0}. g. {(x,y) I y = sin x + cos x}.
+(
+d. ((xy) I y =
+x
+2
++ cos x}. h. {(x,y) I y = 3 + sin 2x}.
+2. Each of the following sets has at least one oblique asymptote. Find the
+asymptotes and sketch the graphs.
+x2. y2-
+4 -6 lly
+x2 y2
+6 4=I.
+y2 X2 }
+4
+x2 y2 - l
+2 + 32(1 - 22)
+3. Each of the parts below helps in working the next part. Show that
+a. (a - b)(a2 + ab + b2) = a3 - Y.
+b. (al/3 - bl/3)(a2/3 + al/3b1/3 + b2/3) = a - b.
+C. [(I + x3)1/3 - x][(l + X3)2/3 + (I + x3)1/3x + X27] = 1.
+d. {(x,y) 1 y3 - x3 = 1} _ {(x,y) I y = x + [(1 + x3)1/3 - x]}
+I _ (X'Y) I y = x +
+(1 + x3)2/3 + (1 + X2)113x + x2}.
+e. The set {(x,y) I y3 - x3 = 11 has the line {(x,y) I y = x} as an oblique
+asymptote in both directions.
+f. The set {(x,y) I x3 + y3 = 1) has the line {(x,y) I y = -x} as an oblique
+asymptote in both directions.
+d. {(x,y) 19x2 - 16y2 = 144).
+e. {(x,y) 19x2 - 16y2 = 1}.Sec. 12 Translation of Coordinates 37
+12. Translation of Coordinates
+Let h and k be numbers, and plot the points (h,k), (h ± l,k), and (h,k + 1).
+Now establish a new coordinate system with these points, respectively, as the
+new origin, unit point on the new axis of abscissas, and unit point on the new
+axis of ordinates. A point in the plane now has
+coordinates (x,y) relative to the original axes,
+but (X, Y) relative to the new axes where y
+(1) X=x-h, Y=y - k: (h,k+1)4 Y
+As a check, note that if X = 0 and Y = 0, then
+x = h and y = k. Also, if X=1 and Y=O, (h,k) (h+1,k)
+then x = h + l and y = k. (0.1)
+Translation of axes may be used to simplify
+graphing. (0,0) (1,0) X
+Example 1. Sketch the set
+(2) {(x,y) I 36x2 - 16y2 - 108x - 64y = 127} Figure 12.1
+by first translating axes so the new origin is at the point (2, -2).
+Solution. In (1) substitute h = 2 and k = -2 to obtain X = x - z and
+Y = y - (-2) = y + 2, so that in the equation of (2) substitute
+(3) x=X+l and y= Y-2.
+The result of this substitution, with simplifications, is
+36(X + 2)2 - 16(Y - 2)2 - 108(X + 2) - 64(Y - 2) = 127,
+36X2 + 108X + 81 - 16Y2+64Y-64 - 108X - 162 -64Y+ 128 = 127,
+y-axis 36X2 - 16 Y2 = 144,
+Y-axis X2 y2
+\ The set (2) plotted relative to the xy-system
+will be the same as the set
+\ x-axis X2 Y2 \ / (4) {(X' Y) 14 - 9 - 1}
+\ X-axis plotted relative to the XY-system. The graph
+is symmetric to the X-axis, the Y-axis, and to
+the XY-origin, and thus is symmetric to the
+lines
+% \\ {(x,y) I x = 2} and {(x,y) I y = -2}
+and to the xy-point (2, -2). Also, X-extent =
+Figure 12.2 {X I X:5 -2 or X >- 2), so that
+x-extent {xIx-2 <---2 or x-s>-2}={xIx_-j or x>_ }.
+There is no restriction on the Y-extent, and thus no restriction on the y-extent.38 Rectangular Coordinates Chap. 1
+The graph has oblique asymptotes which, in the proper coordinate system, are the
+lines {(X,Y) 2Y = =3X} or
+{(x,y) 2(y + 2) = _3(x - 2)} _ {(x,y) I 6x - 4y = 17 or 6x + 4y = l}.
+Two methods for determining a suitable translation are given below.
+FIRST METHOD
+Example 2. Determine the translation used in Example 1 to simplify the
+equation in (2).
+Solution. Rewrite the equation as
+36(x2 - 196.x) - 16(y2 + 4y) = 127,
+36(x2 - 3x + ) - 16(y2 + 4y + ) = 127
+where enough space was left for "completing the square" :
+36(x2 - 3x + g) - 16(y2 + 4y + 4) = 127 + 81 - 64,
+36(x-2)2-16(y+2)2=144.
+This equation looks simpler upon setting
+X=x-2 and Y=y+2,
+which are equivalent to the equations (3) used in Example 1.
+SECOND METHOD
+Example 3. Sketch {(x,y) I xy + 4x - y = 5} by first making a translation
+of axes.
+. Solution. Let h and k be numbers, as yet unspecified, and in the equation
+xy + 4x - y = 5 substitute
+Figure 12.3
+(5) x = X + h and y= Y + k.
+The resulting equation and a rearrangement are
+(X+h)(Y+k) +4(X +h) -(Y+k) =5 and
+(6) XY + (k + 4)X + (h - 1)Y =
+5 - hk - 4h + k.
+Upon selecting k -4 and h = 1, the coefficients
+of X and Y are both zero, and 5 - hk - 4h + k =
+5 - (1)(-4) - 4(1) + (-4) = 1 so that the equations
+of (5) become
+x=X+1, y=Y-4
+and (6) becomes XY = 1. Thus, the new origin
+X = 0, Y = 0 is at the point where x = 0 + 1 = 1
+and y = 0 - 4 = --4. Hence,
+{(x,y) xy +4x -y = 5} and {(X,Y) XY = 1}Sec. 12 Translation of Coordinates 39
+are the same; it being understood that the first is drawn relative to the original
+system and the second relative to the new system. Hence, in terms of the original
+system, the graph is symmetric to the point (1, -4) and has the lines
+{(x,y) y = -4} and {(x,y) I x = l}
+as horizontal and vertical asymptotes.
+PROBLEMS
+1. Sketch each of the following after first making a translation of axes using the
+given values of h and k.
+a. {(x,y) 2xy - 4x + 3y = 6}, h k = 2.
+b. {(x,y) I x - y2 - 6y = 14}, h = 5, k = -3.
+c. {(x,y) y = 3 + 32(20)}, h = -5, k = 3.
+d. {(x,y) j y = 1 + sin (2x - 5)}, h = 2.5, k = 1.
+b b2 - 4ac
+e. {(x,y) I y = axe + bx + c}, h = - 2a, k = - 4a
+2. Use the first method to determine a translation which simplifies each of the
+following, then sketch the graph.
+a. {(x,y) 3x2 + 4y2 + 6x - 16y + 7 = 0).
+b. {(x,y) 3x2 - 4y2 + 6x - 16y = 17}.
+c. {(x,y) 4x2 + 6y2 - 12x + 36y + 63 = 0).
+d. {(x,y) j 12x2 + 18y2 - 60x + 24y + 89 = 0}.
+3. Transform each of the following so the resulting XY-equation will have no
+X-term or Y-term. In each case give the xy-coordinates of the XY-origin.
+a. {(x,y) I 2xy + 3x - 4y = -6}. c. {(x,y) I (x - 1)(y + 2) + 2x = 3}.
+b. (x,) x 3x + 5y = 17). d. x 3 + x 2
+13. Conic Sections
+Let e be a positive number. In the plane select a point F and a line 1 not
+passing through F.
+DEFINITION. The point set
+{P I P is a point in the plane such that the distance from --------7
+P to F is e times the perpendicular distance from P to 11.
+is a conic section with eccentricity e, focus F, and directrix
+1. In case : F
+1. e = 1 the conic is called a parabola.
+2. 0 < e < I the conic is called an ellipse. Figure 13
+3. 1 < e the conic is called a hyperbola.40 Rectangular Coordinates Chap. 1
+Simple expressions for sets which are the various conic sections may be
+obtained by judicious choices of F and 1. Such selections of F and I are
+discussed first for the parabola in Sec. 14, and then for the ellipse and
+hyperbola together in Sec. 15.
+14. Parabola
+In this case e = 1. Letp be a number different from zero; hence, p may be
+positive or negative, but p 0. Select the point (p,0) for F and select the line
+{(x,y)I x = -p} for 1. The distance from a point (x,y) to F is 1/(x - p)2 + y2
+units, whereas the perpendicular distance from a point (x,y) to I is Ix - (-p)I
+= Ix + pl units. Since e = 1, a point (x,y) is on the parabola with focus F
+and directrix I if and only if (x -- p)2 + y2 = Ix + p1. But
+{(x,Y)I.\I(x-p)2+Y2= Ix+pl}
+= {(x,y) (x - p)2 + y2 = (x + p)2}
+= {(x,Y) x2 - 2px + p2 + y2 = x2 + 2px + p2}
+= {(x,Y) YZ = 4px}.
+It therefore follows that
+(1) {(x,y) I y2 = 4px}, with p 0,
+is the parabola with focus (p,0) and directrix the line {(x,y) I x = -P}-
+Example 1. Show that {(x,y) 120x + 3y2 = 0} is a parabola. Find the focus
+and directrix of this parabola.
+Solution. {(x,y) 120x + 3y2 = 0} =
+{(x,y) I y2 = - $°x} = {(x,y) I y2 = 4( - 3 )x}
+s s x-s and this last expression is in the form (1) with p =
+3 - 3. Thus, the graph is a parabola with focus
+(-3,0) and directrix the line {(xy) I x = 3}. Notice
+that the points (0,0), and are
+on the parabola.
+(-3.0) For a parabola with focus F and directrix
+1, let V be the mid-point of the line segment
+from F perpendicular to 1. V is equidistant
+from F and I and is, therefore, on the para-
+10 a a bola. The point V is called the vertex of the
+parabola.
+Figure 14.1 With the distance from F to I as radius,
+draw a circle with center F and note the
+points Pl and P2 where this circle cuts the line through F parallel to 1.Sec. 14 Parabola 41
+Pl and P2 are each equidistant from F and 1, so both are on the parabola.
+The line segment between Pl and P2 is called the right focal chord of the
+parabola.
+For the parabola (1), the vertex is (0,0) and the ends
+of the right focal chord are (p,2p) and (p,-2p), so that the
+I P,
+length of the right focal chord is 4 pI units. Knowing the ,
+general shape of a p arabola, the position of the vertex ( v
+and ends of the right focal chord enable one to sketch the - ---
+graph near the vertex with sufficient accuracy for most ,\ I
+purposes.
+! PZ
+Example 2. Show that {(x,y) 3y2 + 12y - 20x + 42 = 01
+is a parabola and find its vertex, focus, ends of the right focal
+chord, and its directrix.
+Figure 14.2
+Solution. Toward obtaining a suitable translation we write the equation
+involved as
+3(y2 + 4y ) = 20x - 42,
+4 s,3) 3(y2+4y+4)=20x-42+12=20x-30
+3(y 2)2=-in\x - 32).
+Hence, from the translation determined by
+(2) X=x-2, Y=y+2,
+F (is _2) we see that the graph is
+{(X,Y)13Y2 = 20X} = {(X,Y)j y2 = a X} _
+{(X, y) I Y2 = 4(s)X}.
+L69-16-) Upon comparing this last form with (1) , the graph is
+Figure 14.3
+seen to be a parabola with p = 3. The required
+information about this parabola is found in terms of
+XY-coordinates and then changed to the original
+xy-coordinates by means of (2):
+vertex
+focus
+XY-coordinates xy-coordinates
+(0,0) (s, -2)
+(a,0) (is, -2)
+s, 3o), (a3, _l ps) 4 19. _ 1.6_ 8 ends of right focal chord (g, (-6 (6 , 3 )
+directrix {(X, Y) X = -A'} {(X,y) I X = -166)
+By analogy, it follows that
+(3) {(x,y) x2 = 4py}42 Rectangular Coordinates Chap. 1
+is a parabola with vertex (0,0), focus (O,p), ends of right focal chord (-2p,p)
+and (2p,p), and directrix the line {(x,y) I y = -PIThe
+line containing the vertex and focus of a parabola is called the axis
+of the parabola.
+PROBLEMS
+1. Sketch the following parabolas, giving in each case the vertex, focus, ends of
+the right focal chord, and the directrix.
+a. {(x,y) I y2 = x}. e. {(x,y) I x2 + 2x - 4y = 1).
+b. {(x,y) I y2 = -6x}. f. {(x,y) y2 + 2y + 2x - 1 = 0}.
+c. {(x,y) I x2 = 4y}. g. {(x,y) I y2 - 8 = 8(x + 1)}.
+d. {(x,y) 12x2 + 9y = 0). h. {(x,y) 2x2 + 2x + 3y - 1 = 0}.
+i. {(x,y) I (x - 1)2 - 2x - 8(y + 2) = 5}.
+2. Determine A, C, D, E, and F so that
+{(x,y) I Axe +Cy2 + Dx + Ey +F=0}
+willt be a parabola with axis parallel to one of the coordinate axes and having:
+a. Vertex (0,0), focus (2,0). c. Vertex (1,2), focus (1,5).
+b. Vertex (0,0), focus (0, -2). d. Vertex (2,2), focus (-1,2).
+e. Directrix {(x,y) I y = 51, focus (2,1).
+f. Directrix {(x,y) I x = 10}, vertex (9,4).
+g. x-extent = {x I x focus (3°-, -1).
+3. Let a be a positive number, and consider a parabola with right focal chord a units
+long. Show that the line through the focus of this parabola and making an angle
+0 with the axis of the parabola intersects the parabola in two points whose
+distance apart is a csc2 0 units. [Hint: Select a coordinate system with origin at
+the vertex and x-axis the axis of the parabola.]
+4. Take a parabola with its vertex at the origin and its focus F on the x-axis.
+Draw a line through F and any point P on the parabola. From P draw the
+perpendicular to the directrix and label the foot of this 'perpendicular A. Draw
+AF and let M be the point where this line cuts the y-axis. Prove that angle
+FPM = angle MPA. Also, prove that the line through P and M contains no
+point of the parabola other than P.
+5. Given that a ball thrown straight up is s ft above the ground t sec after being
+thrown, where s = 128t - 16t2. Show that {(t,s) I s = 128t - 16t2} is a parabola
+and find its vertex.
+t The letter B has been omitted, since later we will discuss equations of the form
+Axe+Bxy+Cy2+ Dx+Ey+F=0.Sec. 14 Parabola 43
+6. Find a number 6 such that:
+a. {(x,y) I Ix - 11 <6 and y = x2} c {(x,y) Ix - 11 <8 and ly - 1 I < 0.25}.
+b. {(x,y) Ix - 21 < 6 and y = x2} C {(x,p) Ix - 21 < 6 and ly - 41 < 0.1}.
+c. {(x,y) Ix + 31 < 6 and y = x2} c {(x,y) Ix + 31 < 6 and ly - 91 < 0.1}.
+d. Let a be a positive number such that 0 <e < 9. Determine 6 > 0 such that
+{(x,y) I Ix - 31 < 6 and y = x2} c {(x,y) I lx - 31 < 6 and ly - 91 < e}.
+7. Sketch {(x,y) 10 < x < 2 and 0 < y < x2} and show that {(x,y) 10 < y < 4
+and Vy _< x < 2} is the same.
+15. Ellipse and Hyperbola
+According to the definition (see Sec. 13) an ellipse or a hyperbola is a
+conic with eccentricity e 1, e > 0. We now restrict e to be such that
+e > 0, but e 1. Let a be a positive number. Thus, ae 0 ale; in fact
+ae<a if 0<e<1
+e
+ae > a if 1 < e.
+e
+Select the point (ae,O) for the focus F and the line {(x,y) I x = ale} for the
+directrix 1. The distance from a point (x,y) to the focus is 1/(x - ae)2 + y2
+units, and the perpendicular distance from a point (x,y) to 1 is Ix - a/el units.
+Thus, a point (x,y) is on the conic with focus (ae,0) and directrix the line
+{(x,y) I x = ale} if and only if
+V(x - ae)2 + y2 = elx - a/el.
+This conic is therefore the set expressed in any of the following ways:
+{(x,y) I\/(x - ae)2 + y2 = elx - a/el}
+= {(x,y) (x - ae)2 + y2 = e2(x - a/e)2}
+= {(x,y) x2 - 2aex + a2e2 + y2 = e2x2 - 2aex + a2}
+= {(x,y) x2(1 - e2) + y2 = a 2(l - e2)}
+(1) _ ((xy)
+a2 + a 2(1 - e2)
+1 .
+With the same number e as above (e > 0, but e 1) and the same number
+a > 0 as above, consider the conic with focus (-ae,0) and directrix the line
+{(x,y) I x = -ale). This conic is
+{(x,y) I1/(x + ae)2 + y2 = elx + afel}
+which also simplifies to (1). These results may be stated as:44 Rectangular Coordinates Chap. 1
+For e > 0 but e I and for a > 0 the conic
+1x2 2
+{( k,y)
+y
+a2 a2(1 - e2)
+(2) 1}
+has the point (ae,0) and the line {(x,y) I x = a/e} as one focus and directrix,
+but also has the point (-ae,0) and the line {(x,y) I x = -a/e} as another focus
+and directrix.
+Graphical illustrations of this statement and other pertinent facts appear
+on page 47 for easy reference while working the problems.
+By analogy
+(3) ((x,y)
+Yz x2
+a2 + a2(1 - e2) 1
+is a conic with foci (0,ae) and (0,-ae) and with respective directrices the lines
+{(x,y) I y = a/e} and {(x,y) I y = -a/e}.
+Example 1. For the sets
+{(x,y) I 4x2 = 60 - 3y2} and {(x,y) I 4x2 = 60 + 3y2}
+show that one is an ellipse and the other a hyperbola. In each case find the foci
+and the directrices.
+Solution (for the first set). This set may be written in turn as
+{(x,y) I 4x2 + 3y2 = 60} _ {(xy)
+x2 y2
+15+20
+This looks, at first glance, to be in the form (2), but if we try to set a2 = 15 and
+a2(1 - e2) = 20 we obtain 15(1 - e2) = 20, 1 - e2 = 3, and e2 = -3, which is
+impossible. However, from (3) upon setting a2 = 20 and a 2(l - e2) = 15 we have
+20(1 - e2) = 15, (1 - e2) =J, e2 =-1, and e = 2, since e > 0. Since O <e <1
+the first graph is an ellipse. Since a = 2'/5 and e = 2 (and the form (3) is applicable)
+the foci and directrices are given as:
+(0,''/5), (0,-'/5); {(x,y) I y = 4v'5}, and {(x,y) I y = -4V'5}.
+Solution (for the second set). This set may be written as
+x2 y2
+(4) (x,y) 15 - 20 = 1 }
+which, because of the minus sign, may not look like either (2) or (3). It is, however,
+in the form (2), for upon setting a2 = 15 and a2(1 - e.2) = -20 we have 15(1 - e2)
+_ -20, 1 - e2 e2 = , and thus e = V 3. Since 1 < e the graph is a hyperbola.
+Since a = '/15 (and the form (2) is applicable) this hyperbola has foci and
+directrices given by
+(-''35,0); {(x,y) I x = 3 VI}, {(x,y) x = -3'/4).Sec. 15 Ellipse and Hyperbola 45
+Also note from (4), and the previous discussion of oblique asymptotes (see Sec. 11 E,
+pg. 34), this hyperbola has the lines
+{(x,y) I v'3y = ±2x}
+as oblique asymptotes.
+The line containing the two foci of an ellipse or hyperbola is called the
+principal axis of the conic, and the mid-point of the segment joining the foci is
+called the center of the conic. From the typical form (2), it is seen (by substituting
+y = 0 in the equation and solving for x) that an ellipse or hyperbola cuts
+the principal axis in the two points (a,0) and (-a,0); these points are called
+the vertices of the conic. The line segment between the vertices is called:
+The major axis when the conic is an ellipse.
+The transverse axis when the conic is a hyperbola.
+For an ellipse (0 < e < 1 so I -e 2 > 0), it follows from (2) that an
+ellipse cuts the line perpendicular to the major axis in the two points
+(O,av'l - e2) and (0,-a1Vl - e2); the segment between these points is
+called the minor axis of the ellipse.
+A hyperbola has two asymptotes since (2) may be written as
+x2 y2
+a2 a2(e2 - 1) 1
+where both denominators are positive since e > 1 and e2 - 1 > 0. In this
+form it is seen (from Theorem 11 p. 34) that the graph has two asymptotes
+given by
+{(x,Y) I y = =1/e2 - lx}.
+Also, the hyperbola does not cut the line perpendicular to the transverse axis
+at the center; in fact from the above form
+x-extent = {(x,y) I x < -a
+Example 2. Find the parts defined above
+for the conic
+{(x,y) I 9x2 - 16y2 - 18x - 64y = 199}.
+Solution. We first determine that under
+the translation
+X=x-1, Y=y+2
+the conic is also the graph of
+((X,Y)
+X2 Y2
+6_ + -9 = 1}.
+(-4-2)
+Figure 15
+Thus, a2 = 16, a2(1 - e2) = -9,1 - e2 = - i e, and e = d. Since 1 < e the graph46 Rectangular Coordinates Chap. 1
+is a hyperbola. Now ae = 5 and ale = Y. The desired information in terms of the
+XY-system and then changed to the xy-system is:
+X Y xy
+center (0,0) (1,-2)
+foci (±5,0) (6,-2), (-4,-2)
+directrices {(X, Y) X = i 5g} {(x,y) I x = s or x = - 51}
+vertices 4,0) (5,-2), (-3,-2)
+asymptotes {(X, Y) Y = =4X} {(x,y) I 3x - 4y = 11 or 3x + 4y = -5)
+Now that set notation has instilled the concept of sets and their geometric
+representations, the use of set notation will be subdued. Unless
+there is danger of being misunderstood, a mathematician would not write
+{(x,y) 3x - 4y = 11), but only 3x - 4y = 11 and even say "The line
+3x - 4}' = 11." He means, of course, "The line consisting of the set of all
+points in the coordinate plane whose coordinates satisfy the equation."
+We will continue to use set notation to introduce some new concepts or when
+we want to be unequivocal about what is meant.
+PROBLEMS
+1. Find the eccentricity, center, foci, directrices, vertices, the ends of the minor axis
+in case of an ellipse, and the asymptotes in case of a hyperbola.
+x2 y2
+62 - 82
+(x - 2)2 - (y + 3)2
+= 1.
+9 16
+x2 y2 b.82-62=1.
+x2 y2
+C.82+102=1.
+2 2
+d. 1o2 + 82 = 1.
+2.
+g. 16y2 - 9x2 + 36x + 128y + 76 = 0.
+h. 25x2 + 16y2 + 50x + 64y = 311.
+Find numbers h, k, a > 0 and e > 0 such that
+= 1.
+(x - h)2 (y - k)2
+a2 + a2(l - e2) = 1 or
+(x - 2)2 (y + 3)2
+e. 52 + 42 = 1.
+(y - k)2 (x - h)2
+a2 + a2(1 - e2) 1
+represents a conic with
+a. Center (0,0), focus (,0), and vertex (1,0).
+b. Center (0,0), focus (3,0), and vertex (1,0).Sec. 15 Problems 47
+c. Center (2, -1), vertex (2,4), end of minor axis (-1, -1).
+d. Center (-2,3), vertex (-2,5), directrix {(x,y) I y = 4).
+e. Asymptotes {(x,y) 4x - 3y = 17 or 4x 3y = -1), vertex (-1,-3).
+f. Asymptotes {(x,y) 3y = _4x}, vertex (8,0).
+3. For 0 < e < I and a > 0, let (x,y) be a point such that its distance to the point
+(ae,0) plus its distance to the point (-ae,0) is 2a units. Prove the point (x,y)
+is on the ellipse with foci (±ae,0) and vertices (±a,0).
+4. For 1 < e and a > 0, let (x,y) be a point such that the difference of its distances
+to the points (±ae,0) is in absolute value 2a units. Prove the point (x,y) is on
+the hyperbola with foci (±ae,0) and vertices (±a,0).
+5. A rod with ends called A and B has a point C marked on it. The rod is moved so
+A stays on the x-axis and B on the y-axis. Show that C describes a circle if
+AC = BC and an ellipse if AC BC.
+6. Show that {(x,y) I -< x < 2 and - Vx2 - 1 <- y -< Vx2 - 1} is exactly the
+same set as {(x,y) -V3 5 y S ''3 and 'Vy2 + 1 <- x <- 2}.
+7. The eccentricities and lengths of the semi-major axes of the orbits of the planets
+Neptune and Pluto are: ,
+e a
+Neptune 0.0082 2,793.5 x 106 mi
+Pluto 0.25 3,680 x 106 mi
+Show that Pluto is sometimes closer than Neptune to the sun. [Note: It will
+be in 1989. See the Encyclopaedia Britannica (under Pluto).]
+Ellipse 0<e<1
+Hyperbola e > 1CHAPTER 2
+Limits and Derivatives
+The most striking difference between calculus on one hand and algebra or
+geometry on the other is the degree of dependence upon the notion of a limit.
+Algebra and geometry are not devoid of limits (e.g., the sum of a geometric series
+with common ratio in absolute value less than 1 or the area of a circle), but limits
+play a minor role here; whereas, in calculus limits are basic to and permeate the
+whole subject.
+Calculus is traditionally divided into two main parts; one primarily concerned
+with derivatives of functions (introduced in this chapter), the other with integrals
+of functions (Chap. 6). This chapter, then, begins the study of calculus.
+16. Limit of a Function
+For c a number, L a number, e a positive number, and 6 a positive number,
+then the set
+{(x,y) I both Ix - cl < 6 and Iy - LI < e}
+is a rectangle with center (c,L), width 26 units, and altitude 2e units. The set
+{(x,y) 10 < Ix - cl <6andly-LI <e}
+..............................
+hit:r:::::
+(a,0)
+S
+1 (c,01_) 1 (b,p)
+Figure 16.1
+differs from the above rectangle only
+by not containing the vertical segment
+of length 2e units through the center.
+The function f whose graph is
+represented in Fig. 16.1 is such that
+f (x) is defined at least for all x satisfying
+a< x< c or c< x< b and
+f (c) may or may not be defined. For
+x close to c the value of f (x) is close
+toL; that is, given any positive number
+e there is a positive number h (as illustrated
+in Fig. 16.1) such that
+{(x,y)I0<Ix-cl <bandy =f(x)}
+{(x,y)10< Ix - cl < 6andly-LI <e}.
+48Sec. 16 Limit of a Function 49
+DEFINITION. Given a function f, a number c, and a number L, the function f
+is said to have limit L at c:
+1. If for each number S > 0- the set {x 0 < Ix - cI < b} contains
+numbers in the domain off, and
+2. If given any positive number c no matter how small, there is a positive
+number S such that
+{(x,y) 10 < Ix - cl <aandy=f(x)}
+{(x,y)10<Ix-cl <6andly-LI<E};
+that is, whenever 0 < Ix - cl < S, then If (x) - LI < E.
+Example 1. Show that the function f has limit 2 at c = 1, where
+I -x f (x) = _ , for x > 0 and x ; 1.
+1 - 'fix
+Solution. 1. Notice that f(l) is not defined, but f(x) is defined if 0 < x < 1
+or 1 < x. Also, notice that if 0 <- x < 1 or 1 < x, then
+1 -x 1 -x 1 + 'x
+i-Vx 1--VX l+Vx
+= (1 - x)(1 + Vx)
+= 1 + fix. 1 -x
+Hence,
+f={(x,y)10<x<1or 1 <x andy =1 +''x}
+and this was used to obtain Fig. 16.2.
+2. Let e be any number such that 0 < E < 1.
+We first find the point off with ordinate 2 + E:
+(1,2)
+.(1,0)
+Figure 16.2
+2 + E = 1 + Vx, Vx = 1 + E, X = (1 + E)2,
+so that ((1 + E)2, 2 + e) is the point. In the same way the point on the graph with
+ordinate 2 - e is the point ((1 - E)2, 2 - E). Now (1 - E)2 < 1 < (1 + E)2 and if
+either (1 - E)2 < x < 1 or 1 <x < (1 +C)2, then 2--E <f(x)<2+c. We
+thus take for 6 the smaller of
+(1 + E)2 - 1 = 2E + E2 and 1 - (1 -e)2 = 2E E2
+and hence take 6 = 2E - E2 (which is positive since 0 < E < 1) and have that
+0<1x-1l <E and y= 1-x 1 - vx
+c{(x,y) 0 < lx - 11 <6 and ly - 21 <e};
+(0,1)
+that is, if 0 <x-11 <6, then If(x) - 21 <c.
+Consequently, from the definition, 2 is a limit of f at c = 1.Sec. 16 Limit of a Function 49
+DEFINITION. Given a function f, a number c, and a number L, the function f
+is said to have limit L at c:
+1. If for each number S > 0- the set {x 0 < Ix - cI < b} contains
+numbers in the domain off, and
+2. If given any positive number c no matter how small, there is a positive
+number S such that
+{(x,y) 10 < Ix - cl <aandy=f(x)}
+{(x,y)10<Ix-cl <6andly-LI<E};
+that is, whenever 0 < Ix - cl < S, then If (x) - LI < E.
+Example 1. Show that the function f has limit 2 at c = 1, where
+I -x f (x) = _ , for x > 0 and x ; 1.
+1 - 'fix
+Solution. 1. Notice that f(l) is not defined, but f(x) is defined if 0 < x < 1
+or 1 < x. Also, notice that if 0 <- x < 1 or 1 < x, then
+1 -x 1 -x 1 + 'x
+i-Vx 1--VX l+Vx
+= (1 - x)(1 + Vx)
+= 1 + fix. 1 -x
+Hence,
+f={(x,y)10<x<1or 1 <x andy =1 +''x}
+and this was used to obtain Fig. 16.2.
+2. Let e be any number such that 0 < E < 1.
+We first find the point off with ordinate 2 + E:
+(1,2)
+.(1,0)
+Figure 16.2
+2 + E = 1 + Vx, Vx = 1 + E, X = (1 + E)2,
+so that ((1 + E)2, 2 + e) is the point. In the same way the point on the graph with
+ordinate 2 - e is the point ((1 - E)2, 2 - E). Now (1 - E)2 < 1 < (1 + E)2 and if
+either (1 - E)2 < x < 1 or 1 <x < (1 +C)2, then 2--E <f(x)<2+c. We
+thus take for 6 the smaller of
+(1 + E)2 - 1 = 2E + E2 and 1 - (1 -e)2 = 2E E2
+and hence take 6 = 2E - E2 (which is positive since 0 < E < 1) and have that
+0<1x-1l <E and y= 1-x 1 - vx
+c{(x,y) 0 < lx - 11 <6 and ly - 21 <e};
+(0,1)
+that is, if 0 <x-11 <6, then If(x) - 21 <c.
+Consequently, from the definition, 2 is a limit of f at c = 1.Sec. 16 Limit of a Function 49
+DEFINITION. Given a function f, a number c, and a number L, the function f
+is said to have limit L at c:
+1. If for each number S > 0- the set {x 0 < Ix - cI < b} contains
+numbers in the domain off, and
+2. If given any positive number c no matter how small, there is a positive
+number S such that
+{(x,y) 10 < Ix - cl <aandy=f(x)}
+{(x,y)10<Ix-cl <6andly-LI<E};
+that is, whenever 0 < Ix - cl < S, then If (x) - LI < E.
+Example 1. Show that the function f has limit 2 at c = 1, where
+I -x f (x) = _ , for x > 0 and x ; 1.
+1 - 'fix
+Solution. 1. Notice that f(l) is not defined, but f(x) is defined if 0 < x < 1
+or 1 < x. Also, notice that if 0 <- x < 1 or 1 < x, then
+1 -x 1 -x 1 + 'x
+i-Vx 1--VX l+Vx
+= (1 - x)(1 + Vx)
+= 1 + fix. 1 -x
+Hence,
+f={(x,y)10<x<1or 1 <x andy =1 +''x}
+and this was used to obtain Fig. 16.2.
+2. Let e be any number such that 0 < E < 1.
+We first find the point off with ordinate 2 + E:
+(1,2)
+.(1,0)
+Figure 16.2
+2 + E = 1 + Vx, Vx = 1 + E, X = (1 + E)2,
+so that ((1 + E)2, 2 + e) is the point. In the same way the point on the graph with
+ordinate 2 - e is the point ((1 - E)2, 2 - E). Now (1 - E)2 < 1 < (1 + E)2 and if
+either (1 - E)2 < x < 1 or 1 <x < (1 +C)2, then 2--E <f(x)<2+c. We
+thus take for 6 the smaller of
+(1 + E)2 - 1 = 2E + E2 and 1 - (1 -e)2 = 2E E2
+and hence take 6 = 2E - E2 (which is positive since 0 < E < 1) and have that
+0<1x-1l <E and y= 1-x 1 - vx
+c{(x,y) 0 < lx - 11 <6 and ly - 21 <e};
+(0,1)
+that is, if 0 <x-11 <6, then If(x) - 21 <c.
+Consequently, from the definition, 2 is a limit of f at c = 1.50 Limits and Derivatives
+A very simple limit to prove, but one used repeatedly, is
+Iim x = C.
+2-+C
+Chap. 2
+With f defined byf(x) = x we are to show that "Given an e > 0 there exists a 6
+such that if 0 < Ix - cI < S then If(x) - cd < e." Merely choose 6 = e.
+THEOREM 16. Let f be a function and c a number such thatf has a limit at c,
+and let L be this limit. Then f has no other limit at c.
+PROOF. Assume there is a second limit L1 of f at c. Then L1 L so
+IL - L11 > 0 and JCL - L11 > 0. Choose e = JCL - L11 and corresponding
+to this particular positive number e let 6 > 0 be such that
+if 0 < I x - cl < 6, then If(x) - LI < e
+and let 61 > 0 be such that
+if 0<Ix-cl <61, then If(x)-L1I <e.
+Let x* be such that both 0 < Ix* - cl < 6 and 0 < Ix* - cl < 61 and note
+that both If (x*) - LI < e and If (x*) - L11 < e. Hence,
+IL-L1I <IL-f(x*)I +If(x*)-L11 <2e=IL-L1I
+which says that IL - L11 < IL - L11 and this cannot be true. The assumption,
+"There is a second limit off at c" is thus incorrect, and the theorem is proved.
+NOTATION AND TERMINOLOGY. Following convention, we shall write
+(1) L = lim f (x)
+X-'C
+to mean "The limit at c of this function f exists and is L." Also, we write
+lim f (x) does not exist
+X-+C
+to mean "For this function f and this number c there is no number L which
+A
+satisfies the condition 1 and 2 of the
+above definition."
+It is customary to read (1) as "L is
+the limit of f (x) as x approaches c."
+Also, a common alternative to (1) is
+f (x) -* L as x -> c.
+Example 2. For
+f = {(x,y) I y = sin2 (1/x)} prove that
+limf(x) does not exist.
+(0,L)
+1 1 1 x=0
+37r 2,r a
+Solution. LetL bean arbitrary number.
+Figure 16.3 (The point (0,L) is pictured in Fig. 16.3 asSec. 16 Limit of a Function 51
+if L were about 0.9.) We shall prove that this function f does not have limit L
+at c = 0 by showing "There is a number e > 0 such that for 6 an arbitrary positive
+number
+(1) {(x,y) 0 < Ix - 01 < 6 and y = sine (I Ix))
+is not a subset of
+(2) {(x,y) 0 < Ix - 01 < 6 and ly - L) < E}."
+No matter how small 6 > 0 is taken, the graph (1) will have points on the x-axis
+and points one unit above the x-axis. Hence, for any positive number e < 2 there
+are points of (1) not in (2).
+17. Limit Theorem
+Given two functions f and g, the sum off and g is the function defined by
+f + g = {(x>Y) I Y = Ax) + g(x)}.
+Hence, the domain of f + g is the intersection of the domain of f and the
+domain of g. The product off and g is the function
+f- g = {(x>Y) I Y= f (x)g(x)}
+and the quotient function fig is defined in a similar way, but note that the
+domain of fig is the intersection of the domains of f and g diminished by
+those numbers x for which g(x) = 0.
+THEOREM 17. Let f and g be functions whose limits at c exist:
+lim f (x) = Ll and lim g(x) = L2,
+X- C x-.e
+and for every number S > 0 the domain of f, the domain of g, and
+{x 10 < Ix - cl < b} have numbers in common. Then the limits at c of the
+sum and product functions exist and
+1. lim [f(x) ± g(x)] = Ll ± L2,
+x-c
+II. lim [f(x) g(x)] = L1 L2.
+x-c
+For L2 0 0 the limit at c of the quotient function exists and
+III. lim1= 1 and lim
+f(x) = Ll .
+x=c g(x) L2 x=c g(x) L2
+Also, for L2 > 0 and n a positive integer
+IV. lim 1"/g(x) = f L2-
+x-e52 Limits and Derivatives Chap. 2
+For k a constant then from I and II (by setting f (x) = k)
+V. Iim [k ± g(x)] = k + L2 and Iim [k g(x)] = k L2.
+x-C x-C
+PROOF of I. Let e be an arbitrary positive number. Since it is given that f
+has limit L1 at c, choose S1 > 0 corresponding to e/2 such that
+if 0<Ix-cl <61, then If(x)-L11 <Ei2
+and, since g has limit L2 at c, choose S2 > 0 such that
+if 0 < lx - Cl < 62, then lg(x) - L21 < e/2.
+Let 6 be the smaller of 61 and 62. Hence, 6 > 0 and for x a number such that
+0 < Ix - cl < 6, it follows that both I f (x) - L1l < E/2 and l g(x) - L21 < E/2
+so that
+If (x) + g(x) - (L1 + L2)I = I (f (x) - L1) + (g(x) - L2)I
+5 if (x) - L11 + Ig(x) - L21 < e/2 + e/2 = e.
+Hence, corresponding to the arbitrary positive number e, the existence of a
+positive number 6 has been shown such that
+if 0 < Ix - cl < 6, then If(x) + g(x) - (L1 + L2)I < E.
+Hence, the function f + g has limit L1 + L2 at c. In a similar way, the
+function f - g has limit L1 - L2 at c.
+This proof was given here to demonstrate the method of proof. Proofs of
+II-V are given in Appendix Al, but the results will be used whenever convenient.
+As an example, we establish the existence and obtain the value of
+lim (5 + x2 ± 42). The usual procedure is to write
+x-+3
+lim(5+1'x2+4°-) =5+liml/x2+42=5+Jlim(x2+42)
+¢-3 x-3 x-+3
+2 =5+ JIlimx)+42=5+ (limxI(limx) + 42
+X-3 -3
+=5+132+42=10,
+not knowing the existence of any, except the last of these limits as it is
+written, but then mentally to reverse the steps to justify the existence of.each
+limit and equality by using I, II, III, IV, or V.Sec. 17 Limit Theorem 53
+The use of III is restricted to quotient functions whose denominator
+function has limit different from zero. If, however, both numerator and
+denominator functions have limit 0, it may be possible to determine the limit.
+5 - Vx2 + 42 1 Example. Show that lim x2 --9 10
+Solution. Both numerator and denominator functions have limit 0. However,
+5 - V/x2 - 42 5 - Vx2 -1142 5 - \/x2 + 42
+X2 - 9 X2 - 9 5 + //x2 = 42
+9 - x22
+(x2 - 9)(5 + VX2 + 42)
+-1
+= for x = =3.
+5 + Vx2 + 42 >
+In this form the denominator has limit 10 at 3 so that
+5 - Ix2 + 42 -1 1
+x- x2 - 9 - x-s 5 - VX2 1- 42 10
+PROBLEMS
+1. Using Theorem 17 find each of the following limits:
+a. lim (3x3 - 4x2 + 2). e. lim (2t - 6/t).
+x--2
+b. lim (5x3 - 2x + 3).
+x--2
+f. lim (h + 6h2 - 4).
+h--5
+x2-4x+1 6+Vh2-3h+
+c. urn 3x - 4 g. lim Z--3 h-o
+x2-4x+1
+d. lim 3x - 4 X-0
+2. Establish each of the following:
+1 - x2
+a. lim = 4.
+x--12 / 2+3
+-2
+b. lim
+1 +x
+x-.-12 - -%/x2 + 3
+h. lim
+x-2
+2-h
+3x + 3
+x2-5
+4
+\x+7-3 2
+d. lim = -
+x--2V'x+2-2 3
++ h - 6 1 e. lira
+h--o h 2;6
+1
+c. lim = 2. f. lim
+x--+12 - %/x2 + 3
+1 -x
+h--o h 3(6)2
+3 - Vx2 + x + 9 1
+g. lira
+x---1 x3 + 1 18 '54 Limits and Derivatives Chap. 2
+3. Use Theorem 17 to establish each of the following.
+1 - X2 1 1 1 1
+a. lim = 0. d. lim
+z-12+\/x2+3 h-.o h 2+h 2 4
+x - 2 8 1 1 1 1
+b. lim = - e. lim
+z-.2x2-V14+x 31 h-.-1h 2+h 2 2
+x - 2 1 1 1 f li - - 1 - 1 c. lim = z-.1x2- 14+x X15-1 . m
+h-.oh(\/2 +h 2 4V2
+4. By using the definition of a limit prove that the function
+a. f = {(x,y) 2x + 3y = 15} has limit 3? at 2.
+b. f = {(x,y) I y = 'x} has limit 2 at 4.
+c. f = {(x,y) y is the greatest integer less than x} has no limit at 2, but has limit
+2 at 2.1 and has limit 1 at 1.9.
+18. Limits of Trigonometric Functions
+By inscribing and circumscribing sequences of polygons, Archimedes'
+(c. 250 B.c.) "Method of Exhaustion" led him to conclude that the circumferences
+c and C, and the areas k and K of circles or radii r and R are
+such that
+c C k K
+2r 2R r2 R2
+This constant ratio is denoted by IT. The method of exhaustion is the genesis
+of the concept of definite integrals (Ch. 6). By means of definite integrals it
+can be proved, without using the next theorem, that the areas of two sectors
+of a circle are to each other as their central angles. It then follows that a
+circular sector of radius r units and central angle a radians has
+(1) area = a r2 units2.
+2
+(see page 578). This fact is used in proving the next theorem.
+I.
+THEOREM 18. With angles measured in radians
+lim
+sin x = 1, lim
+1 - cos x = 0,
+x-0 X z=O x
+II. lim sin x = 0, and lim cos x = 1
+x-0
+PROOF. Let x be a number such that 0 < x < ?r/2 and construct the
+angle of x radians in standard position. Let P(c,s) be the point where theSec. 18 Limits of Trigonometric Functions
+terminal side of this angle cuts the circle with center
+at the origin and radius 1. As illustrated in Fig. 18,
+sector OBC has radius c and thus has area c2x.
+Sector OAP has area 112X= Ix. Triangle OAP has
+base 1 and altitude s. Since area sector OBC <
+area A OAP < area sector OAP, then
+IC2x<Is<IX; i.e.c2x<s<x.
+2 2
+Hence s2 < x2 and thus 1 - C2 = S2 < x2 so that I
+Figure 18
+-X2 <C2.
+55
+Therefore
+(1 - x2)x < s < x. Since s = sin x, then upon dividing by x > 0
+1-x2<sinx<1 for 0<x<-.
+x 2
+sin (-x) -sin x sin x But (-x)2 = x2 and -x = -x = - so that x
+(2) X2<sinx<1 for 0<Ixi<7-.
+x 2
+Thus 1 = lim (1 - x2) < lim sin x
+< I so the first limit in I. is seen to hold. 'I
+x-o x-o x
+Consequently
+lim sin x = lim x sin x
+= 1,im x) (Xl-imO
+sin x)
+0 . 1 = 0
+x x-.o x
+which is the first limit of 11. Since 0 < cos x = \/ 1 - sin2x for 0 < IxI < '7r/2,
+the second limit of II. follows.
+Since sin2x = 1 - cos2x = (1 - cos x)(1 + cos x) we have
+lim 1 - cos x = lim sine x
+x-o x X- O x(1 + cos x)
+_ (lim sin x) ( ) 0 lim
+sin x
+= 1
+x -o x X- O 1 + cos x 2
+=0
+which is the second limit of I. and finishes the proof.
+tan x sin x I I
+Example 1. li m x X-O
+X cos x, = 1 1 = 1.
+t To apply the definition of a limit directly, choose 0 < e <7r/2 arbitrarily and set
+_ Ve. Hence, from (2), whenever 0 < IxI < 6 then
+1-e<sin x<1<l±e; sin x
+x56 Limits and Derivatives Chap. 2
+Merely by a change of notation, II may be written as
+limsinh=0 and limcosh = 1.
+h-.0 h-0
+Example 2. Prove that for x any given number, then
+lim cos (x + h) = cos x.
+h-*0
+Solution. We write the following (then check existence in reverse order)
+lim cos (x + h) = lim (cos x cos h - sin x sin h)
+h--'0 h-0
+= lim (cos x cos h) - lim (sin x sin h)
+h-}0 h-0
+= cos x lim cos h - sin x lim sin h
+h-0
+(cos x)(1) - (sin x)(0) = cos x.
+19. Composition Functions
+Let f and u be functions and let F be the function
+F = {(x,y) I y = f (u(x))}.
+The function F is called the composition off upon u. Notice that the domain
+of F is
+{x I x is in the domain of u and u(x) is in the domain off}.
+Thus, for x in the domain of F, then not only is x in the domain of u, but
+u(x) is in the domain off and
+F(x) = f (u(x)).
+For example if f and u are the functions
+f= {ty Iy= sin t and u={(x,t)It=xz-1}
+then the composition function F off upon u is
+F = {(x,y) I y = sinx(x2-i 1)} with domain {x I x ±1}.
+Hence, for x in the domain of this function F, then
+F(x) = 'in Xz2
+1 1) for x ±1.
+THEOREM 19. With c, a, and L numbers, let f and u be functions such that
+lim f (t) = L,
+t-.aSec. 19 Composite Functions 57
+let u be a function whose range, except possibly for u(c), is in the domain off
+and is such that
+(1)
+2-+C
+Then the composition function off upon u also has limit L at c:
+(2) lim f (u(x)) = L.
+X-.C
+This theorem is proved in Appendix Al. The following example illustrates
+its use.
+- 1)
+Example. Find lim
+sin (x2
+X-1 x2 -
+Solution. Make the identifications
+f (t) =s itn t, u(x) = x2 - 1 and c = 1.
+Since lim (x2 - 1) = 0, think of a = 0. Then from
+limsi-n t= 1
+t-+o t
+it follows from Theorem 19 that also
+sin (x2 - 1)
+lim x2-1 =1.
+X-1.
+By a similar procedure,
+seen that
+merely involving changes of letters, it should be
+sin (y2 - 4) - sin (z + 1) = sin (h/2) - km 2 y -4 - 1, lim - 1, and lim - 1. z-.-1 z + 1 h, .o h/2
+PROBLEMS
+1. Find each of the following limits:
+sin 3h
+a. lim = 3.
+h-.o h
+3 sin 5h
+b. lim. = 15.
+h-.o h
+sin2 h c. lim
+h
+= 0.
+h-0
+sine h
+d. lim = 1.
+h-0 h2
+e. lim h cot h = 1.
+h-.o
+u(x) 0 a for x c, but
+lim u(x) = a.
+f lim sin2 h - 2 sin h
+h-0 h
+1 - cosh 1
+g. lim h2
+h-.0
+tan 2 h
+= -2.
+2'
+h. li ohsinh = 1.
+sin (h/2) 1 i. lira
+h-.0 tan h 2
+j. lim
+V1 +sinh - 1 1
+A-0 h58 Limits and Derivatives Chap. 2
+2. In each of the following, find the limit at c of the composition function off upon u.
+a. f(t) _ 'v't + 3, u(x) =
+sinx c = 0 [Hint: lim sinx + 3
+x j
+b. f(t)
+sin t = t , u(x) = 3x2 + 6x - 9; c = 1.
+5t+4 2sinx-3
+c. f(t) t-2'u(x) sinx-1' c=0.
+d. f(t) = sin 2t
+tan t '
+sin 2x e. f(t) = 3t - 2, u(x) = -; c = 0. tan x
+3. In each of the following show that Jim u(x) does not exist, but that the limit
+exists at c of the composition functioXn- C off upon u. (Note: This shows that the
+conditions of Theorem 19 are sufficient but not necessary.)
+3t+4 3x+5
+a. f(t) 2t - 6' u(x) 3
+; c = 3.
+5t + 3 sinx 7r b. f(t) = 1 + t , u(x) 1 - sinx ' c 2
+2t - 5 3 + cos x
+C. f (t) 4 + t ' u(x) sinx ; c = 0.
+4. In terms of an appropriate composition function, justify eadh of the following:
+sin x(x - 2) sin x(x - 2)
+a. lxim2 x(x - 2) = 1 and Xur_n0 2(x - 2) = 0.
+'sin {(x + 3)n/4} 7r sin {(x + 3)7T/41 1 b. lim x+ 3 = 4 and urn
+x-: 3 x-.-3 x+ 3 6
+i/ l +sinx - 1 1 (1 + sin x)2
+c. lim = and lim
+- 1 = 2.
+x-.o X 2 x-.o X
+I - cos 2h 1 - cos 2h
+d. Jim = 0 and Jim 2 = 2.
+4-.o h A-0 h
+x-1 e. lim = 0 and urn
+x
+does not exist.
+X-1 x x-.l x - 1
+20. Continuous Functions
+DEFINITION. A function f is said to be continuous at c if'
+(1) 1im f (x) = f (c).
+x-cSec. 20 Continuous Functions
+Thus, a function f is continuous at c if the three questions:
+1. Is f (c) defined, i.e., is c in the domain off ?
+2. Does lim f (x) exist?
+1--c
+3. Does lim f (x) =f (c)?
+x-c
+59
+all have affirmative answers, but if any of the answers is "No" then f is not
+continuous at c. Turn to page 83 for illustrations of "No" answers.
+Since lim x = c, it follows that f is continuous at c if and only if
+z-c
+(2) lim f (x) = f (lim x
+2--C 2-C
+i.e., if and only if 'Y and lim may be interchanged."
+z-c
+The definition of a limit may be combined with the above definition to
+yield :
+A function f is continuous at c provided c is in the domain off and in
+addition, corresponding to an arbitrary positive number e there is a positive
+number 6 such that
+whenever Ix - cl < b, then f (x) - f (c)I < e.
+For example, the function f defined by f (x) = 21x1 is continuous at c for
+every number c, since for e > 0 then whenever x = c < of 2 follows that
+21x1 - 21cl 1 = 2 1 1x1 - IcI I < 21x - cl < 2 2 C.
+The greatest-integer function
+[ J = {(xiy) I y is the greatest integer less than or equal to x}
+is continuous at c if c is not an integer, but is not_-continuaus-at-c-if-c is an
+integer.
+The following theorem gives conditions under which a limit and a
+continuous function may be interchanged. For a proof see Appendix Al.
+THEOREM 20.1. For c and a numbers and for f and u Junctions such that
+lim u(x) = a
+¢-c
+and such that f is continuous at a, then
+lim f (u(x)) = f (a) = f (lirn u(x)) .
+Stated loosely, "If, in a composition function, the outside function is
+continuous, then the limit and the outside function may be interchanged,
+provided the inside function has a limit."60 Limits and Derivatives Chap. 2
+Since 0 < (sin x)/x < 1 for 0 < jxj < it/2 and since the square root
+function is continuous at 1, we may write
+lim
+/sin x = / lim sin x V1 = 1,
+X-0 x NNN x-o x
+but for the greatest-integer function [ ] we have
+0 = h_ m
+Isin
+z
+xJ* Ll
+sin x] = 1.
+Note that a function f is continuous at x if
+(1) lim f (x + h) = f (lim (x + h)) = f (x).
+h-.0 h-.0
+Thus, the cosine function is continuous at x for each number x (see
+Example 2 of Sec. 18) and in the same way the continuity of the sine function
+may be demonstrated.
+THEOREM 20.2. Given a number x and functions f and g continuous at x,
+then the sum function s = f + g and the product function p = fg are continuous
+at x, and provided g(x) 0 0 the quotient function q = fig is continuous at x.
+PROOF. We write, checking limits and equalities in progress,
+s(x) = AX) + g(x) (from the definition of the function s)
+= lim f (x + h) + lim g(x + h) (since f and g are continuous at x)
+h-0 h-.0
+= lim [f (x + h) + g(x + h)] (by Theorem 17 I)
+h-.0
+= lim s(x + h) (by the definition of the function s),
+h-0
+which shows that the sum function is continuous at x.
+In the same way (but using Theorem 17 II and 17 III, respectively) the
+product and quotient functions are continuous at x, provided that g(x) 0,
+for the quotient function q.
+Hence, for f continuous at x, the function f2 =f f is continuous at x,
+then f 3 =f2 - f is continuous at x, and for n a positive integer f n =f '2-1 f
+is continuous at x.
+DEFINITION. A function which is continuous at each number x in its domain
+is said to be a continuous function.Sec. 20 Continuous Functions 61
+Since the function {(x,y) I y = x} is continuous it follows, for n a positive
+integer and for a any constant, that the function {(x,y) I y. = ax"} is
+continuous. Now with ao, al, a2, , a" given numbers, the functions
+{(x,y) I y = ao}, {(x,y) I y = ao + alx}, {(x,y) y = ao + alx + a2x2}, .. .
+{(x,y) I y = ao + alx + ..+a"x"}
+is each in turn the sum of two continuous functions; that is, any polynomial
+function is a continuous function.
+Let p be a positive integer, let n be any integer, and let f be the function
+f = {(x,y) 1j, = x"'} _ {(x,_v)1 t' = 0/x)'t}; i.e.
+(2) AX) = (1/x),I
+whenever x is such that ?/x and are real. For example, and
+-V-1 for p even are not real. Also "x= 0 and n negative" is excluded.
+With xo > 0 and n, as well asp, positive
+lim from IV, page 51 and lim x)" _
+x-.-xa x-xo
+by repeated use of II, page 51. This proves the first case of the following
+theorem and the other cases should be checked.
+THEOREM 20.3. With p a positive integer, the function defined by (2) is
+continuous at x in each of the cases:
+(i) x>0andn>0.
+(ii) x any number, n > 0, p odd.
+(iii) x 0,n<0,podd.
+THEOREM 20.4. Let xo be a number and f a function such that:
+1. xo is in an open interval of the domain off,
+2. f is continuous at x0, and
+3. f (x0) > 0.
+Then there are numbers xl and x2 such that xl < xo < x2 and such that f is
+positive on the open interval I(xi,x2).
+PROOF. From 1 above select Si > 0 so the interval I(xo - S1, xo + 61) is
+in the domain of f. Corresponding to e = (I) f (xo), which is positive by 3
+above, let 6 > 0 be a number Sdi and such that if x is any number satisfying
+[x - x01 < 6 then I f (x) - f (xo)I < J f (xo); that is,
+.f (xo) - ++.f (xo) <f (x) <.f (xo) + '.f (xo)62 Limits and Derivatives Chap. 2
+Hence, from the left hand inequality alone, f is positive on I(x0 - S, xo. + S)
+which is the domain of f since 6 < bl. By selecting xl = xo - B and
+x2 = x0 + 6 we have numbers as stated by the theorem to exist.
+21. Tangents
+With f a given function, let x and x + h with h = 0 be in the domain
+off. Then the points
+Figure 21
+the domain off and if
+points has
+slope = f (x + h) -f(x) = f (x + h) -f(x)
+(x+h)-x h
+DEFINITION. Let f be a function and let x be
+a number in the domain off. If whenever JhJ is
+sufficiently small the number x + h is also in
+limy (x + h) -f(x) exists,
+h---O h
+then the line with the value of this limit as slope and passing through the point
+(x, f (x)) is said to be tangent to the graph off at the point (x,f (x)).
+Example 1. Show that the graph of y = 11x has a tangent at the point of the
+graph having abscissa 2.
+Solution. The point in question is (2, V2). Also, if -2 < h < 0 or 0 < h,
+the point (2 + h,,,12 + h) is on the graph. Moreover, by methods used previously
+lira
+VT-+h - '2 1 V2
+h-.o h 2 V2 4
+Since this limit exists, the graph has a tangent at the designated point and this
+tangent has slope m = 2/4.
+Notice that the line tangent to the graph of Example 1 at the point (2,V)
+has slope r2/4, and thus has equation
+y -1/2 = (\/2/4)(x - 2).
+Example 2. For the function f = {(x,y) I y = lxI} show that the graph does not
+have a tangent at the origin.
+Solution. Since
+(x, f (x)) and (x + h, f (x + h))
+(.+h,t(x+h)) are on the graph off f and the line joining these
+10+hi -101 h/h=1 if h > 0
+h = I -h/h = -1 if h < 0,
+the limit as h approaches zero does not exist.Sec. 21 Tangents 63
+THEOREM 21. If the graph of a. function has a tangent at a point, then the
+function is continuous at the abscissa of the point.
+PROOF. Let f be a function and x a number such that the tangent to the
+graph exists at the point (x,. f (x)). Consequently
+lim f (x + h) - f(x)
+h-.o h
+exists. Let m be the value of this limit. Guided by
+f(x + h) = f(x + h) - f(x) + f(x) =f(x + h) -f(x) h +f(x)
+we write, knowing the existence of each limit as we write it,
+f(x) = m - 0 +f(x) = 1imf(x + h)
+h
+f (x) lim h ±f(x)
+=lim{f(x + h) -f(x)
+h-0 h
+. h} +f(x)
+=lim{f(x±h)-f(x)+f(x)}=limf(x+h)..
+h-0 h-0
+But the fact that lim f (x + h) = f (x) means (see (1) of Sec. 20) that f is
+h--.0
+continuous at x, as we wished to prove,
+In establishing the existence of a tangent to the graph of a function, and
+obtaining the slope of the tangent when it exists, it is only necessary to
+evaluate a limit of the form
+(1)
+limf(x + h) -f(x)
+h-.0 h
+Example 3. Evaluate (1) given that f (x) = x3 - 4.
+Solution. For x any number,, f (x) = x3 - 4. For x and h any numbers, then
+x + h is a number and f(x + h) = (x + h)3 - 4. Thus, for x any number and
+ho 0
+f (x + h) -f(x) _ {(x + h)3 - 41 - {x3 - 41
+h h
+{x3 + 3x2h + 3xh2 + h3 - 4} - {x3 - 4}
+h
+3x2h + 3xh2 + h3
+= 3x2 + 3xh + h2, for h00.
+h64 Limits and Derivatives
+Consequently, for this particular function and any number x,
+lim
+f (X + h) - f (X) = lim (3x2 + 3xh + h2) = 3x2.
+h-.0 h h-.0
+Chap. 2
+PROBLEMS
+1. Find an equation of the line tangent to the graph of each of the following
+equations at the points of the graph with the given properties:
+a. y = v'x + 1; point with x = 1, point with x = 0.
+b. y = 1/x; point with x = 1, point with y = 2.
+c. y = 3x2; point with x = 2, point with x = -2.
+d. y = 3x2 - 4; point with x = 2, point with x = 0.
+e. y = 3x2 - 2x; point with x = 2, point with x =.
+f. y = 3x2; points with y = 12.
+g. y = 3x2 - 2x; points with y = 8.
+2. For each of the following functions f find the limit
+lim
+f (x + h) -f(x)
+h--0 h
+when it exists, and find the domain of numbers x for which it exists.
+a. f(x) = 2x + 1. f..Ax) = x'vx + 3, x -> -3.
+b. f(x) = x2 - 1. g. f(x) = x(x + 3) -1/2, x > -3.
+c. f (X) = (x2 - l)-1, Ixl 1. h. f (x) = '/x2 + 3.
+d. f(x) _ Vx + 3, x >- -3. i. f(x) = Jx2 + 3x - 4.
+e. f(x)=(x+3)-1/2,x> -3. j. f(x)=x+Vx+1,x>- -1.
+k.f(x)=V'x2-4+-Vx-1,x>-2.
+3. Sketch {(x,y) I x > 0 and y = x2} and {(x,y) I x > 0 and y = Vx}. Let (a,b)
+be a point on the first graph and find the slope of the tangent to this graph at this
+point. With the same numbers a and b, notice that the point (b,a) is on the other
+graph and now find the slope of the tangent to this graph at this point. Show that
+the two slopes are reciprocals of each other.
+22. Velocity
+A car going 50 miles in 2 hours is said to average 25 mi/hr. A particle
+moving along a coordinate line and having coordinate sl at time tl and
+coordinate s2 at time t2, with t2 tl, is said to have
+average velocity s2 - Sl = Sl - S2 (coord. units)/(time unit). t2 - tl tl - t2Sec. 22 Velocity 65
+For example, if the particle has coordinate 1 when t = j and coordinate
+when t = 4, then the average velocity during the time interval between t =
+andt=is
+2 (coord. units)/(time unit).
+DEFINITION. Given a law of linear motion as a function s and given a
+number tin the domain of s, then for h 0 0 and t + h in the domain of s,
+s(t -4- h) - s(t)
+(1) h (coord. units)/(time unit)
+is the average velocity during the time interval between time t and time
+t + h. Also, the limit (assumed to exist)
+s(t + h) - s(t)
+(2) hio h (coord, units)/(time unit)
+is the instantaneous velocity at time t.
+Example. Let distance be measured in feet and time in minutes and let the law of
+linear motion be
+s(t) = cos 77t.
+For t any number and h 0 show that the average velocity between time t minutes
+and time t + h minutes is
+(3) - h sin u (t + 2) sin (h) ft/min
+and that the velocity at time t minutes is
+(4) -lr sin ITt ft/min.
+Solution. The average velocity, directly from (1), is
+(5)
+s(t + h) - s(t) cos n(t + h) - cos in
+(t + h) - t h
+ft/min.
+This expression may be changed by using the trigonometric identity
+cos (a + fi) - cos (a - -2 sin a sin
+Upon setting a + # = i(t + h) and a - # = 7rt, it follows that 20C = ur(2t + h)
+and 2fl = 7rh so the right side of (5) may be replaced by (3), giving the average
+velocity as
+s(t + hh - s(t) = 2
+- h 2) (T h) sin (t + - sin h ft/min.66 Limits and Derivatives
+To find the instantaneous velocity, write
+s(t h) - s(t) 2 ( 2) 2 /
+Jim - lim sin i t - - sin h
+h-o h-o
+_ -21lim sin n(t + h
+h
+I
+sin h
+I h
+2
+2 h J
+_ -2{sin art} {2} _ -IT sin 7Tt ft/min.
+23. Derived Function
+Chap. 2
+In obtaining tangents to curves and velocities in linear motions, an
+essential feature is the determination of such limits as
+limf (x + h) -f(x) and lim s(t + h) - s(t)
+h-.o h h-.0 h
+Later on it will be seen that limits of this form will have other applications.
+The study of such limits without specific interpretations of the functions
+involved is more inclusive than a development restricted by a physical or
+geometric meaning at each step.
+DEFINITION. Given a function f, the function f' defined by
+(1) {(X,Y) I Y =
+limf(x + h) -f(x)}
+h-.o h
+is called the derived function off. For x in the domain off', the number
+f'(x) is called the derivative off at x, and
+f'(x) = limf (x + h) -f(x)
+h-.o h
+In particular, if x is in the domain of f', then certainly x is in the domain
+off (since f (x) must be defined), but moreover the limit in (1') must exist.
+Hence, the domain off' is a subset of (and may be all of) the domain off.
+Thus, for a function f, a number x is in the domain of the derived function
+f' if and only if
+lim f (x + h) -f(x) exists.
+h-.o hSec. 23 Derived Function
+Also, if x is in the domain off', then
+f'(x) = limf(x + h) -f(x)
+h-.o h
+Example. Given that f is the function defined by
+f(x) = 'fix -+3 for x >- -3,
+find the derived function f'. Also, determine the domain off'.
+{x,y x - Vx+3} Solution. f ) y = lira + h+ 3
+h-.o h
+(XY) I y = lim Vx+h+3-fix+3
+h Vx+h+3+Vx+3
+= I y = lim
+(x + h + 3 (x + 3)
+h=o h(Nlx + h + 3 + Vx + 3)1
+t (x,y)Iy=lim
+1
+h-.0 '/x+h+3+ Vx+
+67
+{(x.)lY 2YX±3).
+Thus, the domain off is {x I x >- -3}, whereas the domain of the derived function
+f' is {x I x > -3}.
+THEOREM 23. Given a function f, if x is in the domain of the derived function
+f', then f is continuous at x.
+PROOF. We must show that lim f(x -+ h) = f(x) for x in the domain
+off'. We write h-o
+limf(x+h)=1im ff(x + h) - f(x) h+f(x)}
+71-0 h-0 h J
+f(x+h)-f(x) = lim Im. h +f(x) =fi(x)' o +f(x) =f(x)
+h--o h h-o
+and then retrace all steps in reverse order to make sure that each limit exists
+and each equality holds.
+PROBLEMS
+1. Given, for t any number satisfying 0 -< t -< 2 that t sec after a body is thrown in
+the air it will be s(t) = 32t - 1612 ft above the ground.
+a. Find the average velocity of the body during the time interval between ?} and
+sec; between a and 1 sec; between t and 4 sec.
+b. For 0 < t < 2 find the velocity of the body t sec after it is thrown.CHAPTER 3
+Applications of Derivatives
+The derivative at x of a function f (as defined in Chapter 2 by
+f '(x) = lim f (X + h) - f (X)
+h-0 h
+provided the limit exists) is a purely analytic notion. As already seen, however,
+derivatives may be interpreted geometrically in terms of slopes of tangents to curves
+or physically in terms of velocities of moving particles. In this chapter these
+interpretations and others are exploited in attacking practical problems.
+The innocent appearing Mean Value Theorem for Derivatives (Sec. 32) should
+not be dismissed after its immediate application here; it will be the key to several
+developments at strategic points later on.
+28. Equations of Tangents
+Given a function f and a number x, in the domain off ', then the point
+(x,, f (x,)) is on the graph off, the line tangent to this graph at this point
+has slope m = f'(xl) and an equation of this tangent line is
+Y - f(xl) = f '(xl)(x - x,).
+Example. Given f = {(x,y) I y = V2x2 + 1}, find an equation of the line
+tangent to fat the point of the graph with abscissa 2.
+Solution. First f(2) = 2.22 + 1 = 3 so that (2,3) is the desired point. Also
+4x 2x f'(x)=DxV2+1 =2V2x2+1 '2x2+1
+and, thus, m = f'(2) = 4/ J2 22 + 1 = s is the slope of the tangent line at the
+point (2,3). Hence, the tangent has equation
+y-3=a(x-2) or 4x - 3y + 1 = 0;
+that is, {(x,y) I 4x - 3y + 1 = 0} is a straight line which is tangent at the point (2,3)
+to {(x,y) l y = -+I).
+84sec. 29 Solutions of Equations 85
+29. Solutions of Equations
+DEFINITION. Let f be a function and c and L numbers. If corresponding
+to each arbitrary positive number e, there is a number b > 0 such that
+whenever c< x< c+ b, then I f (x) - L I< E
+we write
+(1) lim f (x) = L.
+x-c+
+For example,
+lim(1+Vi)=1.
+X-0+
+With e > 0 chosen arbitrarily, Fig. 29.1 illustrates
+a S > 0 such that Figure 29.1
+I
+the meaning of the definition for this example. Also, we may let x approach
+c = 0 only through positive values (geometrically, only from the right).
+The symbolism (1) is read "The limit from the right of f at c is equal
+to L." In case L =f(c) the function is said to be right continuous at c. In a
+similar way the limit from the left, and left continuity, are defined.
+A function f is said to be continuous on a closed interval I[a,b] if f is
+continuous at x for a < x < b, right continuous at a, and-left continuous at b.
+THEOREM 29. Let f be a function continuous on a closed interval I[a,b].
+If f(a) and f(b) have opposite signs, then there is a number x* such that
+a<x* <bandf(x*)=0.
+PROOF in case f (a) < 0 < f (b). Let A be the set defined by
+A = {x l a< x< b and f(x) < 0}.
+The set A certainly contains the number a since f(a) < 0. Also, the set A
+is bounded above by b. Thus (see the axiom on p. 10) the set A has a least
+upper bound which we call x*. We now show that a < x* < b and f (x*) = 0.
+Sincef(a) < 0 and f is right continuous at a, there is a number x > a such
+that f is negative on I [a,x). Hence x < x*. In the same way there is an x such
+that f is positive on I(z,b]. Hence x* < z. Thus a < x < x* < z < b so that
+(2) a < x* < b. -J Now f is continuous at x*. Iff(x*) were > 0, r Il f(x*) +1___- ]
+then f would be positive on an interval I(xl,x2) were>0. xl% x x2
+Figure 29.2
+with xl < x* < x2 and this would mean that x* is not the least upper
+bound of A, which is a contradiction. Consequently f (x*) < 0. In a similar
+a a86 Applications of Derivatives Chap. 3
+way it follows that f (x*) is not <0. Thus f (x*) = 0 which, together with
+(2), is what we wished to prove.
+Example. Show that 2x4 - 9x3 - x2 + 25x + 11 = 0 has a root between 3
+and 4.
+Solution. The function f = {(x,y) I y = 2x4 - 9x3 - x2 + 25x + 1l} is continuous
+(see page 61), and hence it is sufficient to show that f (3) and f(4) have
+opposite signs. To review a synthetic process, sometimes given in algebra, note that
+f (x) = 2x4 - 9x3 - x2 + 25x + 11
+= {[(2x - 9)x - 1]x + 25}x + 11.
+Thus f(3) = {[(2 3 - 9)3 - 1]3 + 25}3 + 11. This computation may be arranged
+as
+2 -9 -1 25 11 I3
+6 -9 -30 -15
+2 -3 -10 -5 -4 so that f(3) = -4.
+Similarily, to find f(4) we write
+2 -9 -1 25 11 L
+8 -4 -20 20
+2 -1 -5 5 31 so that f(4) = 31.
+The following intermediate value property will be used later.
+COROLLARY. Let f be a continuous function on I [a,b] such that f (a) of (b)
+and let y* be a number actually between f (a) and f (b). Then there is a number
+x* such that a < x* < b and f (x*) = y*.
+PROOF. Let g be the function defined by g(x) = f (x) - y*, note that g is
+continuous on I [a,b] with g(a) and g(b) having opposite signs, apply Theorem
+29 to obtain x* such that a < x* < b and g(x*) = 0, and finally note that
+f (x*) = y,*.
+In the next section it will be shown how derivatives may be used to aid in
+the solution of equations.
+PROBLEMS
+1. Find equations of lines tangent to {(x,y) I= y 2x3 - 8x2 + 5):
+a. At the points (0,5), (1, -1), and (-1, -5).
+b. At points of the graph where the slope is 0.
+c. At the point of the graph having abscissa 3.Sec. 29 Solutions of Equations 87
+2. Let f(x) = x3 + 3x2 - 3x - 4. In the example of Sec. 29 it was explained
+why, in the accompanying array, that
+f(2) = 10. Explain why, by continuing
+the array as shown that f '(2) = 21. By
+using this scheme for finding values off
+and f', find an equation of the tangent
+to the graph of y = f(x) at the points:
+1 3 -3 -4 12
+2 10 14 -
+1 5 7 10 = f (2)
+2
+14
+1 7 21 = f'(2)
+a. (1,f(1)). b. (-l,f(-1)). c. (-5,f(-5)). d. (5,f(5)). e. (-3,f(-3)).
+3. Find the equation of the tangent to each of the following graphs at the point of
+the graph indicated.
+2\'5x+I
+a. y =
+X2
+, point with abscissa 3.
+b. y = (x + 1) %''x2 + 4, point with abscissa
+c. y = x2 - 5x + 5, point with ordinate -1.
+d. y = sin x + cos x, point with abscissa 77/4.
+e, y = sin x cos 2x, point with abscissa a/3.
+4. Verify that between two points where each of the sets intersects the x-axis there
+is a point of the set where the tangent has slope 0; that is, where the tangent is
+parallel to the x-axis.
+a. {(X,y) y = x3 - 3x). d. {(x,y) I y = (x + 1)(x - 2)}.
+b. {(x,y) I y = sin x}. e. {(x,y) I y = 2 sin x + sin 2x}.
+c. {(x,y) I y = sin x - cos x}. f. {(x,y) I y = cos x + cos 2x}.
+5. Verify that between two points where the set intersects the x-axis there is no
+point where the tangent to the set has slope 0.
+a. (xy) I y =
+x I
+b. {(x,y) I y = tan x}. c. {(x,y) I y = 1 - lxl}.
+6. Prove: If f is a function and c is a number such that the left and right limits at c
+both exist and are equal, then the limit off at c exists.
+30. Newton's Method
+In this section an intuitive discussion is given of Newton's method of
+starting with an approximation xl of a solution of an equation f (x) = 0 and
+successively obtaining numbers . x2, x3, - - which, under appropriate
+conditions, are better and better approximations of a solution.
+Let f be a function whose derived function f ' exists and is not zero
+wherever we wish to use it, and let f be such that {(x,y) I y = f (x)} intersects
+the x-axis at a point (x0,0) so that f (xo) = 0. Ordinarily the number x0 will
+not be known exactly, but by some means (such as the one of Sec. 29) an88 Applications of Derivatives Chap. 3
+approximation x1 of xp can be found. Then the tangent to the graph at the
+point (xl, f (xl)) has equation
+Y - { J (xl) = f'(xl)(x - xl).
+By setting y = 0 and solving for x, this tangent crosses the x-axis at the
+point (x2,0) where
+x2
+_-
+x1 f /(xt)
+f (xl)
+Now, by proceeding with x2 as we did with x1, we obtain
+(1)
+x3 = x2
+)
+, then x4 = x3 - f (x3) etc.,
+f xz
+xn = x,3-1 - f(xn-1) for n > 2.
+f(xn-1)
+With a starting value x1 given, or obtained by an intelligent guess, the
+numbers-x2, x3, . are called Newton iterates.
+A B
+Figure 30.1
+C
+At this point in the book it is not feasible to give conditions and prove
+them sufficient to insure that for each positive number e there is an integer N
+such that
+whenever n > N then Ix,, - xol < E.
+Such questions are considered in a course on numerical analysis. An
+Figure 30.2
+examination of the curves of Fig. 30.1 should,
+however, indicate that if a curve continues "to
+bend" in the same direction on the interval
+joining the points (x1,0) and (x0,0), then the
+Newton iterates x2,x3, seem to approach
+the solution x0.
+Figure 30.2 illustrates a situation in which
+x2 is not a better approximation than x1 to the
+desired solution.
+Example 1. Given f(x) = 2 cos x - x2 and the
+starting value x1 =7T/3 as an approximation of a
+root of J'(x) = 0, obtain Newton iterates until two successive iterates agree to
+three significant figures.Sec. 30 Newton's Method 89
+Solution. Firstf'(x) = -2(sin x + x). By using the radian column of Table 2,
+we have x1 =7r/3 = 1.0472,
+2(0.5000) - (1.0472)2
+x2 = 1.0472 - = 1.0219
+-2(0.8660 + 1.0472) ,
+2(0.5217) - (1.0219)2 0.0009
+x3 = 1.0219 - -2(0.8531
++ 1.0219) = 1.0219 -
+3.75
+Since to three significant figures x2 = x3 = 1.02, we have proceeded as far as
+directed in this example. We followed the usual
+practice of allowing more figures in intermediate
+computations than are eventually retained.
+Note: The above example stemmed from the
+problem of solving the equation 2 cos x = x2.
+Solutions of this equation are the same as those
+of f(x) = 0, where f(x) = 2 cos x - x2. Easy
+substitutions gave f(0) = 2 and f(7r/2) = 0 -
+(Tr/2)2 which have opposite signs, so (by the
+continuity of f) a root is between x = 0 and
+x = ir/2. We could have used x1 = or/2. It is,
+however, highly desirable to have a close starting
+value so we sketched the graphs of
+y = 2 cos x and y = x2.
+These graphs (Fig. 30.3) intersected at a point
+Figure 30.3
+whose abscissa seemed closer to in/3 than to 7r/2, so we chose x1 = it/3.
+Example 2. For A a positive number and x1 an approximation of V'A, show
+that the Newton iterates for the function f defined by f (x) = x2 - A are
+x2 =
+2
+(X, + X ! , x3 = 2
+'(x2+ -), etc.
+1 2
+Let A = 3 and use x1 = 2 as an approximation of V3. Compute the above Newton
+iterates for these values, continuing computation until two successive iterates agree
+to three decimal places and note the agreement with /3.
+Solution. Since f (X) = x2 - A, then f '(x) = 2x so that
+f (x1) x2 - A 2x2 - x2 + A xz = xl - f,(xi) = xl 1 A l
+2x1 2x1 2
+(XI
++ x1/
+By analogy the formula for x3 in terms of x2 is obtained, etc. Hence, with A = 3
+and x1 = 2, these iterates (with at most three decimal places kept) are
+x2
+l
+=212+2) 1.75,
+x3 = 11.75 + 75) = 0.8750 0.8571 = 1.7321,
+x4 = 2 (1.7321 +
+1 7321 / = 0.8661 + 0.8660 = 1.7321.90 Applications of Derivatives Chap. 3
+Since the five decimal approximation of V3 is 1.73205, the above values for x3
+and x4 are accurate approximations of 1/3 as far as they go.
+In many practical problems the functions involved are not exact and an
+actual solution of an equation f(x) = 0 may be no more meaningful than a
+number x* such that, for example, l f'(x*)I < 5 x 10-3. If x. is a Newton
+iterate, then in finding x,, the value of is computed so that at each
+stage the nearness to zero of the value of the function may be seen although
+the nearness of x, to a solution of f(x) = 0 may not be gauged without
+further analysis, which we do not go into here.
+If Fand G are functions and c is a positive number, the imprecise directive
+"Solve F(x) = G(x) ± c" is sometimes used to mean "Find a number x* such
+that IF(x*) - G(x*)l < c. Newton's method applied to f(x) = F(x) - G(x)
+is one means of attack. It may happen, even if c is relatively small, that a
+"solution" of F(x) = G(x) ± c is not a good approximation of a solution of
+F(x) = G(x).
+In spite of the indefiniteness shrouding the present discussion of Newton's
+method, this method is useful when applied with discretion. Conditions under
+which Newton iterates approximate a solution to any desired precision are
+given, and proved to be sufficient, in a course on numerical analysis.
+PROBLEMS
+1. For the equation f(x) = 0 obtain a starting value xl and compute Newton
+iterates until they agree to two decimal places.
+a. f (x) = 3x2 - 4x - 5. c. f (x) = x - 1 + sin x.
+b 3 12 65 . f(x) = x - . d ) - 3 + 4 . . f(x = x . x2 + 4
+2. "Solve"
+a. x3 + 45x = (12x2 + 35) i 5 x 10-2. C. cos x = x ± 5 x 10-3.
+b. x3-12x+22=0±5 x 10-2. d. x2-1 =sinx±5 x 10-3.
+3. Find an iterative process for approximating 'VA.
+4. Find an iterative process which does not involve division for approximating 1/A.
+By starting with xr = 0.1 as an approximation of S show that x4 = 0.1666.
+(Note: In an electronic computer the equipment for performing division is more
+complicated than for multiplication. For this reason some electronic computers
+do not have the necessary equipment to perform the operation B/A directly, but
+the operator instructs the machine to compute 1/A by the process of this problem
+and then to multiply 1/A by B.) (Hint: Setf(x) = l/x - A.)
+31. Maxima and Minima
+A function f is said to have maximum M if there is a number c such that
+f(c) = M and f(x) < M for all x in domain f. A value f(xo) is a relativeSec. 31 Maxima and Minima 91
+maximum if f (x) < f(xo) for all x in the intersection of domain f and some interval
+centered at x0 (even if x0 is
+an end-point of the domain off).
+The minimum and a relative minimum
+off are defined in a similar
+way.
+Figure 31.1 shows a function
+with domain I[a,b] having:
+max. f(b),
+rel. max. f (b), f (xl), and f(x3) a xl x2 I x3 x4 xb b
+min. f (x2),
+rel. min. f(a), f(x2), and f(x5). Figure 31.1
+THEOREM 31.1. Let f be a function and x0 a number such that f'(xo)
+exists and f'(xo) 0 0. Then f(xo) is neither a relative maximum nor a relative
+minimum Off.
+PROOF. CASE 1. f'(xo) > 0. Choose a number E > 0 such that
+0 < f'(xo) - E. Let 6 > 0{ be such that whenever 0 < Ix - x01 < 6 then
+(1) -E <J (x) -J (x0) -J '(x0) < E.
+x - X0
+Hence, from the left hand inequality only, whenever x0 - S < x < x0 or
+x0 < x < x0 + 6, then
+0 < f'(X0) - E < f (X) - f(x0)
+x-X0
+The numerator is negative if -S < x - x0 < 0, but is positive if
+0 < x - x0 < 6. Thus f (xo) is neither a relative maximum nor a relative
+minimum off.
+CASE 2. f'(xo) < 0. The proof is similar; by choosing 0 < E < f'(x0)
+and using the right hand inequality of (1).
+DEFINITION. A critical value for a function f on I[a,b] is any value
+x0, a < x0 < b, such that either:
+x0 = a, x0 = b, f'(xo) = 0, or f' does not exist at x0.
+A logical deduction from Theorem 31.1 is:
+COROLLARY. On a closed interval I[a,b], a relative maximum or relative
+minimum of a function f can occur only at a critical value for f on I[a,b].
+Note that f = {(x,y) I y = x - (the greatest integer < x)} has no maximum
+(even on I[0,1]), since each value off is actually <1, but f has values greater
+than any given number <1.
+The function {(x, y) I y = x + I fix} has neither a maximum nor a minimum
+on l[ - 1, 1].92 Applications of Derivatives Chap. 3
+It is, however, true that:
+THEOREM 31.2. If a function f is continuous on a closed interval I[a,b], then
+f has a maximum, and a minimum on I [a,b]; that is, there are numbers x and 9
+such that a < x < b, a < z < b, and if a < x < b, then
+f(x) < f(x) < f(X).
+This theorem is proved in Appendix A2. In particular, Theorem 31.2
+and the corollary to Theorem 31.1 imply the validity of the following test,
+which may be applied to determine the maximum and minimum values of a
+continuous function on a closed interval.
+TEST 1. The maximum and minimum of a continuous function on a closed
+interval I[a,b] may be obtained as follows:
+(i) Find all critical values off on I[a,b]; that is, note a and b, find all
+solutions off '(x) = 0 which are in I(a,b), and find all values of x in I(a,b) which
+are not in the domain off'.
+(ii) Compute f(x) for x each of the critical values and among the numbers
+obtained, the largest is the maximum and the smallest is the minimum off on
+I[a,b].
+Example 1. For f the function defined by
+f (x) = x1/3(x - 3)2/3, -1 < x < 4
+find all critical values. Also, find the maximum and the minimum off on I[-1,4].
+(1, 3-) (4, -4)
+(-1,- V-16 )
+Figure 31.2
+Solution. From derivative formulas developed earlier
+2 X113 1 (x - 3)2/3 x - 1
+PX) = 3 (x - 3)1/3 + 3 x2/3 x2/3(x - 3)1/3
+for x 0 0 and x 0 3.
+Thus, critical values off on I[-1,4] are:
+x = -1, x = 4 (end points of the interval)
+x = I (since f'(1) = 0)
+x = 0, and x = 3 (values on I[-1,4] but not in the domain of f')
+Now f(-1) (-1)1/3(-4)2/3 = -"16, f(4) = ti'4, f(l) = 11/3(_2)2/3 =
+f(0), = 0, and f(3) = 0. Thus, the minimum value of the function is - X16Sec. 31 Maxima and Minima 93
+(occurring when x = -1), whereas the maximum value is f4 (occurring both when
+x = 1 and when x = 4). Figure 31.2 is a graph of f.
+The following examples illustrate applications of maxima and minima.
+Example 2. A pan is to be made from a rectangle of tin 6 in. x 10 in. by cutting
+squares of side x in. from each corner and turning up the
+tin to form the sides and ends of the pan. Find the pan of
+largest volume which can be so made.
+Solution. The pan will have length 10 - 2x in., breadth
+6 - 2x in., where 0 S x < 3, depth x in., and thus volume
+V(x) in3 where
+V(x) = (10 - 2x)(6 - 2x)x
+= 4(x3 - 8x2 + 15x), 0 < x - 3.
+Since V(x) = 4(3x2 - 16x + 15) exists for x on I(0,3],
+and on this interval the only solution of V'(x) = 0 is
+8-"19
+x = 3
+,x
+S
+10"
+6"
+Figure 31.3
+we see that-this value together with x = 0 and x = 3 are the only critical values.
+19\
+Since V(0) = 0 and V(3) = 0, whereas V
+(t8 -
+3
+V
+) > 0, it follows that (to
+within slide rule accuracy) the values of x to use and the maximum volume are
+8-x/19 x =
+3
+= 1.21 and V(1.21) = 32. 8 in3.
+Example 3. At 1230' (Navy time) one ship is steaming north at 12 knots and
+is 25 nautical miles due south of a second ship steaming due west at 9 knots. Find
+when the ships are closest together and their distance apart at
+9t T this time.
+Solution. Starting to measure time t in hours from the
+i I described instant, the number s(t) of miles apart, and an
+appropriate time interval are (see Fig. 31.4),
+25
+12t
+s(t) = \/(25 - 12t)2 + (9t)2, 0 < t < 25/12.
+Since s'(t) =
+2(25 - 12t)(-12) + 2(9t)9
+2s(t)
+75(-4 + 3t) 25
+Figure 31.4 = s(t) 0 < t <
+12'
+we see that s'(t) = 0 if and only if t = a = 11201. The critical values are thus
+t=0,t=eiandt=!. Since
+s(0) = 25, s(s) = 15, and s(I) = 4,
+the closest approach occurs at 1230' + 1'20' = 1350' and this shortest distance is
+15 nautical miles.94 Applications of Derivatives Chap. 3
+In solving such problems a sequence of steps to follow is:
+1) Express the quantity to be maximized or minimized as a function.
+[The problem may be stated in terms of letters as constants, and it may be
+convenient to introduce new letters to express the given relations. Then, by
+using conditions of the problem, all except two of the introduced letters must
+be eliminated (one of them representing a function expressed in terms of the
+other as independent variable).]
+2) For the independent variable, determine the significant interval whose
+end points are therefore critical values.
+3) Determine additional critical values by examining the derivative of the
+function.
+4) Since the largest and smallest values of the function (whichever is
+pertinent to the problem) occur at critical values, determine the desired
+maximum or minimum.
+Example 4. Of all right circular cones inscribed in a sphere of radius R, find the
+one having largest volume.
+Solution. For this problem R is a constant. A right circular cone of radius r
+and altitude h has volume V where
+Figure 31.5
+V = 3rrr2h.
+Since, however, the cone is inscribed in a sphere of
+radius R, then (see Fig. 31.5) r, h, and R are related by
+r2 = R2 - (h - R)2 = 2Rh - h2.
+Thus, the volume in terms of h and bounds for h are
+V(h) = 37(2Rh - h2)h, R 5 h < 2R.
+Since V'(h) = 3ir(4Rh - 3h2) 3irh(4R - 3h), the only
+additional critical value of h is h = 4R/3. A check
+shows that V(R) = 3rrR3, V(2R) = 0, and V(3R) =
+81 IrR3. Thus, the largest possible volume is $-rrR3.
+PROBLEMS
+1. For each of the given functions, find all critical values and also the maximum and
+minimum of the function.
+a. f = {(x,y) 0 < x < .7r and y = sin x}.
+b. f = {(x,y) I -rr/4 < x < 7r/4 and y = sin x}.
+c. f = {(x,y) -1 < x < 1 and y = x2}.
+d. f = {(x,y) -1 < x < 1 and y = x3}.
+e. f = {(x,y) 0 < x < 6 and y = '/x(x - 5)1/3}.
+f. f = {(x,y) 5 < x < 14 and y = 3(6 - x)2/3(x - 13)5/3}
+g. f = {(x,y) I 0 < x < 2ir and y = sin x + cos x}.Sec. 31 Maxima and Minima 95
+h. f = {(x,y) 0 < x < 2ir and y = cos x - sin x}.
+i. f={(x,y)l 0<x<7r and y=jx+sinx}.
+j. f = {(x,y) 10 < x < 7r and y = x + cos x}.
+2. Work Example 2 with a sheet of tin (a) 12 in. x 18 in., (b) 12 in. x 12 in.
+3. A box with a lid is to be made from a sheet of tin by
+cutting along the dotted lines as shown in Fig. Prob. 3.
+The tin is turned up to form the ends and sides and the
+flap turned over to form the lid. Find the dimensions
+of the box of largest volume which can be formed if the
+sheet is:
+a. 12 in. x 12 in.
+L.J
+rb.
+14 in. x 30 in.; squares cut from a 14 in. side. Figure Prob. 3
+4. Of all right circular cylinders inscribed in a sphere of radius R, find the one of
+largest
+C/a. Volume. b. Lateral Area. c. Total area.
+5. Find the rectangle of greatest area which can be inscribed in:
+a. A circle of radius 4. b. A semicircle of radius R.
+c. An isosceles triangle of base 10 and altitude 10.
+d. An isosceles triangle of base B and altitude H.
+e. An isosceles trapezoid with bases 10 and 6 and altitude 8.
+6. In Fig. Prob. 6, find the value of x,
+where 0 < x < 5, which minimizes
+the given expression, and find the
+minimum of the expression.
+a. AP + PB
+b. (AP)2 + (pB)2
+c. (AP)2 + 2(PB)2
+d. (AP)2 - (pB)2
+5
+Figure Prob. 6
+e. Area AA'P + area PB'B.
+f. Area APB.
+7. Find the dimensions of the rectangle of perimeter 36 which will sweep out a
+volume as large as possible when revolved (a) about one of its sides; (b) about a
+line parallel to a side and one unit away.
+8. The set {(x,y) 10 S x 5 1 and x2 < y < x} is a region. Revolve this region:
+a. About the x-axis and find the largest vertical cross section.
+b. About the y-axis and find the largest horizontal cross section.96 Applications of Derivatives Chap. 3
+9. a. Sketch {(x,y) I x > 0 and y = 1/x} and the line whose equation is y = mx
+m > 0. Find the point where these graphs intersect, draw the tangent to the
+curve at this point, and find the point where this tangent intersects the
+x-axis. With these two points and the origin as vertices of a triangle, find an
+expression for the area A(m) of the triangle.
+b. Work Part a with y = 1/x replaced y = 11x2.
+32. A Mean Value Theorem
+The theorems proved in this section have immediate applications in
+maximum and minimum considerations, but are used again in Chap. 4 and
+form the basis of much of the development in Chap. 12.
+THEOREM 32.1 (Rolle's Theorem).
+Let g be a function such that
+(i) g is continuous on a closed
+(a,0) interval I[a,b],
+(xo,o) (b,O) (ii) g' exists on the open interval
+I(a,b), and
+Figure 32.1 (iii) g(a) = g(b) = 0.
+Then there is a number x0 such that
+(1) a < xo < b and g'(xo) = 0.
+PROOF. Since g is continuous on the closed interval I[a,b], it has a
+maximum M and a minimum m on this interval. (See Theorem 31.2.)
+Consider. three cases.
+CASE 1. M > 0. Let x0 be on I[a,b] and g(xo) = M. Then by (iii)
+(2) a < xo < b.
+Thus, g'(xo) exists because of (ii), but then g'(xo) = 0 because of Theorem
+31.1. Then (1) holds in this case.
+CASE 2. m < 0. The proof is similar to the proof in Case 1.
+CASE 3. M < 0 and m z 0. Since m < M we have M = m = 0 so that
+g is constant on I[a,b]. Thus, g'(x) = 0 for a < x < b and we select for x0
+any number in I(a,b).
+Since these cases include all possibilities, the proof is complete.
+Rolle's Theorem is used in proving the Mean Value Theorem for
+derivatives, which is sometimes called the Law of the Mean for derivatives.
+THEOREM 32.2 (Mean Value Theorem for Derivatives). Let f be a junction
+which satisfies the conditions:
+(i) f is continuous on the closed interval I[a,b],
+(ii) f' exists on the open interval I(a,b).Sec. 32 A Mean Value Theorem
+Then there is a number in the open interval I(a,b) such that
+(3) f(b) = f(a) -}- (b - a < < b.
+PROOF. Let g be the function defined on I[a,b] by
+(4) g(x) =.f(x) -f(bb - a(a) (_): - a) - f(a), a < x < b.
+97
+(Note: A way of remembering (4) is to write the equation of the chord joining
+(a,f(a)) to (b,f(b)) as
+(5)
+(b) -,f (a)
+Y b - a (x - a) ± f(a),
+and then subtracting this expression fromf(x) to see thatg(x) is the vertical distance
+(or its negative) between points of the curve and the chord.)
+By substituting into (4), g(a) _
+g(b) = 0 and since
+g,(x) =.f '(x) - f(b) - f(a)
+b-a
+a<x<b a,01 (x,0) (i;,0) (b,0)
+Figure 32.2
+the conditions of Rolle's Theorem are satisfied. Hence there is a number
+such that a < < b and g'(e) = 0; i.e.
+0 f(b) - f(a) b-a
+which is equivalent to (3).
+A geometric interpretation of Theorem 32.2 is: On a smooth arc there is
+a point where the tangent is parallel to the chord.
+DEFINITION. A function f is said to be non-decreasing on I[a,b] if
+whenever x1 and x2 are numbers such that a < x1 < x2 < b, then
+(6) f (x1) :-<f(x2)-
+By replacing (6) by f (xo > f(x2) the definition off being non-increasing is
+obtained. j-
+THEOREM 32.3. If f is a continuous function on I[a,b], if f' exists on I(a,b),
+and
+(i) if f'(x)' > O for a < x < b, then f is non-decreasing on I[a,b], but
+(ii) if f'(x) S O for a < x < b, then f is non-increasing on I[a,b].
+t Some books use "monotonically increasing" in place of "non-decreasing," and
+"monotonically decreasing" in place of "non-increasing."98 Applications of Derivatives Chap. 3
+PROOF. Assuming f satisfies the conditions (i), let x1 and x2 be numbers
+such that a < x1 < x2 < b. Then the conditions of Theorem 32.2 are
+satisfied on the interval I[x1,x2]. Thus, let x0 be such that
+(1) x1 < x0 < x2 and f(x2) = f(x1) + (x2 - xl)f'(XO)
+Hence, a < x0 < b so that f'(x0) 0 whereas x2 - xl > 0 and thus
+f (x2) - f (x1) _ (x2 - x1)f'(x0) > 0.
+Consequently f(x1) < f(x2), which states that f is non-decreasing on I[a,b].
+In case (ii) all statements down to and including (1) hold, but now
+(x2 - x1) f'(x0) < 0 so that f(xl) > f'(x2) and f is non-increasing on I[a,b].
+A paraphrase of Theorem 32.3 is the following test which may be used in
+connection with maximum-minimum problems. (See p. 92 for Test I.)
+C
+Figure 32.3 Figure 32.4
+C
+TEST II. For f a continuous function and
+TT1 f <o c in the domain off, if f'(c) does not exist or if f '(c) = 0, then the value off (c) is:
+'<0 (i) A relative maximum (see Fig. 32.3)
+C
+Figure 32.5
+C
+if there are numbers x1 < c < x2
+such that f' z 0 on I(x1,c) but
+f S 0 on I(c,x2).
+(ii) A relative minimum (see Fig. 32.4)
+if f' < 0 on I(x1,c) but f' > 0 on I(c,x2).
+(iii) Neither a relative maximum nor a relative
+minimum (see Fig. 32.5) if f has the same
+sign in both I(x1,c) and I(c,x2).
+Example 1. Find the relative maximum and relative 1 (1,2)
+minimum of the function f defined by
+1 f (x) = x+ x, x 0 0,
+(0,1)
+Solution. Since x = 0 is not in the domain off and
+since
+1 x2-1
+f '(X) = 1 - X2 = x2 for x 0 0,
+there is no critical value where the derivative fails to Figure 32.6Sec. 32 A Mean Value Theorem 99
+exist. The only critical values are solutions off '(x) = 0; namely, x =- .. 1. Since
+f' > 0 on I(-2,-1), but f' < 0 on I(-1,0), then f(-1) = -2
+is a relative maximum,
+f < 0 on 1(0,1), but f ' > 0 on 1(1,2), then f (1) = 2 is a relative minimum.
+This example shows that a function may thus have a relative maximum
+less than a relative minimum.
+Example 2. Given f defined by f(x) = (x - 1)3(x - 3) + 1, determine all
+relative maxima and minima.
+Solution. f '(x) = (x - 1)3 + (x - 3) 3(x - 1)2 = 2(x - 1)2(2x - 5). Hence,
+f'(x) exists for all x and f'(x) = 0 if either
+x = 1 or x = 2. Moreover (x - 1)2 is
+never negative and
+f'(x) < 0 if x < 1 or if 1 < x < 2, (1,1)
+(3,1)
+f'(x)>0 if x>2.
+Hence, this function has no relative maximum
+and the only relative minimum (see
+Fig. 32.7) is f(2) = -is
+This example shows that a function 5 11 may have a derivative equal to zero z' 16
+without having a maximum or minimum Figure 32.7
+there.
+A point of a curve [such as (1,1) of Fig. 32.7] where the tangent is
+horizontal with the curve above the tangent on one side and below on the
+other, is called a point of horizontal inflection.
+Example 3. A vertical post with square cross section 1 ft x 1 ft is set squarely
+on a cubical block 3 ft on a side. Supports from the floor to the sides of the post
+are desired. Find the inside length of the shortest possible support.
+Solution. For a support making an angle 0
+with the floor (see Fig 32.8), the inside length
+L(8) is given by
+(7) L(0) = 3 csc 0 + sec 0, 0 < 0 < 7r/2.
+1 i \3\ We first find (see page 80, Example and Prob. 6)
+L'(0) 3 csc 6 cot 0 + sec 8 tan 6
+3 cos3 0 + sin3 0 7r
+0 <0 <-sine 8 cost 0 2
+Figure 32.8
+Hence, L'(0) = 0 only if the angle 0 is such that
+sin3 0 = 3 cos3 0; that is,
+(8) tan 6 = 31/3, 0 < 0 <7r/2.100 Applications of Derivatives Chap. 3
+Moreover L'(0) is negative for 0 close to 0, but L'(B) is positive for B close to 7r/2,
+and hence the value of 0 for which (8) holds will make (7) a
+minimum. From Fig. 32.9 in which tan 0 = 31/3, the value of
+csc 0 and sec 0 may be read off to give the minimum length as
+3V3 2/3 + 1 + V3213 + 1 = (32/3 + 1)3/2.
+31/3
+1
+Figure 32.9 By slide rule computation the minimum length is 5.41 ft.
+PROBLEMS
+1. Find the relative maxima and minima off, find the points of horizontal inflection
+of the graph, and sketch the graph.
+a. f = {(x,y) I y = (X - 1)3(x - 5) + 1}.
+b. f={(x,y)ly=(x-1)3(x-5)2+1}.
+c. f = {(x,y) I y = (x - 1)(x - 5)3 + 1}.
+d. f = {(x,y) I y = sin3 x}.
+2. A farmer's barn lot is a rectangle 54 ft x 128 ft and is at the intersection of two
+perpendicular roads. Find the shortest straight path from one road to the other
+passing behind the lot.
+3. In a gabled attic the roof has pitch J and is 30 ft across. A storage space is to
+be made with horizontal ceiling and vertical side walls (ends and floor are
+already there). Find the breadth and height for maximum capacity.
+4. Work Prob. 3 for a Quonset hut whose end is a semicircle of radius 15 ft.
+5. Work Prob. 4 for a Quonset hut whose end is a semi-ellipse 30 ft broad and
+10 ft high.
+6. A pup tent is to shelter 36 ft3; the ridge is to be 3 ft high and at least 6 ft long,
+but there are no ends to the tent and no canvas for a floor. Find the dimensions
+of the tent fulfilling these specifications that uses the least amount of canvas.
+7. Given a right circular cone of base-radius r and altitude h. Show that the total
+area A(x) of an inscribed right circular cylinder of radius x is given by
+r-h A(x) = 2,r X
+Show that:
+2
+a. If r < h, then A (2(h hr r))
+= 2(hh r r) is the maximum area.
+b. If r = h, then A(x) = 2rrrx for 0 < x < r.
+c. If r > h, then there is (properly) no maximum area.Sec. 33 Points of Inflection 101
+33. Points of Inflection
+Given a function f, then f ' is its derived function, and f " is (as defined in
+Sec. 27) its second derived function. We may thus apply the Law of the
+Mean for derivatives (see Theorem 32.2) to the function f'; that is,
+Let f be a junction such that
+(i) f' is continuous on a closed interval I[a,b] and
+(ii) f " exists on the open interval I(a,b),
+and let c and d be any two distinct numbers on I[a,b]. Then between c and d
+there is a number 77 such that
+f'(d) = f'(c) + (d - c) f "(9i)
+This fact will be used presently. First, we give a definition in which an
+"arc" of a graph means "a connected portion of the graph."
+DEFINITION. An arc of a graph is said to be:
+(i) concave upward if each point of the arc is above the tangent to any
+other point of the arc, but
+(ii) concave downward if each point of the arc is below the tangent to
+any other point of the arc.
+As an illustration, for the graph in Fig.
+33.1 the arc between S and T is concave
+upward, the arc between T and U is concave
+downward, and the arc between U
+and V is concave upward.
+THEOREM 33.1. For a function f, an arc
+of the graph of ,f is concave upward if
+throughout this arc f " > 0, but is concave
+downward if everywhere on the arc f " < 0.
+Figure 33.1
+PROOF. Under the condition that f"(x) > 0 for a < x < b, we prove
+that the arc between (a, f (a)) and (b, f (b)) is concave upward.
+Let x1 be any number such that a < x1 < b. The tangent to the are at
+(xl, f(xl)) has equation
+Y = f(x1) + f'(x1)(x - x1).
+We shall show that every point of the arc is above this tangent, except the
+point (xl, f (x1)) of contact, by showing that
+(1) f(x2) > f(x1) + f'(xl)(x2 - x1) for x2 0 x1, but a < x2 < b.
+To do so, we first use the Law of the Mean to obtain
+(2) f(x2) = f(x1) + f'(X3)(X2 - X1) with x3 between x1 and x2.102 Applications of Derivatives Chap. 3
+Next we apply the Law of the Mean to the derived function f to obtain
+f'(x3) = f'(x1) - f "(x4)(x3 - x1) with x4 between xl and x3.
+This expression forf'(x3) substituted into (2) yields
+(3) f (x2) =f(XI) T f '(x1)(x2 - xl) + f "(x4)(x3 - l)(x2 - xl)
+The last term in (3) is positive. For if x1 < x2 then xl < x3 < x2 so that
+0 <x3-x,. and 0 < x2 - xl, but if x2 < xl then x2 < x3 < xl so that
+x3 - xl < 0 and x2 - x1 < 0. In either case (x3 - x1)(x2 - x1) > 0. Thus
+the last term in (3) is positive since we are under the condition that f"(x) > 0
+for all x between a and b.
+Consequently, by dropping the last term from the equality (3) we obtain
+the inequality (1). Hence the arc is concave upward under the condition
+f"(x)>Ofora<x.<b.
+The condition f"(x) < 0 for a < x < b leads again to (3), but this time
+with the last term negative (as should be checked). Consequently the inequality
+in (1) is reversed, showing the arc to be concave downward.
+(4, 3¢
+4b2) JJb 3¢l
+l1 4b2)
+Example 1. With a and b positive
+constants, find the concave upward and
+concave downward portions of the graph
+of the function f defined by
+a
+f(x) = x2 + b2 .
+Figure 33.2
+-2ax
+Solution. We first compute
+3x2 - b2
+f '(x) = (x2 + b2)2
+and f (x) = 2a (x2 + b2)3'
+and note that f "(x) > 0 if 3x2 - b2 > 0, but f "(x) < 0 if 3x2 - b2 < 0. Thus,
+f "W > 0 if either x > b/ V3 or x < -b/ V3, but
+f "(x) < 0 if -b/'/3 < x < b/V 3.
+The concave upward portions are therefore separated from the concave downward
+portion by the points (see Fig. 33.2)
+b 3a l and (b 3b
+( V3,4b2/ \\/34b2
+From Theorem 33.1, a portion of the graph of a function where f' > 0
+is concave upward but a portion where f " < 0 is concave downwardSec. 33 Points of Inflection 103
+Thus, if xi is such that.f'(xl) = 0 and f "(xl) > 0, then the point (x1, f(x1))
+is the lowest point on a concave upward portion of the graph off, whereas
+if f'(xl) = 0 and f"(xl) < 0 then the point
+(xl, f(xl)) is the highest point on a concave
+downward portion. See Fig. 33.3. We therefore
+have a third test for determining relative
+maxima and minima of a function. (For Test
+I see p. 92, and for Test II see p. 98.) 1
+J 'U t"<0
+TEST III. If f is a function and x1 is a
+number such that f '(x1) = 0 and f "(xl) exists,
+then the value f'(xl) is:
+Figure 33.3
+(i) A relative minimum off provided f "(x) > 0.
+(ii) A relative maximum of f provided f "(x1) < 0.
+(iii) Not applicable if f "(xl) = 0 or if f "(x) does not exist.
+Example 2. Find the relative maxima and minima of the function f defined by
+f (x) = 2 cos x - cos 2x, -7r < x < Tr.
+Solution. J "(x) _ -2 sin x + 2 sin 2x = -2 sin x + 4 sin x cos x
+= 2 sin x(2 cos x - 1) = 0
+if x = -1r, -7r/3, 0, n/3, or Tr. For Test III we also need
+f "(x) = -2 cos x + 4 cos 2x.
+Now f "(-7r) = 2 + 4 > 0, so f(--ir) = -3 is a relative minimum,
+f'( -a/3) _ -1 - 2 < 0, so f(-rr/3) _ ; is a relative maximum,
+f "(0) = -2 + 4 > 0, so f (O) = 1 is a relative minimum,
+f "(7r/3) = -1 - 2 < 0, so f(7r13) = 2 is a relative maximum,
+f "(ir) = 2 + 4 > 0, so f(ir) = -3 is a relative minimum.
+Example 3. In a homogeneous medium, light travels in a straight line at constant
+velocity depending upon the medium. Let the velocity of light in air be vi and in
+water be v2. Show that a light ray from a source S in air to an object 0 under calm
+water will travel in the shortest time (as it does travel) if
+(5)
+sin ai sin a2
+V1 V2
+where ai and a2 are the angles the ray in air and water makes, respectively, with the
+normal to the surface.
+Solution. A ray from S to a point P on the surface and then to 0, would do so
+in time T(x) where (see Fig. 33.4 for the meaning of x, a, b, and c)
+T(x) - -,/a2 + x2 + /b2 + (c - x)2
+V1 V2104
+Since T'(x) =
+x c - x
+this derivative is zero if and only if
+vlVa2 -+x2 v2Vb2 + (c - x)2
+P
+c,--'10
+Figure 33.4
+(6)
+1 x 1 c- x
+vl x2 v2 'Vb2 + (c - x)2
+Since sin al = x/''a2 + x2 and sin a2 =
+(c - x)/Vb2 + (c - x)2, we see that if (6)
+holds, then (5) also holds.
+There might be some doubt as to whether
+the value of x which satisfies (6) actually
+gives the minimum value of T. By taking
+the second derivative and simplifying:
+1 a2 I b2
+T-(x)
+= vl (Va2 + x2)2 + v2 (V'b2 + (c --X)2)'
+which is positive for all x. Thus, the whole graph of T is concave upward so the only
+place where T' is zero [namely, when (6) is satisfied] does furnish the minimum
+value of T.
+DEFINITION. A point of a graph is said to be a point of inflection if at
+this point the tangent to the graph lies above an arc on one side and below an
+arc on the other side.
+Thus, in Fig. 33.1 the points S, T, U, and V are points of inflection. Also,
+the graph in Fig. 33.2 has two points of inflection.
+For the graph of a function f, any arc where f " > 0 is concave upward,
+and any portion where f " < 0 is concave downward. Thus, at a point of
+inflection f " can be neither positive nor negative. Consequently:
+If (x0, f(xo)) is a point of inflection, then either f "(xo) exists and is
+zero or else f "(xo) does not exist.
+It therefore follows that the abscissas of all points of inflection will be found
+among the solutions off "(x) = 0 together with all values of x which are not
+in the domain off ". Note, however, that evbn if x0 is such that f "(xo) = 0
+it may possibly be that (xo, f(xo)) is not an inflection point. For example,
+the function f defined by
+f(x) _ (x - 1)4
+is such that f"(x) = 12(x - 1)2 so f "(1) = 0, but f"(x) > 0 for x 0 1 and
+the whole curve is concave upward with no point of inflection.
+PROBLEMS
+Applications of Derivatives Chap. 3
+1. For the graphs of each of the following function, find the portions concave
+upward, the portions concave downward, and find the points of inflection
+(if any) :

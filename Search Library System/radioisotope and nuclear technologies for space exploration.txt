@@ -1,0 +1,1910 @@
+1
+1
+Introduction
+Efficient power production has always been one of the challenges for the
+exploration of space and the solar system. The challenge is even greater at increasing
+distance from the Sun or beneath planetary surfaces, where solar light intensity levels
+and extreme temperatures could preclude the use of solar power and chemical power
+generation systems. Figure 1.1 illustrates solar intensity as a function of orbital radius
+from the sun. When in orbit around Mars, a spacecraft is illuminated by 60 % less
+sunlight than when in an Earth orbit. The same spacecraft would receive only 5 % of
+the sunlight it receives at Earth at an orbit of equal radius to Jupiter. High efficiency
+photovoltaic (PV) cells are reported up to 40% efficiency [1] but for flagship class
+missions where electrical power budgets are typically several hundred to kilowatts [2],
+PV arrays become large for orbits beyond Jupiter. The presence of a large PV array on a
+deep space craft is likely to introduce rotational torques that must be constantly
+countered, and flight through regions of elevated debris content such as in the Kuiper
+belt presents an elevated probability of mechanical damage to the cells. Damage to
+solar cells by natural background radiation such as protons and electrons with energies
+of the order of keV to GeV [3, 4] is significantly limiting on the lifetime of a solar
+array, especially in orbits around planets such as Jupiter which posses magnetic fields
+that typically trap charged particles similar to the Earth’s Van Allen belts [5].
+Additional power burdens on the budgets available for certain missions may be
+imposed by systems that have specific operating temperatures and temperature control
+requirements.2
+Figure 1.1: Solar irradiation power per unit area as a function of orbital radius. Image
+courtesy of NASA.
+Radioisotope power systems have been used to provide energy for thermal
+management and up to hundreds of Watts of electrical power over long lifetime
+missions in regions where solar illumination is greatly reduced or where background
+radiation is elevated [6]. Most recently, the NASA New Horizons mission to Pluto,
+launched in 2006, is powered by a single Radioisotope Thermoelectric Generator
+(RTG) [7]. Reducing the mass, maximising the efficiency, and improving the physical
+safety and security of radioisotope power sources will have a positive impact on the
+overall mass budgets of science payloads and the range of mission scenarios for a
+specific project.3
+Nuclear fission reactors have also been developed that are capable of delivering
+kilowatts of electrical power for power intensive applications. To date, spaceflight
+heritage of reactor systems has been confined to missions in Earth orbit such as under
+the U.S. SNAPSHOT [6] and Russian Cosmos missions [8]. Adaptation of nuclear
+fission technologies have been applied to the field of spacecraft propulsion, leading to
+the development and ground testing of Nuclear Thermal Propulsion (NTP) systems.
+The limitation and restriction of the use of nuclear power and NTP up to the present day
+is significantly attributed to safety concerns amidst the challenge of nuclear fuel
+encapsulation and its impact upon launch safety.
+A historical overview of international nuclear power and propulsion systems
+developed for space applications is presented in chapter 2 of this thesis. The power
+conversion mechanisms that may be adopted by radioisotope and nuclear power
+systems are evaluated and presented in Appendix A.
+Isotope Selection is of great importance to the overall performance, specific
+mass, radiation safety and lifetime of a radioisotope power system. The modes of
+decay, half-lives and origin of radioisotopes are most significant to the isotope selection
+process. 238Pu has been most widely adopted for radioisotope power systems. An
+evaluation of the performance of alternative radioisotopes is presented in chapter 4 and
+comparison is made to that of 238Pu. Specifically, Monte Carlo analysis was performed
+for the substitution of 238Pu fuel within the U.S. General Purpose Heat Source (GPHS)
+{Bennett, 2006 #14} architecture (see chapters 3 & 4) by 208Po, 210Po, 241Am and 90Sr
+and the comparison of radiation dose rates delivered to the local environment is made.
+As a consequence of this study, the use of 241Am is proposed. 241Am is attractive due to4
+its abundance in the commercial nuclear power fuel cycle and commercial availability
+in addition to its reduced impact upon the local radiation environment when combined
+within an appropriate encapsulation scheme.
+The extraction of radioisotopes from discharged commercial reactor fuels is also
+evaluated in chapter 4 with particular attention given to the extraction of composite
+blends of americium and curium isotopes. Such composite isotopic compounds may be
+used to fuel RTG systems where the production of 238Pu is uneconomical while
+delivering a similar specific thermal power (Wth/g).
+For radioisotope power systems, the encapsulation mechanisms and
+architectures adopted are essential for launch safety and handling of the systems during
+assembly. Traditionally, such schemes must provide physical retention and isolation of
+the hazardous materials while providing ventilation for radiogenic gases generated by
+the radioactive decay of the encapsulated materials. Thermal protection must be
+provided so as to ensure intact atmospheric re-entry of radioisotope heat sources while
+providing efficient thermal conductivity to power conversion systems during normal
+operation. The traditional encapsulation architectures discussed in chapter 3 require
+concentric assembly of cladding and aeroshell structures, thus occupying volumes much
+greater than that occupied by the isotopic materials. As an alternative to the traditional
+encapsulation mechanisms adopted by radioisotope power systems, the encapsulation of
+isotopic materials within a tungsten matrix is proposed (see chapter 5). Tungsten
+matrices are proposed and evaluated for radiation shielding characteristics and
+reduction in delivered dose to the localised environment throughout chapter 4. It is
+anticipated that matrices based on tungsten and alloys of tungsten are capable of5
+surviving the high temperatures, in excess of 2000 K [9], which are typically
+experienced during atmospheric re-entry, such as in the event of launch related
+accidents [10, 11]. Methods of tungsten encapsulate production are proposed and
+demonstrated in chapter 5. Specifically, Spark Plasma Sintering (SPS) is proposed and
+evaluated for its capability to process tungsten ceramic-metallic matrices (cermets) at
+temperatures of around 40% of its melting temperature [10]. Such temperatures are
+typically below those at which significant volatization of ceramic isotopic compounds
+occurs [10].
+An experimental demonstration of americium oxide encapsulation within a
+tungsten cermet matrix was performed by the author and is discussed in chapter 6. Here
+an 241AmO2 powdered feedstock was mixed with tungsten powder (3 - 6 µm) and
+sintered via pressureless sintering in a differential scanning calorimetric (DSC) furnace.
+In doing so, validation of reaction kinetics for the theoretical system was performed.
+Estimation of the specific thermal power for the 241AmO2 feedstock was also made via
+measurement of the bulk cermet temperature and DSC analysis. This was found to be
+approximately 0.094 Wth/g.
+Further development of SPS processing capabilities has led to the development
+of tungsten cermet nuclear fuel elements with integrated coolant channels [12]. It is
+anticipated that the adaptation of tungsten matrices for space power and NTP reactor
+fuels may present a solution to the problems such as propellant compatibility that gave
+rise to the physical failure of fuel elements during ground tests performed under the
+U.S. Rover and NERVA NTP programs (see chapters 2 and 5). In addition, the high
+melting temperatures of tungsten and tungsten alloys will allow for the operation of6
+space reactors at temperatures up to 3000 °C and hence for an improvement in overall
+system efficiency. Improvements in the physical safety and security through the use of
+tungsten based reactor cores is also presented in chapters 2 and 5.
+Clearly, the adaptation of nuclear technologies allows for the advancement of
+mission capabilities. As such, these technologies may provide key enabling strategies
+and systems for missions that would be excessively mass intensive, uneconomical or
+too complex through the use of conventional power production and propulsion. Three
+examples of missions that may be enabled by radioisotope and nuclear technologies are
+proposed and discussed in Chapter 7.
+The findings of this research and proposed future work are summarised in the
+final chapter of this thesis.
+References
+[1] R.R. King, D.C. Law, K.M. Edmonson, et al., "40% efficient metamorphic
+GaInP/GaInAs/Ge multijunction solar cells". Applied Physics Letters. 90 (2007)
+183516.
+[2] California Institute of Technology Jet Propulsion Lab (JPL). "Cassini Program
+environmental impact study Volume 2: Alternate Mission and Power Supply". JPL
+Publication No. D-11777. Cassini document No. 699-070-2. 1994.
+[3] J. Feynman, T.P. Armstron, L. Dao-Gibner, S. Silverman, "New interplanetary
+proton and fluence model". J. Spacecraft. 27 (1992) 403.
+[4] C. Tranquille, E.J. Daley, "An evaluation of solar proton event models for ESA
+missions". ESTEC Working Paper. 1647 (1992).
+[5] R.L. Crabb, "Solar Cell Radiation Damage". Radiat. Phys. Chem. 43 (1994) 99-103.
+[6] J. A. Angelo, D. Burden, "Space Nuclear Power". Krieger Publishing, Malabar, FL.;
+1985. ISBN: 0-89464-000-3.7
+[7] Science Mission Directorate. "Final Environmental Impact Statement For The New
+Horizons Mission, Volume 1". NASA, Washington D.C. 2005.
+[8] M. Wade. "Encyclopedia Asronautica".
+http://www.astronautix.com/project/rorsat.htm.
+[9] A. Schock. "Design Evolution and verification of the General-Purpose Heat
+Source". Fairchild Space and Electronics Company, Germantown, Maryland. 1983.
+[10] R.C. O'Brien, R.M. Ambrosi, N.P. Bannister, S.D. Howe, H.V. Atkinson, "Spark
+Plasma Sintering of simulated radioisotope materials in tungsten cermets". Journal of
+Nuclear Materials. 393 (2009) 108-113.DOI: 10.1016/j.jnucmat.2009.05.012.
+[11] R.C. O'Brien, R.M. Ambrosi, N.P. Bannister, S.D. Howe, H.V. Atkinson, "Safe
+radioisotope thermoelectric generators and heat sources for space applications". Journal
+of Nuclear Materials. 377 (2008) 506-521.
+[12] R.C. O'Brien, R.M. Ambrosi, S.D. Howe, N.P. Bannister, H.V. Atkinson.
+"Fabrication of prismatic fuel elements for space power and nuclear thermal propulsion
+reactors by spark plasma sintering". Proceedings of: Nuclear and Emerging
+Technologies for Space (NETS-2009), Paper Number 206153; June 14-19, 2009;
+Atlanta, GA.8
+2
+An overview of radioisotope and nuclear technologies for space
+Radioisotope Heating Units (RHUs) and Radioisotope Power Sources (RPSs)
+are devices that are capable of producing thermal energy for thermal control purposes,
+or electrical energy respectively by harnessing the energy released by the radioactive
+decay of radioisotope materials. These technologies have been successfully employed
+on a number of space missions and used extensively in terrestrial applications. Russian
+built ‘Beta-M’ Radioisotope Thermoelectric Generators (RTGs) fuelled with Strontium-
+90 were deployed in unmanned lighthouses, coastal beacons and remote weather and
+environment monitoring stations and had a typical power output of around 230 Watts
+electrical (We) [1]. The original network of Automatic Weather Stations (AWSs) built
+by the United States in Antarctica was powered by RTGs; however, by the early 1990s
+safety concerns led to the removal of these power sources [2]. Today, RTG devices
+have become safer in design due to advances in material fabrication techniques.
+Figure 2.1: Disused 90Sr fuelled Beta-M RTGs used for remote power operations. Image courtesy of
+Finnmark Region Government.9
+To date, 238Pu has been the most commonly used radioisotope fuel for RTGs
+and RHUs for space applications, although other isotopes have had some laboratory and
+flight history. The main rationale for the use of the plutonium isotope was primarily
+economic due to the existence in the U.S. of the large infrastructure that was established
+after the Manhattan project to produce plutonium for nuclear weapons. The use of these
+existing facilities allowed for the production of 238Pu with very minor alterations to
+production and extraction lines. 238Pu decays primarily by alpha emission, where the
+kinetic energy of the alpha particle is approximately 5 MeV. 238Pu can also decay by
+spontaneous fission with a very low probability [3]. The absorption of the alpha
+particles (and any fission products) by the source material matrix will result in the
+conversion of kinetic energy into heat that can be exploited to generate electricity by
+means of a power conversion system, in the form of thermoelectric junctions or other
+power conversion mechanisms.
+The power budgets for modern flagship missions often call for the use of a
+significant number of radioisotope power systems that in some cases imposes limitation
+on system availability for subsequent missions (see section 2.5 below). The use of
+nuclear fission power sources in space is highly desirable given the availability of
+nuclear fuels. Through consideration for specific power density, fission power sources
+can be scaled between hundreds of watts to megawatts of electrical power generation.
+Through careful design and selection of power conversion mechanisms, a system of
+high reliability, safety and long operational lifetime can be conceived. The
+controllability of fission power reactors allows for a system to be started, shutdown and
+regulated at any given moment during a mission and unlike radioisotope power
+systems, are not driven by the decay rate and radiological inventory at production.10
+Figure 2.2: Schematic of the cancelled Jupiter Icy Moons Orbiter (JIMO). Image courtesy of
+NASA/JPL.
+In modern mission concept design, the use of fission reactors in space is often
+coupled to the provision of electrical power for both instrumentation and propulsion via
+plasma or ion engines. Early reactor systems were often based on fuel forms that could
+not achieve high temperatures. As such, Nuclear Electric Propelled (NEP) spacecraft
+designs such as the Jupiter Icy Moons Orbiter (JIMO) required large radiators for heat
+rejection from the power conversion mechanism. See Figure 2.2. By driving reactor
+systems to higher operational temperatures, the surface area of a radiator can be
+reduced. Such operation will require the use of advanced high temperature reactor fuels
+and the careful selection of materials and processing of the fuel forms. Advances in
+such techniques are proposed and discussed by the author (see chapter 5) in the context
+of high temperature reactors for nuclear thermal rocket propulsion.11
+2.1 Power conversion
+The overall efficiency of any given radioisotope or nuclear power system is
+limited most fundamentally by the efficiency of the power conversion mechanism or
+series of mechanisms employed. Commonly, the production of electrical power is
+achieved most efficiently through the conversion of heat via a mechanical intermediate
+stage. For space applications requiring nuclear or radioisotopic power generation, the
+added complexity and mass of mechanical power conversion systems was historically
+unacceptable given the already significant probability of mission failure due to
+propulsion and guidance systems alone. Instead, solid state and direct energy
+conversion mechanisms were developed so as to minimise space mission failure
+probabilities attributed to spacecraft power supply. Significant development of
+thermoelectric conversion was made for lower temperature applications (primarily
+radioisotopic power) while thermionic power conversion was developed for space
+fission reactor systems.
+The optimistic pro-nuclear future outlook of the 1950s and 1960s in which an
+abundant supply of radioisotopic materials would be produced allowed for the historical
+adoption of the somewhat inefficient power conversion technologies for use within
+radioisotope power systems in order to maximise reliability and lifetime. At the time of
+writing, space agencies are faced with the converse global situation in which economic
+and political restrictions have led to a shortfall in supply of radioisotopic materials
+while the number of civilian missions alone demand more material than can currently
+be produced. For this reason alternative power conversion mechanisms to
+thermoelectric generation should be, and are under consideration.12
+Many contributing parameters must be considered when selecting a given power
+conversion mechanism for a specific application. Consideration of the operational
+lifetime, local environmental influences and complexity of a power conversion
+mechanism are vital in mission specific selection. It is apparent that although several
+conversion mechanisms exist that are suitable for nuclear power systems, all must be
+considered on merit for each target application. Clearly, no single general-purpose
+mechanism can be applied to all conceivable applications. The power conversion
+methods and mechanisms that have been considered and developed for space
+applications include:
+• Thermoelectric conversion
+• Thermionic conversion
+• Direct energy conversion
+• Thermoacoustic conversion
+• Stirling cycle
+• Brayton cycle
+• Rankine cycle
+A detailed discussion of the above power conversion mechanisms is presented
+in Appendix A of this thesis.13
+Figure 2.3: Comparison of dynamic power conversion cycle typical efficiencies verses the temperature
+ratio between the cold and hot sides of the cycle [4].
+Examination of dynamic power conversion cycles (see Figure 2.3) indicates that
+for small and low power applications where the temperature ratios between the cold and
+hot sides of the cycle are particularly large, the Rankine cycle is highly suitable. Under
+the same conditions of large Tc/Th ratios, the Stirling cycle is favoured over the Brayton
+cycle. Below a Tc/Th ratio of the order of 0.23, the Brayton and Stirling cycles are
+equally favoured in efficiency over the Rankine cycle. The very nature of dynamic
+power conversion technologies require moving components. It is essential therefore that
+space system design is a highly motivational factor in converter design such that
+vibrations and rotational torques be minimised.
+Engineering challenges that must be addressed during the qualification of any
+dynamic power converter are creep and structural fatigue effects and in the case of
+rotating or sliding components, the replacement of mechanical bearings with contactless
+gas bearings is critical.14
+Similarly, thermionic power conversion has substantial spaceflight heritage but
+the high temperatures required for efficient operation place the requirement on suitable
+materials selection. Thermionic converters are typically sensitive to large temperature
+transients due to CTE mismatches between differing electrode materials. Behaviour of
+this nature may be intolerable by certain missions where variations in the temperature
+and control of heat rejection surface may be lost or difficult such as missions that use an
+inner solar orbit for a series of gravity assists prior to departure to colder outer and
+extra-solar orbits.
+Although thermoelectric power conversion efficiency is significantly lower than
+dynamic power conversion cycles, its simplicity and predictable characteristics are well
+suited to applications where no maintenance and longevity of the operational life of a
+system is crucial. In addition, some instances of low power system design ( ~ 1 We)
+may present significant challenge for the engineer when manufacturing an equivalent
+dynamic converter, In such cases, the density of the overall thermoelectric system is
+likely to be lower than that of dynamic systems.
+Thus, the selection of power converter technologies must be facilitated by
+definition of the operating parameters of the hot and cold sides of the nuclear system
+including throughput power, heat rejection capacity and energy availability from the
+nuclear heat source. Also of extreme significance for space nuclear power systems is
+the specific power density of a conversion system and the system as a whole,
+determined by the temperature regime and associated compatible materials, modern
+engineering and manufacturing capabilities and the heat rejection technologies used.15
+2.2 The U.S. SNAP and early space nuclear systems programs
+Under the Systems Nuclear Auxiliary Power (SNAP) program, a range of RTGs
+and small reactors were developed in the United States for space and military use. The
+RTGs developed were successfully flown on several satellite and space exploration
+missions [5]. The efficiencies of some of the early devices were between 4% and 5%
+[6]. This was due to limitations in the power conversion process and losses within the
+system. Later devices such as the Multi Hundred Watt (MHW) power sources flown on
+the Voyager missions and the General Purpose Heat Source RTGs (GPHS-RTG) as
+flown on board Galileo & Cassini missions have efficiencies of the order of 6.6% [6].
+Figure 2.4: Presentation and demonstration of the 210Po fuelled SNAP 3 RTG to U.S. President
+Eisenhower on the 16th of January 1959. Image courtesy of the United States Department of Energy.
+Early iterations of the SNAP-19A design examined the use of 238Pu, 90Sr and
+210Po but were never fuelled. SNAP-19B devices fuelled by 238Pu were successfully
+used on the Nimbus B1 and Nimbus III meteorological satellites. A later derivation of
+the device named SNAP-19 was used onboard the Pioneer 10 and 11 [5] and were also
+included in the Viking 1 and 2 mars lander missions (two 35We units per lander) [7].16
+The SNAP-19 devices were loaded with 238PuO2-Mo fuel cermets with a total activity
+ranging from 34.4 kCi to 80 kCi [6] depending on the mission and application. The
+casing for the SNAP-19 design was fabricated from Magnesium metal so as to provide
+a secure but lightweight structure suitable for integration with mass constrained
+missions such as the Viking landings on Mars.
+Figure 2.5: The SNAP-19 RTG design Image courtesy of NASA.
+The SNAP-27 devices that were landed on the moon during the Apollo 12, 14,
+15, 16 and 17 missions were designed to provided a beginning of life (BOL) output
+power of 63.5We (Electrical Power in Watts) and a specific power density of 3.2 We /kg
+[6]. The SNAP-27 devices were used under these missions as power sources for lunar
+surface science experiments with life spans ranging from 4 to 8 years. The total activity
+of the SNAP-27 fuel source was 44.5 kCi and consisted of microspheres of 238PuO2
+ceramic [6]. These devices had a power conversion system with a 5% efficiency based17
+on PbSnTe junctions. The output voltages of the SNAP-27 devices were between 14 V
+and 16 V D.C.
+Figure 2.6: SNAP-27 RTG deployed on the lunar surface during the Apollo 16 mission [7].
+Prior to the SNAP-19 design, the radioisotope heat sources for RTG systems
+were designed to completely burn up and disperse over a large trajectory in the event of
+launch or orbit failure of host spacecraft. After concerns about the safety of the
+dispersal mechanism in relation to exposure of the biosphere to plutonium or other
+radioisotope materials from what were becoming increasingly larger heat sources, it
+was decided that all heat sources should be encased within a heat shield and impact
+shell so as to minimise the risks of radiological exposure during accident scenarios by
+ensuring that fuel containment is completely maintained upon re-entry into the Earth’s
+atmosphere and impact at the Earth’s surface. Today, all designs for radioisotope power
+sources for space applications must comply with resolution 47/68 of the United Nations
+General Assembly regarding the use of nuclear power sources in space. This resolution
+was passed on the 14th of December 1992 and states that RTGs and RHUs can be used18
+in space provided that the physical form of the radioactive materials used and a system
+of protective shells are employed so as to guarantee non-dispersal of radioactive matter
+into the Earth’s environment during nominal use and conditions attributed to all
+possible accident situations.
+The failure of the Apollo 13 mission inadvertently enabled the testing of the
+integrity of the SNAP-27 design during the re-entry of its lunar module into the Earth’s
+atmosphere. The lunar module splashed down in the Tonga Trench in the Pacific
+Ocean. No contamination has been detected to date and it is assumed that the SNAP-27
+fuel capsule is intact at a depth of 6.5 km below the surface of the ocean. Even though
+the integrity of the SNAP design during re-entry is not in question, the additional mass
+of the separate aeroshell and cask used by this system reduced the overall system power
+density which could be improved today by the adoption of alternative encapsulation
+techniques.
+Figure 2.7: (Left) A stack of two Multi-Hundred Watt (MHW) RTGs as flown on the LES 8 spacecraft
+seen here at checkout at the Department of Energy’s Mound facility. (Right) Cut away of the MHW
+RTG. Images courtesy of NASA.19
+Figure 2.8: Image of the author holding a single Multi-Hundred Watt RTG heat source engineering
+model.
+Following the SNAP programmes, the U.S. developed the Multi-hundred Watt
+(MHW) RTG systems to provide power to the Lincoln Experimental Satellites LES 8
+and 9 and Voyager 1 and 2 spacecraft. These devices were fuelled by 24 pressed
+spheres of 238PuO2, each with an activity of 3.2 kCi. Each sphere was encapsulated
+within a cladding of iridium alloy and housed individually within a filament wound
+carbon-carbon impact shell. All 24 assembled spheres were housed within a cylindrical
+POCO graphite aeroshell for re-entry protection [6]. The thermoelectric conversion was
+performed using SiGe junctions [8] with an efficiency of 6.7% [6]. The MHW RTGs
+had a beginning of mission power level of 2.4 kWth [8] or 160.8 We. The overall
+beginning of mission system power density was 4.2 W/kg [8].
+Despite extensive ground based research into space reactor systems under the
+SNAP program, only one reactor, SNAP-10A, was flown by the United States aboard
+the SNAPSHOT spacecraft. SNAPSHOT was launched on the 3rd of April 1965 and
+operated successfully for 43 days until a fault occurred within a voltage regulator
+causing the premature shutdown of the SNAP-10A reactor. At the end of the mission,
+the reactor was placed into an orbital altitude of 1300 km at which it is expected to20
+reside for approximately 4000 years. Unlike the BES-5 reactor designs from the Soviet
+Union (see below), the SNAP-10A reactor operated with a thermal neutron spectrum.
+This was facilitated by the use of a uranium-zirconium hydride fuel form. The thermal
+power output of the SNAP-10A was 42 kW, and through transfer of thermal energy to
+PbTe thermoelectric converters via a sodium potassium (NaK) coolant loop, the
+electrical power output of the system was around 650 We at the beginning of life, and
+535 We after 43 days [6].
+Figure 2.9: Photograph of the SNAP-10A during ground based testing. Image courtesy of NASA.
+2.3 Russian space nuclear power systems
+To date, the vast majority of Russian flight heritage of nuclear power systems in
+space has stemmed from an extensive research and development program for space
+reactor systems and hence very few missions have been augmented by RTG power. The
+RORSAT ocean surveillance missions flown by the Soviet Union between 1971 and
+1988 resulted in the launch of a total of 33 reactors in space, 30 of which successfully
+reached orbit and were operated beyond start up.21
+The first known reactor to have been flown by the Soviet Union was the BES-5
+Buk design, launched on October 3rd 1970 under the Cosmos 367 mission. It is
+understood that a total of 31 BES-5 Buk reactors were launched between 1970 and
+1988 [9] although 3 units failed to launch successfully or failed after achieving orbit
+[9]. Widespread public awareness of the Soviet space nuclear program was first made
+on the 24th of January 1978 when fragments of the Cosmos 954 spacecraft and its BES-
+5 reactor re-entered and crashed in the Alberta and Saskatchewan regions of northwest
+Canada [10].
+The BES-5 Buk reactor design was based around a core operating in the fast
+neutron spectrum and fuelled by a highly enriched (95 Wt %) 235U-Mo alloy that was
+cooled by a Sodium-potassium NaK loop. The NaK coolant was used to transfer the
+thermal energy from the core to SiGe thermoelectric converters [11] and for heat
+rejection to a conical radiator shroud below a shadow radiation shield [9]. Control of
+the reactor was facilitated through the displacement of Beryllium control rods, which
+served as both reflector and control mechanism. The electrical power output of the
+BES-5 design was up to 3 kWe and had an operational lifetime of up to 6 months.22
+Figure 2.10: Schematic diagrams of the BES-5 Buk reactor core design [9].
+A later reactor design, TOPAZ addressed issues of safety and performance over
+the BES-5 design. Fundamentally, the operation of the reactor was in the epithermal
+neutron spectrum and the control system for the TOPAZ design utilized rotating
+Beryllium control drums that were partially segmented with B4C to reduce the system
+to a subcritical condition when rotated fully into the core. This control design change
+reduced the risk of the system achieving criticality in the event of accidental impact.
+The third major design change from the BES-5 design was that power conversion was
+performed via in-core thermionic converters. A total of two TOPAZ reactors were
+flown, the first was launched on the 1st of February 1987 on Cosmos 1818, the second
+on the 10th of July 1987 onboard Cosmos 1867 [12].23
+The TOPAZ design had a 5.5 kWe design output for up to 1 year, limited
+mainly by the supply of caesium used in vapour form to neutralize inter electrode space
+charge within the thermionic converters. The thermionic converters formed an integral
+component of the fuel element structure, connected in series arrangements of 5 cells,
+each surrounding individual highly enriched (96 wt%) 235UO2 fuel pellets. For this
+reason, the fuel assemblies were refered to as Thermionic Fuel Elements (TFEs). A
+total of 79 TFEs were arranged within the core, 60 of which provided power to the
+spacecraft bus while 19 were used to power a linear electromagnetic induction pump
+that was used to circulate NaK coolant from the core to a conical radiator. The
+structure of the TOPAZ core consisted of 4 moderator disks composed of zirconium
+hydride that were stacked axially and surrounded by a Be reflector and control drums.
+Channels within the core structure allowed the TFEs to be loaded.
+Figure 2.11: (a) Schematic of the TOPAZ Thermionic Fuel Elements (TFEs). (b) Cross-section of the
+TOPAZ reactor design.23
+The TOPAZ design had a 5.5 kWe design output for up to 1 year, limited
+mainly by the supply of caesium used in vapour form to neutralize inter electrode space
+charge within the thermionic converters. The thermionic converters formed an integral
+component of the fuel element structure, connected in series arrangements of 5 cells,
+each surrounding individual highly enriched (96 wt%) 235UO2 fuel pellets. For this
+reason, the fuel assemblies were refered to as Thermionic Fuel Elements (TFEs). A
+total of 79 TFEs were arranged within the core, 60 of which provided power to the
+spacecraft bus while 19 were used to power a linear electromagnetic induction pump
+that was used to circulate NaK coolant from the core to a conical radiator. The
+structure of the TOPAZ core consisted of 4 moderator disks composed of zirconium
+hydride that were stacked axially and surrounded by a Be reflector and control drums.
+Channels within the core structure allowed the TFEs to be loaded.
+Figure 2.11: (a) Schematic of the TOPAZ Thermionic Fuel Elements (TFEs). (b) Cross-section of the
+TOPAZ reactor design.24
+A second variation of the TOPAZ design (TOPAZ-II / YENISEI) was produced
+and although successfully ground tested, has not seen flight [13]. Several units were
+sold to the United States for testing and evaluation but due to concern regarding launch
+abort criticality issues with oceanic impacts, it was determined that NASA would not
+fly the units.
+The first Russian flights of RTG systems took place in 1965 and 1971 onboard
+the Cosmos 84 and Cosmos 90 missions [14]. These initial devices named Orion-1 and
+Orion-2 were fuelled by 210Po and provided 20 Watts of electrical power. In 1969 and
+1971, two lunar rovers were launched by Russia under the Lunochod missions [14].
+Both Lunochod rovers were heated by RHUs fuelled by a 210Po heat source with an
+initial thermal loading of around 800 Watts each [14]. An RTG system was also
+developed in 1978, again fuelled by a 210Po heat source, with a thermal loading of 600
+Wth and an electrical power output of 40 We, but was never launched.
+On the 16th of November 1996 the ill-fated Mars 96 mission began with a
+launch from the Russian Baikonur facility. Mars 96 was an ambitious mission that set
+out to land two surface science stations (soft landers) and two surface penetrators at
+separate locations in the northern hemisphere of Mars. Both surface science stations
+were powered by two RTGs fuelled by 238Pu. The Mars 96 spacecraft successfully
+achieved an Earth parking orbit but after an anomalously short burn of the fourth stage
+of the proton launch vehicle, the autonomous firing of the ‘Fregat’ transfer module
+occurred, placing the spacecraft into an orbit that resulted in its re-entry into the earth’s
+atmosphere over South America.25
+Figure 2.12: 8.5 Wth ANGEL RHU/RTG
+The RTGs flown on the Mars 96 mission were built around heat sources named
+Angel units. These Angel RTG devices, built by BIOPAS under contract to the Red
+Star Company, are the current design that is exploited by Russian space mission
+designers and to date, some interest in their use has been generated within the European
+Space Agency. The Angel RHUs have a thermal power output of 8.5 Watts and when
+used as an RTG, provide an electrical power output of 0.15 Watts at 15 volts D.C. [15].
+Since very little electrical power is generated by the Angel RTGs, it is implied that for
+power production purposes, they should be used in conjunction with electrical batteries
+as a trickle charge source.26
+2.4 Current U.S. space radioisotope power technology
+The general-purpose heat source radioisotope thermoelectric generator (GPHSRTG)
+is an electrical power source that features an integrated modular heat source
+design [16] (see Figure 3.2). Originally designed for and flown on the NASA Galileo
+spacecraft, the GPHS-RTG was successfully used for the NASA Cassini mission and
+more recently, the New Horizons Kuiper belt mission. The GPHS-RTG was originally
+built by the US Department of Energy (DOE) at the Mound Laboratory in Miamisburg,
+Ohio. As a result of increased security requirements and costs, the DOE closed the
+Mound site. The responsibility for assembling RTGs was transferred to a new facility at
+the Idaho National Laboratory (INL) Materials and Fuels Complex (MFC). This was
+completed prior to the production of the GPHS-RTG for the NASA New Horizons
+mission that was launched in 2006.
+Figure 2.13: Top; pre-flight checkout of the Cassini GPHS-RTGs - Courtesy NASA/KSC. Bottom; A
+cutaway schematic of the GPHS RTG - Courtesy NASA/JPL-Caltech.27
+A general purpose heat source (GPHS) module is a composite carbon based
+body that houses a total of four fuel pellets and as a whole acts as an aero-impact shell
+and hence conforms to the UN resolution 47/68. The isotope fuel for the GPHS-RTG is
+in the form of plutonium dioxide (238PuO2) at approximately 80% density. The fuel is
+pressed into pellets with an approximate length and diameter of 27.6 mm [16]. Each
+pellet has approximately 0.55 mm of iridium alloy (DOP-26) cladding [16] that is used
+to maintain the structural integrity of the pellet both under normal operating conditions
+and under impact. The iridium cladding also prevents the interaction of the source alpha
+particles with materials with low atomic masses, which could produce neutrons via a-n
+reactions. The internal structure of the GPHS module consists of two composite impact
+shells covered by a carbon-bonded carbon sleeve. Each internal impact shell contains
+two fuel pellets separated by a floating membrane [16]. The thermal power output of a
+single fuel pellet is approximately 62.5 Wth [16]. GPHS Modules can be stacked
+together and thermally coupled. The required electrical output power levels are
+achieved through the appropriate selection of a number of GPHS modules incorporated
+in a RTG system. The number of modules required is directly related to the power
+conversion efficiency of the system. The current GPHS-RTG systems have a power
+conversion efficiency of 6.5% to 7% and an overall system power density of 5.2 We kg-
+1 [6] if a stack of 18 GPHS modules is used [16]. The thermoelectric junctions used for
+power conversion by the GPHS-RTG are SiGe type junctions.28
+Figure 2.14: An un-clad pressed 238PuO2 GPHS fuel pellet. The image shows the pellet glowing caused
+by its 62.5 W thermal power output as a result of the a decay of 238Pu. Image Courtesy of the U.S.
+Department of Energy.
+Figure 2.15: Launch safety and approval process undertaken by inter-agency panels prior to the launch
+of any U.S. space nuclear system. Image courtesy of the United States Department of Energy.
+Prior to any launch of a nuclear system or subsystem from the United States of
+America, an established launch safety review and approval process must be undertaken.
+It is the role of an interagency final review to make recommendations to the Office of
+Science and Technology in the Office of the President of the United States. It is
+anticipated that this procedure will remain effective throughout the foreseeable future
+NPS programs.29
+2.5 The plutonium climate
+Much of the 238Pu fuel that is used within the GPHS-RTG systems is currently
+supplied to the U.S. Department of Energy (DOE) by Russia in the form of 238PuO2
+powder with an activity of between 12.6 Ci g-1 and 15.1 Ci g-2. 238Pu is manufactured by
+the proton irradiation of 237Np or more industrially via the neutron irradiation of 237Np
+in a high flux reactor. The latter is the more commonly used method and results in the
+production of 238Np (half-life of 2.117 days), which decays via beta emission into 238Pu.
+Current concerns over the availability of 238Pu [17, 18] that is of sufficient purity for
+space applications have prompted the DOE to investigate the feasibility of establishing
+a new production line in the US in order to meet the future needs of NASA [19]. One
+proposal that has been established by Idaho National Laboratory has suggested the use
+of the Advanced Test Reactor for the neutron irradiation of 237Np targets followed by
+the chemical separation of the 238Pu via solvent extraction [20]. Other methods of
+production suggested include the irradiation of neptunium targets in commercial power
+reactors, but this presents lower production efficiencies and challenges in facility
+licensing.
+In 1976, President Ford issued a presidential directive to cease all reprocessing
+of nuclear materials in the United States amidst a tense political climate regarding
+nuclear proliferation after a successful Indian demonstration of weapons capabilities
+derived from reprocessing technologies. President Carter reviewed and reaffirmed this
+directive in 1977. In 1981, the U.S. ban on reprocessing was lifted by President Regan
+but due to a lack of financial support from his government, restarting a reprocessing
+program within the U.S. was not commercially viable. For this reason, a finite inventory30
+of materials produced in the U.S. was created and through an agreement between the
+U.S. and Russian governments, a limited supply of 238Pu to the U.S. was established.
+Current concerns over the limited availability of suitably pure materials and the cost of
+restarting the production of 238Pu [17] has increased the need to explore alternative
+isotopes for these applications. Several alternative radioisotopes that are possible
+solutions to the limited supply of 238Pu are presented and discussed throughout this
+thesis. These include 241Am, 208Po and 210Po and 90Sr.
+2.6 The Multi Mission RTG & Advanced Stirling Radioisotope Generator
+In attempt to address the shortage of 238Pu in the short term, NASA, the U.S.
+Department of Energy and their subcontractors have invested in the development of two
+smaller, more versatile and efficient power source designs for space applications. These
+designs, called the Multi-Mission Radioisotope Thermoelectric Generator (MMRTG)
+and the Advanced Stirling Radioisotope Generator (ASRG), are both designed around
+the currently serviced and approved GPHS module design but essentially use fewer
+numbers of modules in each system to provide the desired output power.
+The MMRTG for all intents and purposes is a smaller, more versatile derivation
+of the GPHS-RTG that is capable of operating both in the vacuum of space and within
+an atmosphere such as on the surface of planetary bodies. The heat source for the
+system consists of a total of 8 GPHS modules developing a total of 2000 Watts of
+thermal power and operate at 538 °C. These modules are surrounded by Pb-Te31
+thermoelectric junctions which yield a total electrical power output of approximately
+125 Watts. The remaining 1875 Watts of thermal power is rejected to the operating
+environment or space via fins held at 210°C on the outside of the MMRTG casing. The
+efficiency of the thermoelectric conversion for the MMRTG is dependant upon the
+working pressure of the system, which in turn is selected to be compatible with the
+operating environment. For use in deep space (vacuum), the MMRTG has a conversion
+efficiency of 6.3 % and for operation on the surface of Mars, its efficiency is
+approximately 6.2 %. Although these figures indicate a lower efficiency and lower
+electrical output power than the GPHS-RTG, it is much more versatile in its application
+and requires 55.6% less plutonium to be fully fuelled.
+Figure 2.16: Top: schematic of the Multi-Mission RTG (MMRTG). Bottom: Schematic of the Mars
+Science Laboratory rover powered by a single MMRTG. Images Courtesy of NASA/JPL.32
+The first flight of an MMRTG system will be on board the NASA Mars Science
+Laboratory (MSL) mission where a single unit will provide the required electrical
+power for long duration operation of its rover on Mars. The use of an active heat
+exchanger in the vicinity of the MMRTG outer casing which operates at around 210 °C,
+allows for the radiated rejected heat from the power source to be used to maintain
+electronic and mechanical subsystems at their required operational temperatures. The
+MMRTG is currently in the final stages of flight qualification in preparation for the
+launch of the MSL mission in 2011.
+The Advanced Stirling Radioisotope generator (ASRG) is currently under the
+development stages leading to a fully integrated engineering unit (EU) that is capable of
+generating electrical power from electrically simulated nuclear decay heat input. The
+final system will be based around two free piston Stirling converters produced under
+contract for NASA by Sunpower incorporated, each thermally coupled via a mechanical
+heat collector to an individual GPHS module and a common cold end heat rejection
+chassis (see Figure 2.16) which uses fins to radiate heat away from the system. The
+temperature difference of 580 degrees exists across the Stirling engine which results
+from a heat source operating temperature of 640 °C and a heat rejection side
+temperature of 60 °C. Under this thermal operating regime, each Stirling converter
+produces approximately 73 Watts of electrical power resulting in a total system
+electrical power output of approximately 145 Watts. The free piston Stirling converters
+operate linearly and resonate at around 105 Hz, and so as to minimize the effect of this
+motion and hence dampen the system, both converters operate in phase but are
+mechanically mounted at 180° to one another for mutual opposition of motion (see
+Figure 2.16 Top).33
+Figure 2.17: Top: Schematic of the Advanced Stirling Radioisotope Generator. Bottom Left: Sunpower
+inc. free piston Stirling engine. Bottom Right: Thermo-mechanical interface for free piston Stirling
+engine. Images courtesy of NASA.
+The efficiency of the free piston Stirling converter engine is limited to the
+Carnot efficiency and the efficiency of the linear dynamo that is integral to the
+converter design. The overall efficiency of each converter is between 27 % - 30 %.
+Little can be done to improve on these figures but thermal losses throughout the system
+can be combated to result in a system that is close to its theoretical efficiency.34
+Ongoing work conducted by the NASA Glenn Research Center and Sunpower
+inc. is establishing the life expectancy for the ASRG. Given that the ASRG has several
+high frequency moving components that are subjected to physical wear and thermal
+stress, it is expected that the lifetime of such units may not match those of RTG
+systems. For this reason, it is reasonable to accept the necessity for both types of system
+where an acceptable trade-off between efficiency and lifetime cannot be made by
+mission planners. Table 2.1 below highlights the comparison between both the ASRG
+and the MMRTG.
+MMRTG ASRG
+Beginning of mission electrical output power (WE): 115-125 145
+Beginning of mission thermal output power (WT): 2000 500
+Number of 238PuO2 fuelled GPHS modules used: 8 2
+Heat source operating temperature (°C): 538 640
+Heat rejection system operating temperature (°C): 210 60
+Power Conversion efficiency (%): ~ 6.3 ~ 30
+Total Mass (kg): 44.2 ~ 21
+Specific electrical power (WE / kg): 2.8 ~ 7
+Operational Life expectancy (years): > 14 10-14
+Table 2.1: Performance comparison of the Multi-Mission Radioisotope Thermoelectric Generator
+(MMRTG) and the Advanced Stirling Radioisotope Generator (ASRG).35
+2.7 The European Space Agency
+To date, the European Space Agency has not built or launched its own nuclear
+power or heating systems. Instead, through its involvement and partnership in NASA
+missions such as Cassini-Huygens the agency has had experience in space system
+design that has exploited RTG and RHU technologies. The Huygens probe schematic
+below depicts the use of a total of 34 Light Weight Radioisotope Heater Units
+(LWRHUs) [21, 22] that were provided to NASA by the U.S. Department of Energy for
+integration prior to launch at Cape Canaveral with the Huygens probe structure.
+Figure 2.18 – Schematic of the ESA’s Huygen’s Probe showing the location of all 34 LWRHUs/
+During the mid 1990s, the European space agency explored the option of
+purchasing Angel RHUs and RTGs from the Russian government as part of a
+technology exchange program [15]. The discussions explored the purchase of flight
+qualified 8.5Wth units in addition to the development of a 50 Wth RHU but to date have36
+not been successful, despite recent interest in the use of 8.5 Wth units under the
+ExoMars rover mission. At the time of writing, it is anticipated that the ExoMars rover
+will utilise between 3 and 8 Light Weight RHUs supplied by the U.S. Department of
+Energy under a technology transfer agreement between the European Space Agency
+and NASA.
+In order to develop its own capability in RHU and RPS technologies, the
+European Space Agency has begun a series of technical evaluations and feasibility
+studies in related fields as the author completes this thesis. Through formal
+contributions and informal discussions with the ESA program staff, the results from this
+thesis and the author’s related work is helping to answer key questions regarding
+radioisotope encapsulation, selection and availability that will be used to define the
+ESA strategy and developmental roadmap.
+2.8 Summary of space RTG systems built to date
+Table 2.2 below outlines the chronological development of unclassified
+radioisotope power systems for space.37
+Table 2.2: Highlighted cells within the fuel column indicates if a device was fuelled.
+Device Fuel Application Designed
+Electrical
+Power (W)
+Mass
+(kg)
+Design
+Life
+Mission Status
+SNAP-1 144Ce USAF satellite 500 n/a 60 days Superseded by SNAP-1A
+SNAP-1A 144Ce USAF satellite 125 91 1 year Cancelled 1959
+SNAP-3 210Po Thermoelectric demonstration
+(AEC)
+2.5 2 90 days Shown to President Eisenhower in 1960 in the
+Oval Office.
+238Pu Transit 4A
+(U.S. Navy Navigation)
+2.7 2 >1 year Launched June 1961. Operation terminated
+1976
+SNAP-3B
+238Pu Transit 4B
+(U.S. Navy Navigation)
+2.7 2 >1 year Launched Nov 1961. Operation terminated
+1971
+POODLE /
+SNAPOODLE
+210Po Radioisotope Thruster / RTG for
+various DOD applications
+220 < 1 year Development program ran 1961-1967
+238Pu Transit 5BN-1
+(U.S. Navy Navigation)
+25 12 >1 year Launched 28th Sept 1963 with 2.2-year life.
+238Pu Transit 5BN-2
+(U.S. Navy Navigation)
+25 12 >1 year Launched 5th Dec 1963 with 2.2-year life.
+SNAP-9A
+238Pu Transit 5BN-3
+(U.S. Navy Navigation)
+25 12 >1 year Destroyed during launch abort 21st April
+1964.
+SNAP-11 242Cm
+Surveyor Lunar Lander (NASA) 25 14 90 days Requirement cancelled 1965
+SNAP-13 242Cm Thermionic demonstration
+(AEC)
+12.5 2 90 days Program completed at ORNL Nov 1965 to
+1966.
+Orion-1 210Po Cosmos 84 (USSR) 20 - - Launched 1965
+SNAP-17A
+&
+SNAP-17B
+90Sr Comms. Satellite (USAF) 30 14 >1 year Design & component tests completed Nov
+1965.38
+Table 2.2 continued: Highlighted cells within the fuel column indicates if a device was fuelled.
+Device Fuel Application Designed
+Electrical
+Power (W)
+Mass
+(kg)
+Design
+Life
+Mission Status
+238Pu Imp satellite (NASA) 20 8 >1 year Component tests completed 1963. Not flown
+on Imp due to Radiation interference
+90Sr Various Satellites (AEC) 250 n/a >1 year 6 design studies (1964)
+238Pu Surveyor Lunar Rover (NASA) 40 10 1 year Design study (1964)
+SNAP-19A
+210Po Extended Apollo Missions
+(AEC)
+1500 n/a 30-90 days Design study (1964)
+SNAP-19B 238Pu Nimbus B-1 Meteorological
+satellite (NASA)
+30 14 >1 year Launch aborted 1968. fuel recovered and reused
+in SNAP-19B3
+SNAP-19B3 238Pu Nimbus III Meteorological
+satellite (NASA)
+30 14 >1 year Launched 14th April 1969.
+SNAP-25 238Pu Various satellites (AEC) 75 16 >1 year Program cancelled
+238Pu Apollo 12 Lunar Surface
+Experiment Packages (NASA)
+63.5 31
++ 11kg cask
+1 year 1st unit deployed on lunar surface.
+Launched 14th November 1969.
+238Pu Apollo 13, Lunar Surface
+Experiment Package (NASA)
+63.5 31
++ 11kg cask
+1 year Launched 11th April 1970. Unit landed deep
+pacific ocean (Tonga Trench) after mission
+failure.
+238Pu Apollo 14 Lunar Surface
+Experiment Package (NASA)
+63.5 31
++ 11kg cask
+1 year Launched 31st January 1971
+238Pu Apollo 15 Lunar Surface
+Experiment Package (NASA)
+63.5 31
++ 11kg cask
+1 year Launched 26th July 1971
+238Pu Apollo 16 Lunar Surface
+Experiment Package (NASA)
+63.5 31
++ 11kg cask
+1 year Launched 26th April 1972
+SNAP-27
+238Pu Apollo 17 Lunar Surface
+Experiment Package (NASA)
+63.5 31
++ 11kg cask
+1 year Launched 7th December 1972
+Orion-2 210Po Cosmos 90 (USSR) 20 - - Launched 197139
+Table 2.2 continued: Highlighted cells within the fuel column indicates if a device was fuelled.
+Device Fuel Application Designed
+Electrical
+Power (W)
+Mass
+(kg)
+Design
+Life
+Mission Status
+SNAP-29 238Pu
+90Sr
+244Cm
+Various mission designs for
+NASA and the DOD
+100
+to
+15,000
+n/a 90 days to
+5 years
+Design & test program from 1967 to 1970
+Transit RTG 238Pu Navigation satellite (U.S. Navy) 30 14 5 years Launched 1972
+238Pu Pioneer 10 Jupiter flyby mission
+(NASA)
+30 14 3 years 1973-2006
+4 SNAP-19 units used
+238Pu Pioneer 11 Jupiter flyby mission
+(NASA)
+30 14 3 years 1973-1995
+4 SNAP-19 units used
+238Pu Viking 1 Mars Lander (NASA) 35 14 > 2 years July1976 – Nov 1982
+2 SNAP-19 used
+SNAP-19
+238Pu Viking 2 Mars Lander (NASA) 35 14 > 2 years Sept 1975 – July 1978
+2 SNAP-19 units used
+Unknown 210Po Unknown application (USSR) 40 - - Project initiated in 1978. Never launched.
+600 Wth initial loading.
+238Pu Various Missions for the U.S.
+Department of Defence.
+150 n/a 5 – 10
+years
+238Pu Lincoln Experimental Satellite 8
+(U.S. Air Force)
+150 n/a 5 – 10
+years
+Launched 14th March 1978 with LES 9
+2 MHW-RTG units used
+238Pu Lincoln Experimental Satellite 9
+(U.S. Air Force)
+150 n/a 5 – 10
+years
+Launched 14th March 1978 with LES 8
+2 MHW-RTG units used
+238Pu Voyager 1 (NASA) 150 n/a 5 – 10
+years
+1977 – present
+3 MHW-RTG units used
+MHW-RTG
+238Pu Voyager 2 (NASA) 150 n/a 5 – 10
+years
+1977 – present
+3 MHW-RTG units used40
+Table 2.2 continued: Highlighted cells within the fuel column indicates if a device was fuelled.
+Device Fuel Application Designed
+Electrical
+Power (W)
+Mass
+(kg)
+Design
+Life
+Mission Status
+238Pu Various Missions for NASA and
+the DOD.
+290 54 15 years
+238Pu Galileo (NASA) 290 54 15 years 1989-2003
+2 GPHS-RTG units used
+238Pu Ulysses (NASA) 290 54 15 years 1990-present
+1 GPHS-RTG units used
+238Pu Cassini (NASA) 290 54 15 years 1997 – present
+3 GPHS-RTG units used
+GPHS-RTG
+238Pu New Horizons (NASA) 290 54 15 years 2006 – present
+1 GPHS-RTG unit used
+Angel
+(8.5 Wth)
+238Pu Mars 96 – 2 surface science
+stations (Russia)
+0.15 0.5 10 years Launched 16th November 1996.
+2 8.5Wth Angel units used per surface science
+station. Failed Earth departure stage resulted
+in atmospheric re-entry.
+238Pu Various Missions for NASA and
+the U.S. Department of
+Defence.
+MMRTG 125 44.2 > 14 years
+238Pu Mars Science Laboratory
+(NASA)
+125 44.2 > 14 years 1st flight Unit in storage for 2011 launch
+following MSL mission delay
+ASRG 238Pu Various Missions for NASA and
+the DOD.
+145 21 - Under Development41
+2.9 Nuclear thermal propulsion
+In any rocket propulsion system, the thrust generated by a given engine
+design is related to the mass and velocity at which propellants are exhausted
+through a nozzle per unit time. This relationship is defined by Equation 2.1. In a
+chemical rocket engine, the heat of combustion results in the excitation of
+typically gaseous combustion products to a velocity referred to in the context of
+rocket propulsion as the characteristic velocity c*. The physical design of a rocket
+engine is driven by its operating environment and most significantly, the nozzle is
+used to maximise the exhaust velocity. This optimisation is achieved through
+expansion of the exhaust down to a pressure as close to the external
+environmental pressure as is practically achievable. The gain in performance and
+thus exhaust velocity is represented by the introduction of a coefficient of thrust
+CR. For derivation of the coefficient of thrust and its relationship to rocket nozzle
+design, the author directs the reader to the published works by Turner [23] and
+Sutton [24].
+€
+FR = m
+•
+ve (2.1)
+Equation 2.1 Thrust generated by a rocket engine with a mass flow rate m-dot and exhaust
+velocity ve [24].
+€
+ve = c*CR (2.2)
+Equation 2.2: The exhaust velocity of a rocket engine as a function of the characteristic velocity
+c* and the coefficient of thrust CR [24].42
+Through conservation of energy, the characteristic velocity of the
+propellants obtained in a combustion chamber is related most fundamentally to
+the molecular mass and temperature of the exhaust [23]. This is defined in
+Equation 2.3. Clearly, for a fixed gas product, the greatest performance can be
+achieved though the maximisation of the operating temperature of the rocket
+engine and by using an exhaust product with a low molecular mass.
+€
+c* = ?
+2
+? +1
+??
+??
+??
+??
+??
+??
+(? +1)
+(? -1) M
+R`Tc
+??
+??
+??
+??
+??
+??
+??
+??
+- 1
+2
+(2.3)
+Equation 2.3: Characteristic velocity of the exhaust from a rocket engine as a function of the
+exhaust molecular mass M, ratio of specific heats ?, gas constant R` and the engine chamber
+temperature Tc [23].
+When discussing the efficiency of a rocket propulsion system, the
+efficiency is often conveyed as a value called the specific impulse Isp. The specific
+impulse is related to the exhaust velocity as derived in Equation 2.4. Thus, a
+system with a greater exhaust velocity will be more efficient in terms of Isp. A
+word of caution is however offered by the author, since in practice one must
+consider losses in an orbital system due to gravity. For example, although a
+propulsion system may have a large exhaust velocity and hence a large Isp, it may
+yield a very low thrust and therefore for some applications, its use may be
+precluded by large gravity losses due to extended propulsive operation to achieve
+a given velocity change. This may be illustrated by a typical electric propulsion
+system. For this reason, a propulsion system that is to be used for multiple
+applications, i.e. both on orbit or surface to orbit transfers, should deliver a
+suitable level of thrust while producing a suitably large specific impulse. In
+context, the best theoretical performance delivered by a chemical propulsion43
+system that uses Liquid oxygen and Liquid Hydrogen as propellants is a specific
+impulse of around 389.5 seconds [24].
+€
+I = F.dt =m
+•
+ve .dt
+ISP =
+F.dt
+m •
+g0 .dt
+=
+m •
+ve
+m •
+g0
+=
+ve
+g0
+€
+Isp =
+ve
+g0
+=
+c*CR
+g0
+(2.4)
+Equation 2.4: The specific impulse of a rocket propulsion system with respect to the propellant
+characteristic velocity c*, the thrust coefficient CR, and the acceleration due to gravity g0 at the
+Earth’s surface.
+The Nuclear Thermal Rocket (NTR) engine was developed as a propulsion
+system that could achieve higher efficiencies (Isp) than can be achieved by
+chemical propulsion systems while being capable of delivering usable thrust for
+on orbit transfer in large fields of gravitational influence over short periods of
+time. The concept of NTP relies on the excitation of a propellant by provision of
+heat from the core of a nuclear fission reactor. Since the propellant characteristic
+velocity is related to both its molecular mass and operating temperature, a low
+mass propellant is highly desirable while the reactor core temperature should be
+driven to very high temperatures. The thermodynamic properties of the propellant
+should also be considered, in particular the ratio of specific heats since its
+magnitude is proportional to the magnitude of the characteristic velocity as
+described in Equation 2.3. It should of course be noted that non-combustible
+propellants can be selected for operation of NTP systems which may allow for a
+reduction in storage requirements, overall mass and mission cost. However,
+careful consideration must be made during propellant selection for material and
+chemical compatibility at high temperatures. As an example, oxidisers or pure44
+oxygen is not suitable for use as a propellant since this would be likely to cause
+combustion of the core structure. Table .1 identifies some potentially suitable
+propellants that can be used in a nuclear thermal propulsion system.
+Figure 2.19: Basic components of a Nuclear Thermal Rocket (NTR) propulsion system [25].
+Propellant Ratio of
+specific heats
+(?)
+Molecular
+Mass
+(g/mol)
+Characteristic velocity c* for
+an exit temperature of 2500 °C
+(m/s)
+Isp at 2500 °C
+and CR=1.85
+(s)
+Hydrogen (H2) 1.41 2 4946 933
+Helium (He) 1.67 4 3304 623
+Nitrogen (N2) 1.40 28 1325 250
+Argon (Ar) 1.67 40 1044 197
+Carbon Dioxide (CO2) 1.28 44 1091 206
+Carbon Monoxide (CO) 1.40 28 1325 250
+Ammonia (NH3) 1.32 17 1736 327
+Methane (CH4) 1.32 16 1789 337
+Sulphur Dioxide (SO2) 1.26 64 909 171
+Table 2.3: Selected NTR propellants and their physical properties. ? = cp/cv. The characteristic
+velocity of the propellant is given for an NTR core temperature of 2500 °C.
+Between 1955 and 1972, the United States built and performed in excess
+of twenty NTR engine tests under the Rover and NERVA programs. The
+Rover/NERVA tests demonstrated specific impulses of around 850 seconds and
+thrust levels between 111 kN and 1.11 MN [26]. The U.S. programs also
+demonstrated that operation in excess of two hours and the ability to execute
+multiple re-starts is achievable using reactors using the thermal neutron spectrum
+via self-moderating graphite based fuel designs [27]. Two fuel designs were
+developed and tested extensively for their lifetime and compatibility within the45
+NTR environments. The first fuels developed under the Rover program utilised a
+composite dispersion of metallic 235U within a graphite element matrix. Such fuels
+were found to be susceptible to migration of fuel at high temperatures through
+pores and voids within the matrix. In the second type, fuel particles coated within
+a pyro-carbon cladding were distributed within a graphite matrix in an attempt to
+prevent migration of fuel throughout the general matrix. These two fuel types are
+illustrated in Figure 2.20 below.
+Figure 2.20: (Top) The Rover/NERVA fuel assembly design with 19 flow channels per fuel
+element. (Bottom) Composition of fuels developed and tested for the Rover/NERVA nuclear
+thermal rocket programs. [27]46
+Figure 2.21: Approximate scale of reactors tested during the Rover Nuclear Thermal Rocket
+program [28].
+Figure 2.22: NERVA rocket engine design cross section. Image courtesy of NASA.
+Building upon its extensive experience in space reactor design and
+operation, the Soviet Union also conducted a series of fuel tests for NTR systems
+within the IGR and EWG-1 research reactors in Kazakhstan. Figure 2.5 (right)
+illustrates in-core experimentation with UC-ZrC-NbC and UC-ZrC-C fuel forms
+within the EWG-1 reactor. The Soviet tests culminated in the operation of a 36 kN
+thruster of the RD-0140 design [29] (11B91 – IGRIT) on the 27th March 1978
+[30]. A photograph of the IGRIT engine is illustrated Figure 2.5 (left). A design
+for a 392 kN thruster was also prepared during the Soviet research program [29]
+although production of a full scale prototypic unit is not confirmed.47
+Figure 2.23: (Left) Russian 11B91 “IGRIT” NTR engine. (Right) Test assemblies of so called
+‘Twisted-Ribbon’ fuel elements as tested within the EWG-1 research reactor [29].
+In practice, propellant is injected into the reactor core at a velocity that is
+specific to the system design, typically via turbo machinery. Fundamentally, the
+injection velocity (vinj) is driven by mass flow rate (m-dot), total cross sectional
+area of the flow channels (ACSF) and propellant injection density (?inj). Equation
+2.5 expresses this relationship. In basic analyses of NTR systems, the injection
+velocity is commonly ignored but its neglect gives rise to error in the effective
+exhaust velocity that is achieved by a given system. Thus, the effective exhaust
+velocity may be estimated through adaptation of Equation 2.2 via the summation
+of the propellant injection velocity and the characteristic velocity, which may be
+considered to be a velocity increment due to heating within the core. An
+estimation of the NTR effective exhaust velocity is presented in Equation 2.7.
+€
+vinj =
+m •
+?injACSF
+(2.5)
+Equation 2.5: The propellant injection velocity (vinj) as a function of the mass flow rate (m-dot),
+injection density (?inj) and the total cross sectional area of flow channels (ACSF).48
+€
+ACSF = nFCprFC
+2 (2.6)
+Equation 2.6: The total cross sectional area of flow channels (ACSF) with respect to the total
+number of flow channels within the core nFC and the flow channel radius rFC.
+€
+ve
+* = c* + vinj ( )CR (2.7)
+Equation 2.7: The practical effective exhaust velocity (ve
+*) with respect to propellant injection
+velocity (vinj), characteristic velocity c* and the coefficient of thrust CR.
+2.10 Tungsten core power and propulsion reactors
+The overall efficiency of any nuclear fission power and propulsion system
+is limited most fundamentally by the efficiency of the heat transfer from fuel to
+propellant within the core and the thermal power density of the fuel elements.
+Similarly, the successful fabrication, operational performance and safety of
+reactor fuels for space power and propulsion applications is clearly driven by the
+fabrication techniques and materials adopted. Under the Rover/NERVA
+programs, the NTR reactor cores comprised of carbon-based fuel elements in
+which fuel materials were dispersed within graphite matrices (see Figure 5.2
+Bottom). The most efficient propellant for NTR systems is hydrogen when
+consideration is given to specific impulse (See Table 5.1). Unfortunately,
+hydrogen is highly erosive to graphite structures at elevated temperatures and
+under turbulent flow. Efforts were made to reduce the effect of hot hydrogen
+erosion through the provision of protective claddings during the Rover program,
+but these efforts did not completely eliminate the problem. Figure 5.10 illustrates
+the mass loss rate as a function of axial position. It was noted that a region known
+as the mid-band axial position experienced the greatest mass loss rates49
+irrespective of fuel composition. This mid-band region corresponded to the
+position of greatest temperature gradient and thus thermal stresses are believed to
+have caused fracture points. The brittleness of carbon-based fuel elements is an
+inherent problem for operational safety and containment during accident scenarios
+involving impact and the ease of material extraction from the carbon matrix
+presents several non-proliferation issues.
+Figure 5.10: Mass loss from Pewee and NF-1 NTR reactors tested under the Rover/NERVA
+programs. Mass loss is presented as a function of axial position and reactor environment. The peak
+in the mass loss curve is the so-called midband or midrange corrosion. The best performance was
+obtained from the composite fuels coated with zirconium carbide (ZrC). [31]
+Tungsten has a greater thermal conductivity than that of graphite, a high
+melting point, and is more resistant to creep deformation at elevated temperatures.
+Tungsten is also more resistant to fuel migration within its matrix and is more
+resistant to physical changes induced by radiation, such as neutron absorption
+[32]. It has been shown that fission product gases released within a tungstencermet
+matrix can be effectively contained for temperatures up to 1550ºC [33].
+Thus, tungsten cermet fuels are likely to be more compatible to the hot hydrogen
+operating conditions within an NTR core [25].50
+Unlike the fuels developed for the Rover/NERVA program, tungsten
+cermet based fuels must be operated within the fast neutron spectrum. When
+compared to reactors operating in the thermal neutron spectrum, fast spectrum
+reactors are less susceptible to reactivity degradation with respect to an increase in
+fission product inventory over time due to the relatively low neutron absorption
+cross sections of abundant fission products at high energies. Thus, it is anticipated
+that a fast spectrum NTR will have longer reactivity and materials durability
+lifetimes than those of themal spectrum systems with graphite fuel matrices.
+Previous space reactor programs such as the Argonne National Laboratory
+(ANL) rocket program and the General Electric 710 (GE-710) program have
+investigated the use of uranium dioxide encased in tungsten and tungsten-rhenium
+matrices (cermet fuels) in order to eliminate the problems associated with graphite
+based fuels [34]. Both programs proved the viability of encasing UO2 in both a
+tungsten and tungsten-rhenium matrix using hot press sintering techniques with
+varying levels of success. Both programs also revealed that oxygen atoms
+dissociated from the uranium at the high sintering and operational temperatures,
+which formed volatiles such as WO2 and WO3. In order to mitigate the formation
+of tungsten oxides, ThO2 and GdO1.5 were added to the fuel in order to suppress
+the effective dissociation at temperature by increasing the probability for oxygen
+recombination. The fuel elements were formed in a volume ratio of 60%UO2-
+34%W-6%GdO1.5 or 6%ThO2. The uranium was enriched to 93 wt% 235U and the
+GE-710 program mixed the tungsten into a 75 wt% W - 25 wt% Re alloy to
+increase the ductility [35].51
+Further enhancements of the tungsten-cermet fuel can be made using
+various tungsten-compatible additives. Rhenium and molybdenum can be added
+to the tungsten to reduce the brittleness and improve the toughness of the metal
+matrix. The ductile-to-brittle transition temperature is also adjusted through the
+addition of these materials. To reduce migration of fission product and fuel
+inventory, the grain boundaries of the ceramics can also be modified by the
+addition of thoria (ThO2) or gadolinium oxide Gd2O3 which act as stabilizers.
+The mechanical properties of refractory alloy cermet fuel elements may
+allow for the safe operation at high temperatures resulting in NTR systems with
+large specific impulses while maintaining integrity and capture of nuclear fuels
+during exposure to hot hydrogen environments. Likewise, refractory alloy fuel
+elements provide resistance against the high temperatures experienced during
+atmospheric re-entry and impacts associated with launch failures and spaceflight
+accidents, while providing inherent physical security and resistance to extraction
+by pyrolysis or direct pyrotechnic dispersion of fuel materials. The 710 program
+demonstrated excellent promise for refractory alloy fuels, but the high
+temperatures experienced by the fuel materials during cermet fabrication via hot
+isostatic pressing likely contributed to containment failures in some fuel elements
+through the reduction of the fuel compounds and allowing for the migration of
+liquid uranium metal throughout the tungsten matrices prior to the closure of the
+tungsten pores during sintering. The localized formation of tungsten oxides may
+also have presented mechanical weaknesses within some of the fuel cermets.52
+Work undertaken by the National Aeronautics and Space Administration
+attempted to reduce volatilization and reduction of the fuels during high
+temperature sintering by pre-coating the fuel particles in the same material as the
+matrix of choice (tungsten) using a spheridisation process [36]. However, the
+fundamental problems attributed to hot press sintering of cermets resulted in
+significant grain growth, and thus a lower than theoretical matrix strength was
+attained.
+The volumetric fraction of the fuel materials to be encapsulated within a
+cermet as discussed in section 5.4 is an influential factor attributed to the material
+properties such as strength and fuel migration and the overall amount of material
+that can be released to the external environment in the event of fracture, which, in
+the case of the nuclear thermal rocket is the hydrogen propellant stream. The
+effective critical mass of a tungsten cermet core is also dependant upon the
+volumetric loading of the fuel elements. To demonstrate this relationship, a model
+of the Pewee NTR core was created using the MCNP Monte Carlo radiation
+transport code and its graphite based 235U composite fuel was substituted with
+tungsten cermets of varied fuel-tungsten volumetric ratios. The Rover/NERVA
+Pewee engine was selected for modelling due to the availability of a large
+inventory of design data to the author and colleagues at the Center for Space
+Nuclear Research at Idaho National Laboratory. Uranium Nitride (235UN) was
+selected as the fuel compound due to its stability under neutron irradiation and a
+matrix of pure tungsten was assumed. Details and cross sectional diagram of the
+MCNP model adopted for the study are presented in Figure 5.11. Figure 5.1253
+illustrates the results for the Monte Carlo modelling of the cermet Pewee core
+effective k value as a function of volumetric ratio of uranium nitride to tungsten.
+Figure 5.11: Cross sectional view of the MCNP model used in the determination of criticality or
+effective k value for a tungsten cermet fuelled Rover/NERVA Pewee engine. Here a core of 27 cm
+diameter composed of UN-tungsten cermet fuel elements equal to the Rover/NERVA fuel
+geometry is surrounded by a beryllium reflector and a total of 8 control drums segmented with a
+B4C neutron absorber.
+Figure 5.12: The criticality / effective k value for a Rover/NERVA Pewee core fuelled by
+tungsten-uranium nitride cermet elements as a function of volumetric fuel loading between 25%
+and 50% UN.
+Launch Safety is a significant contributing factor that should be
+considered within the design of any fission reactor that is built for space
+applications. Reactor cores that are designed to operate in the thermal neutron
+spectrum are more susceptible to uncontrolled criticality during accidental
+submersion into fresh or sea water due to reflection and in the case of water
+infiltration, enhancement of moderation [25, 26]. This was also considered to be a54
+limiting factor for the use of the Topaz II reactor system purchased from the
+former Soviet Union by NASA in the 1990’s [37] which led to unimplemented
+design modification efforts prior to the cancellation of the US program. Monte
+Carlo modelling using MCNP [38] of fast reactor systems undertaken by the
+author in collaboration with J.D. Bess at the Center for Space Nuclear Research
+revealed that a tungsten based fast reactor is unlikely to achieve criticality in
+accidental submersion events with the exception of intact impact into wet silica
+sands [25]. When considering core lifetime, launch safety and proliferation
+resistance, it is apparent that fast spectrum tungsten cermet reactors offer a greater
+solution than equivalent graphite based thermal reactors such as those used in the
+Rover/NERVA program.
+2.11 Thermal analysis of Nuclear Thermal Propulsion
+Within the frame of reference for the reactor core of an NTR propulsion
+system, the propellant acts as a coolant and thus the operating power output of the
+core must be equal to the rate at which heat can be removed from the system
+including thermal losses. Figure 2.2 (Top) illustrates fuel element assemblies that
+were developed during the Rover/NERVA Nuclear Thermal Rocket programs in
+the US. In the Rover/NERVA designs, several (19) propellant flow channels are
+integral to the structure of each fuel element. Careful design of the propellant flow
+channels should facilitate efficient heat transfer between the fuel and the
+propellant/coolant. Equation 2.8 relates the total power removed by a singlephase
+propellant heated to a hot temperature by difference ?T. A system which
+uses a propellant that undergoes a phase change during operation must also55
+provide sufficient power and hence energy equivalent to the latent heat in addition
+to the power required to elevate the propellant temperature.
+€
+P =m
+•
+cp?T (2.8)
+Equation 2.8: Power that must be extracted from the core of an NTR by a propellant raised in
+temperature by ?T with a mass flow rate m-dot and specific heat capacity cp.
+If we consider the axial temperature distribution of a simple core design
+with a uniform fission power distribution, the region closest to the propellant inlet
+will be cooler than the region closest to the exit. This can be demonstrated
+through detailed analysis of heat transfer between the core and the propellant. In
+practice, this axial temperature gradient across the core can be minimised by
+manufacturing a core with a suitable axial power distribution by varying the fuel
+loading concentrations with respect to position.
+Maximisation of heat transfer to the propellant within the core of an NTR
+engine is facilitated by forced convection via turbulent flow through flow
+channels within individual fuel elements. Estimation of the heat transferred to the
+propellant from the walls to the propellant may be made through the consideration
+of the heat transfer coefficient, h (W m-2 K-1) and the total surface area (ASFC) of
+flow channels within the NTR core. The rate at which thermal energy may be
+transferred in bulk from core to propellant is therefore estimated in Equation 2.9.
+It should be noted that the log mean value of the temperature difference is used
+since the value of the heat transfer coefficient varies with respect to temperature
+due to the temperature dependency of the thermo-physical properties of the
+propellant.56
+€
+P = ASFC?TLog-Mean ( ) dh
+dt
+(2.9)
+Equation 2.9: Power that is transferred from the core of an NTR to a propellant raised in
+temperature by ?T, where h is the heat transfer coefficient and ASFC is the total surface area of the
+propellant flow channels.
+In the case of the nuclear rocket engine, the heat transfer coefficient (h) is
+governed by the thermal conductivity of the propellant, which varies in practice as
+a function of temperature, and is enhanced by the overall dominance of the
+turbulent flow. The unit-less Nusselt number (?) may be used to quantify the ratio
+of convective to conductive heat transfer between the inside wall of the flow
+channel and the propellant. Since the heat varies across the entire diameter of the
+flow channel, this must be accounted for by consideration of the hydraulic
+diameter. The hydraulic diameter DH is not equal to the diameter of the flow
+channel for complex channel geometries since it is related to the wetted region in
+which fluid flows. In the case of a circular cross section, the DH is however equal
+to the channel diameter (2r) as shown in Equation 2.10. The dependency of the
+heat transfer coefficient to the thermal conductivity, hydraulic diameter and
+Nusselt number is presented in Equation 2.11 for dimensional analyses of NTR
+propellant systems.
+€
+DH =
+4ACSF
+Lcirc
+=
+4pr2
+2pr
+= 2r (2.10)
+Equation 2.10: The hydraulic diameter for a circular flow channel of radius r, cross sectional area
+ACSF and circumference Lcirc.
+€
+h =
+k?
+DH
+(2.11)
+Equation 2.11: The heat transfer coefficient for a turbulent propellant flowing through a flow
+channel of hydraulic diameter DH with a Nusselt number ?.57
+Estimation of the heat transfer coefficient (h) may be made for forced
+convection conditions via turbulent flow by implementation of the Dittus-Boelter
+correlation, which relates the Nusselt Number (?) to the Prandtl number (Pr) and
+the Reynolds (Re) number. In the case of an NTR propellant where the fluid is
+acting as a coolant, the value of n in the Dittus-Boelter correlation was found to
+be 0.3. It is understood that for a fluid that acts to heat a tube through which it
+flows, the value of n is equal to 0.4. The Dittus-Boelter correlation is presented in
+Equation 2.12 below.
+€
+? = 0.023Re
+0.8Pr
+n (2.12)
+Equation 2.12: The Dittus-Boelter correlation for the Nusselt number (?) with respect to the
+Reynolds number Re, Prandtl number Pr. In the case of an NTR propellant, n = 0.3.
+The Reynolds Number (Re) is a dimensionless ratio of a fluid’s inertial
+forces (?v2/DH) to viscous forces (µV/DH
+2) [39]. Through empirical evaluations of
+the Reynolds Number, it is understood that the onset of turbulent flow within
+circular flow channels may be observed where Re = ~ 2.3×103 [40]. Thus, in
+preliminary flow channel design, the hydraulic diameter must be engineered such
+that turbulent flow exists throughout the axial profile.
+€
+Re =
+?VDH
+µ
+=
+VDH
+?
+(2.13)
+Equation 2.13: The Reynolds number for a propellant of density ?(T,P), kinematic viscosity
+?(T,P) and dynamic viscosity µ(T,P) travelling through a channel with hydraulic diameter DH at a
+velocity V.58
+The Prandtl number provides a numerical ratio of the momentum
+diffusivity or kinematic viscosity to the thermal diffusivity within a turbulent
+fluid. This may in turn be related to the thermal conductivity of the fluid.
+Equation 2.14 presents this relationship to the Prandtl number.
+€
+Pr =
+?
+a
+=
+cpµ
+k
+(2.14)
+Equation 2.14: The Prandtl Number Pr with respect to kinematic viscosity ?(T,P) and thermal
+diffusivity (a) of the propellant. Also presented is its relationship to specific heat capacity cp(T).
+Clearly, a basic estimation of the flow channel design can be determined
+by implementation of Equations 2.9 to 2.14 from a given set of start conditions.
+However, such a model may be considered somewhat inaccurate for practical
+system design purposes due to the temperature and pressure dependency of the
+thermo-physical properties used to estimate the heat transfer coefficient. In
+practice, a Finite Element Analysis (FEA) based computational fluid dynamics
+(CFD) code such as Ansys [41] or Comsol must be used.
+To date, the principal of nuclear thermal propulsion has been demonstrated
+through the extensive ground testing performed in the U.S. and in Russia. The
+results from these tests highlighted significant operational time dependant failures
+in the integrity of fuel forms that were historically adopted. Radiological
+contamination of the propellant as it exited the nozzle of the engine was observed
+during these tests [27]. Such failure of fuel matrices is not desirable for
+operational lifetime or for safety. One possible solution to the problems with the
+traditional graphite fuel forms is proposed and discussed in Chapter 6.59
+2.12 References
+[1] E. Levnor, I. Linkov, J. M. Proth, "Strategic Management of Marine Ecosystems". Springer;
+2005. ISBN: 1-4020-3158-0.
+[2] Office of Polar Programs Environment Section. "Environmental Action Memorandum:
+Installation, Maintenance and Removal of Automatic Weather Stations in Antarctica.". Office of
+Polar Programs. 18th February 1993.
+[3] V.P. Chechev, N.K. Kuzmenko, "Table of Radionucleides". Vol 2. Monographie Bureau
+International Des Poids et Mesures BIPM-5; 2004.
+[4] W. R. Corliss, Harvey D. G., "Radioisotopic Power Generation". Prentice-Hall, New Jersey;
+1964.
+[5] G.L Bennett. "Space nuclear power: opening the final frontier". Proceedings of: Fourth
+International Energy Conversion Engineering Conference and Exhibit (IECEC), 2006; San Diego,
+California. AIAA.
+[6] J. A. Angelo, D. Burden, "Space Nuclear Power". Krieger Publishing, Malabar, FL.; 1985.
+ISBN: 0-89464-000-3.
+[7] M.S. Khan, W.L. Moguel, I. Dubrawsky. "Viking Spacecraft". The University fo Texas at
+Austin, Austin, TX. November 22nd 1991.
+[8] C. E. Kelly. "MHW RTG performance during LES 8/9 and voyager missions". Proceedings of:
+Fourth symposium on Space Nuclear Power Systems, 1987; New Mexico University.
+[9] M.S. El-Genk, "Deployment histort and design considerations for space reactor power
+systems". Acta Astronautica. 64 (2009) 833-849.
+[10] M. Benkö, et al, "Space Law in the United Nations". Martinus Nijhoff Publishers; 1985.
+[11] M.S. El-Genk, T.M. Schriener, "Performance and radiological analyses of a space reactor
+power system deployed into a 1000–3000 km earth orbit". Progress in Nuclear Energy. 52 (2010)
+236-248.
+[12] M. Wade. "Encyclopedia Asronautica". http://www.astronautix.com/project/rorsat.htm.
+[13] V.P. Nikitin, B.G. Ogloblin, E.N. Sokolov, et al., ""YENISEI" SPACE NUCLEAR POWER
+SYSTEM". Atomnaya Energiya. 88 (2000) 95-108.
+[14] A.A. Pustovalov. "Nuclear thermoelectric power units in Russia, USA and European Space
+Agency research programs". Proceedings of: 16th International Conference on Thermoelectrics;
+August 26-29, 1997; Dresden, Germany. IEEE 0-7804-4057-419.
+[15] A.A. Pustovalov in private communication to A. Fournier-Sicre, Head of ESA Permanent
+Mission in Moscow. November 4th 1995
+[16] G.L. Bennett, J.J. Lombardo, R.J. Hemler, et al. "Mission of Daring: The General-Purpose
+Heat Source Radioisotope Thermoelectric Generator". Proceedings of: Fourth International Energy
+Conversion Engineering Conference and Exhibit (IECEC), 2006; San Diego, California. AIAA.
+[17] U.S. Department of Energy. "Draft Environmental Impact statement for the proposed
+consolidation of Nuclear Operations related to production of Radioisotope Power Systems".
+DOE/EIS-0373D. p.19.
+[18] Radioisotope Power Systems Committee of the National Research Council, "Radioisotope
+Power Systems: An Imperative for Maintaining U.S. Leadership in Space Exploration". National
+Academies Press; 2009. ISBN: 0-309-13858-2.60
+[19] C.P. Bankston, K.L. Atkins, E.F. Mastal, D.G. McConnell, "Technology development issues
+in space nuclear power for planetary exploration". Acta Astronautica. 24 (1991) 161-170 DOI:
+10.1016/0094-576(91)90163-Y.
+[20] T. Todd, R. Herbst, B. Mincher, S. Frank, J Law, J. Swansom. "Plutonium-238 Recovery
+From Irradiated NeptuniumTargets Using Solvent Extraction". INL/CON-06-11850. Idaho
+National Laboratory, Idaho Falls, ID. October 2006.
+[21] K. Clausen, H. Hassan, M. Verdant, "The Huygens probe system design". Space Science
+Reviews. 104 (2002) 155-189.
+[22] J. Lebreton, D. Matson, "The Huygens probe: science, payload and mission overview". Space
+Sci. Rev. 104 (2002) 59-100.
+[23] M.J.L. Turner, "Rocket And Spacecraft Propulsion". 2nd ed. Praxis Publishing Ltd,
+Chichester; 2005. ISBN: 3-540-22190-5.
+[24] G.P. Sutton, O. Biblarz, "Rocket Propulsion Elements". 7th ed. John Wiley & Sons Inc., New
+York; 2001. ISBN: 0-471-32642-9.
+[25] S.D. Howe, R.C. O'Brien, N. Barra, et al. "Returning humans to the moon: comparison of
+chemical engine and nuclear rocket performance as an earth departure stage". Proceedings of:
+2007 Space Nuclear Conference; June 24-28, 2007. American Nuclear Society, ISBN: 0-89448-
+053-7.
+[26] S.D. Howe, R.C. O'Brien. "Nuclear Thermal Rockets: History, Benefits and Issues Impacting
+Future Operations". Proceedings of: 57th Joint Army-Navy-NASA-Air Force (JANNAF)
+Propulsion Meeting, 2010; Colorado Springs, CO.
+[27] D. Koenig. "Experience gained from the Space Nuclear Rocket Program (Rover)". Los
+Alamos National Laboratory, Los Alamos, NM. May 1986.
+[28] S.V. Gunn, "Development of Nuclear Rocket Technology". AIAA. 89-2386 (1989).
+[29] V. Zakirov, V. Pavshook, "Russian Nuclear Rocket Engine Design for Mars Exploration".
+Tsinghua Science and Technology. 12 (2007) 256-260.
+[30] G.V. Konyukhov, A.I. Petrov, S.A. Popov, et al., "Prototype of a Nuclear Rocket Motor - The
+IGRIT Reactor". Atomic Energy. 97 (2004) 604-607.
+[31] "A safety evaluation of SNAP reactor systems". Report of the Committee on the Nuclear
+Space Program. Atomic Industrial Forum Inc. 1968.
+[32] R.J. Hanrahan Jr, R.L. Smith III, J. Morgan. "Review of the historical capabilities and testing
+of composite and cermet fuels in Los Alamos". LA-UR-02-7186. Los Alamos National Laboratory,
+Los Alamos, NM. 2002.
+[33] D.A. Seifert, R.L. Stuart, P.K. Conn, H.W. McLaughlin, G.J. Luersen. "Fission product
+behavior within two W–UO2 cermet fuel elements irradiated in a temperature gradient". Nuclear
+Space Programs Space Systems. General Electric, Cincinnati, Ohio. 1968.
+[34] D.E. Burkes, D.M. Daniel, J.E. Werner, S.D. Howe. "An Overview of Current and Past WUO2
+CERMET Fuel Fabrication Technology". Proceedings of: 2007 Space Nuclear Conference,
+2007; Boston, MA.
+[35] General Electric. "710 high-temperature gas reactor program summary report. Volume III.
+Fuel Element development". General Electric. 1968. Pages: 146. GEMP-600 (Vol.3);.61
+[36] P.D. Takkunen. "Fabrication of cermets of uranium nitride and tungsten or molybdenum from
+mixed powders and from coated powders". NASA Technical Note D-5136. NASA Lewis Research
+Center, Cleveland, OH. 1969.
+[37] L.W. Connell, L.C. Trost. "Reentry Safety for the Topaz II Space Reactor: Issues and
+Analyses". SAND94-0484. Sandia National Laboratories, Albuquerque, NM. 1994.
+[38] X-5 Monte Carlo Team. "MCNP - a general Monte Carlo n-particle transport code, version
+5". LA-UR-03-1987. Loas Alamos National Laboratories, Los Alamos, New Mexico. 2003.
+[39] R.W. Fox, A.T. McDonald, P.J. Pritchard, "Introduction to Fluid Mechanics". 6th ed. John
+Wiley and Sons. ISBN: 0750665386.
+[40] V.C. Patel, W. Rodi, G. Scheuerer, "Turbulence Models for Near-Wall and Low Reynolds
+Number Flows- A Review". AIAA. 23.9 (1985) 1308-1309.
+[41] "Ansys Finite Element and multi-physics analysis software package" [computer program].
+Version 10. Ansys Inc., Cannonsburg, PA, USA.62
+3
+Current radioisotope heat source encapsulation technology
+In this chapter, two unclassified radioisotope heat source assemblies produced in
+the United States are described: the General Purpose Heat Source (GPHS) Module with
+a thermal power output of 250 W [1] and the Light Weight Radioisotope Heating Unit
+(LWRHU), with a thermal output power of 1 W [2]. The 8 W heat source known as
+Angel [3], which is produced in Russia, is similar in design to the LWRHU [2] is also
+discussed. The fundamental elements of these heat sources rely on the use of 238Pu
+encapsulated in a refractory cladding and surrounded by a composite insulator and
+ablative liner/impact aeroshell assembly.
+In accordance with UN resolution 47/68, all radioisotope heat sources for use in
+space must be capable of preventing the dispersal of nuclear materials into the Earth’s
+environment during nominal and accidental situations. For this reason, careful
+engineering of the radioisotope containment must be ensured. In today’s climate where
+global terrorism is a serious threat, the preservation of security for nuclear materials is
+essential at all stages of production and under all possible conditions. When considering
+operational temperatures and temperatures achieved under extreme conditions such as
+launch failure and atmospheric re-entry scenarios which include orbit decay and
+minimum angle of attack, , it is also important to select a radioisotope encapsulation
+technique or material that will prevent the dispersal of the enclosed nuclear materials
+under such conditions.63
+3.1 The General Purpose Heat Source (GPHS)
+Figure 3.1: The General Purpose Heat Source (GPHS) module assembly and module stack. Image
+Courtesy of the United States Department of Energy.
+The General Purpose Heat Source (GPHS) was primarily designed to provide
+heat in a power generation system and consited of 18 modules stacked to form the core
+of these RTGs. The required thermal power level for any system can be achieved by
+coupling modules in multiples of 250 Wth. The fuel used to form the GPHS fuel pellets
+is 238PuO2. The GPHS fuel pellets are produced and clad in iridium alloy DOP-26 at the
+Los Alamos National Laboratory and shipped, for assembly into the GPHS modules, at
+the Idaho National Laboratory. The geometry of each fuel pellet is cylindrical (2.76 ±
+0.02 cm diameter by 2.76 ± 0.024 cm long) with a chamfer at each end [4]. The GPHS
+fuel pellets are produced from a purified powdered feedstock of PuO2 with an assay of
+82.2 % 238Pu by weight [4].64
+The feedstock materials are purified via an aqueous recovery process that can
+accept an input of impure source materials or existing PuO2 that may be in an oxidation
+state (such as IV+) that does not conform to requirements for use in the GPHS
+architecture. Before starting pellet production, the feedstock chemical form and grain
+size must conform to specific requirements. In recent years, the 238PuO2 purchased by
+the United States from Russia for use in radioisotope power systems has been of the
+form of 238PuO2 (IV+). The final stages of the aqueous processing involves the
+production of Pu3+ Oxalate [5] which undergoes calcination in the presence of oxygen
+that is enriched in 16O [6]. The resultant feedstock material is 238PuO2 (III+), the
+compound that has been qualified for safe operation during accident scenarios. The
+feedstock must be processed via ball milling to produce particle sizes < 250 µm, 60% of
+which is sintered at 1100 °C while 40% is sintered at 1600 °C. The granules of PuO2 are
+sintered at the respective temperatures for 6 hours in a platinum boat in an argon
+atmosphere saturated with H2
+16O or in a mixed reaction gas consisting of argon and
+16O2 [5]. This reaction cover gas is produced by the passing of argon gas through a
+liquid H2
+16O bubbler followed by purification in a tube furnace containing titanium
+beads held at 750 °C [7]. The granules sintered at 1600 °C have a larger average size
+than those sintered at 1100 °C. This is due to grain growth enhancement at the higher
+temperatures. The density of these grains is in excess of 95% of the theoretical density.
+This sintering process ensures that the correct grain size and morphology of the
+feedstock is achieved prior to hot pressing of the fuel pellets. This process also
+facilitates the displacement of 17O and 18O based plutonia which produce a-n neutrons
+[8]. The two powders (containing different average grain sizes) are blended together in
+a 40large grain : 60small grain ratio for pellet pressing. This morphology and mixture ratio has65
+been empirically determined to provide the required pellet bulk density (approximately
+85 % of the theoretical density). The final pellet is also resistant to shrinkage and
+cracking during fabrication, a property attributed to the fraction of the dense powder
+grains that are sintered at the higher temperature.
+Pellet production is achieved by hot pressing 151 g of PuO2 feedstock in a
+graphite die, with an average force of 12.4 kN, at a temperature of 1500 °C - 1525 °C
+for 28 minutes [5]. This translates into a pressure of approximately 20.7 MPa. The
+pellet produced by this hot press process is reduced to a stoichiometry of PuO1.93 by
+reactions with the graphite during the sintering process. Before the pellet can be used,
+an oxidation stage is required to restore its stoichiometry to PuO2. This is achieved by
+pressureless sintering of the hot pressed pellet in a platinum boat filled with powdered
+Thoria. This process is carried out in an argon 16O2 enriched atmosphere. The addition
+of Thoria to the platinum boat stage is used to support the pellet and prevent the
+generation of pressure stress points in the pellet that may arise from its own weight and
+the direct placement of the pellet in the platinum boat. Two stages of the pressureless
+sintering are performed, firstly at 1000 °C for 6 hours followed by a period of 6 hours at
+1527 °C [5, 7]. This final post-press sintering increases the grain sizes of residual
+submicron plutonium oxide fines to a size of ~20 to ~30 µm [5], which minimises the
+production of respirable fine particles in the event of impacts associated with launch
+accidents. The resultant fuel pellets have an average density of 9.89 g.cm-3 [4] and are
+capable of capturing radiogenic helium during pre-assembly and storage but expand at
+operational temperatures (extreme re-entry temperatures) increasing the porosity and
+enabling the venting of trapped helium.66
+Figure 3.2: Typical Hot Press sintering profile for the production of GPHS fuel pellets [9].
+Figure 3.3: Micrograph of the longitudinal axis of a typical GPHS fuel pellet. [9]
+Following production, each fuel pellet used in the GPHS architecture is
+individually encapsulated in a vented iridium alloy (DOP-26) clad. The wall thickness
+on the GPHS fuel clad is 0.73 mm [10]. The cladding is assembled from two pieces
+(manufactured by Oak Ridge National Laboratory): a vented cup and a shield cup. The67
+vented cup features a vent hole that is filtered by a sintered iridium frit (porous matrix)
+that allows radiogenic helium to escape without affecting the containment of fine
+displaced PuO2 particles in the event of an accident or impact [10]. The iridium frit is
+produced by sintering 0.0725 g of iridium powder to 67% theoretical density [10],
+which allows helium to flow through it at a rate of 4.5 to 7.5 cm3/min at a feed pressure
+of 7 kPa [10]. The vent assembly has a thickness no greater than 0.41 mm and is
+produced by the diffusion bonding of a cover disc that is vented to the interior of the
+clad and a backing disc that is vented to the exterior of the clad over the iridium frit
+[10] (see Figure 3.4). For pre-assembly storage and transport of the fuelled clads, an
+iridium contamination cover blister is applied to the exterior of the vent during the
+manufacturing of clads. This is only removed immediately prior to the final assembly of
+a GPHS module. The purpose of the cover blister is to reduce the probability of
+contamination by plutonium oxide fines during shipping and storage prior to module
+assembly. The lower half of the cladding consists of the shield cup that includes a 0.127
+mm thick iridium foil between the ceramic PuO2 pellet and the joint between the two
+halves of the cladding [11]. This shield isolates the plutonium dioxide fuel pellet and is
+essential for the prevention of material volatilization during the welding process that
+seals the two halves of the cladding together [11]. Tungsten inert gas welding with a
+Hobart welder is used to join the two halves of the iridium cladding [11]. This is an arc
+welding process that is conducted in an inert argon environment to prevent the
+contamination of the welds by airborne impurities. This is important since such
+impurities may lead to long term corrosion and may weaken the overall strength of the
+weld.68
+Figure 3.4: (Left) Schematic Diagram of the GPHS fuel Clad and vent design [12]. (Right) Photograph
+of a fuelled GPHS clad with vent cover applied, courtesy of United States Department of Energy.
+Figure 3.5: Cross sectional micrograph of the GPHS vent assembly [10]
+Figure 3.6: (Left) Scanning Electron Microscope image of the inside of the vent assembly showing the
+four openings in the cover disk exposed to the sintered iridium frit. (Right) Enlarged image of the
+exposed region of the sintered iridium frit [13].
+Completed GPHS fuel clads are installed into a Fine Weave Pierced Fabric
+(FWPF) Graphite Impact Shell (GIS) in pairs. The two sealed heat sources housed in a
+GIS are separated by a porous FWPF floating membrane that allows the precise69
+positioning of each heat source for optimum thermal performance while allowing a vent
+path for radiogenic gases. The Purpose of the GIS is to provide protection from impacts
+caused by atmospheric re-entry or launch vehicle accidents. Both ends of the GIS are
+vented by multiple holes to prevent helium retention. One end of the GIS features a
+threaded opening that is closed by a cap. See Figure 3.1.
+A thin walled insulator manufactured by Oak Ridge National Laboratory [14]
+comprising of a Carbon Bonded Carbon Fibre (CBCF) sleeve and two thin CBCF disks
+is used to envelop each GIS in order to insulate it and the fuel from severe effects of
+brief temperature excursions during worst case re-entry conditions [4, 15]. The CBCF
+insulator ensures that the temperature in the GIS is greater than 800 °C such that the
+ductility of the fuel cladding is preserved in the event of a post re-entry impact [4]. The
+CBCF sleeve and disks have a thickness of 1 mm [16] and an average thermal
+conductivity of 0.059 W m-1 K-1 [16]. The CBCF sleeve is not gas-tight so as to allow
+radiogenic helium to escape under normal operational conditions [4]. The CBCF sleeve
+is occasionally referred to as the Post Impact Containment Shell (PICS) since it offers
+some degree of containment of fine isotope powder grains in the event of a ruptured
+clad [17].
+The final stage of a GPHS module assembly involves the insertion of two
+fuelled GIS/PICS assemblies into a single square block aeroshell. The aeroshell is made
+from FWPF and provides an ablative barrier from the high temperatures experienced
+during atmospheric re-entry events and flash fire accidents, while providing good
+thermal conductivity between the heat source and a power conversion system. The
+GIS/PICS assemblies are secured inside the two separate cavities in the aeroshell by70
+means of a threaded aeroshell cap. A locking screw is used to prevent the loosening of
+the aeroshell cap [4]. With the exception of the CBCF insulator and FWPF billets
+produced by Textron Products Inc., all of the components for the aeroshell and GIS
+assembly are manufactured at Idaho National Laboratory.
+The GPHS modules are designed and qualified to withstand impacts at a
+velocity of 55 m s-1 and a clad temperature of 970 °C [17], which is a predicted post reentry
+temperature for a module having reached a peak temperature of 1740 °C [18].
+Computational fluid dynamics modelling has been used to determine that sub-orbital
+accidental re-entries could result in the ablation of between 0.28 mm and 1.37 mm of
+the outer surface of the module, whereas re-entries due to orbit decay are predicted to
+result in an ablation of 1.37 mm [4]. The most severe re-entry temperatures are reached
+by very low angle (?) re-entry profiles such as super-orbital near skip-out (? = - 5.3°)
+and multiple skip re-entry (? < - 5.3°) [19], where the final re-entry interface occurs
+below the skip-out boundary [4]. A re-entry interface is commonly defined as the point
+at which contact is made between an object with a velocity less than the orbital velocity
+for its current position makes contact with the atmosphere of a planet. Calculations
+have shown that typical ablation for these two scenarios is 1.73 mm and 3.30 mm
+respectively [4].71
+Module qualification testing included:
+• ageing tests [18]
+• testing resistance to fire [18]
+• ablation [19]
+• impact [4, 18, 20].
+• vibration testing [18]
+• explosion overpressurisation tests [4, 21]
+• edge on flyer plate testing [4, 22]
+Figure 3.7: Comparison of GPHS module re-entry velocity verses altitude profiles for shallow angle (a <
+7°), intermediate angle (20° < a >7°) and steep (90° < a > 20°) re-entry interface angles of attack. Also
+plotted is a typical ballistic re-entry vehicle velocity profile and the point of maximum heating for the
+GPHS modules coincident on the minimum interface angle boundary [4].
+During the U.S. Defence Nuclear Agency’s “Direct Course” test, in which 554
+Metric Tons [23] of Ammonium Nitrate Fuel Oil (ANFO) liquid explosive were used to
+simulate the effects of a 1 kT tactical nuclear weapon, the General Electric Advanced72
+Energy Programs Department deployed a parallel experiment in which a simulated
+GPHS-RTG was subjected to pressures similar to those that would be experienced by
+the explosion of a launch vehicle carrying such a generator [23, 24]. Pressure
+transducers measured an incident overpressure of around 10.3 MPa at the GPHS-RTG
+simulator. Most significantly, the GPHS modules were entirely destroyed and
+fragments of iridium and graphite were strewn several hundreds to thousands of feet
+away from the experimental setup [23]. Approximately 70 percent of the fragments
+from the four iridium fuel clads from the flight model GPHS module that was loaded
+into the experimental setup were located after the tests by members of the Nuclear
+Emergency Search Team (NEST). This was made possible by the pre-test irradiation of
+the Ir fuel clads containing depleted UO2 at the Los Alamos Omega West Reactor to
+produce 192Ir. The result obtained by the Direct Course experiment highlights the
+potential susceptibility of the GPHS architecture to explosive destruction and dispersal
+of radioisotope materials.
+Figure 3.8: Activated Iridium clad fragments found by Nuclear Emergency Search Team members after
+the ‘Direct Course’ explosion test [23].73
+The Fine Weave Pierced Fabric (FWPF) used for the GIS and ablative aeroshell
+components is fabricated from a feedstock of Ultra High Modulus carbon fibre strands
+made commercially by Hexcel as product UHM-1K PAN (polyacrylonitrile) Carbon
+Fibre [14]. The AVCO division of Textron Products Inc. of Anaheim, California is
+responsible for the production of FWPF billets beyond feedstock[14]. The UHM-1K
+fibres are woven into a fine sheet and placed into a support cradle. Depending on the
+size of the required finished billet of FWPF, multiple layers (typically many thousand)
+are stacked and compressed. Once under compression a piercing device composed of
+many hundreds of ~ 1 mm diameter needles (rods) is driven through the compressed
+stack of weaves. Once pierced, the needles are replaced by carbon-phenolic rods [25].
+At this point in the fabrication process, known as perform, the density of the assembly
+is on average 0.85 g/cm3 [25]. In order to make the pierced stack rigid, 15V coal-tar
+pitch oil [25] is driven into the structure under pressure prior to a bake out cycle under
+atmospheric pressure at a temperature that is proprietary to Textron. The average
+density for billets post rigidization is 1.047 g/cm3 [25]. On completion of this initial
+rigidization process, the billets are subjected to a 5-cycle densification process
+performed by ATK (originally by the General Electric Company). This process uses the
+same 15V coal-tar pitch oil driven into the billet under hot isostatic conditions [25].
+This process is called Hot Isostatic Pressure Impregnation Carbonisation (HIPIC) and
+each cycle involves the injection of pitch oil at pressures of approximately 1.01 MPa
+[25] and at temperatures that are, as in the case of the Textron process, proprietary. It is
+understood that this application of heat during impregnation is to reduce the viscosity of
+the 15 V coal-tar pitch oil so as to facilitate uniform penetration of the micro-pores of
+the billet matrix. Graphitization heat treatment is performed by ATK in between each74
+HIPIC procedure at temperatures in excess of 2000 °C [25]. The final density of a billet
+after the 5-cycle densification process is on average 1.95 g/cm3 [25].
+Figure 3.9: Structure and ablation process of Fine Weave Pierced Fibre composite structures [26]. (a) The initial
+microstructure of FWPF prior to ablation showing the bulk pierced fabric (white) and the orthogonal cabon-phenolic
+rods (shaded). (b) Vaporisation of the surface and inter-media boundaries. (c) Fracture of weakened surfaces via
+aerodynamic stress and shock.
+The original module design as flown on the Galileo, Ulyses and Cassini
+missions had a mass of 1.433 kg [4] and a geometry of 53.09 mm x 97.18 mm x 93.17
+mm [4]. This module design is often referred to as the “Heritage module”. Modification
+to the GPHS module design came prior to the assembly of the GPHS-RTG built for
+NASA’s New Horizons mission to Pluto and the Kuiper Belt that was launched in 2006.
+The modification was made due to concerns regarding the integrity of the module under
+accident scenarios that could have occurred during high velocity gravity-assist fly-bys
+of the Earth. This modification resulted in the production of the “Step-1 Enhanced
+module” with an external geometry of 53.09 mm x 99.6 mm x 93.17 mm and a mass of
+1.514 kg [27]. The subtle difference between the Heritage and the Step-1 Enhanced
+module was in the separation of the GIS assemblies (from 0.53 mm to 2.53 mm) and
+the filling of the aeroshell void that existed in regions of the heritage module design
+(between the two GIS assemblies), hence the mass increment.
+The most recent modification to the GPHS module design came prior to the
+assembly of the Multi-Mission RTG built for NASA’s Mars Science Laboratory rover75
+mission. Five millimetres of FWPF material were added to the height of the GPHS
+aeroshell following concern over the integrity of the module in modern launcher
+accidents. This latest modification is known as the Step-2 Enhanced module and has a
+mass of 1.606 kg and an external geometry of 58.2 x 99.6 x 93.2 mm [27]. The Step-2
+module design will also be used by the Advanced Stirling Radioisotope Generator
+(ASRG). At the time of writing, the Step-2 Enhanced module design is undergoing
+ablated-impact testing to ensure improved safety of the module.
+3.2 Light Weight Radioisotope Heater Unit (LWRHU)
+The Light Weight Radioisotope Heater Unit (LWRHU) produces a thermal
+output power of 1 W. The complete LWRHU has an average total mass of 39.9 grams,
+a length of 31.9 mm and a diameter of 25.9 mm [2]. The same 238PuO2 compound that
+is used to fuel the GPHS is used to fuel the LWRHU. In the case of the LWRHU, the
+PuO2 is encapsulated in a platinum-rhodium alloy. The alloy is 70% Pt and 30% Rh by
+at. %.. Qualification tests on LWRHUs were similar to those for the GPHS modules and
+included: hard surface impacts (up to 50 ms-1) [28], thermal shock tests associated with
+atmospheric re-entry, explosive shock tube testing [28, 29]. Pressure and containment
+tests were also performed for the system immersed in sea water for 1.75 years at both
+sea level and at a depth of 6000 m [28]. The complete LWRHU has an average total
+mass of 39.9 grams, a length of 31.9 mm and a diameter of 25.9 mm [2].76
+Figure 3.10: (Left) Schematic of the 1 Wth Light Weight Radioisotope Heater Unit (LWRHU) assembly. (Right)
+Photograph of the LWRHU components compared to a U.S. 1 cent coin at top right. Images courtesy of the United
+States Department of Energy.
+3.3 Angel RHU/RTG heat source
+The Russian ANGEL RHU/RTG heat source is very similar in design to the LWRHU
+developed in the United States. Its thermal loading is approximately 8.5 Wth and is
+fuelled by two 238PuO2 pellets. Little qualification data or test information is available
+for the ANGEL systems, but it is assumed that function of the insulation and aeroshell
+structures is identical to that of the US LWRHU.
+Figure 3.11: (Left) Photograph of the 8 Wth Angel RHU compared to cigarette lighter. (Right) Schematic of the 8
+Wth Light Weight Radioisotope Heater Unit (LWRHU) assembly; 1) heat source, 2) Corrosion resistant cladding, 3)
+Impact shell, 4) PuO2 Pellets, 5) Outer aeroshell and end caps, 6) Thermal Insulation.[30]77
+3.4 Helium production and its effect upon the encapsulation of
+radioisotopes
+Radioisotopes, such as 238Pu and 241Am, with an alpha decay mode, will produce
+an accumulation of helium and without adequate ventilation the helium accumulation
+will result in a pressure increase. Over a short period of time the effect is negligible, but
+in the case of alpha emitting isotopes that are useful for RTGs, where activity is high
+and time periods can span decades, the helium buildup can be significant. The entire
+decay chain should also be considered since non-alpha emitting heat sources may give
+rise to alpha-emitting daughter products in addition to gaseous daughter products.
+The activity of the radioisotope will determine the rate of helium production.
+The activity of a radioisotope is related to the decay constant ?.
+!
+N = N
+0
+e"#t (3.1)
+!
+A
+0 = N
+0" (3.2)
+Equation 3.1 is the relationship between N, the number of isotope nuclei present at time
+t from the measurement of nuclei present initially (N0). This may also be used to
+determine the number of decays that have taken place after time t. It is often useful to
+relate the initial number of nuclei present in a source in terms if its initial activity at the
+time of manufacture, A0 (decays/s). This may be determined by the use of Equation 3.2.78
+The pressure can be determined by using the ideal gas equation. The ideal gas
+equation is given by:
+!
+PV = nRT (3.3)
+P, is the pressure of a gas in a given volume, V, R is the universal gas constant, T, the
+temperature of the system and n, the number of moles of gas present.
+Using these two equations, it is therefore possible to determine the pressure of
+the gas in an unvented structure at any given time, t.
+!
+P(t) =
+N
+0
+RT
+V
+void
+N
+A
+1 " e"#t [ ] (3.4)
+Equation 3.4 can be used to evaluate the pressure, P (Pa), at any time t (seconds)
+after sealing a radioisotopic source with decay constant ? (s-1) and total matrix void
+volume Vvoid (m3) at operational temperature T (Kelvin). Substituting 3.2 in 3.4:
+!
+P(t) =
+A
+0
+RT
+V
+void
+N
+A"
+1 # e#"t [ ] (3.5)
+The rate of change in pressure with respect to time may be found through the derivative
+of equation 3.5;
+!
+dP
+dt
+(t) =
+A
+0
+RT
+V
+void
+N
+A
+e"#t (3.6)
+From equation 3.6, equation 3.5 may be written in integral form in equation 3.7 below;
+!
+P(t) =
+A
+0
+RT
+V
+void
+N
+A
+e"#t
+t
+0
+t
+$ .dt (3.7)79
+The volume Vvoid used in equations 3.1 to 3.7 above refers to the total void
+volume in a helium-porous radioisotopic fuel matrix. It is assumed that this volume is
+rigid and does not change during pressurisation. It should be noted that these equations
+may only be valid for a complete heat source where it is assumed that the helium
+evolved during the alpha decay process is given free mobility throughout the matrix.
+Since Vvoid is a function of the matrix (bulk) density, it is possible to determine Vvoid of
+a given source in terms of its mass, m, theoretical density, ?Th, and the ratio of the
+product bulk density to theoretical density, e;
+!
+V
+void =
+m
+"Th
+1
+#
+$ 1
+%
+&
+'
+(
+)
+* (3.8)
+To illustrate the significance of the helium retention problem over the a 30 year
+time period, a typical lifetime of a modern heat source, the specifications of a GPHS
+fuel pellet are considered with the exclusion of helium ventilation. In a GPHS fuel
+pellet there are 188 g of 238PuO2 pressed to approximately 80 % (e=0.8) of its
+theoretical density (?Th=11.46 g/cm3). Its initial activity may be assumed to be 2.84 kCi
+based on a specific activity for 238PuO2 of 15.1 Ci/g [8]. 238Pu has a half-life of 87.74
+years [8] and therefore has a decay constant (?) of 2.505x10-10 s-1. In a total pellet
+volume of approximately 20.5 cm3, we assume a Vvoid of 4.101 cm3 at operational
+temperatures of 600 °C (873 °K) in which helium can accumulate. This assumption is
+supported by the measurement of helium released from GPHS fuel pellets PuO2 at
+operational temperatures [12]. Using Equation 3.5 the total pressure in a sealed GPHS
+fuel pellet after 30 years would be 2.60 MPa.80
+To understand the physical impact the pressure increase has on the cladding, the
+hoop stress (circumferential stress) on a thin walled pressure vessel should be
+considered. For a given diameter to wall thickness ratio that is greater than a factor of
+10, the hoop stress of a thin wall cylinder may be determined by Equation 3.9 below.
+!
+"# =
+Pr
+w
+(3.9)
+s? = hoop stress (Pa)
+P = Inner Pressure (Pa)
+r = Inner Radius (m)
+w = Wall Thickness (m)
+Typically, a pressure vessel will fail when the hoop stress is greater than or
+equal to the ultimate tensile stress. For an Iridium DOP-26 cladding, the ultimate tensile
+strength sU is 590 MPa at 600 °C [31]. The result from applying equation 3.15
+substituted into equation 3.19 can be used to estimate the hoop stress in addition to the
+physical specifications for the cladding. For the purpose of this example we use the clad
+thickness w of 0.73 mm [4] and an inner radius r of 1.421 cm to estimate that when the
+internal pressure is 2.60 MPa, the hoop stress is 50.59 MPa indicating a significant
+safety margin of more than a factor of 10 when compared to the tensile strength of the
+Ir cladding. From this result it is clear that in the case of a clad GPHS fuel module, the
+source will remain sealed over a period of 30 years, which spans production, storage
+and operation in flight. Welded joints, present in the design of the GPHS fuel cladding
+[11], can introduce weaknesses that may not conform to the safety margin requirements
+on the cladding material. The failure pressure may be much lower than that associated
+with the limits in tensile strength of the encapsulating walls [11]. This is a primary
+reason for venting heat sources that operate at high temperatures for space applications.
+A secondary reason for the provision of ventilation paths in a cladding material is the81
+risk associated with rupturing on impact, in a mission failure scenario, resulting in the
+release and potentially the dispersal of radioactive materials in the environment. [28].
+3.5 References
+[1] G.L. Bennett, J.J. Lombardo, R.J. Hemler, et al. "Mission of Daring: The General-Purpose Heat
+Source Radioisotope Thermoelectric Generator". Proceedings of: Fourth International Energy Conversion
+Engineering Conference and Exhibit (IECEC), 2006; San Diego, California. AIAA.
+[2] G.H. Rinehart. "Lightweight Radioisotope Heater Unit (LWRHU) Production for the Cassini
+Mission". LA-13143. Los Alamos National Laboratory, Los Alamos, NM. May 1996.
+[3] A.B. Chmielewski, A. Borshchevsky, R. Lange, B Cook. "A Survey of Current Russian RTG
+Capabilities". 94-0898. NASA Jet Propulsion Laboratory, Monterey, California, USA. 1994.
+[4] Lockheed Martin Astronautics. "GPHS-RTGs in Support of the Cassini Mission". Lockheed Martin,
+Philadelphia, PA. August 1998 Final Technical Report. Document No. RR18; DOE/SF/18852-T97.
+[5] G.H. Rinehart, "Design Characteristics And Fabrication Of Radioistope Heat Sources For Space
+Missions". Progress in Nuclear Energy. 39 (2001) 305-319.
+[6] D.L. Plymale, "The Exchange of Isotopically Enriched Oxygen with 238PuO2". J. Inorg. Nucl. Chem.
+30 (1968) 886.
+[7] R.A. Kent. "LASL Fabrication Flowsheet for GPHS Fuel Pellets". LA-7972-MS. Los Alamos
+Scientific Laboratory, Los Alamos, NM. August 1979.
+[8] R.C. O'Brien, R.M. Ambrosi, N.P. Bannister, S.D. Howe, H.V. Atkinson, "Safe radioisotope
+thermoelectric generators and heat sources for space applications". Journal of Nuclear Materials. 377
+(2008) 506-521.
+[9] D.T. Rankin, J.W. Congdon, J.T. Livingston, N.D. Duncan. "Ceramic Fuel Pellets for Isotopic Heat
+Sources". DP-MS-80-51. Savannah River Laboratory, Aiken, SC. 1980.
+[10] G.B. Ulrich. "The Metallurgical Integrity Of The Frit Vent Assembly Diffusion Bond ". Y/DV-1321.
+Oak Ridge Y-12 Plant, Oak Ridge, TN. 1994.
+[11] C.M. Lynch, P.F. Moniz, M.A.H. Reimus. "Evaluation And Characterization Of General Purpose
+Heat Source Girth Welds For The Cassini Mission". LA-UR-98-2722. Los Alamos National Laboratory,
+Los Alamos, NM. 22nd June 1998.
+[12] D.E. Peterson, C.E. Frantz. "Reentry Thermal Testing of a General Purpose Heat Source Fueled
+Clad". LA-9227. Los Alamos National Laboratory. March 1982.
+[13] E.W. Johnson. "The Forming Of Metal Components For Radioisotope Heat Sources". Proceedings
+of: Space Nuclear Power Systems; 11 - 13 January, 1984. Orbit Nook Company Inc, ISBN: 0-89464-004-
+6.
+[14] J.P. Moore. "Quarterly Technical Progree Report of Radioisotope Power System Material
+Production and Technology Program Tasks For July Through September 2000". ORNL/CF-00/34. Oak
+Ridge National Laboratory, Oak Ridge, TN. 13th November 2000.82
+[15] J.F. King. "Annual Technical Progress Report of Radioisotope Power Systems Materials Production
+and Technology Program Tasks for October 1, 2007 through September 30, 2008". ORNL/TM-2009/099.
+Oak Ridge National Laboratory, Oak Ridge, TN. 1st April 2009.
+[16] J.P. Moore. "SEMI-ANNUAL TECHNICAL PROGRESS REPORT OF RADIOISOTOPE POWER
+SYSTEM MATERIALS PRODUCTION AND TECHNOLOGY PROGRAM TASKS FOR OCTOBER 1,
+2001 THROUGH MARCH 31, 2002". ORNL/CF-02/10. Oak Ridge National Laboratory, Oak Ridge,
+TN. 1st May 2002.
+[17] M.A.H. Reimus, T.G. George. "General-Purpose Heat Source: Research and Development Program
+High-Silicon Fuel Characterization Study; Half Module Impact Tests 1 and 2". LA-13101-MS. Los
+Alamos National Laboratory, Los Alamos, NM. March 1996.
+[18] W.J. Maraman. "GENERAL-PURPOSE HEAT SOURCE PROJECT AND SPACE NUCLEAR
+SAFETY AND FUELS PROGRAM". LA-8279-PR. Los Alamos Scientific Laboratory, Los Alamos, NM.
+December 1979.
+[19] A. Schock. "Design Evolution and verification of the General-Purpose Heat Source". Fairchild
+Space and Electronics Company, Germantown, Maryland. 1983.
+[20] T.G. George. "General-Purpose Heat Source Development: Safety Verification Test Program
+Titanium Bullet / Fragment Test Series". LA-10724-MS. Los Alamos National Laboratory, Los Alamos,
+NM. June 1986.
+[21] T.A. Cull, T.G. George, D. Pavone. "General-Purpose Heat Source Development: Safety
+Verification Test Program Explosion Overpressure Test Series". LA-10697-MS. Los Alamos National
+Laboratory, Los Alamos, NM. September 1986.
+[22] T.G. George. "General-Purpose Heat Source Safety Verification Test Program: Edge-On Flyer
+Plate Tests". LA-10872-MS. Los Alamos National Laboratory. March 1987.
+[23] GE Advanced Energy Programs Department. "GPHS-RTG System Explosion Test Direct Course
+Experiment 5000". Report No. GESP-7181. General Electric. 1st March 1986.
+[24] S.E. Bronisz. "Space Nuclear Safety Program". LA-10057-PR. Los Alamos National Laboratory,
+Los Alamos, NM. March 1984.
+[25] G. Rellick, "Densification Efficiency Of Carbon-Carbon Composites". Carbon. 28 (1990) 589-594.
+[26] J.C. Han, X.D. He, S.Y. Du, "OXIDATION AND ABLATION OF 3D CARBON-CARBON
+COMPOSITE AT UP TO 3000°C". Carbon. 33 (1995) 473-478.
+[27] R. Wiley, R. Carpenter. "Small Radioisotope Power Source Concepts". Proceedings of: Space
+Technology and Applications International Forum (STAIF); 10th February, 2004; Albuquerque, NM.
+[28] R.E. Tate, C.C. Land. "Environmental Safety Analysis Tests on the Light Weight Radioisotpe Heater
+Unit (LWRHU)". LA-10352-MS. Los Alamos National Laboratory, Los Alamos, NM. May 1985.
+[29] M.A.H. Reimus, G.H. Rinehart. "Light-Weight Radioisotope Heater Unit (LWRHU) Sequential
+Impact Tests". LA-13339-MS. Los Alamos National Laboratory, Los Alamos, NM. August 1997.
+[30] A.A. Pustovalov. "Role and Prospects of Application of RTG on Base of Plutonium-238 for
+Planetary Exploration". JSC Research- Industrial Enterprise <<BIAPOS>>. 2007.
+[31] J.H. Schneibel, C.A. Carmichael, E.P. George. "High Strain Rate Tensile Testing of DOP-26
+Iridium". ORNL/TM-2007-81. Oak Ridge National Laboratory, Oak Ridge, TN. November 2007.

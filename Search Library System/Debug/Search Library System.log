@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\lenovo\desktop\search library system\search library system\source.cpp(75): warning C4101: 'scienceFiction' : unreferenced local variable
+c:\users\lenovo\desktop\search library system\search library system\source.cpp(75): warning C4101: 'kids' : unreferenced local variable
+c:\users\lenovo\desktop\search library system\search library system\source.cpp(693): warning C4018: '<' : signed/unsigned mismatch
+c:\users\lenovo\desktop\search library system\search library system\source.cpp(737): warning C4018: '<' : signed/unsigned mismatch
+c:\users\lenovo\desktop\search library system\search library system\source.cpp(759): warning C4018: '<' : signed/unsigned mismatch
+  Search Library System.vcxproj -> C:\Users\Lenovo\Desktop\Search Library System\Debug\Search Library System.exe
